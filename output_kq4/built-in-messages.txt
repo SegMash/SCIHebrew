@@ -1,0 +1,197 @@
+On page 2, what is the fourth word of the first sentence?
+On page 2, what is the fourth word of the second paragraph?
+On page 3, what is the fourth word in the first paragraph?
+On page 3, what is the sixth word in the first paragraph?
+On page 3, what is the fourth word in the third paragraph?
+On page 3, what is the third word in the second paragraph?
+On page 8, what is the first word of the first paragraph?
+On page 3, what is the seventh word in the third paragraph?
+On page 3, what is the last word of the third paragraph?
+On page 4, what is the third word in the first paragraph?
+On page 4, what is the last word in the third paragraph?
+On page 4, what is the sixth word of the first paragraph?
+On page 3, what is the eighth word in the third paragraph?
+On page 4, what is the seventh word in the first paragraph?
+On page 4, what is the third word in the third paragraph?
+On page 4, what is the eighth word in the third paragraph?
+On page 5, what is the fifth word in the second paragraph?
+On page 5, what is the second word in the third paragraph?
+On page 5, what is the fourth word in the first paragraph?
+On page 5, what is the ninth word in the fifth paragraph?
+On page 6, what is the third word in the first paragraph?
+On page 6, what is the fifth word in the first paragraph?
+On page 6, what is the sixth word in the second paragraph?
+On page 7, what is the first word in the first paragraph?
+On page 7, what is the tenth word in the first paragraph?
+On page 7, what is the third word in the second paragraph?
+On page 7, what is the fifth word in the second paragraph?
+On page 7, what is the second word in the third paragraph?
+On page 8, what is the fifth word in the first paragraph?
+On page 8, what is the last word of the first sentence in the first paragraph?
+On page 6, what is the last word in the second paragraph?
+On page 8, what is the second word in the third paragraph?
+On page 8, what is the sixth word in the third paragraph?
+On page 8, what is the ninth word in the third paragraph?
+On page 9, what is the third word in the first paragraph?
+On page 9, what is the fourth word in the first paragraph?
+On page 9, what is the seventh word in the first paragraph?
+On page 6, what is the fourth word in the second paragraph?
+On page 6, what is the eighth word in the second paragraph?
+On page 9, what is the seventh word in the second paragraph?
+On page 5, what is the seventh word in the fifth paragraph?
+On page 2, what is the sixth word in the second paragraph?
+On page 2, what is the eighth word in the second paragraph?
+On page 3, what is the tenth word in the first paragraph?
+On page 4, what is the second word in the second paragraph?
+On page 4, what is the fourth word in the third paragraph?
+On page 5, what is the third word in the second paragraph?
+On page 5, what is the eighth word in the third paragraph?
+On page 5, what is the eighth word in the fourth paragraph?
+On page 6, what is the ninth word in the first paragraph?
+On page 7, what is the ninth word of the third paragraph?
+What is the second word of the first paragraph in the OVERVIEW?
+What is the first word of the second paragraph in the OVERVIEW?
+What is the third word of the second paragraph in the OVERVIEW?
+What is the sixth word of the first paragraph in the OVERVIEW?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the first word of tip #1 (HOW TO MOVE AROUND)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the sixth word of tip #1 (HOW TO MOVE AROUND)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the fifth word in the first paragraph of tip #2 (STAY OUT OF DANGER)
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the eighth word in the second paragraph of tip #2 (STAY OUT OF DANGER)
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the fourth word in the second paragraph of tip #2 (STAY OUT OF DANGER)
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the first word of tip #3 (BE OBSERVANT)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the fourth word of tip #3 (BE OBSERVANT)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the last word of tip #3 (BE OBSERVANT)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the last word of tip #1 (HOW TO MOVE AROUND)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the first word of tip #4 (MAP YOUR PROGRESS)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the fifth word of tip #4 (MAP YOUR PROGRESS)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the seventh word of tip #4 (MAP YOUR PROGRESS)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the ninth word of tip #4 (MAP YOUR PROGRESS)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the fourth word of tip #5 (BRING ALONG SOME HELP)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the seventh word of tip #5 (BRING ALONG SOME HELP)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the ninth word of tip #5 (BRING ALONG SOME HELP)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the last word of tip #5 (BRING ALONG SOME HELP)?
+What is the last word starting with "b" in the verb list?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the last word of tip #7 (LEAVE NO STONE UNTURNED)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the fourth word in the first paragraph of tip #8 (AT THE END OF YOUR ROPE)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the sixth word in the first paragraph of tip #8 (AT THE END OF YOUR ROPE)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the third word in the second paragraph of tip #8 (AT THE END OF YOUR ROPE)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the last word in the first paragraph of tip #8 (AT THE END OF YOUR ROPE)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the eighth word in the first paragraph of tip #2 (STAY OUT OF DANGER)?
+What a beautiful red rose! What's this?! Why, there is a little gold key attached to this rose!
+The lantern is off.\nThe oil lantern looks well-used.
+The lantern is on.\nThe oil lantern looks well-used.
+Lantern (lit)
+Ocean Region
+Ogre's Region
+You spy a large frog sitting on top of a big lily pad, and YES!...it's wearing a little gold crown!
+Atop one large lily pad, sits a big frog.
+Atop one of the bigger lily pads, you notice a rather large frog...wearing a little gold crown!
+Rosella
+Genesta
+You hear birds chirping from the many trees.
+You see a tired-looking woman kneading bread at the counter.
+You see the old fisherman at the table, and his wife kneading bread at the counter. The fisherman's fishing pole has been set in the corner.
+You see the old fisherman at the table, and his wife kneading bread at the counter. Since your generous gift of the diamonds, however, her grouchy look has been replaced by one of contentment.
+You see a tired-looking woman knitting at the table.
+The fisherman's worn and tattered wife sits at the table with her husband, talking. The fisherman's pole has been set into the corner.
+The fisherman's worn and tattered wife sits at the table with her husband, talking. Since your generous gift of the diamonds, however, her grouchy look has been replaced by one of contentment.
+kneading the bread
+knitting
+You see a glint coming from one of the wrecked boats on the beach.
+This will be a loss for Tamir, as the evil Lolotte will come to power!
+Against the right wall, leans the ogre's axe.
+My goodness, these dwarfs are sloppy!
+Within it, reside three one-eyed old witches.
+You see a black scarab on the cave floor.
+You notice a shovel leaning against the wall.
+TAMIR TIME
+A pile of rope is at the edge of the upper platform.
+You see an odd-looking, little chest here. It must be Pandora's Box.
+Edgar
+You see an old board lying by the cave entrance.
+Even the lantern does little good.
+A large, glistening fruit hangs from a small branch.
+What a beautiful red rose!
+And speaking of Lolotte...the old bat is sound asleep on her massive bed.
+However, since Lolotte is now dead, it doesn't really matter anymore.
+\nGenesta's magic talisman hangs from around her neck.
+Woods Region
+King Graham
+Edgar
+Roberta says:
+You are carrying:
+You are carrying nothing!
+Magic Hen
+Silver Flute
+Diamond Pouch
+Lantern (unlit)
+Pandora's Box
+Gold Ball
+Witches' Glass Eye
+Obsidian Scarab
+Peacock Feather
+Small Crown
+Silver Baby Rattle
+Gold Coins
+Cupid's Bow
+Broken Shovel
+Shovel
+Fishing Pole
+Baited Fishing Pole
+Shakespeare Book
+Skeleton Key
+Golden Bridle
+Dead Fish
+Magic Fruit
+Sheet Music
+Silver Whistle
+Toy Horse
+Glass Bottle
+Gold Key
+TAMIR TIME
+Your Secret Code is:\n\n___%s
+Yes
+No
+a closed
+an open
+Restore
+Ego drinking water
+__Save__
+Replace
+Select the game that you would like to restore.
+Type the description of this saved game.
+This directory/disk can hold no more saved games. You must replace one of your saved games or use Change Directory to save on a different directory/disk.
+Restore a Game
+Save a Game
+ Cancel 
+Change\0d\nDirectory
+with:
+Enter input
+P.M.
+A.M.
+ Restart 
+Continue
+____Quit____
+ Continue 
+Use the mouse or the left and right arrow keys to change the speed of moving characters.
+Animation Speed
+Faster
+Slower
+Use the mouse or left and right arrow keys to change the volume.
+Sound Volume
+Louder
+Softer
+About KQ4`^a:Help`#1
+ File 
+Save`#5:Restore`#7:-!:Restart`#9:Quit`^q
+Pause`^p:Inventory`^i:Retype`#3
+ Action 
+ Speed 
+Speed`^s:-!:Faster`+:Normal`=:Slower`-
+ Sound 
+Volume`^v:-!:Turn Off=1`#2
+Turn Off
+Turn On
+OK
+Cancel
+Normal

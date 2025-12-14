@@ -1,0 +1,197 @@
+On page 2, what is the fourth word of the first sentence? === בעמוד 2, מהי המילה הרביעית במשפט הראשון?
+On page 2, what is the fourth word of the second paragraph? === בעמוד 2, מהי המילה הרביעית בפסקה השנייה?
+On page 3, what is the fourth word in the first paragraph? === בעמוד 3, מהי המילה הרביעית בפסקה הראשונה?
+On page 3, what is the sixth word in the first paragraph? === בעמוד 3, מהי המילה השישית בפסקה הראשונה?
+On page 3, what is the fourth word in the third paragraph? === בעמוד 3, מהי המילה הרביעית בפסקה השלישית?
+On page 3, what is the third word in the second paragraph? === בעמוד 3, מהי המילה השלישית בפסקה השנייה?
+On page 8, what is the first word of the first paragraph? === בעמוד 8, מהי המילה הראשונה בפסקה הראשונה?
+On page 3, what is the seventh word in the third paragraph? === בעמוד 3, מהי המילה השביעית בפסקה השלישית?
+On page 3, what is the last word of the third paragraph? === בעמוד 3, מהי המילה האחרונה בפסקה השלישית?
+On page 4, what is the third word in the first paragraph? === בעמוד 4, מהי המילה השלישית בפסקה הראשונה?
+On page 4, what is the last word in the third paragraph? === בעמוד 4, מהי המילה האחרונה בפסקה השלישית?
+On page 4, what is the sixth word of the first paragraph? === בעמוד 4, מהי המילה השישית בפסקה הראשונה?
+On page 3, what is the eighth word in the third paragraph? === בעמוד 3, מהי המילה השמינית בפסקה השלישית?
+On page 4, what is the seventh word in the first paragraph? === בעמוד 4, מהי המילה השביעית בפסקה הראשונה?
+On page 4, what is the third word in the third paragraph? === בעמוד 4, מהי המילה השלישית בפסקה השלישית?
+On page 4, what is the eighth word in the third paragraph? === בעמוד 4, מהי המילה השמינית בפסקה השלישית?
+On page 5, what is the fifth word in the second paragraph? === בעמוד 5, מהי המילה החמישית בפסקה השנייה?
+On page 5, what is the second word in the third paragraph? === בעמוד 5, מהי המילה השנייה בפסקה השלישית?
+On page 5, what is the fourth word in the first paragraph? === בעמוד 5, מהי המילה הרביעית בפסקה הראשונה?
+On page 5, what is the ninth word in the fifth paragraph? === בעמוד 5, מהי המילה התשיעית בפסקה החמישית?
+On page 6, what is the third word in the first paragraph? === בעמוד 6, מהי המילה השלישית בפסקה הראשונה?
+On page 6, what is the fifth word in the first paragraph? === בעמוד 6, מהי המילה החמישית בפסקה הראשונה?
+On page 6, what is the sixth word in the second paragraph? === בעמוד 6, מהי המילה השישית בפסקה השנייה?
+On page 7, what is the first word in the first paragraph? === בעמוד 7, מהי המילה הראשונה בפסקה הראשונה?
+On page 7, what is the tenth word in the first paragraph? === בעמוד 7, מהי המילה העשירית בפסקה הראשונה?
+On page 7, what is the third word in the second paragraph? === בעמוד 7, מהי המילה השלישית בפסקה השנייה?
+On page 7, what is the fifth word in the second paragraph? === בעמוד 7, מהי המילה החמישית בפסקה השנייה?
+On page 7, what is the second word in the third paragraph? === בעמוד 7, מהי המילה השנייה בפסקה השלישית?
+On page 8, what is the fifth word in the first paragraph? === בעמוד 8, מהי המילה החמישית בפסקה הראשונה?
+On page 8, what is the last word of the first sentence in the first paragraph? === בעמוד 8, מהי המילה האחרונה של המשפט הראשון בפסקה הראשונה?
+On page 6, what is the last word in the second paragraph? === בעמוד 6, מהי המילה האחרונה בפסקה השנייה?
+On page 8, what is the second word in the third paragraph? === בעמוד 8, מהי המילה השנייה בפסקה השלישית?
+On page 8, what is the sixth word in the third paragraph? === בעמוד 8, מהי המילה השישית בפסקה השלישית?
+On page 8, what is the ninth word in the third paragraph? === בעמוד 8, מהי המילה התשיעית בפסקה השלישית?
+On page 9, what is the third word in the first paragraph? === בעמוד 9, מהי המילה השלישית בפסקה הראשונה?
+On page 9, what is the fourth word in the first paragraph? === בעמוד 9, מהי המילה הרביעית בפסקה הראשונה?
+On page 9, what is the seventh word in the first paragraph? === בעמוד 9, מהי המילה השביעית בפסקה הראשונה?
+On page 6, what is the fourth word in the second paragraph? === בעמוד 6, מהי המילה הרביעית בפסקה השנייה?
+On page 6, what is the eighth word in the second paragraph? === בעמוד 6, מהי המילה השמינית בפסקה השנייה?
+On page 9, what is the seventh word in the second paragraph? === בעמוד 9, מהי המילה השביעית בפסקה השנייה?
+On page 5, what is the seventh word in the fifth paragraph? === בעמוד 5, מהי המילה השביעית בפסקה החמישית?
+On page 2, what is the sixth word in the second paragraph? === בעמוד 2, מהי המילה השישית בפסקה השנייה?
+On page 2, what is the eighth word in the second paragraph? === בעמוד 2, מהי המילה השמינית בפסקה השנייה?
+On page 3, what is the tenth word in the first paragraph? === בעמוד 3, מהי המילה העשירית בפסקה הראשונה?
+On page 4, what is the second word in the second paragraph? === בעמוד 4, מהי המילה השנייה בפסקה השנייה?
+On page 4, what is the fourth word in the third paragraph? === בעמוד 4, מהי המילה הרביעית בפסקה השלישית?
+On page 5, what is the third word in the second paragraph? === בעמוד 5, מהי המילה השלישית בפסקה השנייה?
+On page 5, what is the eighth word in the third paragraph? === בעמוד 5, מהי המילה השמינית בפסקה השלישית?
+On page 5, what is the eighth word in the fourth paragraph? === בעמוד 5, מהי המילה השמינית בפסקה הרביעית?
+On page 6, what is the ninth word in the first paragraph? === בעמוד 6, מהי המילה התשיעית בפסקה הראשונה?
+On page 7, what is the ninth word of the third paragraph? === בעמוד 7, מהי המילה התשיעית בפסקה השלישית?
+What is the second word of the first paragraph in the OVERVIEW? === מהי המילה השנייה של הפסקה הראשונה ב-OVERVIEW?
+What is the first word of the second paragraph in the OVERVIEW? === מהי המילה הראשונה של הפסקה השנייה ב-OVERVIEW?
+What is the third word of the second paragraph in the OVERVIEW? === מהי המילה השלישית של הפסקה השנייה ב-OVERVIEW?
+What is the sixth word of the first paragraph in the OVERVIEW? === מהי המילה השישית של הפסקה הראשונה ב-OVERVIEW?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the first word of tip #1 (HOW TO MOVE AROUND)? === בסעיף TIPS FOR NEW ADVENTURE PLAYERS, מהי המילה הראשונה בטיפ מס' 1 (HOW TO MOVE AROUND)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the sixth word of tip #1 (HOW TO MOVE AROUND)? === בסעיף TIPS FOR NEW ADVENTURE PLAYERS, מהי המילה השישית בטיפ מס' 1 (HOW TO MOVE AROUND)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the fifth word in the first paragraph of tip #2 (STAY OUT OF DANGER) === בסעיף TIPS FOR NEW ADVENTURE PLAYERS, מהי המילה החמישית בפסקה הראשונה בטיפ מס' 2 (STAY OUT OF DANGER)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the eighth word in the second paragraph of tip #2 (STAY OUT OF DANGER) === בסעיף TIPS FOR NEW ADVENTURE PLAYERS, מהי המילה השמינית בפסקה השנייה בטיפ מס' 2 (STAY OUT OF DANGER)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the fourth word in the second paragraph of tip #2 (STAY OUT OF DANGER) === בסעיף TIPS FOR NEW ADVENTURE PLAYERS, מהי המילה הרביעית בפסקה השנייה בטיפ מס' 2 (STAY OUT OF DANGER)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the first word of tip #3 (BE OBSERVANT)? === בסעיף TIPS FOR NEW ADVENTURE PLAYERS, מהי המילה הראשונה בטיפ מס' 3 (BE OBSERVANT)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the fourth word of tip #3 (BE OBSERVANT)? === בסעיף TIPS FOR NEW ADVENTURE PLAYERS, מהי המילה הרביעית בטיפ מס' 3 (BE OBSERVANT)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the last word of tip #3 (BE OBSERVANT)? === בסעיף TIPS FOR NEW ADVENTURE PLAYERS, מהי המילה האחרונה בטיפ מס' 3 (BE OBSERVANT)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the last word of tip #1 (HOW TO MOVE AROUND)? === בסעיף TIPS FOR NEW ADVENTURE PLAYERS, מהי המילה האחרונה בטיפ מס' 1 (HOW TO MOVE AROUND)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the first word of tip #4 (MAP YOUR PROGRESS)? === בסעיף TIPS FOR NEW ADVENTURE PLAYERS, מהי המילה הראשונה בטיפ מס' 4 (MAP YOUR PROGRESS)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the fifth word of tip #4 (MAP YOUR PROGRESS)? === בסעיף TIPS FOR NEW ADVENTURE PLAYERS, מהי המילה החמישית בטיפ מס' 4 (MAP YOUR PROGRESS)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the seventh word of tip #4 (MAP YOUR PROGRESS)? === בסעיף TIPS FOR NEW ADVENTURE PLAYERS, מהי המילה השביעית בטיפ מס' 4 (MAP YOUR PROGRESS)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the ninth word of tip #4 (MAP YOUR PROGRESS)? === בסעיף TIPS FOR NEW ADVENTURE PLAYERS, מהי המילה התשיעית בטיפ מס' 4 (MAP YOUR PROGRESS)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the fourth word of tip #5 (BRING ALONG SOME HELP)? === בסעיף TIPS FOR NEW ADVENTURE PLAYERS, מהי המילה הרביעית בטיפ מס' 5 (BRING ALONG SOME HELP)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the seventh word of tip #5 (BRING ALONG SOME HELP)? === בסעיף TIPS FOR NEW ADVENTURE PLAYERS, מהי המילה השביעית בטיפ מס' 5 (BRING ALONG SOME HELP)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the ninth word of tip #5 (BRING ALONG SOME HELP)? === בסעיף TIPS FOR NEW ADVENTURE PLAYERS, מהי המילה התשיעית בטיפ מס' 5 (BRING ALONG SOME HELP)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the last word of tip #5 (BRING ALONG SOME HELP)? === בסעיף TIPS FOR NEW ADVENTURE PLAYERS, מהי המילה האחרונה בטיפ מס' 5 (BRING ALONG SOME HELP)?
+What is the last word starting with "b" in the verb list? === מהי המילה האחרונה שמתחילה באות "b" ברשימת הפעלים?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the last word of tip #7 (LEAVE NO STONE UNTURNED)? === בסעיף TIPS FOR NEW ADVENTURE PLAYERS, מהי המילה האחרונה בטיפ מס' 7 (LEAVE NO STONE UNTURNED)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the fourth word in the first paragraph of tip #8 (AT THE END OF YOUR ROPE)? === בסעיף TIPS FOR NEW ADVENTURE PLAYERS, מהי המילה הרביעית בפסקה הראשונה בטיפ מס' 8 (AT THE END OF YOUR ROPE)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the sixth word in the first paragraph of tip #8 (AT THE END OF YOUR ROPE)? === בסעיף TIPS FOR NEW ADVENTURE PLAYERS, מהי המילה השישית בפסקה הראשונה בטיפ מס' 8 (AT THE END OF YOUR ROPE)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the third word in the second paragraph of tip #8 (AT THE END OF YOUR ROPE)? === בסעיף TIPS FOR NEW ADVENTURE PLAYERS, מהי המילה השלישית בפסקה השנייה בטיפ מס' 8 (AT THE END OF YOUR ROPE)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the last word in the first paragraph of tip #8 (AT THE END OF YOUR ROPE)? === בסעיף TIPS FOR NEW ADVENTURE PLAYERS, מהי המילה האחרונה בפסקה הראשונה בטיפ מס' 8 (AT THE END OF YOUR ROPE)?
+In the section TIPS FOR NEW ADVENTURE PLAYERS, what is the eighth word in the first paragraph of tip #2 (STAY OUT OF DANGER)? === בסעיף TIPS FOR NEW ADVENTURE PLAYERS, מהי המילה השמינית בפסקה הראשונה בטיפ מס' 2 (STAY OUT OF DANGER)?
+What a beautiful red rose! What's this?! Why, there is a little gold key attached to this rose! === איזה ורד אדום ויפהפה! מה זה?! בחיי, יש מפתח זהב קטן מחובר לוורד הזה!
+The lantern is off.\nThe oil lantern looks well-used. === העששית כבויה.\nעששית השמן נראית משומשת היטב.
+The lantern is on.\nThe oil lantern looks well-used. === העששית דולקת.\nעששית השמן נראית משומשת היטב.
+Lantern (lit) === עששית (דולקת)
+Ocean Region === אזור האוקיינוס
+Ogre's Region === אזור העוג
+You spy a large frog sitting on top of a big lily pad, and YES!...it's wearing a little gold crown! === את מבחינה בצפרדע גדולה יושבת על עלה נופר גדול, וכן!... היא חובשת כתר זהב קטן!
+Atop one large lily pad, sits a big frog. === על גבי עלה נופר גדול אחד, יושבת צפרדע גדולה.
+Atop one of the bigger lily pads, you notice a rather large frog...wearing a little gold crown! === על גבי אחד מעלי הנופר הגדולים יותר, את מבחינה בצפרדע גדולה למדי... שחובשת כתר זהב קטן!
+Rosella === רוזלה
+Genesta === ג'נסטה
+You hear birds chirping from the many trees. === את שומעת ציפורים מצייצות מבין העצים הרבים.
+You see a tired-looking woman kneading bread at the counter. === את רואה אישה בעלת מראה עייף לשה בצק ליד השיש.
+You see the old fisherman at the table, and his wife kneading bread at the counter. The fisherman's fishing pole has been set in the corner. === את רואה את הדייג הזקן ליד השולחן, ואת אשתו לשה בצק ליד השיש. חכת הדיג של הדייג הונחה בפינה.
+You see the old fisherman at the table, and his wife kneading bread at the counter. Since your generous gift of the diamonds, however, her grouchy look has been replaced by one of contentment. === את רואה את הדייג הזקן ליד השולחן, ואת אשתו לשה בצק ליד השיש. אולם מאז מתנת היהלומים הנדיבה שלך, המבט הנרגן שלה התחלף בהבעת סיפוק.
+You see a tired-looking woman knitting at the table. === את רואה אישה בעלת מראה עייף סורגת ליד השולחן.
+The fisherman's worn and tattered wife sits at the table with her husband, talking. The fisherman's pole has been set into the corner. === אשתו הבלויה והמרופטת של הדייג יושבת ליד השולחן עם בעלה ומשוחחת עמו. חכת הדייג הונחה בפינה.
+The fisherman's worn and tattered wife sits at the table with her husband, talking. Since your generous gift of the diamonds, however, her grouchy look has been replaced by one of contentment. === אשתו הבלויה והמרופטת של הדייג יושבת ליד השולחן עם בעלה ומשוחחת עמו. אולם מאז מתנת היהלומים הנדיבה שלך, המבט הנרגן שלה התחלף בהבעת סיפוק.
+kneading the bread === לשה את הלחם
+knitting === סורגת
+You see a glint coming from one of the wrecked boats on the beach. === את רואה נצנוץ המגיע מאחת הסירות ההרוסות על החוף.
+This will be a loss for Tamir, as the evil Lolotte will come to power! === זה יהיה אובדן לטמיר, שכן לולוט המרושעת תעלה לשלטון!
+Against the right wall, leans the ogre's axe. === כנגד הקיר הימני, נשען הגרזן של העוג.
+My goodness, these dwarfs are sloppy! === אלוהים אדירים, הגמדים האלה מרושלים!
+Within it, reside three one-eyed old witches. === בתוכה מתגוררות שלוש מכשפות זקנות בעלות עין אחת.
+You see a black scarab on the cave floor. === את רואה חרפושית שחורה על רצפת המערה.
+You notice a shovel leaning against the wall. === את מבחינה באת חפירה נשען על הקיר.
+TAMIR TIME === זמן טמיר
+A pile of rope is at the edge of the upper platform. === ערימת חבלים נמצאת בקצה המשטח העליון.
+You see an odd-looking, little chest here. It must be Pandora's Box. === את רואה כאן תיבה קטנה ומוזרה למראה. זו בטח תיבת פנדורה.
+Edgar === אדגר
+You see an old board lying by the cave entrance. === את רואה קרש ישן מונח ליד פתח המערה.
+Even the lantern does little good. === אפילו העששית לא ממש עוזרת.
+A large, glistening fruit hangs from a small branch. === פרי גדול ונוצץ תלוי על ענף קטן.
+What a beautiful red rose! === איזה ורד אדום ויפהפה!
+And speaking of Lolotte...the old bat is sound asleep on her massive bed. === ואם מדברים על לולוט... העטלף הזקן ישנה עמוקות במיטה המאסיבית שלה.
+However, since Lolotte is now dead, it doesn't really matter anymore. === אולם, מכיוון שלולוט מתה כעת, זה כבר לא ממש משנה.
+\nGenesta's magic talisman hangs from around her neck. === \nקמע הקסם של ג'נסטה תלוי סביב צווארה.
+Woods Region === אזור היער
+King Graham === המלך גרהאם
+Edgar === אדגר
+Roberta says: === רוברטה אומרת:
+You are carrying: === את נושאת:
+You are carrying nothing! === אינך נושאת דבר!
+Magic Hen === תרנגולת קסומה
+Silver Flute === חליל כסף
+Diamond Pouch === שקיק יהלומים
+Lantern (unlit) === עששית (כבויה)
+Pandora's Box === תיבת פנדורה
+Gold Ball === כדור זהב
+Witches' Glass Eye === עין הזכוכית של המכשפות
+Obsidian Scarab === חרפושית אובסידיאן
+Peacock Feather === נוצת טווס
+Small Crown === כתר קטן
+Silver Baby Rattle === רעשן תינוק מכסף
+Gold Coins === מטבעות זהב
+Cupid's Bow === הקשת של קופידון
+Broken Shovel === את חפירה שבור
+Shovel === את חפירה
+Fishing Pole === חכת דיג
+Baited Fishing Pole === חכת דיג עם פיתיון
+Shakespeare Book === ספר של שייקספיר
+Skeleton Key === מפתח מאסטר
+Golden Bridle === רסן זהב
+Dead Fish === דג מת
+Magic Fruit === פרי קסום
+Sheet Music === דפי תווים
+Silver Whistle === משרוקית כסף
+Toy Horse === סוס צעצוע
+Glass Bottle === בקבוק זכוכית
+Gold Key === מפתח זהב
+TAMIR TIME === זמן טמיר
+Your Secret Code is:\n\n___%s === הקוד הסודי שלך הוא:\n\n___%s
+Yes === כן
+No === לא
+a closed === סגור
+an open === פתוח
+Restore === שחזור
+Ego drinking water === Ego שותה מים
+__Save__ === __שמירה__
+Replace === החלפה
+Select the game that you would like to restore. === בחרי את המשחק שברצונך לשחזר.
+Type the description of this saved game. === הקלידי את תיאור המשחק השמור.
+This directory/disk can hold no more saved games. You must replace one of your saved games or use Change Directory to save on a different directory/disk. === התיקייה/דיסק הזה אינם יכולים להכיל משחקים שמורים נוספים. עלייך להחליף את אחד המשחקים השמורים שלך או להשתמש ב"שינוי תיקייה" כדי לשמור בתיקייה/דיסק אחרים.
+Restore a Game === שחזור משחק
+Save a Game === שמירת משחק
+ Cancel  ===  ביטול
+Change\0d\nDirectory === שינוי\0d\nתיקייה
+with: === עם:
+Enter input === הכנס קלט
+P.M. === אחה"צ
+A.M. === לפנה"צ
+ Restart  === התחלה מחדש
+Continue === המשך
+____Quit____ === ____יציאה____
+ Continue  === המשך
+Use the mouse or the left and right arrow keys to change the speed of moving characters. === השתמשי בעכבר או במקשי החיצים ימינה ושמאלה כדי לשנות את מהירות הדמויות.
+Animation Speed === מהירות אנימציה
+Faster === מהר יותר
+Slower === לאט יותר
+Use the mouse or left and right arrow keys to change the volume. === השתמשי בעכבר או במקשי החיצים ימינה ושמאלה כדי לשנות את עוצמת השמע.
+Sound Volume === עוצמת שמע
+Louder === חזק יותר
+Softer === חלש יותר
+About KQ4`^a:Help`#1 === אודות KQ4`^a:עזרה`#1
+ File  ===  קובץ_
+Save`#5:Restore`#7:-!:Restart`#9:Quit`^q === שמור`#5:שחזר`#7:-!:אתחל`#9:צא`^q
+Pause`^p:Inventory`^i:Retype`#3 === השהה`^p:חפצים`^i:הקלד שוב`#3
+ Action  === פעולה_
+ Speed  === מהירות_
+Speed`^s:-!:Faster`+:Normal`=:Slower`- === מהירות`^s:-!:מהיר יותר`+:רגיל`=:איטי יותר`-
+ Sound  ===  קול_
+Volume`^v:-!:Turn Off=1`#2 === עוצמה`^v:-!:כיבוי=1`#2
+Turn Off === כבה
+Turn On === הפעל
+OK === אוקי
+Cancel === ביטול
+Normal === רגיל

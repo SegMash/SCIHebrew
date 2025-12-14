@@ -1,0 +1,1846 @@
+It's getting late, Rosella. It will be dark soon.
+Try that one again. I couldn't make much sense of it.
+That is not understood.
+That is not clear.
+Try another way to say that.
+Night falls...
+Perhaps you need to purchase a copy of "Leisure Suit Larry?"
+Tweeeeeeeeeet!
+You already have the note.
+You open the glass bottle and retrieve the imprisoned note.
+That would not accomplish anything.
+Not here.
+You have better things to do than that!
+Not in front of the game players!
+The golden ball is too heavy to play with.
+Using what?
+You don't have anything to shoot.
+You have no arrows.
+Ahhh. You feel better now.
+There's no need to rub that.
+Ok. You rub the magic talisman. Nothing happens.
+Ok. You rub the lantern. Nothing happens.
+Ok. You rub the glass eye. Nothing happens.
+Ok. You rub the charm. Nothing happens.
+Why would you want to rub a thing like that?
+Why would you want to kiss a thing like that?
+Your pucker isn't working right now.
+Ok. You kiss the magic talisman, but nothing happens.
+That wouldn't accomplish anything.
+Ok. You wish as hard as you can, but nothing happens.
+Why would you want to wish on a thing like that?
+Scrunching up your delicate nose, you gingerly bait the hook of the fishing pole with the large earthworm.
+With what?
+PHEW!!
+Yuck!!
+That's disgusting!
+You don't want to do that!
+You take a bite of the luscious-looking fruit. Mmmmm! Delicious! Before you know it, you have eaten the whole thing. Wow! A feeling of vigor and vitality courses through your body, giving you boundless energy and that wonderful glow of good health.
+Ok. You wear the Medal of Honor.
+Ok.
+That's not a good idea now.
+That wouldn't be a good idea right now.
+Ok. You playfully shake the silver baby rattle. Actually, you feel a little silly doing this.
+You do not have the right key to unlock this door.
+You don't have any keys!
+You can barely make out the old song written on the sheet music.
+This is strictly organ music.
+Ok. You play with the toy horse.
+Now don't you feel silly?
+What book?
+The book isn't open.
+You don't have any books to read.
+You take a good whiff of the rose. Mmmmm! What a wonderful fragrance!
+The rose thorns will do you no good.
+Not now! Only one golden egg per day.
+"Cluck, cluck."
+Come on! Be serious! This hen lays golden eggs!
+That would not taste good.
+It helps if you have a lantern to ignite... 
+The lantern is already lit.
+This wouldn't be a good time to do that.
+The lantern is already extinguished.
+You attempt to look through the glass eye, but it doesn't help you at all.
+That is probably not a good idea.
+You can't wear the scarab. Just carry it with you.
+You are NOT a murderous girl, Rosella!
+You are NOT a thievish girl, Rosella!
+You are NOT a violent girl, Rosella!
+It's difficult to climb while wearing that dress!
+This is not a humorous game, Rosella!
+Who would listen?
+There's no one nearby.
+You don't need to.
+You listen intently.
+You don't have time for that.
+Sniff, sniff.
+What do you want to inspect?
+You open the diamond pouch and look inside. Many diamonds flash and sparkle from within. Carefully, you close it again so as not to lose any.
+There's no need to do that.
+There is no reason to open the silver rattle.
+You open the bag, look inside, and see many shiny gold coins. You close the bag so as not to loose any.
+Opening the locket reveals the handsome face of a dashing young man.
+This would not be the appropriate time or place!
+Try another spot
+You open the Shakespeare book and thumb through its pages. Contained within it, are all the wonderful plays of the playwright, William Shakespeare.
+You can't open that.
+You see a poor, but beautiful, peasant girl.
+Gee! There seems to be writing on the note!
+The note is inside the glass bottle.
+You don't have that.
+Please be more specific about which key you mean.
+You don't have any keys.
+It's difficult when you're inside.
+It's a beautiful night.
+How could you do that now?
+You can't see any clouds now.
+Billowy clouds float serenely in the blue sky.
+There are no walls here.
+The bottle is empty.
+There is a note in the bottle!
+You see nothing of importance.
+You look up, but see nothing special.
+It's easy to see by the light of a full moon.
+The sky is nice and blue.
+The worm is baited on the fishing pole.
+You don't see anyone.
+You can't use that here right now!
+To whom?
+What do you want to give?
+You have no reason to do that.
+It's not yours to give.
+You don't need to carry water.
+What do you want to get?
+You can't get that.
+You already have the gold coins.
+It belongs to the dwarfs.
+You'll have to take a different approach.
+Could it be a gift?
+What a beautiful red rose!
+What a beautiful red rose! What's this?! Why, there is a little gold key attached to this rose!
+You extinguish the oil lantern.
+Using a flint attached to the oil lantern, you light it. The lantern burns with a bright glow.
+You're not close enough.
+You already took it.
+You see nothing special.
+You can't do that now.
+You don't have it.
+A flowery meadow stretches to the east.
+You see a river in the distance to the north.
+A narrow strip of beach borders a vast ocean which stretches off to the west. A pretty green meadow, dotted with bunches of wildflowers, goes to the east. 
+You are surrounded by beautiful wildflowers in this luscious green meadowland.
+You see nothing of interest in the water.
+The beautiful pool is lined with tall marble columns. Its crystal clear water looks very inviting.
+The beautiful pool is lined with tall marble columns. 
+The beautiful pool, with its elegant marble columns, has a wonderful setting in these woods. The water looks so cool and inviting; you're almost tempted to jump in.
+The beautiful pool, with its elegant marble columns, has a wonderful setting in these woods.
+You don't see any fish here.
+The marble columns flank the lovely pool.
+You have no reason to carry water.
+Just enter the water.
+The water is too shallow to swim.
+There are steps at the north end of the pool.
+You're not in the pool.
+Just do that yourself.
+You drink some of the pool water, it quenches your thirst.
+You already have that.
+You don't see one here.
+Cupid won't give it to you.
+You already have the bow and arrows.
+You were taught never to steal!
+You see a little golden bow, and two golden arrows, on the ground by the pool.
+You see nothing of importance on the ground.
+Baby Cupid beats his little wings furiously as he flies through the air. In his chubby hands, he carries a golden bow, and two golden arrows.
+Cupid happily splashes and frolics in the clear water of the pool.
+Baby Cupid beats his little wings furiously as he flies through the air.
+Oh, oh! You've startled Cupid! He quickly jumps out of the pool and flies away in fear.
+Cupid appears to be getting ready to go swimming.
+Cupid is through with his swim and is now leaving.
+You might frighten Cupid if you come too close.
+You couldn't get Cupid.
+You can't get close enough to do that.
+You speak to Cupid, but he doesn't seem to hear you.
+Cupid only wants to get away from you.
+You speak out and startle baby Cupid as he plays in the water. He quickly climbs out of the pool and flies away in fright.
+Cupid would not be interested in anything of yours.
+Oh, oh! You've startled Cupid!
+You kneel down and drink some of the pool water. At least it quenches your thirst.
+The ogress sees you! You'd better run as she'd like to have YOU for dinner!
+This is a large, crudely-built, thatched-roof house. It makes you feel uneasy.
+This is a heavy, wooden door.
+There is nothing in the pail.
+Poor thing!
+You peek through the window, but can make out no details.
+This is a mean-looking lady! The ogress is returning home after having caught a poor deer in the surrounding forest.
+The ogress sees you! Maybe she'd rather have YOU for dinner instead of the deer!
+You can't see one here.
+You see a large, thatched-roof house surrounded by forest; and it looks very formidable. It might be wise to use caution here.
+Now you've blown it! You foolishly spoke to the ogress, and drew her attention toward you. Now she's headed your way!
+She can't see you now. It would be better not to attract attention.
+This is no time for conversation!
+Are you KIDDING?!
+You are not interested in the deer.
+What deer?
+That's ridiculous!
+You don't have the time for that now!
+You can't. It's locked and you don't have the key.
+You don't have time for that!
+You cautiously tap at the door, but are greeted only with vicious barking from the other side.
+You cautiously tap at the door. "JUST A MINUTE! I'M COMIN'!" a loud woman's voice yells. With a jerk, the door opens to reveal...oh no!...the ogress!!
+The door is already unlocked.
+That's vandalism!
+You could never do that.
+The windows do not open.
+Poor Rosella! It looks like you'll join the deer in the stew pot tonight!
+Oh, no! You're caught! The terrible ogre grabs you by the braids and drags you off to an untimely end. Dinner will definitely be on YOU tonight!
+This is a creepy place! You have found a grove of very odd, (and scary-looking), trees. A thick forest surrounds the grove.
+You see the back of a large, thatched-roof house.
+The door is at the front of the house.
+You look through the window, but can make out no details.
+Wooden you know it. You've been caught!
+You've really gotten yourself out on a limb this time, Rosella!
+Talk about being torn limb from limb!
+Time to "leaf" this mortal world!
+You've been a real sap this time, Rosella!
+It seems you'll discover your roots, Rosella!
+You try to peer into the dark cave, but can make out no details.
+A cave, bearing a slight resemblance to a skull, juts out from the craggy mountainside. Huge rocks block your exit to the north, and you're completely surrounded by those grabby trees! Nice situation, huh?
+The rocky skull cave juts out from the base of the steep mountainside. Smoke rises lazily from a large crack in the cave's (forehead?).
+Even grass doesn't grow here.
+There are not many bushes or shrubs here.
+Not many plants grow here; only those awful trees!
+There are no flowers here.
+Those are vicious-looking trees, aren't they?
+There are large rocks all around you.
+In spite of these dreary surroundings, the sky is quite nice and blue.
+The rocks are too large to climb.
+Large boulders block your way to the north.
+You see nothing interesting on the ground.
+You've GOT to be KIDDING!
+That would be impossible.
+You couldn't get the fisherman.
+What fisherman?
+It's his, Rosella!
+You're not a thief, Rosella!
+You think, for a moment, that it might help, but then change your mind.
+Who?
+The fisherman ignores you.
+How can you do that, Rosella?
+A poor fisherman's shanty adorns this part of the coastline. A pier stretches, from the house, out into the ocean to the west. You see a pretty meadowland off to the east.
+An old, rusted anchor leans against the wall of the house.
+The fisherman's shack looks badly in need of repair, as the sun, wind, and salt spray have taken their toll. From the house, an old pier leads out into the ocean.
+There is only ocean under the old pier.
+This is a plain wooden door.
+The old, worn pier juts out into the ocean from the weather-beaten house.
+You see a grizzled old fisherman on the pier. Apparently, he isn't having any luck today.
+A pretty meadow leads eastward from here.
+It's too heavy for you to move.
+The door is already closed.
+You say a few words to the old fisherman. However, he must have other things on his mind as he seems to ignore you.
+You knock loudly on the shanty door. A woman's voice answers, "Jest come on in!"
+You knock loudly on the shanty door. From inside, a man's voice calls out, "D'ya know what TIME it is?! GO AWAY!!"
+Try waiting until it closes.
+You can't see the door from here.
+You see the back of an old shack.
+A beautiful green meadow, dotted with wildflowers, serves as the fisherman's spacious back yard. The flowers' sweet scent fills the air.
+It's too difficult to climb while wearing that dress.
+It's too far in the distance to see it clearly.
+A large rock dominates the clearing.
+There are flowers here and there.
+You have entered a shady wooded area, with birds calling from the many trees. You notice a pool in the distance to the north.
+A thick forest of pine trees surrounds you. You see a house in the distance to the north.
+This place gives you the willies! The trees around here are very strange; almost human-like. A dense forest surrounds this odd grove of trees.
+You have come upon a bizarre group of scary, human-like trees. A thick forest of pine trees surrounds this strange group. Steep mountains block your way to the east.
+A green meadowland, dotted with clumps of wildflowers, leads eastward.
+You see someone sitting on the end of the pier.
+You see a shabby little house, with a pier, in the distance.
+You can't make out who it is.
+You don't see anyone at the moment.
+A sparkling, white-sand beach edges a vast blue ocean. Turning to the east, you see a lush flowery meadow.
+The scent of wildflowers fills the air in the lovely green meadow.
+Yes, there's a tree stump in the middle of the meadow.
+This prince may be handsome, but he's also obnoxiously conceited.
+The prince does not answer you.
+You couldn't get the prince.
+He's too conceited. You wouldn't want to.
+You can't see a prince here.
+You can't see any fish here.
+The large frog stares back at you with big bulging eyes.
+The water is too murky to see anything.
+The frog appears to be retrieving your gold ball.
+The frog sits calmly in the palm of your hand. Its big eyes stare into yours. A little gold crown rests upon its head.
+The frog is sitting with the gold ball at the east edge of the pond.
+Your golden ball is lying by the east edge of the pond.
+The frog is sitting on the ground near the edge of the pond.
+There is nothing of interest on the ground.
+It's a nice little gold crown.
+You see flowers here and there.
+It would waste your precious time to stop and pick flowers.
+The water is too shallow.
+Well, it's not wonderful, but it satisfies your thirst.
+You can't see the frog.
+You're too far away from it.
+Not while you're in the pond.
+You are too close to the water.
+You're not near enough.
+You have no need for a lily pad.
+"Ribbit! Ribbit!"
+Well, what else did you expect from a frog?
+You "accidentally" drop the golden ball into the pond. From atop a lily pad, a large green frog leaps into the water, and disappears from view. A moment later, the frog emerges with...YES!...your lost ball in its mouth! It seems as if the frog is kindly returning your gold ball to you.
+Try another spot.
+That's not necessary any more.
+Not now.
+You look at the frog's green lips. Mmmmm. Good. You feel silly doing this, as you slowly put your mouth against the frog's.
+First, you need to get the frog.
+How can you do that?
+He is not interested.
+There's no one here to give anything to.
+ Ok. 
+Oops, you scared the frog away!
+Squinching up your nose in disgust, you catch the large frog and hold it in your hand. It stares at you with its big bulgy eyes, and wobbles its throat.
+Suddenly, the little green frog changes into a handsome prince!
+"Who are you?" the prince demands. "I thought you were supposed to be a princess?! Why, you're nothing more than a PEASANT girl!" You blanch a bit at that remark, but say nothing.
+"Well, ta, ta," he says. "I'm off. Here, you may keep THIS!" To your surprise, he tosses the little golden crown to you as he takes his leave. Good riddance, you think.
+You bend down and drink a bit of the pond water. Well, it's not wonderful, but it satisfies your thirst.
+Each tombstone has an epitaph written on it.
+Thorp's Corpse.
+There is nothing of importance in the old tree.
+One of the graves is marked by a cross.
+An old, rotting tree adds appropriate charm to the decrepit cemetery.
+The hole is empty.
+This run-down, gloomy cemetery gives you the creeps! Many of the old tombstones have fallen over, and the entire place is overgrown with grass and weeds. 
+Try somewhere else. The ground is too hard here.
+You don't know what to dig for...yet.
+You have nothing to dig with.
+The terrifying zombie senses your obsidian scarab. It immediately retreats and goes back to whence it came.
+To wander forever is now your fate.
+Oh, Oh! You've broken your shovel!
+You dig a small hole at the grave of the old miser. Aha! You have found a bag of gold coins!
+You carefully dig a small hole at the poor baby's grave. What is this?! You have uncovered a silver baby rattle!
+You dig a small hole at the grave of the Lord of the Manor. Gotcha! You have found an impressive Medal of Honor!
+You dig a small hole...but find nothing of interest.
+You bend down, pick it up, and carry it with you.
+Indeed, this is a spooky old house! It looks as if no one has lived here for many years. Flanking the old house on both sides is a run-down cemetery. A thick forest looms all around.
+The graves are in the cemetery.
+An old, crumbling stone wall surrounds the neglected cemetery.
+This is not a pleasant house; in fact, it's downright scary! It looks old and abandoned, and badly in need of tender-loving-care. To make matters worse, it sits right in the middle of an old cemetery!
+A decrepit and over-grown cemetery surrounds the old house.
+This is a finely-carved, wooden door.
+The bushes are too tall! Go up by the door.
+Wide stone steps lead up to the front door of the spooky old house.
+Overgrown shrubs front the old house.
+It looks like many of the windows are already broken!
+The door is closed.
+With trepidation, you rap on the door. Not surprisingly, nobody answers.
+You're not interested in climbing rocks.
+The door is open; just enter it.
+Try opening the crypt door.
+There are rocks here and there.
+Tufts of grass and weeds sprout around the old tombstones.
+The stone crypt is built into the mountainside!
+A stone crypt is built into the mountainside.
+An interesting statue of a lion is mounted above the crypt door.
+The crypt door is closed.
+The crypt door is open.
+You don't see it here.
+This is a scary old cemetery! Many of the tombstones are crumbling or falling over, and the entire place is overgrown with weeds. A mountain range looms to the east, and all around a forest encroaches.
+How odd! You see a crypt door built right into the mountainside!
+You pound on the door and hear your knocks echo from within. There is no answer.
+The door is locked.
+The crypt door is already open.
+You place the skeleton key in the lock of the crypt door. Click. It locked! You kick the key through a crack under the door. Now no one will ever accidentally release the evils of Pandora's box into the world!
+Ok. You lock the door.
+First you need to close the door.
+The door is already locked.
+You don't have the right key to lock this door.
+You place the skeleton key in the lock of the crypt door. Slowly, you turn it. Click. It unlocked!
+You don't have the key to unlock this door.
+The door is already open.
+Oh, oh! You've broken your shovel!
+You dig a small hole at the little boy ghost's grave. Aha! You have uncovered a toy horse!
+You carefully dig a small hole at the sad lady ghost's grave. Yea! You have found a lovely locket!
+You dig a small hole...but don't find anything of interest.
+A pretty meadow leads eastward.
+Better be careful around the cliffs!
+Wistfully, you stare out over the ocean, wishing you could go home and see your family again. Unfortunately, reality sets in, and you remember your difficult situation. Turning your head, you look eastward toward a meadowland covered with wildflowers, and heave a big sigh of sadness.
+You really should be more careful, Rosella!
+That last step was a doozy!
+Watch where you're going, Rosella!
+That last step was a real doozy!
+Oops, you slipped!
+A green meadowland, filled with beautiful wildflowers, surrounds you.
+You peek under the bridge, but do not see anything of importance from where you're standing.
+A rustic stone bridge adds a bit of charm to this part of the woods.
+A gentle stream meanders its way through the trees. A rustic stone bridge crosses its path.
+You kneel down and peer under the bridge. Aha! You have found a small golden ball! You pick it up and carry it with you.
+You see nothing of importance under the bridge.
+The roots of this great tree envelop a little, snug house. Smoke lazily curls from its chimney, and an old rustic water wheel rests beside the river.
+It's a small wooden door.
+That would not be a good idea right now.
+You can't. You don't have the key.
+"Go away!"
+You knock loudly on the small door and hear a shuffling from inside. A sleepy voice calls out, "We're all asleep here! Come back tomorrow!"
+You knock loudly on the small door. No answer.
+The water wheel appears run-down, and is currently not in use.
+You have come upon a cute little house, built right into a huge tree! An old water wheel, attached to the house, goes unused beside the little river that flows gently before the house.
+"...and STAY OUT!"
+You are walking through a forest thick with pine trees. A nearby river rushes westward from the distant mountain range. In the distance, you see a large house.
+A pretty robin pulls hungrily at a long earthworm.
+You see a bird flying away.
+"Cheep, cheep!"
+Not a little robin!
+The robin can't understand.
+There's no one here.
+You see a fat worm wiggling on the ground.
+You can't see through the waterfall.
+You can't make out many details from here.
+You look under the water, but can see nothing.
+You look into the water, but see nothing of interest.
+You think you see something behind the waterfall, but you're not sure what it is.
+This is a magnificent waterfall! It tumbles into a deep pool, which then flows westward as a rushing river.
+You peer into the pool of water, but cannot see anything of importance.
+You see a deep pool below the waterfall.
+You see a beautiful waterfall cascading down the mountain into a deep blue pool. From the pool, a river courses westward. Around you, a dense forest closes in.
+The force of the water is too strong for you to be able to do that.
+You're not strong enough. The current forces you back!
+The water isn't deep enough here.
+You'd have to be in the water to do that.
+You are already swimming.
+You are already in the water.
+Not while you're IN the water.
+The force of the water pushes you back.
+The cold water of the river contrasts sharply with the warmer ocean water as the two converge.
+Eastward, you see a pretty green meadow.
+A river, coming from the east, spills into the blue ocean before you. A lonely beach edges the ocean. From atop the bluff, a lovely meadow stretches eastward.
+Ahhh! It tastes good!
+A cold river carves its way through this lush flowery meadow.
+The door is wide open.
+You look inside, but can make out no details.
+The crude mine is carved into a small hill. Its solid, wooden door is propped open.
+You see a crude mine shaft in the midst of this forest of pine trees.
+You shouldn't close it.
+You knock on the door, but receive no answer.
+You can't. It's closed and padlocked.
+The door is closed and padlocked.
+The crude mine is carved into a small hill. Its solid, wooden door is closed and padlocked.
+You are roaming through a dense forest.
+You don't have the time to climb rocks.
+The narrow path dangerously winds its way up the steep mountains.
+Lolotte's goons are not appealing at all! Besides having an unnatural pallor to their skin, the goons are creepy little creatures who fly upon wings that resemble those of bats.
+You don't seen one here.
+A mountain range rises to the east from the forest. A narrow path winds steeply up the side of it.
+You should be more careful, Rosella!
+You can see an island in the distance.
+You are swimming in a great ocean.
+You are riding a dolphin in a great ocean.
+You are swimming in a great ocean. Playful fish leap about you as you swim.
+There is a hungry shark approaching!!
+You ARE riding the dolphin.
+Just get out of there...fast!!
+What island?
+You can feel the dolphin's strong muscles working, as it swims through the ocean with you on its back.
+There is no need for that.
+The fish don't want it.
+The seagulls have no interest in it.
+The dolphin doesn't want anything.
+You speak to the dolphin, and it chatters back.
+The dolphin's skin feels smooth and slippery as you pet it.
+You are getting very tired, Rosella.
+The ocean confuses you at night! Panicking, you loose control...and drown.
+You're too tired to swim anymore. Your body gives out as you prepare to join Davey Jones in his locker.
+Again, you find yourself swimming in the ocean.
+You make a tasty morsel for that hungry shark!
+You see Tamir in the distance.
+The small island contains a beautiful white palace. Lush vegetation encircles it.
+The white palace is quite enchanting! (Maybe it IS enchanted). With its tall slender towers, lovely arched windows, and beautiful island setting, the palace radiates goodness, peace, and serenity.
+You don't see any here.
+As you swim, you notice a splendid white palace on a small island to the north.
+You see the beach of a beautiful enchanted island. Behind you, an ivory palace rises majestically. A luxuriant garden encircles the magnificent palace.
+You see the azure ocean stretching in front of you as you stand on the beach of this marvelous island. Behind you, set amidst a beautiful garden, rises a splendid ivory palace.
+You see the azure ocean stretching in front of you and the beach of a marvelous island. Set amidst a beautiful garden, rises a splendid ivory palace.
+You stare out at the ocean and the white sand beach of this secluded island. From the middle of the island, a majestic ivory palace towers, surrounded by a lovely manicured garden.
+You peer down into the pond, but do not see anything of interest.
+There is nothing of interest under the bridge.
+You can see the beach in the distance.
+A lovely hedge surrounds this island garden.
+You see nothing but grass on the ground.
+The grass looks well-tended and manicured.
+The foliage grows luxuriantly here.
+You see lovely beds of well-tended flowers.
+You see many unusual and lovely trees on this island.
+The beautiful garden gives you a sense of peaceful serenity.
+A lovely bridge is reflected in the mirror-like, little pond. A majestic white swan floats upon it.
+The swan-carved bridge arches elegantly over the little pond.
+A nice flagstone path circles the pond.
+A garden bench rests near the small pond.
+The lovely ivory palace rises majestically beside you.
+You can see the ocean in the distance.
+A beautiful white swan floats gracefully upon the little pond.
+There are many exotic birds on this island.
+You are standing in the lovely garden of this enchanted island. Beside you, rises a grand ivory palace. Within this garden, a bridge, emblazoned with the figures of swans, arches over a little pond. A beautiful white swan floats serenely upon it.
+"Polly want a cracker?"
+You don't want to disturb the serenity of the pond.
+There's no reason to carry water.
+Not now! You have too many things to do.
+You can't talk to a swan!
+"Polly want a cracker!"
+You don't need the swan.
+There's no need for that.
+You bend over and take a drink of the pond water. Yuck! It may look pretty, but it doesn't taste very good!
+Genesta's tiny fairies guard the palace door.
+The lovely ivory palace rises majestically before you.
+It's an elegant door.
+Two small fairies hover protectively above the palace door.
+A nice flagstone path leads to the palace door.
+Before you, the palace door beckons, flanked on both sides by lilac shrubs. 
+You can't get close enough.
+You speak to the little fairies, but they do not respond. Perhaps, they cannot talk.
+The tiny fairies watch you closely.
+It is impossible to obtain a fairy.
+The small fairies don't need anything.
+A nice flagstone path circles the statue.
+Depicted in the statue: a pair of dolphins leap gracefully from a wave.
+You are roaming through the wonderful island garden. Towering beside you is an enchanting ivory palace. You see an interesting statue within this part of the garden.
+You can't catch the birds.
+You'd have to catch the bird first.
+You see a sparkling, sand beach of an exotic island. Before you, in the center of the island, a wonderful ivory palace rises. A lovely garden surrounds the palace. 
+You have found yourself upon a most beautiful and exotic island. In the center of this island, a wondrous ivory palace towers. Behind you, the azure ocean washes gently upon the island's sparkling beach.
+The beautiful blue ocean washes gently upon the shore of the magical island. Dominating the center of this island is a splendid ivory palace.
+Both a man and a woman are here. Be more specific.
+There is only one person here.
+A poor and tattered woman kneads bread dough at the counter. She looks very tired, and a little grumpy.
+A poor and tattered woman kneads bread dough at the counter. Since your generous gift of the diamonds, however, her grouchy look has been replaced by one of contentment.
+A poor and tattered woman knits at the table. She looks very tired, and a little grumpy.
+The fisherman's worn and tattered wife sits at the table with her husband, talking. Since your generous gift of the diamonds, however, her grouchy look has been replaced by one of contentment.
+The grizzled old fisherman and his tattered wife sit at their table, talking.
+It just looks like plain old bread dough.
+There is nothing of interest under the table.
+It looks like an old worn table.
+Yep, those are chairs, all right!
+There is nothing under the bed.
+The lumpy bed looks old and uninviting.
+At least the stove keeps it warm in here.
+You see the ocean out the window.
+You see the meadow out the window.
+There is nothing of importance on the walls. 
+There is nothing of interest on the floor.
+Yep. It's there, all right!
+What pole?
+The grizzled old fisherman and his tattered wife sit at their table talking and drinking hot coffee.
+The salty old fisherman now looks satisfied as he sits at his table. Obviously, your generous gift pleased him.
+The old fisherman sits dejectedly at the table, drinking a mug of hot coffee.
+The smell of hot coffee fills the room.
+You see a large fish hanging on the wall.
+You see a cupboard filled with canned goods.
+These poor people can only afford a few cheap cans of food.
+You're not interested in the knitting.
+What knitting?
+You don't like it.
+You are not a thief, Rosella!
+Please be more specific as to whom you want to kiss!
+She wouldn't appreciate it.
+There ain't no fisherman here!
+How can you do that, Rosella?!
+You'll be talking to yourself.
+There is a fisherman and his wife here. Please direct your comments to whom you wish to speak.
+You don't like coffee.
+You give the pouch of diamonds to the astonished woman. She and her husband exchange glances. "Wife, give the girl my fishing pole in trade," he tells his tired wife. Obediently, she retrieves the pole and hands it to you. "Thank you very much," she says, smiling. "You have certainly helped us." 
+You offer the pouch of diamonds to the fisherman, who takes it gladly. "Wife, give the girl my fishing pole in trade," he tells his tired wife. Obediently, she retrieves the pole and hands it to you. "Thank you very much," she says, smiling. "You have certainly helped us." 
+The fisherman and his wife look at it in interest, but then shrug and shake their heads.
+The woman is already upset that you're here. Don't be bothering her with things!
+No. It's not yours.
+You can't take their fishing pole, as that's their only means of survival!
+You already have the pole.
+You have no need for bread dough.
+You couldn't get the fisherman's wife.
+You don't need it.
+You can't.
+It's firmly attached to the wall.
+You introduce yourself to the old fisherman's wife. With little patience, she responds, "What're you doin' here, young lady?! Can't you see I'm busy?! We have enough problems without worryin' 'bout you!"
+You try to talk pleasantly to the tired-looking woman, but your words fall on deaf ears. She is obviously annoyed by your presence.
+"I said GIT, and I mean GIT!" 
+You say hello to the poor woman. With little patience, she responds, "What're you doin' in here, young lady?! Can't you see I'm busy?! We have enough problems without worryin' 'bout you!" 
+You try to talk pleasantly to the tired-looking woman, but your words seem to fall on deaf ears. She is obviously annoyed by your presence.
+You speak to the fisherman's wife. She smiles as she replies, "You're a very kind girl. You've helped us out a lot. Why, I might even be able ta buy some bran' new clothes!" 
+You speak to the old fisherman, and he replies, "You've really helped me and the missus, girlie! Those diamonds will come in awful handy. We can't thank ya enough!" 
+Again, you say a few words to the fisherman. "All right, already!" he exclaims. "I told ya that I was grateful! Don't you have somethin' else ta do?" 
+You talk to the grizzled fisherman as he sits at the table. Sighing, he tells you, "Them fish ain't been bitin' lately. If things don't git better soon, I don't know WHAT to do!" 
+In reply, the old fisherman comments, "Me and the wife ain't gettin' any younger, and times is tough. If you've got any ideas, girlie, let me know." 
+The fisherman chooses to ignore your attempted conversation. Instead, he looks dismally into his coffee cup and sighs heavily. 
+You have found yourself stranded upon a desert island. Also, it seems, have others before you. Now, what are you going to do, Rosella?!
+You're already swimming.
+Just go deeper.
+Just go and do it.
+YUCK!! This water's too salty!
+You can't see it from here.
+A bottle-nose dolphin pokes its nose out of the water and chatters noisily.
+The small island is nothing more than a sand bar, decorated with two lonely palm trees...and various shipwrecks.
+You're not in the water.
+You look under the water, and see nothing but...more water.
+The blue ocean surrounds this small island. You look in all directions, but can see no sign of land.
+In this case, the beach and the island are one and the same!
+You see a shiny whistle lying on the ground.
+You see a glint coming from inside the boat.
+You look, but see nothing except sand.
+Only one lonely palm grows here.
+You don't see any coconuts.
+A pelican visits you on this desert island.
+It is difficult to climb trees while wearing that dress!
+Try doing that somewhere else.
+Not while the pelican is flying.
+You've already done that.
+You don't have one.
+You already have it.
+Okay. TWEEEEEEEEEEEET!
+You feel silly trying to talk to a pelican!
+Feed it what?
+You would have to catch the pelican first.
+You can try.
+The pelican has no interest in it.
+The dolphin has no interest in it.
+Please be more specific.
+You can't "get" the dolphin. You could try riding it.
+You are RIDING the dolphin!
+You look at the ground inside the wrecked boat. What is this?! Why, it's a golden bridle! You pick it up and carry it with you.
+You throw the stinky, dead fish to the pelican. Greedily, he catches it in his large bill. As he does so, you notice something shiny fall from his bill, onto the ground.
+You put the shiny, silver whistle to your lips and forcefully blow into it, producing a loud TWEEEEEEEEEEET! To your astonishment, a friendly dolphin appears just off-shore and jabbers excitedly at you.
+It looks like exposure and thirst have done you in, Rosella.
+Horrors! You have been swallowed by a huge whale!
+PHEW!! This place stinks!
+There is nothing of importance with the skeleton.
+NO!!
+This old boat won't help you.
+What bottle?
+You couldn't start a fire in here as it's too wet.
+Bits and pieces of fish are everywhere.
+There is nothing of interest under the seawater.
+This is a disgusting place to be! Seawater, dead fish, junk...you name it...float around in here. Hopefully, your fate will not be the same as poor "James" lying over there.
+This is the biggest tongue you have ever seen! It's also extremely slippery, slimy, and bumpy. Ugh!
+The whale's throat and mouth are enormous! Huge teeth, a great tongue, and yes...even a large uvula. What's that?, you say. Well, suffice it to say, it looks like a big punching bag and hangs down from the top of the throat. See, you learn something new every day!
+Yes, that's a big uvula, all right!
+The skeleton of an unlucky man (let's call him James), rests atop the wreckage of a small boat.
+You notice a bottle floating in the seawater of the whale's stomach.
+Seawater floats in the whale's stomach.
+You strike the whale's teeth...but nothing happens.
+You strike the whale's tongue...but nothing happens.
+You strike the large uvula (punching bag-looking thing)...but nothing happens.
+Go ahead. Try it.
+You scream, holler, and shout for help until your throat is hoarse; but to no avail.
+How could you open the whale's mouth?
+You really want to swim here?!
+You're not strong enough to do that.
+Not here!
+You frantically tickle the throat of the whale with the big peacock feather. You begin to feel a quiver under your feet, which quickly turns into a mighty tremble. Suddenly, you hear a thunderous AAAAACCCCHHHHOOOOOOOO!, and you are swept out of the whale's mouth, in a tremendous wave of ocean water!
+It looks like the noxious fumes have finally gotten to you, Rosella.
+Genesta is very ill. She lies, unmoving, in her shell bed.
+Genesta's magic wand lies upon the bed.
+You can't see out the window from here.
+Gorgeous flowers surround Genesta as she lies, ill, on her bed.
+Wide steps lead down from Genesta's bed chamber.
+No. It's private.
+It must hold Genesta's clothes.
+There is nothing of importance on the walls.
+There is nothing interesting on the floor.
+A white, spotted snow leopard lies on the floor of Genesta's bed chamber. It lies quite still, but for an occasional twitch of its tail.
+Genesta's bed chamber is very beautiful and serene. Genesta lies very still upon the seashell bed; her concerned fairy helpers hovering near, and her pet snow leopard lying close by.
+You give the magic talisman to the dying fairy. Almost instantly, the color returns to her cheeks and her green eyes begin to sparkle. She sits up in bed, stretches, and smiles at you.
+Not with Genesta in it!
+No. They belong to Genesta.
+That belongs to Genesta.
+As you attempt to speak to the gravely ill Genesta, her small fairy helpers flutter madly about, trying to prevent you from disturbing her.
+THAT is DEFINITELY NOT the thing to do!
+You cannot get Genesta.
+She needs her talisman, not a kiss!
+You can start by helping to get her talisman back from Lolotte.
+Genesta's constant companions are small fairies with fluttering wings and brightly-colored gowns. They utter not a word.
+It's impossible to obtain a fairy.
+The little fairies do not need kissing.
+The little fairies don't need your help; Genesta does.
+Snow leopards do not talk!
+Oh, yeah. You're going to kill a big snow leopard with your bare hands!
+Not this cat!
+That's probably not a good idea.
+The snow leopard doesn't want it.
+Genesta only needs her talisman.
+Genesta's tiny fairy helpers flit furiously about, trying to keep you from disturbing the dying fairy.
+"You have saved my life, Rosella!" the beautiful fairy says gratefully.
+"And you have saved Tamir from the persecution of Lolotte. We are deeply indebted to you." 
+"I want to go outside; I need to feel the warm sun on my face!" 
+Exuberantly, she waves her magic wand and ...
+Where do the stairs lead?
+The stairs lead down to the entry hall.
+From here, the tower stairs both go upward, and downward.
+You're not close enough to the window.
+A beautifully embroidered tapestry hangs on the gleaming wall.
+Genesta must love beautiful plants and flowers.
+You are on a tower stairway of the island's ivory palace.
+This is the entry hall of the enchanted ivory palace. Two of the doors are closed, and presumably, off-limits to uninvited visitors. The left doorway, however, is open.
+Two of the doors are closed, locked, and off-limits to uninvited visitors; but, the left doorway is open. The main palace door is behind you.
+An unusual vine clings to the back wall of the palace entry hall.
+You can't. The door is locked.
+You don't have the right key.
+There's no answer.
+There is nothing within reach to use it on.
+The large bed occupies most of the room.
+It must hold the ogre's and ogress' clothes.
+A bear rug lies on the floor by the bed.
+You see the forest out the window.
+The stairs lead downward.
+There is nothing of importance in the barrel.
+You look in the mirror and see the reflection of a poor, but beautiful, peasant girl.
+The door is closed. From behind it, you hear a soft clucking sound.
+You see a solid, wooden door.
+The windows don't open.
+You knock on the door, but receive no answer. You hear a soft, clucking from behind the door.
+You don't want to mess with this ogress. You'd better get out of here!
+You have no way of killing a giant ogress!
+You don't want to get that close to the ogress!
+Poor Rosella! Looks like you'll join the deer in the stew pot tonight.
+The terrible ogre is asleep at the table, snoring loudly.
+It's a large wooden table.
+There are two chairs at the table.
+A worn rug lies on the floor.
+The stairway goes upwards.
+The front door leads outside. There is an open doorway to the right, and a closet door under the stairs.
+You don't see him now.
+The big dog is totally engrossed in its bone.
+This is definitely not your basic cute pooch. This dog means business.
+This isn't the most cozy-looking living room you've ever seen. In fact, the ogres' house looks almost...frightening!
+That's not a good idea!
+That won't help you, Rosella!
+The dog is too interested in its bone to listen to you.
+Soothing words will not placate this dog.
+You couldn't kill that big dog.
+Not this dog!
+This dog will not be gentled.
+You woudln't want this dog, even if you COULD get it.
+You foolishly speak to the sleeping ogre.
+You're too far away for him to hear you.
+This is no time for conversation.
+Just whom are you talking to?
+It is open.
+It is already open.
+You're not close enough to any doors.
+It is closed.
+You don't have time for that now!
+How could you do that?
+Do you see one here?
+You have no way of killing a giant ogre!
+He wouldn't like it, and neither would you!
+It's too late for that, Rosella!
+Sorry, you don't have it to throw!
+That's REALLY not a good idea!
+What bone?
+That's ridiculous.
+You don't want to get that close to the ogre.
+The dog would not be interested in it.
+"Got ya!"
+You see the ogre sitting at the table.
+You see the ogre sleeping at the table. You had better be real quiet...
+"SQUAWK! SQUAWK!" Oh, oh! The hen has woken the ogre!
+With a grunt, the ogre suddenly wakes up! Noticing you, he quickly jumps from his chair and heads your way.
+Now you've gone and done it! The vicious ogre grabs you and drags you toward the kitchen. As to what happens in the kitchen, let's just say that you are cordially invited to BE dinner.
+Poor Rosella! Looks like you'll join the deer in the stew pot tonight!!
+Watch out! A VERY unfriendly bulldog rushes toward you!
+Quickly, you toss the bone to the big dog who catches it in mid-air. Happy with his surprise gift, he takes it to his favorite rug, lies down, and begins to gnaw at it. He seems to have completely forgotten you.
+That is the carving table.
+Something TERRIBLE is cooking on the stove! You have NO desire to know what it is!
+Whatever's in the pot smells AWFUL!
+You smell something HORRIBLE cooking on the stove in the ogre's kitchen! As a matter of fact, you get the feeling that this is NOT a safe place to be!
+It's too late. You can't help the deer now.
+You're wasting time, Rosella.
+Why not just look out the open door?
+There is a large keyhole under the doorknob of the closet door.
+There is nothing of importance on the floor.
+You have found yourself inside the ogres' small closet. For a closet, it's surprisingly empty. You notice a large keyhole under the doorknob of the closet door.
+It's already open.
+It's already closed.
+"Quiet, you old goat!" interrupts the ogress. "That's just a deer you smell! You know how you get when you're hungry. Here! Eat!" 
+"Wife!" shouts the ogre. "Bring me my hen!" 
+"Lay!" orders the ogre.
+With excitement, you watch the hen lay a golden egg, which the ogre takes. He yawns, then falls asleep on the table. Soon, his snoring rattles the walls.
+You hear the ogre leaving.
+He's still there...
+The house is nice and clean now.
+There are seven little beds.
+The narrow stairs lead downward.
+There is nothing under the beds.
+The dwarfs share one chest of drawers.
+Quit being a snoop, Rosella!
+A nice braided rug lies on the floor.
+The house needs more than that!
+You can't. It's too full of dirty, messy, dwarf clothes.
+You have better things to do.
+Oh, oh! You've been caught trespassing! You are unceremoniously ordered out by an angry dwarf.
+The clock is broken.
+There is nothing to interest you in the cupboards.
+This house needs more than that!
+It is already closed.
+Not while you're in here.
+Twice was enough.
+The room is nice and clean now.
+Haven't you had enough already!!
+You don't want dirty dishes!
+You don't need them.
+You don't need the broom.
+What broom?
+The pot doesn't belong to you.
+You don't need the soup bowls.
+You're not hungry now.
+The soup doesn't belong to you.
+What pouch?!
+The soup is delicious!
+There is a blue pouch in the center of the table.
+You can see the forest out the window.
+Clean soup bowls are set on the mantel above the fireplace.
+There is nothing on top of the mantel.
+You see a long, wooden table.
+You also notice a blue pouch.
+You see a long, wooden table. Empty soup bowls are left on it.
+The narrow stairs lead up to the bedroom.
+You see many cupboards.
+Clean soup bowls are set on the mantle above the fireplace.
+Empty soup bowls are left on the table.
+You see a pot of soup bubbling over a cheery fire.
+A cheery fire heats a bubbling pot of soup in the fireplace.
+A rag rug covers the floor.
+The sink is clean and empty.
+There are dirty dishes in the sink.
+The dishes are dirty.
+The dishes have been washed and put away.
+This clock has seen better days. The cuckoo has flown away.
+This clock is broken.
+The closet contains only an old broom.
+The closet is closed.
+There's nothing much in the closet except for an old broom.
+You see a closet door.
+You see an old broom.
+You can't see any brooms from here.
+This is the main room of the Seven Dwarfs' cozy tree house.
+What a mess it is!
+"Phew! I hope that's the last of it!"
+It is a ramshackle wooden door.
+You look out the open door of the diamond mine, but notice nothing.
+Diamonds glitter and sparkle from the earthen walls of the Seven Dwarfs' diamond mine. Within it, you see the little men busily at work.
+You have encountered a group of small men working in this diamond mine. They're not too friendly, though, as one of them forcefully tells you to leave the premises!
+Try standing in front of the head dwarf.
+The dwarf is not interested.
+You see the busy little dwarfs hard at work within the diamond mine. The diamonds flash and sparkle from the earthen walls.
+One dwarf appears to be idling by the diamond bucket.
+You see a bucket brim full of sparkling diamonds.
+You attempt to talk with the dwarf by the bucket again, but he only ignores you. You get the message.
+You attempt to kiss the dwarf, but he seems embarrassed by it.
+The bucket is not yours, Rosella!
+You were raised better than that!
+You say "hello" to the small man next to the diamond bucket. He seems amazed to see you here. "Rosella!" he exclaims. "What're you doing here? Don't you know this ain't no place for a fine girl like yourself?" You don't agree with that, but you don't argue.
+Again, you speak to the dwarf by the diamond bucket. He peers up at you with mild agitation. "This ain't no place for a lady, Rosella!" he firmly states. "I don't wanna see you get hurt in here!" 
+When you try speaking to the small man again, he only mutters under his breath in perturbation.
+Being an honest person, you offer the forgotten pouch of diamonds to the dwarf. His gruff exterior softens a bit. "Nah, you can keep it," he says. "We got plenty here. We also got an extra lantern we ain't using. Here, go ahead and take it." The dwarf's gruffness returns as he says, "Now, skedaddle on out of here!" 
+Ouch!
+Watch out!
+Too late.
+The blind, one-eyed hags peer at you through a glass eye.
+Three, old one-eyed crones inhabit this dreary cave. They possess a glass eye, which they pass from one to another, that enables them to see. Through the glass eye, they each in turn peer at you with a frightening mixture of curiosity and malice.
+The old one-eyed witches seem powerless without their glass eye. You actually feel rather sorry for them.
+The ugly old hags are relieved to receive their precious glass eye.
+What scarab?
+You just manage to snatch the glass eye from the grasp of the old witches! Now they are totally blind and helpless.
+Do you really think the witches will let you take their precious glass eye again?
+You toss the glass eye to the pleading witches. "Aha! Foolish girl!" they shriek. "Leave us be, or you'll flavor our brew!"
+You throw the glass eye to the three old hags, who once again take turns peering at you. "Come closer, dear," one says. "We'd like to give a little gift to you." 
+You couldn't do it.
+You wouldn't want them.
+YUCK!!
+The witches don't want it.
+You don't want them.
+A greenish, foul brew boils ominously within the cauldron.
+The green brew looks disgusting...and smells that way, too!
+A hot fire burns under a large cauldron filled with bubbling brew.
+Outside the cave, you see the terrible grabbing trees.
+You see a black scarab on the cave floor.
+There is nothing of interest on the cave floor.
+There is nothing of interest on the rough cave walls.
+You see bottles and jars of disgusting-looking stuff. None of it interests you, though.
+You shiver at the sight of a human skull on the shelf.
+You don't want any of them.
+You wouldn't want it!
+You gag at the thought!
+It's too heavy to carry.
+You knew you needed a hot bath, but not THIS hot!
+"Give us back our eye!" the old witches plead."
+Even though the old hags are frightening, you decide to speak to them. They don't answer as they are mumbling and muttering among themselves, while peering through their glass eye at you.
+Again, you attempt to talk to the three one-eyed witches. This time, one cackles, "What a pretty little thing you are, dearie. Come here, and let me touch your golden hair."
+As you speak with them again, they beg you to come closer so they can see you better and feel your pretty hair.
+"Give us back our eye!" the old witches plead.
+Your voice is drowned out by the wails of the three ugly hags as they beg for the return of their eye.
+"We need our eye!" the three crones cry. "Give it back to us!" 
+You again talk to the old witches, who cry and wail for the return of their glass eye.
+You speak with the three ugly witches. They mutter to themselves, after which one cajoles, "Come here, girl. We have something to give you for being such a nice girl and returning our eye." 
+You try talking to the old hags again. In a syrupy voice, one hag says, "Don't be afraid, dear. Come here, we have a gift for you." 
+"Come over here, girl." The old, one-eyed witches attempt to entice you with promises of a gift, in payment for your return of their glass eye.
+As you re-enter the dismal cave, the three, one-eyed witches throw something toward you, which lands on the ground. "Here, take it," they cry. "It'll ward off the undead. You'll need it. Now, PLEASE give us back our eye!!"
+As you re-enter the dismal cave, the three, one-eyed witches plead, "Please! Give us back our eye!!"
+You think about it.
+A dusty, old pipe organ sits in the center of the tower room.
+The tower stairs spiral steeply downward.
+There is nothing but dust behind the old organ.
+You see nothing in the organ.
+Dust and cobwebs cover the old organ.
+There is a bench in front of the old organ.
+You see a skeleton key in the drawer.
+You see an empty drawer.
+What drawer?
+There's no need to move the bench.
+You find it difficult to read the old sheet music, but you attempt it anyway.
+What music?
+You are not sitting at the organ.
+You can only remember one "oldie, but goodie."
+You're not sitting at the organ.
+You are already.
+It would be better to move to the inside of the bench.
+You are already standing.
+You take the skeleton key from the drawer.
+What key?
+There's no need to close the drawer.
+You don't see a drawer.
+The drawer is already open.
+The bench doesn't open.
+You already found it.
+Drawer? What drawer?
+What a virtuoso you are, Rosella!
+What is this? A small drawer has opened in the organ!
+This old baby nursery must have once been a cheery place. Now, through neglect, cobwebs decorate the corners, wallpaper peels from the walls, and dust covers the nursery furniture.
+The chest of drawers is empty.
+The chest of drawers looks old and neglected.
+You imagine the mother who must have rocked her baby in this rocking chair.
+You see the cemetery out the window.
+The baby cradle is empty.
+With trepidation, you peek into the rocking cradle and see nothing. Tentatively you reach your hand into it. There is nothing there!!
+You see an empty cradle here.
+The baby cradle rocks to and fro as a baby's voice wails from within.
+There is an old rocking horse here.
+A worn pink rug adorns the floor.
+That would waste your precious time.
+The cradle is already rocking!
+You're too big for it.
+You speak in a soft trembly voice to the fretful baby ghost. Unfortunately, the poor little thing continues its pathetic crying.
+You'd like to, but you can't see it, or touch it.
+You reach your hand into the rocking cradle and feel around. There is nothing there but a strange coldness! A shiver runs down your spine as the unseen baby continues its incessant crying.
+How can you kill something that is already dead?
+You'd like to help the poor baby ghost, but how can you do that?
+This baby doesn't eat!
+While trembling, you attempt to sing a lullaby to the whimpering baby ghost. It doesn't work. The poor thing continues its pitiful crying.
+Obviously, as the crying continues, the baby ghost isn't interested in it.
+You drop the silver rattle into the baby cradle. As you do so, the crying of the baby ghost and the rocking of the cradle cease. You breathe a big sigh of relief.
+The crying baby seems to be in here.
+This old bedroom must have once been very nice. You could imagine a cheery fire in the fireplace, while its occupant slept snugly in the big bed. But sadly, this room has been abandoned for years.
+You see the sad ghost of a beautiful young woman. She sits in her rocking chair and weeps as if her heart will break. 
+The old bed still looks comfortable.
+The fireplace has been cold for years. There's nothing there.
+A worn rug lies beneath the bed.
+The lamp is old and dusty.
+A large, old chest of drawers rests against the wall.
+You see a ladder descending into the room from an open trapdoor in the ceiling.
+You look up at the ceiling and notice a closed trapdoor.
+You look up through the open trapdoor, but can't see anything as it's too dark up there.
+The trapdoor is closed.
+You look up through the open trapdoor, but can't make out anything as it's too dark up there.
+A ladder descends into the room from an open trapdoor in the ceiling.
+What ladder?
+You see a ladder, descending into the room from an open trapdoor in the ceiling.
+The ceiling trapdoor is closed.
+The trapdoor is already open!
+There is no reason to close it. 
+The trapdoor is already closed!
+Not from this side.
+You see nothing to climb.
+You can't climb that here.
+This is too heavy to move.
+You see the sad ghost of a beautiful young woman. She sits in her rocking chair and weeps as if her heart will break.
+You try to comfort the lady ghost, but she doesn't respond. It seems as if she doesn't even know you're here as she continues her deep sobbing.
+You can't get a ghost!
+You can't catch a ghost!
+How can you kill something that is already dead!
+You can't, as the ghost has no substance.
+You'd like to help the sad lady ghost, but how can you do that?
+You hand the lovely locket to the distraught ghost. The locket seems to make her very happy as she vanishes into thin air.
+The lady ghost doesn't even acknowledge your presence.
+The steps in this tower are steep and narrow. Be careful!
+Don't look down!
+You don't see anything of interest on the walls.
+You're almost to the top!
+The steps spiral steeply up the stone tower of this old house.
+"Aaaaahhhhhhh!!"
+The old bed is massive and dominates the room.
+You don't see a window.
+The drawers are empty.
+You see a small dresser.
+A chest of drawers, sporting a broken mirror, sets against the wall.
+You look in the mirror and see the reflection of a poor, but beautiful, peasant girl. 
+You're not close enough to look in either mirror.
+A tattered oriental rug covers the floor at the foot of the bed.
+It appears as if this was once the master bedroom. However, cobwebs hang everywhere, and dust covers the furniture. 
+There is nothing of interest in the old boxes.
+It's just an old bird cage...nothing interesting there.
+How do you PLAY with a ghost?
+With whom?
+The top of the wooden chest is currently occupied by a naughty little ghost.
+The wooden chest is not open.
+You peek into the open chest, and find...an old set of sheet music! You take the sheet music and carry it with you.
+You peek into the open chest, and find...nothing.
+An interesting wooden chest catches your attention.
+You can see into the room below. There's nothing there.
+You can't see from here.
+The trapdoor in the attic floor is open. From it, a ladder leads to the room below.
+A ladder descends from the open trapdoor into the room below.
+The old junk is useless.
+The little boy ghost laughs, and refuses to budge from his seat on top of the chest. It might help if he had a toy to play with.
+What ghost?
+After adjusting your eyes to the gloom, you soon see that you have stumbled upon the musty attic of the old house. The trapdoor in the floor is open, and from it, a ladder leads down to the room below. Useless junk and boxes clutter the room. There is an interesting chest near the open trapdoor.
+There is no need to do that.
+The trapdoor is already open.
+The chest is too heavy. You cannot carry it.
+You're afraid to get too near the ghost.
+The chest is already closed.
+The chest is already open.
+The boy ghost laughs and teases, and refuses to leave his spot on top of the chest.
+This old dining room has seen better days! The long table is littered with crumbs and dust, and against the wall, the empty hutch is covered with cobwebs.
+The dusty old table is littered with crumbs.
+The chairs seem to be falling apart.
+There is nothing of interest in the hutch.
+A tarnished chandelier hangs above the dining table.
+You see crumbs here.
+You have no use for crumbs.
+The old kitchen is quite bare. The fireplace has been cold for years, and the dusty pantry is empty but for old crumbs.
+The pantry is bare.
+The fireplace is stone cold. An empty cooking pot sits in it.
+The cooking pot is empty and useless. 
+The old butterchurn is empty and useless.
+You're not near the window.
+The barrel is empty. You can't use it.
+There is nothing that interests you on the kitchen shelves.
+An old ladder sits in the middle of the floor.
+The cooking pot is empty and useless. You don't need it.
+The steps are narrow, steep, and spiral upwards.
+The secret door opens into the parlor.
+You see nothing of interest on the floor.
+You see nothing of interest on the walls.
+A torch burns on the wall.
+The spiral stairs go way up!
+Just climb them.
+What shovel?
+The torch is firmly attached to the wall.
+You don't need to close it.
+The secret door is already open.
+Considering the disarray of the rest of the house, the parlor looks in relatively good order. However, the fireplace is cold and unused, the bookshelves are almost bare, and the old furnishings are dusty.
+You examine the few remaining books on the bookshelves. Only one catches your attention; it is entitled "The Compleat Works of William Shakespeare." 
+You examine the few remaining books on the bookshelves. None interest you.
+You examine the books on this side of the room. None of these books are up the quality of reading you're used to...
+The portrait is firmly attached to the wall.
+An interesting portrait of a young girl hangs above the fireplace. You gaze at it intently, and notice that her eyes seem to stare at the left wall of the parlor.
+You see a secret door in the left wall.
+You examine the left wall very closely and notice a little latch.
+You see nothing special on the wall.
+You see the doorway to the foyer.
+You see a portrait hanging above the fireplace.
+You don't see it now.
+You could try flipping the little latch in the left wall.
+From there, you can barely see the latch in the wall.
+You don't see a latch.
+The fireplace is empty.
+The fireplace hasn't been used in years.
+The old divan is still in pretty good shape; a bit dusty, though.
+You have discovered a secret door in the left wall!
+You see no special doors.
+There is nothing of interest in the dusty old cabinet.
+The furniture is old and dusty.
+An old oriental carpet lies on the floor.
+There are no books here you need.
+None of the other books interest you.
+You remove the Shakespeare book from the shelf and carry it with you.
+You examine the few remaining books on the bookshelves. Only one catches your attention; it is entitled "The Compleat Works of William Shakespeare." You remove it from the shelf and carry it with you.
+You don't see a door to open.
+You don't need to close the door.
+There is no door to close!
+You flip the latch in the wall--and behold!--you have discovered a secret door!
+This is the entry room of the old house. Downstairs, you see two open doorways, and upstairs, you see an additional two doorways. The room is cobwebbed and dusty, with wallpaper peeling from the walls.
+There is nothing behind the portraits.
+You notice two interesting portraits above the downstairs doorways. One, of a middle-aged woman, and the other, of a young man. You wonder who they are.
+You look in the broken mirror and see the reflection of a poor, but beautiful, peasant girl.
+The stairs lead up to the second story.
+There is nothing of interest inside the grandfather clock.
+An old grandfather clock sits in the corner. With each swing of its pendulum, time relentlessly marches on...
+Doors lead in all directions.
+A tattered rug lies on the floor.
+A once-beautiful, marble-topped table rests below the broken mirror.
+You can't. You don't know how.
+It's too heavy to move.
+The portraits are too high, you could never reach them. Besides, they're not important.
+You cannot read the ancient hieroglyphics.
+The lid of the coffin is decorated with hieroglyphics.
+You see a pile of rope on the end of the platform.
+A rope ladder extends from the platform down to the bottom of the crypt.
+The platform towers over the floor of the crypt.
+There are ancient hieroglyphics on the walls.
+Pandora's Box is on the floor of the crypt.
+This mummy appears to be at least a thousand years old! Its' wrappings are loose and decayed...and it stinks!
+There is no mummy here.
+There is no box here.
+The rope is fine where it is.
+You reach down and get the pile of rope. To your happy surprise, you find that the rope is actually a rope ladder attached to the end of the platform! Gladly, you throw the rope ladder over the edge of the platform, where it falls to the floor below.
+Not from up here!
+It's not here.
+You can't do that here.
+You'll have to get a little closer, Rosella.
+It's already closed!
+The coffin is much too heavy for you to move.
+You attempt a conversation with the old mummy, and receive nothing but a low moan in reply.
+There is no one here who you can talk to.
+Why would you want it?
+What a horrible thought!
+It's beyond help.
+The mummy doesn't need anything.
+Look out for the mummy!!
+The mummy runs from your powerful scarab.
+Boy, those guys are sometimes fast for their age!
+Oops! You slipped.
+Waterfalls sure look different when you're underneath them!
+The mountain, above the waterfall, rises steeply to the east.
+It sure is dark in there!
+You see rocks all around you.
+You see only moss growing on the rocks.
+You see a board lying on the ground.
+It's difficult to see much of anything through a waterfall.
+The mountain is too steep to climb.
+You don't like to climb rocks.
+You take a drink of the cool river water. Mmmmm. Not too bad.
+You're already in the water.
+It sure feels good to be yourself again!
+You kneel down and take a drink of the cool river water. Mmmmm. Not too bad.
+Outside the cave, you see the waterfall.
+You see a pile of bones by the cave entrance.
+By the light of the cave entrance, you can see a pile of bones.
+You don't need another one.
+After this dark cave, the outside world looks good.
+Outside the cave, you see a large swamp.
+Outside, the night sky is lit by a full moon.
+Outside, the sky is very blue.
+This is the darkest cave you've ever seen!
+You see an opening in the distance.
+It's too dark to see it.
+Where is it?!
+It seems far away.
+You don't have the board.
+"Oh, my goodness!!"
+"A CHASM!!!"
+Feeling in the dark, you manage to place the board across the crevice. Now, can you cross it safely?
+Feeling in the dark again, you manage to pick up the board without dropping it into the crevice.
+From here, a huge muddy swamp spreads eastward. Large moss-covered swamp trees tower overhead, while grass tufts and reedy plants poke up from the mire. You can hear the many chirpings and croakings of unseen swamp creatures.
+A small cave leads into the mountain.
+Just Move.
+Not from here!
+Just walk there.
+Just move there.
+The snake is already mesmerized.
+It's not there.
+The snake does not require anything from you.
+You can't give that.
+The snake would not be affected by that.
+The large cobra seems completely under your spell...but not for long!
+A HUGE cobra protects the small tree that bears the wondrous fruit; the fruit that your father's life depends upon.
+A HUGE cobra protects the small island.
+The tree is small and scrawny. It looks like it's taken almost every ounce of its strength to produce this one, wondrous fruit.
+The small tree looks bare and lonely without its marvelous fruit. Oh, well; in a mere hundred years it'll have another one.
+You see a single glistening fruit upon the scrawny tree.
+A tiny tree grows on this little swamp island. Hanging from a small branch is a large, glistening fruit.
+A tiny tree grows on this little swamp island. 
+The grass tufts lead to the small island.
+Cobras don't usually talk.
+You have NO way of killing a big cobra.
+You wouldn't want the cobra!
+That is NOT a good idea!
+You couldn't get close enough. Besides, the cobra's too big!
+OH!! He gotcha! You die a painful death of snake poisoning.
+Nervously, you raise the flute to your mouth and begin to play a melodic tune to the big cobra, who begins to sway with the music. Soon, the snake is mesmerized by it, and falls into an hypnotic trance.
+The treacherous path winds narrowly around the craggy mountain. In the distance, perched upon a rocky ledge, you see a dark, unfriendly castle.
+Lolotte's goons are not appealing at all! Besides having an unnatural pallor to their skin, they are creepy little creatures who fly upon wings that resemble those of bats.
+The mountain path is thin and dangerous. It seems to lead to the dark castle.
+The dark castle looks very forbidding. It perches precariously upon an over-hanging, mountain ledge. The path, upon which you are now treading, seems to lead directly to the sinister castle.
+The whole mountain is rocky.
+The ground is a long way down.
+You see a forest of trees below you.
+The craggy mountains are much too steep to climb.
+Lolotte's henchmen must not speak, as they only utter strange guttural sounds.
+Why would you want one?!
+The henchmen are not interested in your offering.
+Oh, oh! Lolotte's goons!
+You are standing before Lolotte's dark castle on the edge of the rocky mountain. There is a small stable next to it.
+Lolotte's sinister castle is situated on a rocky ledge of the steep craggy mountain. A small stable is located beside it.
+The crude thatch-roofed stable is located near the dark castle, on the edge of a cliff.
+The mountains are rocky and steep. The castle perches precariously upon a large ledge.
+The narrow path leads down the mountain.
+The door has hideous carvings.
+What's this?! Why, a beautiful red rose has been pushed under your door! You pick it up and carry it with you.
+Normally, this is Edgar's tower bedroom. Actually, for being in such an awful castle, it looks quite comfortable; but you're in no mood to care.
+This is a most unusual, four-poster bed.
+You see the mountain out the window.
+It's private.
+You see a chest of drawers, with a mirror on top.
+You see a beautiful rose lying by the door.
+A small rug lies on the floor by the bed.
+How can you even see the stairs from here?
+It's just a plain wooden door.
+It is attached to the rose.
+Edgar does not respond to you.
+The door is unlocked.
+The skeleton key does not fit the lock.
+It already is.
+Using the little gold key you quickly unlock the door.
+How can you do that without a key?
+Use it for what?
+Unlock it first.
+It is already is open.
+You remove the little gold key from the red rose.
+You see Edgar's bedroom door, and a winding stairway leading down the tower.
+The stone stairway leads down the tower.
+It already is open.
+It already is unlocked.
+You hear something at the door!
+It looks like you're destined to be...Mrs. Edgar!
+That wouldn't be a good idea at all!
+The bed is huge and takes up most of the room.
+A massive rug adorns the floor.
+It's just a wooden door.
+The evil fairy sleeps soundly in her bed. She wears Genesta's magic talisman around her neck, and you see it gleaming upon her chest. As she sleeps, she makes very strange clicking sounds.
+Why would you want to?
+That would be a bad idea!
+She's dead now. Are you sure this is a good idea?
+Do you honestly think Lolotte needs anything from you?
+Waking the dead is a little more than even a princess can do!
+You wouldn't want her.
+Lolotte is unable to talk, as she is now dead.
+You're already carrying it.
+You'll have to get a little closer.
+Not with Lolotte in it!!
+She is already dead.
+It's tempting, but you don't have it in you.
+You have no way of doing that.
+Shoot what?
+Sorry, girl, you have no more arrows!
+She already is dead.
+She is dying.
+You don't have anything to shoot with.
+You see Lolotte's bedroom door, and a winding stairway leading down the tower.
+Which key do you want to use; the gold key, or the skeleton key?
+What do you want to do with the gold key?
+What do you want to do with the skeleton key?
+Lolotte sits straight up in bed, a look of agony upon her face. "What did you do to me?!" she shrieks. "I'm melting...melting!" No, wait! That's another story. Ahem! Let's try again.
+"It hurts! It hurts! Stop the pain! Stop it!" 
+You cringe as you watch the evil fairy die a painful death. What happened?, you wonder. How could Cupid's arrow have done that? You thought that those arrows were harmless, and contained only LOVE.
+Wait! That must be it! LOVE! Lolotte was so evil that when all that pure love entered her body, it acted as a poison to her system! In spite of yourself, you feel a sense of sweet revenge.
+A bright, new day is dawning!
+You aim the golden arrow toward Lolotte. You let go of the bow string. ZING! A direct hit!
+You stupidly wake Lolotte up! "VIPER!" she screams, as she quickly sits up, points a gnarled finger at you, and zaps you into oblivion!
+Edgar bows to you, acknowledging his evil mother's death. He begins to say, "You may now walk freely about the castle. I..." and suddenly begins to blush.
+You have found yourself in a HORRIBLE cell! It looks as if others have found their way here, too. Hopefully, you won't end up like them!
+At least two unfortunate individuals have met their end here.
+An ominous machine lurks in the corner of this cell. As to its purpose; you don't want to know!
+A whip hangs on the wall.
+The chains are securely attached to the wall.
+The window is too high.
+You don't know how to use this machine, and you don't EVER want to know!
+The whip is securely attached to the wall. Besides, you wouldn't want it.
+You can't. It's locked.
+Try just walking through the doorway.
+It's not locked. In fact, it's still open!
+No one is going to save you.
+The henchman motions you to follow him out of the cell...
+This seems to be some sort of storage room.
+And guess what's stored here... Yes, Pandora's Box and the magic hen!!
+And guess what's stored here... Yes, the magic hen!
+And guess what's stored here... Yes, Pandora's Box!
+What did you come in here for? 
+There is nothing of interest in the boxes.
+There is nothing of interest in the barrels.
+There is nothing of interest in the chest.
+There is nothing useful on the shelves.
+You don't need any bones now.
+The windows are too high.
+There is nothing of interest on the walls.
+The hen is wandering around the room.
+There's no hen here.
+These stone tower steps could be very treacherous!
+There is no floor here; only stone steps.
+The stone stairs spiral up the dark tower.
+Watch your step on these narrow stairs!
+It appears to be a cell door.
+There is a candelabra on the table shedding dim candlelight.
+Candle light flickers from the candelabra.
+This is quite a fancy chair.
+There's nobody there...
+You wouldn't really want to visit your old cell, would you?
+It already is closed.
+It's not for you.
+This is the east end of the hallway.
+It's a plain wooden door.
+There is a candelabra on the table, from which dim candle light sheds.
+Just get out of there!
+Lolotte's goons won't bother you any more.
+Why don't you just open it?
+Lolotte's henchmen must not speak, as you only hear them utter guttural sounds.
+That's an AWFUL thought!
+There is no floor here, only stone steps.
+There is an open doorway before you.
+You have discovered the castle's kitchen. Not a very pleasant kitchen, but a kitchen nonetheless. Against the back wall, two cabinets flank a cold stone fireplace. You see a long table under the one small window.
+Here are all of your possessions!
+The cabinet is empty.
+The cabinet is full of dishes.
+You see two cabinets; one on each side of the stone fireplace.
+There's nothing under the table.
+Nothing on the table interests you.
+The iron pot in the fireplace is empty.
+There is nothing of interest in the barrel.
+You see the mountain out the window. 
+You see an open doorway before you.
+There is nothing in the barrel.
+Here are all your possessions!
+It appears open already.
+The cabinet is closed.
+You have no need of dishes.
+Why don't you get everything?
+I don't know how you did it, but you managed to escape Lolotte's henchman. You might not be so lucky next time. Watch Out!!
+You see nothing of interest on the cold stone floor of the tower.
+The stairs spiral steeply up the stone tower.
+The stone steps spiral dangerously upward.
+You glance quickly through the open doorway, but do not see anything of interest in the adjoining room.
+You are at the bottom of the west tower. A spiral of stone steps winds to the top.
+This is a rather cheerless dining room. Eating here would NOT be a pleasant experience.
+There is nothing under the table.
+The great dining table looks big enough to seat Lolotte and at least eight of her despicable henchmen.
+There is nothing but a wall behind the tapestry.
+There's a most unusual tapestry hanging on the wall.
+An interesting chandelier above the dining table casts flickering shadows around the room.
+You see three open doorways.
+Currently, Lolotte's ornate, gilded throne is empty.
+The carpeted stairs lead to Lolotte's gilded throne.
+There is nothing but wall behind the tapestry.
+Two strange-looking tapestries hang on the wall behind Lolotte's throne.
+You see two open doorways.
+The carpet leads to Lolotte's throne.
+Lolotte's throne room is cold, dark, and ominous. From here, she rules her domain with an evil hand.
+Just go there.
+OH, NO!! The door is locked!
+What now, Rosella?!
+ERROR
+"Well, my pets," Lolotte hisses, "What have you drug home today?"
+Lolotte gives you the once over, and as she does her red eyes begin to narrow.
+"Are you a foolish girl who wandered here by mistake...or are you a SPY sent here by my enemy, Genesta?!" 
+You swear to Lolotte that you are nothing but a poor peasant girl who has lost her way, but she doesn't seem to believe you as her mouth begins to snarl and her eyes narrow to mere slits.
+For the first time, you experience real fear and begin to tremble.
+Lolotte snarls, "You don't look STUPID enough to have wandered HERE. I believe you're a SPY!"
+"Take her to the cell!"
+Lolotte gives you a sickly-sweet look. "You're lucky, my dear," she coos.
+"My precious son, Edgar, has taken a liking to you, and he believes you. He's convinced me to give you a chance to prove your innocence."
+You glance at the homely young man standing next to Lolotte. He blushes.
+Lolotte continues, "I wish to own the unicorn that inhabits the meadowland."
+"Bring me the unicorn, and I shall not only set you free, but reward you as well."
+To her henchmen, Lolotte orders, "Go! Take her back to the forest!"
+"So," Lolotte says, "I hear you were a good girl and brought me the unicorn."
+"I'm ALMOST convinced you might be innocent after all. But..." she clears her throat, "not quite."
+Oh, oh. This doesn't sound good, you think.
+Lolotte continues, "I am desirous of the hen that lays the golden eggs. Currently, the hen is kept by the ogre and his wife."
+"Bring me the hen, and you shall have your freedom and a great reward!"
+"Take her away!" Lolotte orders her goons.
+"What a good girl you are!" Lolotte gushes. "I really ought to give you your reward right now!"
+She pauses, and you wonder what she's up to.
+Lolotte goes on to say, "But, I have just the tiniest bit of doubt left."
+"If you do just ONE MORE thing for me, I'll be COMPLETELY convinced of your innocence and you'll receive a wonderful reward!"
+Somehow, you don't quite believe her.
+"I want to have Pandora's Box. It is said that whoever owns it would be in possession of the purest evil."
+Lolotte's red eyes glow as she exclaims, "With the power and evil of Pandora's Box, I would be UNSTOPPABLE!"
+Your terror returns as you realize what an evil being Lolotte really is!
+You wonder if you should be helping her in this way. But...what can you do about it? Nothing...right now.
+"I don't know the whereabouts of Pandora's Box," Lolotte tells you. "You must search for it yourself."
+Again, she orders her henchmen to "Take her away!"
+Lolotte smiles an evil smile. "You know," she says, "I've never asked you your name. What is it?"
+You tell her "Rosella." 
+"Rosella. What a pretty name." You wonder what this is all about.
+You find out soon enough. "Well, Rosella," Lolotte grins ominously, "You've earned your reward!"
+"My son, Edgar, has fallen in love with you. I wish him to be happy, and I give you the honor of being his wife and MY daughter-in-law!"
+Your heart turns flips and somersaults as you hear this.
+"You'll be married first thing in the morning," she informs you.
+"You will sleep in Edgar's room tonight, while my son sleeps elsewhere." 
+She motions to her goons. "Let us relieve you of your burdensome load before you retire."
+You are so shocked by this tragic turn of events, that you hardly notice your possessions being taken away.
+To her goons, Lolotte orders, "Escort our Rosella to her room."
+You are at the bottom of the east tower. A spiral of stone steps winds to the top.
+Looking up, you see nothing special.
+The unicorn rolls back its eyes. It obviously doesn't trust you any more.
+The unicorn doesn't want you to.
+What unicorn?
+The unicorn looks at you with sadness.
+It needs to be free...
+The unicorn is not here.
+You reach out to pet the unicorn's nose, but it won't let you.
+The unicorn doesn't trust you; it backs away.
+You should free the unicorn.
+Just open the gate and let the unicorn go!
+That would not be a good idea.
+You see two stable gates.
+You see nothing of importance on the walls.
+You have entered Lolotte's stable... and, it looks like an ordinary stable at that.
+The poor unicorn has been imprisoned here!!
+As soon as you open the gate, the splendid wild unicorn impatiently leaves its hated prison. It quickly trots out the open stable door to freedom.
+The seagull has no interest in it
+You don't see any fish right now.
+The pier is old and weather-beaten.
+Enter the water first.
+You look under the water, and see...more water!
+There is nothing of interest in the wooden barrel.
+The wide, blue ocean disappears into the horizon to the west.
+It's just an ordinary seagull.
+You see an old rotted rope attached to the pier.
+You see a grizzled, old fisherman on the pier. Apparently, he isn't having any luck today.
+You don't see him here.
+You are standing at the end of an old weathered pier. From here, to the west, you can see nothing but ocean.
+You are swimming near the end of an old weathered pier. From here, to the west, you can see nothing but ocean.
+You can't when you're on the pier.
+You taste the ocean water. YUCK!! This water's too salty!
+Just jump on in!
+The water is much too deep here.
+You wouldn't want it. It's of no use to you.
+Not while you're swimming.
+What do you want to do with it?
+The seagull is not interested.
+You can't kiss a seagull.
+Seagulls don't talk.
+You can't catch the seagull.
+You don't see him.
+You think for a moment that it might help, but then change your mind.
+There is no one nearby.
+Eagerly, from the end of the pier, you fling the baited line of the fishing pole into the ocean.
+Almost immediately, you feel a sharp tug on the line! Something pulls and fights your line as you slowly reel it in. There it is! You have caught yourself...a fine fat fish!
+Eagerly, from the end of the pier, you fling the line of the fishing pole into the ocean.
+But wait! You haven't baited your hook! Feeling rather sheepish, you reel in your empty fishing line.
+Almost immediately, you feel a sharp tug on the line! Something pulls and fights your line as you slowly reel it in. There it is! You have caught yourself...an old waterlogged boot. But, since you have no need of a boot, you toss it back into the water.
+The fish don't seem to be biting.
+With the return of his long-lost son, Alexander, and the rescue of his daughter, Rosella, from the terrible dragon, old King Graham decides it's time to pass on his adventurer's hat to younger blood.
+He flings the battered hat toward his children while his wife, Queen Valanice, proudly looks on.
+The hat arches through the air.
+Suddenly...!
+King Graham experiences a terrible squeezing pain in his chest.
+"Help me," he rasps.
+The adventurer's hat lies, unclaimed, upon the floor...forgotten.
+King Graham lies weakly in bed, Father Death hovering near.
+Grief suddenly overwhelming her, Rosella runs from the room.
+"Oh, Father!" she sobs. "You're still young; you should have many years ahead of you! Oh, I wish I could help you, Father!"
+"Do you really mean that?" a soft voice asks.
+Rosella looks up but sees no one. "Who's speaking to me?"
+"I am," the voice says. "Look in the magic mirror."
+Rosella sees an image in the mirror. "Wh-who are you?" she queries.
+"I am the fairy, Genesta. In my land of Tamir there is a remarkable tree. This tiny tree needs one hundred years to bear a single fruit."
+"But, this is no ordinary fruit; for if a person were to eat it, they would find that good health and well-being would be theirs for many years."
+Genesta smiles. "Tamir is very far away. But with my magic, I can bring you here."
+Rosella senses that there is more to the story. "But, I suppose there are some problems?"
+Again, Genesta smiles. "Yes, you are correct, Rosella. If you are willing to come to Tamir I will explain the situation."
+"However, once I bring you here, I can't send you back; you will have to help me first."
+Confused, Rosella says, "I don't know! What if I can't help you; or find the tree?"
+Genesta pleads, "You must decide NOW, Rosella. My powers are growing weaker by the minute."
+Now, the fairy is but a faint glimmer, and her voice barely audible. "If you care for your father, say `yes' now!..." And suddenly she's gone.
+"YES!!"
+The lovely fairy speaks. "I am the fairy, Genesta. Welcome to Tamir!"
+Rosella looks awestruck at the fairy. She is stunningly beautiful! But still there is a certain sadness to her.
+Finally, Rosella speaks. "I know you would like me to help you in some way, but I don't know how I could help a fairy."
+Genesta looks sadder than ever. "You're wrong, Rosella. You see, I'm losing my magical powers. Yesterday as I was strolling through the woods, Lolotte, the evil fairy, caught me unawares and stole my magic talisman."
+The fairy sighs, "She yanked it from my neck and raced away screeching with laughter. Immediately I felt my powers diminishing and my body weakening. I will die in 24 hours if my talisman is not returned."
+Intently, Genesta looks at Rosella. "Lolotte is very evil and will use the talisman to bring more evil to Tamir. Now I fear it will contaminate my whole country!"
+"Further, I cannot send you home without my talisman."
+Rosella is unsure as to what SHE can do. Meekly, she asks, "I want to help you, but how?"
+"You can do more than you think, Rosella," Genesta assures her. "I believe you will be able to penetrate Lolotte's domain."
+Suddenly, Rosella remembers the tiny tree. "Can you tell me where to find the magic fruit?"
+Remorsefully, Genesta looks at Rosella. "It will not be easy to reach the tree. It grows on a tiny island within a vast swamp on the other side of the great mountains."
+Bravely fighting back tears, Rosella says, "I will help you in any way I can, Genesta. How can I find Lolotte?"
+The beautiful fairy points eastward. "Lolotte's castle overlooks Tamir from the great mountains."
+Genesta looks weaker as she says, "There is not much more I can do, Rosella. As it is, it will be difficult for me to fly home again."
+"One thing I must do for you, though. I shall disguise you as a peasant girl so as not to attract attention."
+"Th-thank-you, Genesta...I think," Rosella stammers.
+"It will be better for you," the fairy says. "Well, I must be off while I can still fly. I KNOW you can do it!"
+"Good-bye, good luck."
+Well, you're on your own, Rosella.
+Got Here
+POOF!! You're a little froggy!
+You don't like the clammy feeling of being a frog. You look around, decide there's no reason to be one right now, and remove the little gold crown.
+Your 24 hours are up! Unfortunately for you and Tamir, both Genesta and your father, King Graham, have died. It looks like you're destined to stay here in Tamir forever; AND evil will rule the land. What a shame!
+You shoot an arrow into the air...
+Oops!...you missed!
+No beast so fierce but knows some touch of pity.
+A horse! A horse! My kingdom for a horse!
+Kiss me, Kate, we will be married o' Sunday.
+Bell, book and candle shall not drive me back.
+The lady doth protest too much, methinks.
+Help! The girls in "Leisure-Suit Larry in the Land of the Lounge Lizards" are mighty uncooperative. Give me some help here, guys!
+I see a beautiful mermaid in "King's Quest II," but she won't help me! Tell me what to do!
+Anybody out there! I had a condor drop this bottle in the nearest ocean to beg for help with "King's Quest I." Help me fight this fire-breathing dragon!
+Help! I'm about to get blasted by evil Sariens in "Space Quest!" Anybody have a handy ray gun out there?!
+Sludge Vohaul is holding me prisoner in "Space Quest II!" Help me out of this jam!
+Drug dealers are terrorizing the city of Lytton! I need a partner to help put away these bad guys in "Police Quest!"
+Hey, I need help here! The wicked Horned King has had me thrown into his dungeon! If I don't get out of here, then evil will rule the world in "The Black Cauldron!"
+Help me! I'm lost at sea in "King's Quest III!" I'm with a bunch of nasty pirates who want to feed me to the sharks! If you can, come quick!
+I'm a little kid, and my name's Tommy. I'm having trouble with Old King Cole and Humpty Dumpty in "Mixed-Up Mother Goose!" Come and help me!
+Oh, no! Help me!! I'm stranded on an airplane with a guy named Ken, being chased by the KGB and an evil army of henchettes, former church secretaries, game show hostesses, and bimbos. Buy "Leisure Suit Larry Goes Looking For Love (in Several Wrong Places.)"
+ Ok, but you'll be sorry!
+That was very foolish, Rosella! Now look what you've gone and done! You've loosed the terrible demons...and killed yourself in the process!!
+The unicorn seems paralyzed with fear at the sight of Lolotte's henchmen.
+You nimbly mount the magnificent unicorn, grab the golden reins, and set off toward Lolotte's castle.
+You look under the water, and see nothing but...more water!
+The blue water of the ocean washes serenely over the pretty sand beach.
+The bright, blue sky seems to merge as one with the vast ocean before you.
+You see nothing but sandy soil.
+There are not many rocks here.
+You see very few trees.
+From the beach, a beautiful meadow stretches to the east.
+Low-lying shrubs dot the meadowland to the east.
+Beautiful wildflowers adorn the green meadowland to the east.
+You cannot catch fish while swimming.
+This would not be a good spot to fish.
+You have no way of catching any fish.
+You see many seagulls gliding through the air in their never-ending quest for food.
+You can't catch a seagull.
+The seagulls are not interested.
+The seagull has no interest in it.
+You can't throw that.
+That would accomplish nothing.
+Something catches your eye! Why, it's a beautiful peacock feather!
+The ocean water laps gently upon the sandy beach of the island.
+You see a beautiful peacock feather lying upon the beach.
+The wide blue ocean surrounds this island. Off to the east, you can barely see the mainland of Tamir. 
+You see nothing but grass and shrubs.
+You don't see many rocks.
+There are many beautiful trees in this garden setting.
+Lush green grass carpets this magical island.
+A low hedge borders the lovely garden.
+The foliage is lush and green.
+Beautiful flowers seem to flourish here.
+A splendid garden surrounds the magnificent ivory palace.
+An enchanting ivory palace, encircled by a luxuriant garden, rises from the center of this secluded island.
+A majestic peacock, with a beautiful tail, struts by.
+You don't see one.
+Peacocks don't talk!
+You might find one lying around here somewhere.
+You don't need the peacock.
+Small, low bushes dot the pretty meadow. Wildflowers grow among them.
+Scattered rocks lie among the wildflowers of the meadow.
+You look at the ground and see nothing but green grass and wildflowers.
+Green grass carpets this lovely meadowland.
+Colorful wildflowers grow among the small rocks and bushes of the meadowland.
+Small rocks lie among the trees.
+Green grass carpets the woods.
+There are not many bushes in these woods.
+Soft grass cushions your walk through these woods.
+You don't notice many flowers here.
+The trees are numerous in these woods.
+The raven doesn't look to be a friendly bird at all!
+You see small birds here and there.
+There aren't many flowers to pick!
+It is difficult to climb trees while wearing that dress!.
+Caw! Caw!
+You wouldn't want it even if you COULD get it!
+Not this bird!
+Pine needles, among the grass, crunch beneath your feet as you walk through the forest.
+You don't see many shrubs here.
+Mostly, you see pine trees.
+A forest of pine trees encircles you.
+"Caw, caw!"
+The rocks are insignificant here.
+Despite this awful forest, the sky is quite nice and blue.
+There is little grass here.
+All you see are these awful trees!
+There are not many flowers here.
+These are vicious looking trees, aren't they? Best to stay clear of them!
+You'd swear that these trees were LOOKING at you...! But that's impossible.
+There are no flowers here!
+You've GOT to be KIDDING!!
+That would be impossible for you to do.
+That's not necessary anymore.
+How would you go about doing that?
+Go ahead, try it.
+These trees do not have the capability to talk.
+The scary trees only want YOU!
+The trees tremble at your might, and are frightened by your axe. They will not bother you further.
+The only rocks of importance are gravestones.
+You see numerous graves on the ground.
+Overgrown grass and weeds blanket this cemetery.
+The bushes are small and scrubby.
+There are few flowers here.
+A pine forest surrounds the decrepit cemetery.
+This old cemetery has fallen into a bad state of disrepair.
+Many graves with crumbling tombstones litter the old cemetery.
+Large stone monuments cover some graves.
+Watch out! Frightful zombies are everywhere!
+You don't see one now.
+It would waste your time to stop and pick flowers.
+There is no more reason to dig.
+The tombstones are much too heavy for you to carry around.
+The tombstones are firmly planted in the ground.
+Trying to reason with a zombie is NOT a good idea!
+How could you possibly kill something that is ALREADY DEAD!!
+There are no rocks suitable for climbing here.
+Come now. Would you really want a zombie?
+PLEASE!! Wise up, will you?!!
+You don't want to give anything to a zombie!
+The rocky mountains rise sharply to the east.
+These craggy mountains are much too steep to climb.
+You peer into the rushing river and see nothing but sand and pebbles.
+The cold water of the river rushes westward.
+The river is too shallow for swimming.
+Just enter the river.
+Ahhhh! It tastes good!
+You kneel down and take a drink of the cool river water. Ahhhh! It tastes good!
+Just enter the swamp if you wish to try that.
+Yech!! It tastes AWFUL!
+The water is too murky.
+The mucky swamp spreads in all directions.
+The steep mountain rises sharply to the west.
+The ground is mostly covered with a swampy quagmire. You notice tufts of swamp grass poking up from the murky water.
+You notice some grass tufts leading eastward.
+Swamp grass and reeds line the edges of the swamp. Tufts of thick grass poke up from the water.
+Large shrubs encircle the mucky bog.
+The marsh is filled with plant life; from thick reeds, to moss hanging from tall swamp trees.
+You don't see many flowers in a swamp.
+Large, moss-draped trees grow abundantly here.
+The mountain is too difficult to climb.
+You're not wearing it.
+Uh, oh! What did you do, Rosella?!
+Don't you know that some swamps are quagmires that will suck you under?! As you take your last breath, you contemplate this final information.
+"Oh, boy! I sure love frog legs!"
+You kneel down and drink the mucky swamp water. Yech!! It tastes AWFUL!
+You've already attracted Pan's attention.
+You wouldn't want to interfere with Pan's lute music.
+You hum along with Pan, but he doesn't pay any attention.
+You'd like to...but how do you play with a satyr?
+You couldn't keep up with him, Rosella.
+You can't get a satyr!
+You can't catch a satyr!
+Ok. Pan gratefully accepts your gift of the lute, and in return he gives you his flute. Happy now, he dances away with it.
+He isn't paying any attention to you.
+Pan would not be interested in it.
+He's too strange to kiss.
+You see a lively creature who is, at the same time, both man and goat. He is a satyr, and his name is Pan. He seems to be greatly enjoying his flute music.
+You attempt to speak to Pan, but he pays you no mind; he's too wrapped up in his flute music.
+You can't. Pan won't give it to you.
+It's not nice to steal.
+You gave it to Pan. It belongs to him.
+Pan seems to be quite happy with his new lute. As he plays it, he dances and frolics to the music.
+You try to speak to Pan, but he pays no attention to you; he's too involved with his lute music.
+You speak to Pan, but he doesn't respond; he only stares at you expectantly.
+Pan has ceased his dancing and now looks at you, and the lute, curiously.
+You couldn't get the minstrel.
+That could get you in more trouble than it's worth!
+The minstrel looks at your offering with mild interest, but politely declines.
+Well, it looks like our minstrel has turned into a Thespian. He seems much happier now.
+I don't see him here.
+You see a rather jaunty-looking fellow who appears to be a wandering minstrel. He seems to be a lute player.
+You say hello to the minstrel who looks at you in surprise. "Well, well. Who do we have here?" he asks. You introduce yourself as Rosella. "Hello, Rosella," the minstrel says. "Let me play for you one of my favorite tunes," and he begins to play an old ballad.
+Unfortunately, it appears that his musical skills are quite limited, as he plunks and pings his way through an otherwise, beautiful song.
+You unthinkingly speak to the minstrel again, who immediately begins playing another bad rendition of a favorite "oldie, but goodie."
+The minstrel seems quite pleased that you appreciate his music so much. He obviously loves the attention as he goes into an out-of-tune version of "Greensleeves."
+You can't get enough, can you, Rosella? This guy obviously loves an audience as he takes you through another "popular ballad."
+You say good-bye to the ex-minstrel, but he doesn't respond as he's too engrossed in his Shakespearean soliloquy. 
+The minstrel is not going to give you his sole means of livelihood!
+Your lilting voice contrasts terribly with the bad lute playing of the minstrel.
+You hand the Shakespeare book to the minstrel. Curiously, he opens it and begins to read aloud; first hesitantly, then with increased forcefulness as he begins to get into it.
+Suddenly, he stops and looks at you. "This is wonderful!" he exclaims. "This gives me a new lease on life! No longer am I a mere minstrel...now I will become a famous ACTOR! `TO BE OR NOT TO BE.' How's that?" He then gives you his lute, bids you farewell, and wanders off to stardom.
+The ogre looks MEAN!! Better get out of there...FAST!!
+You don't want to get that close to the ogre!
+The unicorn doesn't trust you now.
+There is no more need for that.
+Not while you're in the water.
+At what?
+How are you going to do that?
+You call to the wild unicorn, but it trots away at your arrival.
+You speak gently to the splendid unicorn. It whinnies softly in response.
+You talk lovingly to the beautiful dapple-grey unicorn. At your words, the unicorn bobs its head and paws the ground.
+The unicorn's horn has a golden shine.
+You have to catch the unicorn first.
+As the beautiful unicorn offers no resistance, you gently place the golden bit into its mouth, and fit the bridle and reins over its majestic head. The unicorn looks at you with curiosity.
+You don't have the bridle.
+The unicorn is already bridled.
+The unicorn runs away from you!
+You plant a big kiss on the velvety nose of the beautiful unicorn.
+You see a beautiful, wild unicorn in the meadow. Its coat is dapple-grey, and its wonderful horn shines like gold. The unicorn shies at your approach and trots away.
+The magnificent unicorn seems unafraid of you now. It nickers softly as you approach.
+The beautiful, dapple-grey unicorn is bridled up and ready to go. It nuzzles you gently as you near it.
+The unicorn just runs away from you!
+It would not do you any good, as you could mount the unicorn but could not guide it.
+Try the other side.
+The unicorn is now unafraid of you, but how can you GET a unicorn?
+Why don't you just ride the unicorn?
+You gently stroke the velvety, soft nose of the unicorn. It seems as if you have made a friend, Rosella!
+You are carrying nothing that the unicorn would want to eat.
+How can you lead the unicorn with no bridle?
+You're not carrying anything the unicorn would want.
+You aim one of Cupid's golden arrows toward the beautiful unicorn. You let go of the bow string. ZING! Bull's-eye!
+The magnificent unicorn is no longer afraid of you. It's now your friend.
+Pretty fish leap playfully around you.
+You don't see any now.
+Fish usually don't talk.
+You would have to catch them first.
+It's hard to catch fish while swimming.
+From your vantage point, you can see only water.
+You are swimming.
+You see the Seven Dwarfs toiling away with their picks and shovels, extracting the plentiful diamonds from their underground mine.
+This underground diamond mine belongs to the Seven Dwarfs.
+Chunks of rock litter the floor of the diamond mine.
+Numerous rock and diamond chunks lie scattered on the mine floor.
+The passageway of the diamond mine is but a short distance underground.
+Be careful on these narrow paths.
+Sparkling diamonds flash and gleam from the mine walls.
+The bucket is brimming with sparkling diamonds.
+Sparkling diamonds gleam from the walls and litter the mine floor.
+You are not interested in the rocks.
+These diamonds do not belong to you.
+You couldn't get the Seven Dwarfs.
+There are no rocks to climb here.
+You endeavor to engage in conversation with the small men, but they are too busy to reply.
+They are working awfully hard. That might distract them.
+They don't need help.
+The dwarfs have everything they need.
+The ogre is coming!
+You hear the ogre in the house.
+You hear noises on the other side of the door.
+What's that you hear?! Why, it's the sound of a crying baby, and it's coming from upstairs!
+You hear a baby crying!
+Suddenly you hear a terrible rattling of chains from downstairs!
+The sound of loud moaning and the rattling of heavy chains disturbs you.
+You offer the bag of gold coins to the old miser ghost. He greedily snatches it from your hands, and then promptly disappears.
+The stooped miser ghost is manacled to heavy chains he can never escape.
+You can't get the chains. Besides, you wouldn't want them.
+The ghost of the old miser doesn't even notice you.
+The old miser ghost's loud moans and groans drown out your attempted conversation.
+The ghost of a stooped old miser trudges through the house, lugging heavy chains behind him. He moans loudly in frustration as he appears to be searching for something he can't find.
+You'd like to help the old miser ghost, but how can you do that?
+The sound of sorrowful weeping floats down from upstairs.
+The sound of weeping fills the house.
+What was that? A loud wailing sound comes from downstairs!
+The sound of anguished wailing reaches you.
+You offer the Medal of Honor to the wailing ghost. He takes it from your hands with great reverence. Satisfied, he vanishes into thin air.
+The gentleman ghost of the Lord of the Manor doesn't seem to even see you.
+You say a few words to the wailing gentleman ghost, but he ignores you as he continues his futile search.
+You have encountered the gentleman ghost of the distinguished Lord of the Manor. He wails despondently as he seems to be looking for something he desperately wants.
+You'd like to help the distinguished ghost, but how can you do that?
+A cute, little boy ghost suddenly appears! He grins mischieviously at you, begins to giggle, and runs from the room.
+You hear naughty giggling as the little boy ghost runs from the room.
+You give the toy horse to the little boy ghost in hopes that he will vanish like the others before him. For a moment, you fear that he will not, as he takes time to examine it carefully. Suddenly, he grins at you, and in a twinkling, disappears.
+The ghost of the little boy just looks at you, and laughs.
+This isn't the time or place.
+You try to talk to the boy ghost, but he only giggles.
+The ghost of the little boy giggles and teases as he sits on the chest.
+The ghost of a little boy, giggles and teases as he tempts you to follow him.
+It's difficult to play with a ghost.
+You'd like to help the little boy ghost, but how can you do that?
+That is not a good idea now.
+You are not close enough.
+You don't see one of Lolotte's henchmen here.
+The henchman is asleep.
+They already are.
+You don't see a raven here.
+You see Lolotte's raven spying on you.
+"Caw! Caw!"
+You wouldn't want it even if you could get it.
+The raven is not interested in anything you have.
+It's too dark to see!
+You cannot look outside from here.
+The lantern you are carrying does little good in helping you to see in this dark cave.
+The earth floor of the cave is cold and hard.
+Passageways lead into the darkness of this frightening cave!
+You can't SEE the troll! It's too DARK in here!
+The cave is VERY dark. Try as you might, you cannot peer through the darkness.
+It's difficult to see in here.
+Conversation is not recommended at this time!
+You have NO way of killing a vicious troll!
+BE SERIOUS!!
+Are you sure you're all right?
+Trying to give ANYTHING to this nasty troll is not a good idea!!
+GRRRRRRR!!
+Oh, no! You have been caught by the vicious troll!
+Fate be what it may, you are dragged off to meet it.
+You hear the dwarfs approaching.
+You see a long, wooden table. It is empty.
+The narrow stairs lead upward.
+You see a long cupboard.
+Bowls of soup are on the table.
+You watch quietly as the dwarfs file in one by one, get a bowl of soup, and take a seat at the table.
+This dwarf must really be hungry; he's getting two bowls of soup!
+The Seven Dwarfs seem very pleased that you tidied their messy home. One politely asks you your name. You tell him, and he cordially invites you to sit down with them and eat the bowl of soup he got for you.
+You seat yourself at the table and begin to eat the surprisingly delicious soup.
+It's time for the little men to go back to the mine.
+"Good-bye, and thanks for the soup!" you call, as they take their leave.
+You finished your soup, also. It was the best soup you have ever tasted! Maybe though, you were just REALLY hungry!
+You see seven small men seated around their dining table, noisily slurping bowls of soup.
+You see a long, wooden table. The Seven Dwarfs are eating soup around it.
+It looks delicious.
+The bowl of soup is on the table; ready for you to eat.
+You already have a bowl of soup.
+You have eaten the soup. There is no more.
+Not while they're eating!
+The Seven Dwarfs look at it curiously, but refuse it.
+The soup is in front of you.
+You're already eating the soup.
+You're still eating your soup!
+You politely talk to the dwarf nearest you. "Where are you from, Rosella?" he asks. You tell him "Daventry." "Hmmmm," the dwarf thinks for a moment. "Never heard of it." 
+Again, you engage in conversation. "Is Daventry far from Tamir?" the dwarfs wonder. "Very far," you tell them. 
+"How did you get here?" they ask. As you don't want to get into specifics, you tell them "by sea." That answer seems to satisfy them as they return to their eating.
+You speak to the nearest dwarf again. He wonders why you are here in Tamir. You explain that you are in the service of Genesta, the Good Fairy, who wishes to regain her magic talisman from the clutches of Lolotte, the Bad Fairy. "Well, young lady," the dwarf states. "I don't envy you. You're much braver than I am, dealin' with that evil fairy." 
+You attempt conversation another time, but the dwarfs tell you they must hurry and finish their soup, as they need to get back to work before dark. 
+...suddenly, you find yourself outside.
+"My little Hen!" Genesta suddenly exclaims. "Where ever did you find her?"
+You explain that the ogre had possession of her.
+"Poor thing," she says. "Well, at least she's back home now."
+"Now for you, Rosella," Genesta says. "It's my turn to help YOU out. I will return you to Daventry; and with the magic fruit you will be able to save your father's life. We'd better hurry, though, as he doesn't have much time left."
+Yes, you ARE anxious to get home again.
+"But first," Genesta proclaims, "let's replace these peasant clothes with your royal gown."
+With a twinkle in her eye, Genesta announces, "There is someone else deserving of a reward for his kindness and heroism."
+"You have a beautiful soul, Edgar," the fairy says to the ugly, little man. "You should look like what you are."
+This handsome hunk is Edgar?!!
+"Rosella," he says, "I love you. Will you marry me?"
+You think about it some more.
+Then...
+"I'm sorry Edgar, "You're very sweet...but, I must immediately return home."
+"Perhaps, we'll meet again," you say.
+"Well, Rosella, " Genesta announces. "It's time for you to go. Your father desperately needs you."
+"Good-bye! We'll never forget you."
+"Now for you, Rosella," Genesta says. "You performed so heroically for all of us here in Tamir...but you forgot one thing...you forgot the magic fruit for your father."
+Sadly, you realize this terrible error.
+The fairy continues, "Well, it's too late now. I must immediately return you to Daventry so you may at least bid him good-bye."
+"You look like yourself again," assesses the fairy. "You'd best be off. We won't forget you here! Good luck!"
+...I now pronounce you man and wife! Edgar, you may kiss the bride.
+Fainting isn't going to help, Rosella. There's no getting out of this one. You're stuck being Mrs. Edgar for the rest of your life.
+Not to mention having old Lolotte for a mother-in-law! Good luck...you're going to need it!
+You made it just in time. Just in time, that is... to look your father in the eyes before he quietly dies. He must have been waiting for your return.
+Obviously, it would have been better if things had ended happily. If only you could have another chance...
+You give the healing fruit to your dying father and strongly urge him to take a bite...which he weakly does.
+"How are you feeling, Father?" you excitedly ask him.
+"Never felt better in my life!" is his reply. "What is IN this fruit, anyway?" he wonders.
+"It is MAGIC, Father!" and you tell your excited family of your adventure in Tamir.
+"I don't think you're through with this hat, yet!" you say. Your brother, Alexander, and your mother, Queen Valanice, readily agree. "You've got too much life ahead of you!"
+Like a heavy blanket, darkness enfolds you.
+Is this your first time playing King's Quest IV?
+ 1988 Sierra On-Line, Inc.
+Sorry, what you just typed does not match the "King's Quest IV" manual. You must have the manual to play this game. If you do not, contact Sierra's Customer Support Department. The telephone number is on your original disk label.
+NOW Ctrl-Click!
+Failed to open KQ4.LOG
+Starting logfile entries.
+Logfile IS on.
+New save-game directory:
+You must type a description for the game.
+Your save game disk is full. You must either use another disk or save over an existing saved game.
+That game was saved under a different interpreter. It cannot be restored.
+That doesn't appear to be a proper sentence.
+That sentence doesn't make sense.
+You've left me responseless.
+To date, you have acquired nothing!
+The game can not be saved at this time.
+The game can not be restored at this time.
+Inventory can not be displayed at this time.
+Change speed using plus (+) and minus (-) keys.
+Volume can not be changed at this time.

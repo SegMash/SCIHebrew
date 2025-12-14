@@ -1,0 +1,10 @@
+python scripts\map_files.py .\output_kq4\single_messages.txt .\output_kq4\single_messages_hebrew.txt .\output_kq4\single_mapping.txt
+python scripts\map_files.py --multiline .\output_kq4\multi_messages.txt .\output_kq4\multi_messages_hebrew.txt .\output_kq4\single_mapping.txt --append
+python scripts\map_files.py .\output_kq4\format_messages.txt .\output_kq4\format_messages_hebrew.txt .\output_kq4\single_mapping.txt --append
+python scripts\translate_texts.py kq4_resources kq4_work .\output_kq4\single_mapping.txt
+
+#DO NOT RUN
+python scripts\build_font.py fonts/001 kq4_work --line-height 12
+python scripts\build_font.py fonts/000 kq4_work --line-height 8
+
+python.exe .\scripts\vocab_import.py output_kq4 kq4_work kq4_resources_copy

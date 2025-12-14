@@ -1,0 +1,26 @@
+Score: %d of %d  %s
+This game does not understand "%s."
+What do you want to do with the %s?
+This is a very pretty little pond. Floating upon it are many beautiful water lilies. %s
+Many water lilies float upon this little pond. %s
+Numerous water lilies float serenely upon the lovely little pond nestled in these woods. %s
+You are wandering through a thick wood. %s
+The inside of the fisherman's shack looks almost as shabby as the outside. %s
+You say a few words to the woman, but she seems not to hear you as she is humming softly to herself while %s.
+It looks as if many an unlucky sailor has been stranded here. %s
+The lovely fairy is visibly fading...fast. Within hours, if she doesn't get her magic talisman back, she'll be dead. %s
+You have entered the ogres' upstairs bedroom where a huge bed dominates the place. In the left wall, you notice a closed door. %s
+You have entered the small upstairs bedroom of the Seven Dwarfs. %s 
+This is a dismal and dreary cave. %s In the center of the cave, over a hot fire, boils a foul-smelling brew inside a large black cauldron. %s
+You have found a secret tower! Narrow steps spiral dizzingly upward. %s
+The time is:   %u:%02u %s
+What an incredible place! This looks like an ancient burial tomb, with hieroglyphics written on the walls, and an old coffin against the far wall. %s %s
+What's this?! Why, it's a cave behind the waterfall! %s
+This is the darkest cave you've ever seen! %s 
+You see a small island in the middle of the huge swamp. Upon this island grows a scrawny little tree. %s Unfortunately, a huge cobra protects it.
+So, this is Lolotte's bed chamber. You question her taste in decorating as her furniture is a bit on the gaudy side. %s
+Lolotte is quite dead now. %s
+This is the west end of a dim hallway. There is %s door here.
+This is room %d.
+I don't understand "%s".
+In order to verify your legal ownership, please use your "King's Quest IV" manual to answer the following question:\n\n%s
