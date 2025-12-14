@@ -9,3 +9,6 @@ python.exe .\scripts\vocab_import.py output_kq4 kq4_work kq4_resources_copy
 REM commands to create mapping file for built-in messages and to replace in gog sources
 REM python.exe .\scripts\map_files.py .\output_kq4\built-in-messages.txt .\output_kq4\built-in-messages_hebrew.txt .\output_kq4\built-in-mapping.txt
 REM python.exe .\scripts\replace_strings.py .\kq4_gog\src .\kq4_gog\src_heb .\output_kq4\built-in-mapping.txt
+
+makensis.exe .\kq4_hebrew_patch.nsi
+powershell -Command "(Get-FileHash -Algorithm MD5 'patch_kq4\bin\font.000').Hash.ToLower()"

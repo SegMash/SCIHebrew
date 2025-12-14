@@ -205,6 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
-kq4_*
+kq4_gog*
+kq4_work
+kq4_resources
 output*/single_mapping.txt
 SCICompanion
+*.exe
