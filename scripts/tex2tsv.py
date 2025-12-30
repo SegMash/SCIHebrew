@@ -73,8 +73,10 @@ def convert_tex_to_tsv(tex_filepath, tsv_filepath):
             
             # write each entry
             for i, text in enumerate(texts):
+                # escape newlines to literal \n
+                text_escaped = text.replace('\n', '\\n')
                 # write: Index, Noun (empty), Selector (empty), Verb (empty), Text, Original (empty)
-                outfile.write(f"{i}\t\t\t\t{text}\t\n")
+                outfile.write(f"{i}\t\t\t\t{text_escaped}\t\n")
         
         print(f"Successfully converted {len(texts)} entries from '{tex_filepath}' to '{tsv_filepath}'.")
         
@@ -120,36 +122,18 @@ if __name__ == "__main__":
         # directory mode
         tex_dir = tex_input
         
-        # find all .tex files in the input directory
-        tex_files = [f for f in os.listdir(tex_dir) if f.endswith('.tex')]
+        # find all .tex files in the input directory (case-insensitive)
+        tex_files = [f for f in os.listdir(tex_dir) if f.lower().endswith('.tex')]
         
         if not tex_files:
             print(f"No .tex files found in '{tex_dir}'.")
             sys.exit(0)
 
-        # filter out selector files (module+1 from tsv2tex pairs)
-        # if a file X.tex exists and (X-1).tex also exists, then X.tex is likely a selector file
-        text_files = []
-        for tex_filename in tex_files:
-            module = os.path.splitext(tex_filename)[0]
-            if module.isnumeric():
-                prev_module = int(module) - 1
-                prev_file = f"{prev_module}.tex"
-                # skip if this appears to be a selector file (previous module exists)
-                if prev_file in tex_files:
-                    print(f"Skipping '{tex_filename}' (appears to be a selector file for module {prev_module})")
-                    continue
-            text_files.append(tex_filename)
-        
-        if not text_files:
-            print(f"No text .tex files found after filtering.")
-            sys.exit(0)
-
-        print(f"Found {len(text_files)} text .tex file(s) to convert (skipped {len(tex_files) - len(text_files)} selector files).")
+        print(f"Found {len(tex_files)} .tex file(s) to convert.")
         
         # convert each .tex file to .tsv
         converted_count = 0
-        for tex_filename in sorted(text_files):
+        for tex_filename in sorted(tex_files):
             # derive input and output paths
             tex_file = os.path.join(tex_dir, tex_filename)
             module = os.path.splitext(tex_filename)[0]
@@ -162,4 +146,4 @@ if __name__ == "__main__":
             except Exception as e:
                 print(f"Error converting '{tex_filename}': {e}")
         
-        print(f"\nConversion complete. {converted_count}/{len(text_files)} file(s) successfully converted.")
+        print(f"\nConversion complete. {converted_count}/{len(tex_files)} file(s) successfully converted.")
