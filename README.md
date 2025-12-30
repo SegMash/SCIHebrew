@@ -66,3 +66,56 @@ Manual changes:
 7. Room69.sc (069) - Fix box/pandora
 8. Room77.sc (077) - support swamp-egg
 9. Room78.sc (078) - support swamp-egg
+
+
+
+
+KQ5 - changes
+1. Drop the subtitles files into work dir
+2. 4.fon - from sq5?
+
+
+Notes:
+How to push into scumm
+1. Run git remote make sure you have these
+PS C:\Users\SEGEVMA\source\repos\scummvm> git remote -v
+origin  https://github.com/SegMash/scummvm.git (fetch)
+origin  https://github.com/SegMash/scummvm.git (push)
+upstream        https://github.com/scummvm/scummvm.git (fetch)
+upstream        https://github.com/scummvm/scummvm.git (push)
+
+2. Remove proxy settings:
+Remove-Item Env:\HTTP_PROXY -ErrorAction SilentlyContinue; Remove-Item Env:\HTTPS_PROXY -ErrorAction SilentlyContinue; Remove-Item Env:\http_proxy -ErrorAction SilentlyContinue; Remove-Item Env:\https_proxy -ErrorAction SilentlyContinue; git config --global --unset http.proxy; git config --global --unset https.proxy
+
+3. Fetch latest changes from upstream
+git fetch upstream
+
+4. stash changes
+git stash
+5. Now update my master with upsteam!
+git checkout master
+git merge upstream/master
+6. Push to origin (fork)
+git push origin master
+7. Restore my stash changes
+git stash pop
+8. Check status of diff
+git diff --stat
+9. Go to visual studio, stash and commit the changes with a proper message
+10. git push origin master
+11. Create the PR
+
+
+git checkout -b adding_harpy_patch_v2
+git reset --hard upstream/master
+git cherry-pick b6c32625830
+git log --oneline upstream/master..adding_harpy_patch_v2
+-> Push to the fork
+git push origin adding_harpy_patch_v2
+
+To reset my workspace like the upstream:
+git checkout master
+git reset --hard upstream/master
+git push origin master --force
+git branch -D adding_harpy_patch_v2
+git push origin --delete adding_harpy_patch_v2
