@@ -72,7 +72,6 @@ def convert_mapping_to_json(mapping_filepath, json_filepath, game_name=""):
                 
                 # Create message entry
                 message = {
-                    "logicFile": "0.agilogic",
                     "messageNumber": len(messages) + 1,
                     "original": original,
                     "translation": translation,
