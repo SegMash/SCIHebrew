@@ -29,6 +29,10 @@ REM Copy fonts
 for %%f in (0 4 69 8) do (
     copy .\games_assets\kq5\%%f.fon .\kq5_work
 )
+REM Copy images
+for %%f in (107) do (
+    copy .\games_assets\kq5\%%f.p56 .\kq5_work
+)
 
 REM Copy all *.scr files from assets to work dir
 copy .\games_assets\kq5\*.scr .\kq5_work

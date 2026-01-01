@@ -89,18 +89,18 @@ Atop one of the bigger lily pads, you notice a rather large frog...wearing a lit
 Rosella === רוזלה
 Genesta === ג'נסטה
 You hear birds chirping from the many trees. === את שומעת ציפורים מצייצות מבין העצים הרבים.
-You see a tired-looking woman kneading bread at the counter. === את רואה אישה בעלת מראה עייף לשה בצק ליד השיש.
-You see the old fisherman at the table, and his wife kneading bread at the counter. The fisherman's fishing pole has been set in the corner. === את רואה את הדייג הזקן ליד השולחן, ואת אשתו לשה בצק ליד השיש. חכת הדיג של הדייג הונחה בפינה.
-You see the old fisherman at the table, and his wife kneading bread at the counter. Since your generous gift of the diamonds, however, her grouchy look has been replaced by one of contentment. === את רואה את הדייג הזקן ליד השולחן, ואת אשתו לשה בצק ליד השיש. אולם מאז מתנת היהלומים הנדיבה שלך, המבט הנרגן שלה התחלף בהבעת סיפוק.
+You see a tired-looking woman kneading bread at the counter. === את רואה אישה עייפה ומותשת לשה בצק על השיש.
+You see the old fisherman at the table, and his wife kneading bread at the counter. The fisherman's fishing pole has been set in the corner. === את רואה את הדייג הזקן ליד השולחן, ואת אשתו לשה בצק על השיש. חכת הדיג של הדייג הונחה בפינה.
+You see the old fisherman at the table, and his wife kneading bread at the counter. Since your generous gift of the diamonds, however, her grouchy look has been replaced by one of contentment. === את רואה את הדייג הזקן ליד השולחן, ואת אשתו לשה בצק על השיש. אולם מאז מתנת היהלומים הנדיבה שלך, המבט הנרגן שלה התחלף בהבעת סיפוק.
 You see a tired-looking woman knitting at the table. === את רואה אישה בעלת מראה עייף סורגת ליד השולחן.
-The fisherman's worn and tattered wife sits at the table with her husband, talking. The fisherman's pole has been set into the corner. === אשתו הבלויה והמרופטת של הדייג יושבת ליד השולחן עם בעלה ומשוחחת עמו. חכת הדייג הונחה בפינה.
-The fisherman's worn and tattered wife sits at the table with her husband, talking. Since your generous gift of the diamonds, however, her grouchy look has been replaced by one of contentment. === אשתו הבלויה והמרופטת של הדייג יושבת ליד השולחן עם בעלה ומשוחחת עמו. אולם מאז מתנת היהלומים הנדיבה שלך, המבט הנרגן שלה התחלף בהבעת סיפוק.
-kneading the bread === לשה את הלחם
+The fisherman's worn and tattered wife sits at the table with her husband, talking. The fisherman's pole has been set into the corner. === אשתו הבלויה והמוזנחת של הדייג יושבת ליד השולחן עם בעלה ומשוחחת עמו. חכת הדייג הונחה בפינה.
+The fisherman's worn and tattered wife sits at the table with her husband, talking. Since your generous gift of the diamonds, however, her grouchy look has been replaced by one of contentment. === אשתו הבלויה והמוזנחת של הדייג יושבת ליד השולחן עם בעלה ומשוחחת עמו. אולם מאז מתנת היהלומים הנדיבה שלך, המבט הנרגן שלה התחלף בהבעת סיפוק.
+kneading the bread === לשה את הבצק
 knitting === סורגת
 You see a glint coming from one of the wrecked boats on the beach. === את רואה נצנוץ המגיע מאחת הסירות ההרוסות על החוף.
 This will be a loss for Tamir, as the evil Lolotte will come to power! === זה יהיה אובדן לטמיר, שכן לולוט המרושעת תעלה לשלטון!
 Against the right wall, leans the ogre's axe. === כנגד הקיר הימני, נשען הגרזן של העוג.
-My goodness, these dwarfs are sloppy! === אלוהים אדירים, הגמדים האלה מרושלים!
+My goodness, these dwarfs are sloppy! === אלוהים אדירים, הגמדים האלה מוזנחים!
 Within it, reside three one-eyed old witches. === בתוכה מתגוררות שלוש מכשפות זקנות בעלות עין אחת.
 You see a black scarab on the cave floor. === את רואה חרפושית שחורה על רצפת המערה.
 You notice a shovel leaning against the wall. === את מבחינה באת חפירה נשען על הקיר.
@@ -112,7 +112,7 @@ You see an old board lying by the cave entrance. === את רואה קרש ישן
 Even the lantern does little good. === אפילו העששית לא ממש עוזרת.
 A large, glistening fruit hangs from a small branch. === פרי גדול ונוצץ תלוי על ענף קטן.
 What a beautiful red rose! === איזה ורד אדום ויפהפה!
-And speaking of Lolotte...the old bat is sound asleep on her massive bed. === ואם מדברים על לולוט... העטלף הזקן ישנה עמוקות במיטה המאסיבית שלה.
+And speaking of Lolotte...the old bat is sound asleep on her massive bed. === ואם מדברים על לולוט... הערפדית הזקנה ישנה עמוקות במיטה המאסיבית שלה.
 However, since Lolotte is now dead, it doesn't really matter anymore. === אולם, מכיוון שלולוט מתה כעת, זה כבר לא ממש משנה.
 \nGenesta's magic talisman hangs from around her neck. === \nקמע הקסם של ג'נסטה תלוי סביב צווארה.
 Woods Region === אזור היער
@@ -158,9 +158,9 @@ Restore === שחזור
 Ego drinking water === Ego שותה מים
 __Save__ === __שמירה__
 Replace === החלפה
-Select the game that you would like to restore. === בחרי את המשחק שברצונך לשחזר.
-Type the description of this saved game. === הקלידי את תיאור המשחק השמור.
-This directory/disk can hold no more saved games. You must replace one of your saved games or use Change Directory to save on a different directory/disk. === התיקייה/דיסק הזה אינם יכולים להכיל משחקים שמורים נוספים. עלייך להחליף את אחד המשחקים השמורים שלך או להשתמש ב"שינוי תיקייה" כדי לשמור בתיקייה/דיסק אחרים.
+Select the game that you would like to restore. === בחר את המשחק שברצונך לשחזר.
+Type the description of this saved game. === הקליד את תיאור המשחק השמור.
+This directory/disk can hold no more saved games. You must replace one of your saved games or use Change Directory to save on a different directory/disk. === התיקייה/דיסק הזה אינם יכולים להכיל משחקים שמורים נוספים. עליך להחליף את אחד המשחקים השמורים שלך או להשתמש ב"שינוי תיקייה" כדי לשמור בתיקייה/דיסק אחרים.
 Restore a Game === שחזור משחק
 Save a Game === שמירת משחק
  Cancel  ===  ביטול
@@ -173,22 +173,22 @@ A.M. === לפנה"צ
 Continue === המשך
 ____Quit____ === ____יציאה____
  Continue  === המשך
-Use the mouse or the left and right arrow keys to change the speed of moving characters. === השתמשי בעכבר או במקשי החיצים ימינה ושמאלה כדי לשנות את מהירות הדמויות.
+Use the mouse or the left and right arrow keys to change the speed of moving characters. === השתמש בעכבר או במקשי החיצים ימינה ושמאלה כדי לשנות את מהירות הדמויות.
 Animation Speed === מהירות אנימציה
 Faster === מהר יותר
 Slower === לאט יותר
-Use the mouse or left and right arrow keys to change the volume. === השתמשי בעכבר או במקשי החיצים ימינה ושמאלה כדי לשנות את עוצמת השמע.
+Use the mouse or left and right arrow keys to change the volume. === השתמש בעכבר או במקשי החיצים ימינה ושמאלה כדי לשנות את עוצמת השמע.
 Sound Volume === עוצמת שמע
 Louder === חזק יותר
 Softer === חלש יותר
 About KQ4`^a:Help`#1 === אודות KQ4`^a:עזרה`#1
- File  ===  קובץ_
+ File  ===  קובץ 
 Save`#5:Restore`#7:-!:Restart`#9:Quit`^q === שמור`#5:שחזר`#7:-!:אתחל`#9:צא`^q
 Pause`^p:Inventory`^i:Retype`#3 === השהה`^p:חפצים`^i:הקלד שוב`#3
- Action  === פעולה_
- Speed  === מהירות_
+ Action  ===  פעולה 
+ Speed  ===  מהירות 
 Speed`^s:-!:Faster`+:Normal`=:Slower`- === מהירות`^s:-!:מהיר יותר`+:רגיל`=:איטי יותר`-
- Sound  ===  קול_
+ Sound  ===  קול
 Volume`^v:-!:Turn Off=1`#2 === עוצמה`^v:-!:כיבוי=1`#2
 Turn Off === כבה
 Turn On === הפעל
