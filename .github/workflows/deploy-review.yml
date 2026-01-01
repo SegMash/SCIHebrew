@@ -1,0 +1,66 @@
+name: Deploy Review App
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout translation repo
+        uses: actions/checkout@v4
+
+      - name: Checkout agi-ivrit
+        uses: actions/checkout@v4
+        with:
+          repository: sam-mfb/agi-ivrit
+          path: agi-ivrit
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: agi-ivrit/package-lock.json
+
+      - name: Install dependencies
+        run: npm ci
+        working-directory: agi-ivrit
+
+      - name: Copy translation files
+        run: |
+          mkdir -p agi-ivrit/active-translation
+          cp output_kq4/*.json agi-ivrit/active-translation/
+
+      - name: Build review app
+        run: npm run review:build
+        working-directory: agi-ivrit
+        env:
+          VITE_BASE: /${{ github.event.repository.name }}/
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: agi-ivrit/translation-review/dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
