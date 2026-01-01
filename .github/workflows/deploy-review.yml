@@ -25,31 +25,31 @@ jobs:
       - name: Checkout translation repo
         uses: actions/checkout@v4
 
-      - name: Checkout SCIHebrew
+      - name: Checkout agi-ivrit
         uses: actions/checkout@v4
         with:
-          repository: SegMash/SCIHebrew
-          path: SCIHebrew
+          repository: sam-mfb/agi-ivrit
+          path: agi-ivrit
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
           cache: 'npm'
-          cache-dependency-path: SegMash/package-lock.json
+          cache-dependency-path: agi-ivrit/package-lock.json
 
       - name: Install dependencies
         run: npm ci
-        working-directory: SegMash
+        working-directory: agi-ivrit
 
       - name: Copy translation files
         run: |
-          mkdir -p SegMash/active-translation
-          cp *.json SegMash/active-translation/
+          mkdir -p agi-ivrit/active-translation
+          cp output_kq4/*.json agi-ivrit/active-translation/
 
       - name: Build review app
         run: npm run review:build
-        working-directory: SegMash
+        working-directory: agi-ivrit
         env:
           VITE_BASE: /${{ github.event.repository.name }}/
 
@@ -59,7 +59,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: SegMash/translation-review/dist
+          path: agi-ivrit/translation-review/dist
 
       - name: Deploy to GitHub Pages
         id: deployment
