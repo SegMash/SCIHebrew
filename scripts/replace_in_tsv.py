@@ -24,15 +24,17 @@ def load_mapping(mapping_filepath):
     try:
         with open(mapping_filepath, 'r', encoding='utf-8') as f:
             for line in f:
-                line = line.strip()
+                line = line.rstrip('\r\n')
                 if not line:
                     continue
                 
                 # split by separator
                 parts = line.split(' === ')
                 if len(parts) == 2:
-                    english = parts[0].strip()
-                    hebrew = parts[1].strip()
+                    #english = parts[0].rstrip()
+                    #hebrew = parts[1].rstrip()
+                    english = parts[0]
+                    hebrew = parts[1]
                     mapping[english] = hebrew
                     
         print(f"Loaded {len(mapping)} mappings from '{mapping_filepath}'.")

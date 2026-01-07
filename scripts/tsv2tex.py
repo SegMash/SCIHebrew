@@ -29,7 +29,7 @@ def convert_tsv_to_tex(tsv_filepath, tex_filepath, field):
                 line_count = 0
                 for line in infile:
                     # strip whitespace and split line by tabs
-                    fields = line.strip().split('\t')
+                    fields = line.strip('\n\r').split('\t')
 
                     # detect and skip over header
                     if not fields[0].isnumeric():
