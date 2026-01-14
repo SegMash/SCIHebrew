@@ -56,6 +56,31 @@ VIAddVersionKey "LegalCopyright" "Hebrew Translation Team"
 !insertmacro MUI_LANGUAGE "Hebrew"
 
 ;--------------------------------
+; Validation Function
+
+Function .onVerifyInstDir
+  ; Check if resource.map exists
+  IfFileExists "$INSTDIR\resource.map" 0 invalid_dir
+  
+  ; Get file size of resource.map
+  ClearErrors
+  FileOpen $0 "$INSTDIR\resource.map" r
+  FileSeek $0 0 END $1
+  FileClose $0
+  
+  ; Check if file size is exactly 7,476 bytes
+  IntCmp $1 7476 valid_dir invalid_dir invalid_dir
+  
+  valid_dir:
+    ; Directory is valid
+    Return
+  
+  invalid_dir:
+    ; Directory is invalid - abort
+    Abort
+FunctionEnd
+
+;--------------------------------
 ; Installer Sections
 
 Section "King's Quest IV Hebrew Patch" SecMain
