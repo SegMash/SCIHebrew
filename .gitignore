@@ -208,6 +208,8 @@ __marimo__/
 kq4_gog*
 kq4_resources
 output*/single_mapping.txt
+output*/*_messages.csv
+output*/*_messages_english.txt
 SCICompanion
 *.exe
 *_work
