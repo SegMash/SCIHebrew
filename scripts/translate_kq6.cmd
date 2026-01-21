@@ -16,4 +16,7 @@ for %%f in (.\output_kq6\*_messages.csv) do (
     python .\scripts\create_msg.py .\output_kq6\!prefix!_messages.csv .\games_assets\kq6\!prefix!.msg
 )
 
+REM Copy all files from games_assets\kq6 to kq6_work
+copy .\games_assets\kq6\* .\kq6_work\
+
 endlocal

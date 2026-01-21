@@ -9,6 +9,7 @@
 import os
 import sys
 import csv
+import re
 
 
 def load_mapping(mapping_filepath):
@@ -74,11 +75,17 @@ def replace_in_csv(csv_filepath, output_filepath, mapping, text_column='text'):
             
             rows = []
             for row in reader:
-                english_text = row[text_column]
+                english_text = row[text_column].strip()
+                
+                english_text=english_text.replace('\r','')
+                english_text=english_text.replace('\n','\\n')
+                #print(f"{english_text}")   
+                english_text=remove_brackets(english_text)
+                #print(f"|{english_text}|")
                 
                 # check if we have a translation for this text
                 if english_text in mapping:
-                    row[text_column] = mapping[english_text]
+                    row[text_column] = mapping[english_text].replace('\\n','\r\n')
                     replaced_count += 1
                 
                 rows.append(row)
@@ -99,6 +106,17 @@ def replace_in_csv(csv_filepath, output_filepath, mapping, text_column='text'):
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
         sys.exit(1)
+
+def remove_brackets(text):
+    # Remove all patterns like ([...]), ([#]...), ([0]...), (TEXT), etc.
+    # This regex matches any text in parentheses (including nested brackets)
+    pattern = r'\([^)]*\)'
+    cleaned = re.sub(pattern, '', text)
+    # Remove the space after the first "
+    cleaned = re.sub(r'^"\s+', '"', cleaned) 
+    # Only strip leading/trailing whitespace, preserve original spacing
+    cleaned = cleaned.strip()
+    return cleaned
 
 
 if __name__ == "__main__":

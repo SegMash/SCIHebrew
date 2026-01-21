@@ -219,3 +219,4 @@ output_kq5/*.tsv
 output_kq5/*_english.txt
 output_kq6/mapping_*.txt
 temp_kq5
+games_assets/kq6/*.msg
