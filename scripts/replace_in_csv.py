@@ -79,11 +79,17 @@ def replace_in_csv(csv_filepath, output_filepath, mapping, text_column='text'):
                 
                 english_text=english_text.replace('\r','')
                 english_text=english_text.replace('\n','\\n')
-                #print(f"{english_text}")   
                 english_text=remove_brackets(english_text)
                 #print(f"|{english_text}|")
+                #if "Alexander?" in english_text:
+                #    print(f"Debug: Found Alexander in line:|{english_text}|")
                 
                 # check if we have a translation for this text
+                if english_text not in mapping:
+                    english_text = re.sub(r'^"\s+', '"', english_text) 
+                if english_text not in mapping:
+                    english_text = english_text.strip()
+
                 if english_text in mapping:
                     row[text_column] = mapping[english_text].replace('\\n','\r\n')
                     replaced_count += 1
@@ -113,9 +119,8 @@ def remove_brackets(text):
     pattern = r'\([^)]*\)'
     cleaned = re.sub(pattern, '', text)
     # Remove the space after the first "
-    cleaned = re.sub(r'^"\s+', '"', cleaned) 
+    #cleaned = re.sub(r'^"\s+', '"', cleaned) 
     # Only strip leading/trailing whitespace, preserve original spacing
-    cleaned = cleaned.strip()
     return cleaned
 
 
