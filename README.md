@@ -1,3 +1,25 @@
+## Quick Start Guide
+In order to do quick changes
+### KQ4
+assets dir: patch_kq4
+messages: output_kq4/*_messages_hebrew.txt
+words: output_kq4/vocab.csv
+nsis script: kq4_hebrew_patch.nsi
+quick build script: translate_kq4.cmd
+
+### KQ5
+assets dir: games_assets/kq5
+messages: output_kq5/*_hebrew.txt
+quick build script: translate_kq5.cmd
+
+### KQ6
+assets dir: games_assets/kq6
+messages: output_kq6/*_messages_hebrew.txt
+quick build script: translate_kq6.cmd
+
+
+## Development Guide
+
 Translate SCI game procedure:
 Prerequisit:
 Prepare gog game, and create src folder. Copy the sources from csi-scripts project. (find your game!) 
