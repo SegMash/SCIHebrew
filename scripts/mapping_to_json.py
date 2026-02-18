@@ -191,7 +191,7 @@ if __name__ == "__main__":
                     
                     # Create message entry
                     message = {
-                        "logicFile": f"{file_number}.agilogic",
+                        "logicFile": file_number,
                         "messageNumber": file_message_count,
                         "original": original,
                         "translation": translation,
