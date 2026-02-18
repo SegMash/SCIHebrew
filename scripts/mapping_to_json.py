@@ -153,6 +153,9 @@ if __name__ == "__main__":
         # Extract file number from filename
         file_number = int(re.search(r'\d+', mapping_file).group())
         
+        # Track message number per file
+        file_message_count = 0
+        
         try:
             with open(mapping_filepath, 'r', encoding='utf-8') as infile:
                 for line_num, line in enumerate(infile, 1):
@@ -183,10 +186,13 @@ if __name__ == "__main__":
                         if p not in all_placeholders:
                             all_placeholders.append(p)
                     
+                    # Increment file-specific message counter
+                    file_message_count += 1
+                    
                     # Create message entry
                     message = {
-                        "fileNumber": file_number,
-                        "messageNumber": len(all_messages) + 1,
+                        "logicFile": f"{file_number}.agilogic",
+                        "messageNumber": file_message_count,
                         "original": original,
                         "translation": translation,
                         "notes": "",
@@ -195,7 +201,7 @@ if __name__ == "__main__":
                     
                     all_messages.append(message)
             
-            print(f"  Added {len(all_messages) - len([m for m in all_messages if m['messageNumber'] <= len(all_messages) - 1])} messages")
+            print(f"  Added {file_message_count} messages")
         
         except FileNotFoundError:
             print(f"  Error: The file '{mapping_filepath}' was not found.")
