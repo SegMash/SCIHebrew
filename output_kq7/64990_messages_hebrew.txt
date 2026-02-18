@@ -1,0 +1,23 @@
+New save-game directory:
+You must type a description for the game.
+Select the game that you would like to restore.
+Type the description of this saved game.
+Are you sure you want to\ndelete this saved game?
+Restore a Game
+Save a Game
+Cancel
+Change Directory
+Delete
+Replace
+Restore
+OK
+Save
+%s\nis not a valid directory.
+This directory/disk can hold no more saved games.  You must replace one of your saved games or use Change Directory to save on a different directory/disk.
+No
+Yes
+Replace
+with:
+Cancel
+\1d
+\1e

@@ -111,15 +111,119 @@ def convert_mapping_to_json(mapping_filepath, json_filepath, game_name=""):
 
 if __name__ == "__main__":
     # validate command line
-    if len(sys.argv) < 2 or len(sys.argv) > 4:
-        print("Usage: python mapping_to_json.py <mapping-file> [output-json] [game-name]")
-        print("   -> mapping-file: text file with 'english === hebrew' format")
-        print("   -> output-json: optional (defaults to messages.json)")
+    if len(sys.argv) < 2 or len(sys.argv) > 3:
+        print("Usage: python mapping_to_json.py <directory> [game-name]")
+        print("   -> directory: path to directory containing mapping_*.txt files")
         print("   -> game-name: optional game name for metadata")
         sys.exit(1)
 
-    mapping_file = sys.argv[1]
-    output_json = sys.argv[2] if len(sys.argv) >= 3 else "messages.json"
-    game_name = sys.argv[3] if len(sys.argv) == 4 else ""
+    directory = sys.argv[1]
+    game_name = sys.argv[2] if len(sys.argv) == 3 else ""
 
-    convert_mapping_to_json(mapping_file, output_json, game_name)
+    # Check if directory exists
+    if not os.path.isdir(directory):
+        print(f"Error: '{directory}' is not a valid directory.")
+        sys.exit(1)
+
+    # Find all mapping_*.txt files
+    mapping_pattern = re.compile(r'^mapping_\d+\.txt$')
+    mapping_files = []
+    
+    for filename in os.listdir(directory):
+        if mapping_pattern.match(filename):
+            mapping_files.append(filename)
+    
+    # Sort files by number
+    mapping_files.sort(key=lambda x: int(re.search(r'\d+', x).group()))
+    
+    if not mapping_files:
+        print(f"No mapping_*.txt files found in directory '{directory}'.")
+        sys.exit(1)
+    
+    print(f"Found {len(mapping_files)} mapping file(s): {', '.join(mapping_files)}")
+    print()
+    
+    # Collect all messages from all mapping files
+    all_messages = []
+    
+    for mapping_file in mapping_files:
+        print(f"Processing {mapping_file}...")
+        mapping_filepath = os.path.join(directory, mapping_file)
+        
+        # Extract file number from filename
+        file_number = int(re.search(r'\d+', mapping_file).group())
+        
+        try:
+            with open(mapping_filepath, 'r', encoding='utf-8') as infile:
+                for line_num, line in enumerate(infile, 1):
+                    line = line.strip()
+                    if not line:
+                        continue
+                    
+                    # Split by delimiter
+                    if ' === ' not in line:
+                        print(f"  Warning: Line {line_num} does not contain ' === ' delimiter. Skipping.")
+                        continue
+                    
+                    parts = line.split(' === ', 1)
+                    if len(parts) != 2:
+                        print(f"  Warning: Line {line_num} has invalid format. Skipping.")
+                        continue
+                    
+                    original = parts[0].strip()
+                    translation = parts[1].strip()
+                    
+                    # Extract placeholders from both original and translation
+                    placeholders_original = extract_placeholders(original)
+                    placeholders_translation = extract_placeholders(translation)
+                    
+                    # Combine placeholders (union of both)
+                    all_placeholders = placeholders_original.copy()
+                    for p in placeholders_translation:
+                        if p not in all_placeholders:
+                            all_placeholders.append(p)
+                    
+                    # Create message entry
+                    message = {
+                        "fileNumber": file_number,
+                        "messageNumber": len(all_messages) + 1,
+                        "original": original,
+                        "translation": translation,
+                        "notes": "",
+                        "placeholders": all_placeholders
+                    }
+                    
+                    all_messages.append(message)
+            
+            print(f"  Added {len(all_messages) - len([m for m in all_messages if m['messageNumber'] <= len(all_messages) - 1])} messages")
+        
+        except FileNotFoundError:
+            print(f"  Error: The file '{mapping_filepath}' was not found.")
+            continue
+        except Exception as e:
+            print(f"  Error processing {mapping_file}: {e}")
+            continue
+    
+    print()
+    print(f"Total messages collected: {len(all_messages)}")
+    
+    # Create the full JSON structure with all messages
+    output = {
+        "version": "1.0",
+        "metadata": {
+            "gameName": game_name,
+            "contentType": "messages",
+            "sourceLanguage": "en",
+            "targetLanguage": "he",
+            "extractedDate": datetime.now(timezone.utc).isoformat().replace('+00:00', 'Z'),
+            "totalMessages": len(all_messages)
+        },
+        "messages": all_messages
+    }
+    
+    # Write single JSON file
+    output_json = os.path.join(directory, "messages.json")
+    with open(output_json, 'w', encoding='utf-8') as outfile:
+        json.dump(output, outfile, ensure_ascii=False, indent=2)
+    
+    print(f"Successfully created '{output_json}' with {len(all_messages)} messages.")

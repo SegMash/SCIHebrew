@@ -1,0 +1,11 @@
+OK
+That game was saved under a different game or interpreter version.  It cannot be restored.
+Cancel
+Change Directory
+Insert the %s disk in drive %s.
+SAVE GAME
+GAME
+%s\nis not a valid directory.
+An error occurred while attempting to save your game.  Try saving to another directory or saving over an existing saved game.
+An error occurred while attempting to read the save game catalog file.  The saved games in this directory are no longer usable.
+Message not found.

@@ -97,47 +97,68 @@ KQ5 - changes
 2. 4.fon - from sq5?
 
 
+# SCUMMVM development
 Notes:
-How to push into scumm
-1. Run git remote make sure you have these
-PS C:\Users\SEGEVMA\source\repos\scummvm> git remote -v
-origin  https://github.com/SegMash/scummvm.git (fetch)
-origin  https://github.com/SegMash/scummvm.git (push)
-upstream        https://github.com/scummvm/scummvm.git (fetch)
-upstream        https://github.com/scummvm/scummvm.git (push)
+How to work with scumm fork github repository:
 
-2. Remove proxy settings:
-Remove-Item Env:\HTTP_PROXY -ErrorAction SilentlyContinue; Remove-Item Env:\HTTPS_PROXY -ErrorAction SilentlyContinue; Remove-Item Env:\http_proxy -ErrorAction SilentlyContinue; Remove-Item Env:\https_proxy -ErrorAction SilentlyContinue; git config --global --unset http.proxy; git config --global --unset https.proxy
+Remove proxy settings:
 
-3. Fetch latest changes from upstream
-git fetch upstream
+Remove-Item Env:\HTTP_PROXY -ErrorAction SilentlyContinue
 
-4. stash changes
-git stash
-5. Now update my master with upsteam!
-git checkout master
-git merge upstream/master
-6. Push to origin (fork)
-git push origin master
-7. Restore my stash changes
-git stash pop
-8. Check status of diff
-git diff --stat
-9. Go to visual studio, stash and commit the changes with a proper message
-10. git push origin master
-11. Create the PR
+Remove-Item Env:\HTTPS_PROXY -ErrorAction SilentlyContinue
+
+Remove-Item Env:\http_proxy -ErrorAction SilentlyContinue; 
+
+Remove-Item Env:\https_proxy -ErrorAction SilentlyContinue; 
+
+git config --global --unset http.proxy; git config --global --unset https.proxy
+
+## Before starting new translation work:
+    git checkout master
+    git pull upstream master
+### Keep your fork in sync:
+    git push origin master  
+
+## Create feature branch for new work:
+    git checkout -b <kq?-hebrew-translation>
+
+## Do your translation work...
+    git add .
+    git commit -m "SCI: Add detection for the Hebrew fan translation of KQ4"
+
+#### Get the hash code:
+    git log 
+    git push origin <kq?-hebrew-translation>
+<I>Now you can create your PR from github interface</I>
+## In case of mess with commits , to create pull request as properly:
+    git fetch upstream
+    git checkout master
+    git reset --hard upstream/master
+    git cherry-pick <your-commit-hash>
+    git push --force-with-lease origin master
 
 
-git checkout -b adding_harpy_patch_v2
-git reset --hard upstream/master
-git cherry-pick b6c32625830
-git log --oneline upstream/master..adding_harpy_patch_v2
--> Push to the fork
-git push origin adding_harpy_patch_v2
+## Fix after comments
+    git checkout <kq?-hebrew-translation>
 
-To reset my workspace like the upstream:
-git checkout master
-git reset --hard upstream/master
-git push origin master --force
-git branch -D adding_harpy_patch_v2
-git push origin --delete adding_harpy_patch_v2
+### Make your changes to the files
+<I>... edit your files ...</I>
+<I>Stage and commit your changes</I>
+
+    git add .
+    git commit -m "SCI: fix comments..."
+
+## Push to the same branch (this updates the pull request automatically)
+    git push origin <kq?-hebrew-translation>
+
+
+## Sync after PR merged
+    1. Switch to master branch
+    >>> git checkout master
+
+    2. Fetch latest changes from upstream (includes your merged PR)
+    >>> git fetch upstream
+    3. Merge upstream/master into your local master
+    >>>git merge upstream/master
+    4. Push to your fork to sync it
+    >>> git push origin master --force

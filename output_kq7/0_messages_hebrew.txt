@@ -1,0 +1,61 @@
+xxxDefault comb message.
+xxxDefault peticoat message.
+xxxDefault talk message.
+xxxDefault do message.
+xxxDefault look message.
+xxxDefault walk message.
+xxxUse the stick from inventory.
+xxxUse the pot.
+xxxUse the peticoat flag.
+xxxUse seed default.
+xxxbead default.
+xxxBasket default.
+xxxHorn default.
+xxxSpecs default.
+xxxUse puzzle piece 1 default.
+xxxTuft of hair default.
+xxxsecond puzzle piece.
+xxxBoth puzzle pieces.
+xxxCorn seed default.
+xxxRope default.
+xxxBug reducing powder.
+xxxPot with salt water in it.
+xxxPot with fresh water.
+xxxSalt default.
+xxxCorn husk default.
+xxDefault rat.
+xxxDefault for gold bowl.
+xxdefault silver spoon.
+xxxDefault beetle.
+xxxDefault dragon scale.
+xxxDefault pellet.
+xxxDefault shield.
+xxxDragon Toad
+xxDefault magic rope.
+xxxDefault sulfur.
+xxDefault emerald water.
+xxxDefault lantern.
+xxxSpark.
+xxxBig gem.
+xxxHammer / Chisel.
+xxxMagic wand default.
+xxxVeil default.
+xxxDefault moon.
+xxxDefault were salve.
+xxxDefault pomegranate.
+xxxAmbrosia default.
+xxxDefault dream catcher.
+xxxDefault bridle.
+xxxTapestry default.
+xxxDefault light crystal.
+xxxDefault medal.
+xxxFemur default.
+xxxDefault brass bowl.
+XXXMold and tongs cursor default
+XXXDefault for shield spike
+המשחק שלך נשמר.
+המשחק לא נשמר. לצאת מהמשחק בכל זאת?
+מידע / הודעה
+לא ניתן לשמור, הדיסק מלא. לצאת מהמשחק בכל זאת?
+לא ניתן להתחיל משחק חדש, הדיסק מלא.
+קבענו שמהירות המחשב שלך אינה מספקת כדי לשחק ב"מסע המלך 7" כראוי. הדבר יכול להיגרם ממספר בעיות שונות. עיין בקובץ ה-"readme" לקבלת רמזים כיצד לשפר את הביצועים.
