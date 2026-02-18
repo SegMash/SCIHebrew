@@ -45,7 +45,7 @@ jobs:
       - name: Copy translation files
         run: |
           mkdir -p agi-ivrit/active-translation
-          cp output_kq4/*.json agi-ivrit/active-translation/
+          cp output_kq5/*.json agi-ivrit/active-translation/
 
       - name: Build review app
         run: npm run review:build
