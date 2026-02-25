@@ -1,30 +1,30 @@
 הניקוד שלך:
 %d מתוך %d אפשריים.
-יועץ קריאייטיבי
-וויליאם ד. סקירבין
-אמנים
-ארני צ'אן
-סינדי ווקר
-ג'רלד מור
-דריל סמית'
-תוכנת על ידי:
-דן קארבר
-מנהל מוזיקלי
-מארק סייברט
-מערכת פיתוח
-רוברט אי. הייטמן
-טרי מק'הנרי
-מוזיקאים נוספים
-רוב אטסאלפ
-כישרונות קוליים
-קריין - ארט לויקי
-עץ ערבה - דיאנה וילסון
-יצרן הצעצועים - לאונרד "ריי" ברג'רון
-אישה בעיר - רוברטה וויליאמס
-נשר - בארי ט. סמית'
-רוקי, יצור הסלע - בארי ט. סמית'
-הנסיכה רוזלה - דיאנה וילסון
-תודות מיוחדות ל
-ג'יי. מארק הוד
-בקרת איכות
-ג'ון רטקליף
+Creative Consultant
+William D. Skirvin
+Artists
+Ernie Chan\nDouglas Herring\nJeff Crowe\nWilliam D. Skirvin\nMaurice F. Morgan\nVasken Nokhoudian\nBarry T. Smith\n
+Cindy Walker\nDeena Krutak\nDana Dean\nRoger Hardy, Jr.\nDeanna Yhalkee\nJim Larsen\nCheryl Loyd\n
+Gerald Moore\nCheryl Sweeney\nEric Kasner\nRichard Powell\nPhyllis Cucchiara\nTerrence Falls\n
+Daryle Smith\nJerry Jessurun\nFrances Powell\nHector Martinez\nRichard D. Zeigler-Martin\n
+Programmed by:
+Dan Carver\nChris Carr\nChris Hoyt\nDoug Oldfield\nCarlos Escobar\nOliver Brelsford\n
+Music Director
+Mark Seibert
+Development System
+Robert E. Heitman\nJeff Stephenson\nDan Foy\nLarry Scott\nJ. Mark Hood\nEric Hart\nMark Wilden\nChris Smith\n
+Terry McHenry\nChad Bye\nKen Koch\nJohn Rettig\nJohn Crane\nSteven Coallier\nRandy Moss\n
+Additional Musicians\n\n\n\n\nSound Effects
+Rob Atesalp\nChris Braymen\n\n\n\nOrpheus Hanley
+Voice Talent
+Narrator - Art Lewicki\nKing Graham - Josh Mandel\nCedric - Richard Aronson\nCrispin - Leonard "Ray" Bergeron\nMordack - Andy Hoyos\nPrincess Cassima - Dianah Pressley\nPrince Alexander - Barry T. Smith\nPrincess Alicia - Diana Wilson\n
+Willow Tree - Diana Wilson\nPrince Herbert - Gregory James Thomas\nGnome - Gregory James Thomas\nQueen Beetrice - Dianah Pressley\nKing Antony - Dan Long\nAmanda - Roberta Williams\nGypsy Man - Ken Allen\nFortune Teller - Sara Long\n
+Toymaker - Leonard "Ray" Bergeron\nToymaker's Son - Barry T. Smith\nToymaker's Granddaughter - Kristen Hoyos\nAustin - Kevin Orcutt\nBoy in Town -Kevin Orcutt\nTailor - D.J. Williams\nShoemaker - Dan Long\nShoemaker's Wife - Sarah Long\n
+Woman in Town - Roberta Williams\nMan in Town - Barry T. Smith\nBaker - Dick Roberts\nBakers Brother - Dick Roberts\nWitch - Sarah Long\nElf - Nancy Zdenek\nInnkeeper - Leonard "Ray" Bergeron\nInnkeeper's Pal - Josh Mandel\n
+Eagle - Barry T. Smith\nQueen Icebella - Lori Ann Cole\nSir Greywolf - Frederick Gott\nHermit - Bill Davis\nHarpy - Roberta Williams\nHarpy - Nancy Zdenek\nHarpy - Barbara Eicker\nHarpy - Josh Mandel\n
+Rocky, The Rock Creature - Barry T. Smith\nDink - Barry T. Smith\nIrate Customer in Tailor Shop - Guruka Singh Khalsa\nBandit Leader - Stuart Moulder\nThe Genie - Mark Seibert\nThe Rat - Roberta Williams\nThe Snake - Mark Seibert\nThe Cat, Manannan - Guruka Singh Khalsa\n
+Princess Rosella - Diana Wilson\nSinging Willow Tree - Debbie Seibert\nSinging Ants - Mark Seibert\n
+Special Thanks To
+J. Mark Hood\n
+Quality Assurance
+John Ratcliffe
