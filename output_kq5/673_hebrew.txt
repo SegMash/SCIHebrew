@@ -1,22 +1,22 @@
 הניקוד שלך:
 %d מתוך %d אפשריים.
-יועץ קריאייטיב
-וויליאם ד. סקירבין
-אמנים
-ארני צ'אן
-סינדי ווקר
-ג'רלד מור
-דריל סמית'
-תכנות:
-דן קארבר
-מנהל מוזיקלי
-מארק סייברט
-מערכת פיתוח
-רוברט א. הייטמן
-טרי מק'הנרי
-מוזיקאים נוספים
-רוב אטסלפ
-כישרונות קוליים (מדבבים)
+Creative Consultant
+William D. Skirvin
+Artists
+Ernie Chan\nDouglas Herring\nJeff Crowe\nWilliam D. Skirvin\nMaurice F. Morgan\nVasken Nokhoudian\nBarry T. Smith\n
+Cindy Walker\nDeena Krutak\nDana Dean\nRoger Hardy, Jr.\nDeanna Yhalkee\nJim Larsen\nCheryl Loyd\n
+Gerald Moore\nCheryl Sweeney\nEric Kasner\nRichard Powell\nPhyllis Cucchiara\nTerrence Falls\n
+Daryle Smith\nJerry Jessurun\nFrances Powell\nHector Martinez\nRichard D. Zeigler-Martin\n
+Programmed by:
+Dan Carver\nChris Hoyt\nDoug Oldfield\nCarlos Escobar\nOliver Brelsford\n
+Music Director
+Mark Seibert
+Development System
+Robert E. Heitman\nJeff Stephenson\nDan Foy\nLarry Scott\nJ. Mark Hood\nEric Hart\nMark Wilden\nChris Smith\n
+Terry McHenry\nChad Bye\nKen Koch\nJohn Rettig\nJohn Crane\nSteven Coallier\nRandy Moss\n
+Additional Musicians\n\n\n\n\nSound Effects
+Rob Atesalp\nChris Braymen\n\n\n\nOrpheus Hanley
+Voice Talent
 Narrator - Art Lewicki\nGraham - Josh Mandel\nCedric - Richard Aronson\nCrispin - Leonard "Ray" Bergeron\nMordack - Andy Hoyos\nCassima - Dianah Pressley\nAlexander - Barry T. Smith\nAlicia - Diana Wilson\n
 Willow - Diana Wilson\nHerbert - Gregory James Thomas\nGnome - Gregory James Thomas\nBeetrice - Dianah Pressley\nAntony - Dan Long\nAmanda - Roberta Williams\nGypsy Man - Ken Allen\nFortune Teller - Sara Long\n
 Toymaker - Leonard "Ray" Bergeron\nToymakers Son - Barry T. Smith\nToymakers Granddaughter - Kristen Hoyos\nAustin - Kevin Orcutt\nBoy in Town -Kevin Orcutt\nTailor - DJ Williams\nShoemaker - Dan Long\nShoemaker's Wife - Sarah Long\n
@@ -24,7 +24,7 @@ Woman in Town - Roberta Williams\nMan in Town - Barry T. Smith\nBaker - Dick Rob
 Eagle - Barry T. Smith\nIcebella - Lori Ann Cole\nSir Greywolf - Frederic Gott\nHermit - Bill Davis\nHarpy - Roberta Williams\nHarpy - Nancy Zdenek\nHarpy - Barbara Eicker\nHarpy - Josh Mandel\n
 Rocky, The Rock Creature - Barry T. Smith\nDink - Barry T. Smith\nIrate Customer in Tailor Shop - Guruka Singh Khalsa\nBandit Leader - Stuart Moulder\nThe Genie - Mark Seibert\nThe Rat - Roberta Williams\nThe Snake - Mark Seibert\nThe Cat - Guruka Singh Khalsa\n
 Rosella - Diana Wilson\nSinging Willow Tree - Debbie Seibert\nSinging Ants - Mark Seibert\n
-תודות מיוחדות ל-
-ג'יי. מארק הוד
-בקרת איכות
-ג'ון רטקליף
+Special Thanks To
+J. Mark Hood\n
+Quality Assurance
+John Ratcliffe

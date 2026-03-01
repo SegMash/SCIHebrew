@@ -1,30 +1,30 @@
 הניקוד שלך:
 %d מתוך %d אפשריים.
-יועץ קריאייטיב
-וויליאם ד. סקירבין
-אמנים
-ארני צ'אן
-סינדי ווקר
-ג'רלד מור
-דריל סמית'
-תכנות:
-דן קארבר
-מנהל מוזיקלי
-מארק סייברט
-מערכת פיתוח
-רוברט א. הייטמן
-טרי מק'הנרי
-מוזיקאים נוספים
-רוב אטסלפ
-כישרונות קוליים (מדבבים)
-קריין - ארט לויקי
-ווילו (ערבה) - דיאנה וילסון
-יצרן הצעצועים - לאונרד "ריי" ברגרון
-אישה בעיר - רוברטה וויליאמס
-נשר - בארי ט. סמית'
-רוקי, יצור הסלע - בארי ט. סמית'
-רוזלה - דיאנה וילסון
-תודות מיוחדות ל-
-ג'יי. מארק הוד
-בקרת איכות
-ג'ון רטקליף
+Creative Consultant
+William D. Skirvin
+Artists
+Ernie Chan
+Cindy Walker
+Gerald Moore
+Daryle Smith
+Programmed by:
+Dan Carver
+Music Director
+Mark Seibert
+Development System
+Robert E. Heitman
+Terry McHenry
+Additional Musicians
+Rob Atesalp
+Voice Talent
+Narrator - Art Lewicki
+Willow Tree - Diana Wilson
+Toymaker - Leonard "Ray" Bergeron
+Woman in Town - Roberta Williams
+Eagle - Barry T. Smith
+Rocky, The Rock Creature - Barry T. Smith
+Princess Rosella - Diana Wilson
+Special Thanks To
+J. Mark Hood
+Quality Assurance
+John Ratcliffe

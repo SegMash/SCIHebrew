@@ -37,7 +37,7 @@
       "logicFile": 63,
       "messageNumber": 1,
       "original": "Special thanks to Robin Bradley and the rest of the QA staff.",
-      "translation": "Special thanks to Robin Bradley and the rest of the QA staff.",
+      "translation": "תודה מיוחדת לרובין בראדלי ולשאר צוות אבטחת האיכות.",
       "notes": "",
       "placeholders": []
     },
@@ -8226,7 +8226,7 @@
       "logicFile": 300,
       "messageNumber": 986,
       "original": "The craftmanship of these shoes are superb. And, Mama, look at the solid gold buckle! Why, I could retire from the sale of these shoes!",
-      "translation": "עבודת היד של הנעליים האלה מעולה. ומאמא, תראי את אבזם הזהב המוצק! וואו, אני יכול לפרוש ממכירת הנעליים האלה!",
+      "translation": "עבודת היד של הנעליים האלה מעולה. ומאמא, תראי את האבזם - זהב יצוק! וואו, אני יכול לפרוש ממכירת הנעליים האלה!",
       "notes": "",
       "placeholders": []
     },
@@ -13549,7 +13549,7 @@
       "logicFile": 673,
       "messageNumber": 3,
       "original": "Creative Consultant",
-      "translation": "יועץ קריאייטיב",
+      "translation": "Creative Consultant",
       "notes": "",
       "placeholders": []
     },
@@ -13557,7 +13557,7 @@
       "logicFile": 673,
       "messageNumber": 4,
       "original": "William D. Skirvin",
-      "translation": "וויליאם ד. סקירבין",
+      "translation": "William D. Skirvin",
       "notes": "",
       "placeholders": []
     },
@@ -13565,7 +13565,7 @@
       "logicFile": 673,
       "messageNumber": 5,
       "original": "Artists",
-      "translation": "אמנים",
+      "translation": "Artists",
       "notes": "",
       "placeholders": []
     },
@@ -13573,7 +13573,7 @@
       "logicFile": 673,
       "messageNumber": 6,
       "original": "Ernie Chan\nDouglas Herring\nJeff Crowe\nWilliam D. Skirvin\nMaurice F. Morgan\nVasken Nokhoudian\nBarry T. Smith\n",
-      "translation": "ארני צ'אן",
+      "translation": "Ernie Chan\nDouglas Herring\nJeff Crowe\nWilliam D. Skirvin\nMaurice F. Morgan\nVasken Nokhoudian\nBarry T. Smith\n",
       "notes": "",
       "placeholders": []
     },
@@ -13581,7 +13581,7 @@
       "logicFile": 673,
       "messageNumber": 7,
       "original": "Cindy Walker\nDeena Krutak\nDana Dean\nRoger Hardy, Jr.\nDeanna Yhalkee\nJim Larsen\nCheryl Loyd\n",
-      "translation": "סינדי ווקר",
+      "translation": "Cindy Walker\nDeena Krutak\nDana Dean\nRoger Hardy, Jr.\nDeanna Yhalkee\nJim Larsen\nCheryl Loyd\n",
       "notes": "",
       "placeholders": []
     },
@@ -13589,7 +13589,7 @@
       "logicFile": 673,
       "messageNumber": 8,
       "original": "Gerald Moore\nCheryl Sweeney\nEric Kasner\nRichard Powell\nPhyllis Cucchiara\nTerrence Falls\n",
-      "translation": "ג'רלד מור",
+      "translation": "Gerald Moore\nCheryl Sweeney\nEric Kasner\nRichard Powell\nPhyllis Cucchiara\nTerrence Falls\n",
       "notes": "",
       "placeholders": []
     },
@@ -13597,7 +13597,7 @@
       "logicFile": 673,
       "messageNumber": 9,
       "original": "Daryle Smith\nJerry Jessurun\nFrances Powell\nHector Martinez\nRichard D. Zeigler-Martin\n",
-      "translation": "דריל סמית'",
+      "translation": "Daryle Smith\nJerry Jessurun\nFrances Powell\nHector Martinez\nRichard D. Zeigler-Martin\n",
       "notes": "",
       "placeholders": []
     },
@@ -13605,7 +13605,7 @@
       "logicFile": 673,
       "messageNumber": 10,
       "original": "Programmed by:",
-      "translation": "תכנות:",
+      "translation": "Programmed by:",
       "notes": "",
       "placeholders": []
     },
@@ -13613,7 +13613,7 @@
       "logicFile": 673,
       "messageNumber": 11,
       "original": "Dan Carver\nChris Hoyt\nDoug Oldfield\nCarlos Escobar\nOliver Brelsford\n",
-      "translation": "דן קארבר",
+      "translation": "Dan Carver\nChris Hoyt\nDoug Oldfield\nCarlos Escobar\nOliver Brelsford\n",
       "notes": "",
       "placeholders": []
     },
@@ -13621,7 +13621,7 @@
       "logicFile": 673,
       "messageNumber": 12,
       "original": "Music Director",
-      "translation": "מנהל מוזיקלי",
+      "translation": "Music Director",
       "notes": "",
       "placeholders": []
     },
@@ -13629,7 +13629,7 @@
       "logicFile": 673,
       "messageNumber": 13,
       "original": "Mark Seibert",
-      "translation": "מארק סייברט",
+      "translation": "Mark Seibert",
       "notes": "",
       "placeholders": []
     },
@@ -13637,7 +13637,7 @@
       "logicFile": 673,
       "messageNumber": 14,
       "original": "Development System",
-      "translation": "מערכת פיתוח",
+      "translation": "Development System",
       "notes": "",
       "placeholders": []
     },
@@ -13645,7 +13645,7 @@
       "logicFile": 673,
       "messageNumber": 15,
       "original": "Robert E. Heitman\nJeff Stephenson\nDan Foy\nLarry Scott\nJ. Mark Hood\nEric Hart\nMark Wilden\nChris Smith\n",
-      "translation": "רוברט א. הייטמן",
+      "translation": "Robert E. Heitman\nJeff Stephenson\nDan Foy\nLarry Scott\nJ. Mark Hood\nEric Hart\nMark Wilden\nChris Smith\n",
       "notes": "",
       "placeholders": []
     },
@@ -13653,7 +13653,7 @@
       "logicFile": 673,
       "messageNumber": 16,
       "original": "Terry McHenry\nChad Bye\nKen Koch\nJohn Rettig\nJohn Crane\nSteven Coallier\nRandy Moss\n",
-      "translation": "טרי מק'הנרי",
+      "translation": "Terry McHenry\nChad Bye\nKen Koch\nJohn Rettig\nJohn Crane\nSteven Coallier\nRandy Moss\n",
       "notes": "",
       "placeholders": []
     },
@@ -13661,7 +13661,7 @@
       "logicFile": 673,
       "messageNumber": 17,
       "original": "Additional Musicians\n\n\n\n\nSound Effects",
-      "translation": "מוזיקאים נוספים",
+      "translation": "Additional Musicians\n\n\n\n\nSound Effects",
       "notes": "",
       "placeholders": []
     },
@@ -13669,7 +13669,7 @@
       "logicFile": 673,
       "messageNumber": 18,
       "original": "Rob Atesalp\nChris Braymen\n\n\n\nOrpheus Hanley",
-      "translation": "רוב אטסלפ",
+      "translation": "Rob Atesalp\nChris Braymen\n\n\n\nOrpheus Hanley",
       "notes": "",
       "placeholders": []
     },
@@ -13677,7 +13677,7 @@
       "logicFile": 673,
       "messageNumber": 19,
       "original": "Voice Talent",
-      "translation": "כישרונות קוליים (מדבבים)",
+      "translation": "Voice Talent",
       "notes": "",
       "placeholders": []
     },
@@ -13741,7 +13741,7 @@
       "logicFile": 673,
       "messageNumber": 27,
       "original": "Special Thanks To",
-      "translation": "תודות מיוחדות ל-",
+      "translation": "Special Thanks To",
       "notes": "",
       "placeholders": []
     },
@@ -13749,7 +13749,7 @@
       "logicFile": 673,
       "messageNumber": 28,
       "original": "J. Mark Hood\n",
-      "translation": "ג'יי. מארק הוד",
+      "translation": "J. Mark Hood\n",
       "notes": "",
       "placeholders": []
     },
@@ -13757,7 +13757,7 @@
       "logicFile": 673,
       "messageNumber": 29,
       "original": "Quality Assurance",
-      "translation": "בקרת איכות",
+      "translation": "Quality Assurance",
       "notes": "",
       "placeholders": []
     },
@@ -13765,7 +13765,7 @@
       "logicFile": 673,
       "messageNumber": 30,
       "original": "John Ratcliffe",
-      "translation": "ג'ון רטקליף",
+      "translation": "John Ratcliffe",
       "notes": "",
       "placeholders": []
     },
@@ -13773,7 +13773,7 @@
       "logicFile": 700,
       "messageNumber": 1,
       "original": "Executive Producer",
-      "translation": "מפיק בפועל",
+      "translation": "Executive Producer",
       "notes": "",
       "placeholders": []
     },
@@ -13781,7 +13781,7 @@
       "logicFile": 700,
       "messageNumber": 2,
       "original": "Ken Williams",
-      "translation": "קן וויליאמס",
+      "translation": "Ken Williams",
       "notes": "",
       "placeholders": []
     },
@@ -13789,7 +13789,7 @@
       "logicFile": 700,
       "messageNumber": 3,
       "original": "Creative Director",
-      "translation": "מנהל קריאייטיב",
+      "translation": "Creative Director",
       "notes": "",
       "placeholders": []
     },
@@ -13797,7 +13797,7 @@
       "logicFile": 700,
       "messageNumber": 4,
       "original": "Bill Davis",
-      "translation": "ביל דייוויס",
+      "translation": "Bill Davis",
       "notes": "",
       "placeholders": []
     },
@@ -13805,7 +13805,7 @@
       "logicFile": 700,
       "messageNumber": 5,
       "original": "Designed, Directed and Produced by",
-      "translation": "עיצוב, בימוי והפקה על ידי",
+      "translation": "Designed, Directed and Produced by",
       "notes": "",
       "placeholders": []
     },
@@ -13813,7 +13813,7 @@
       "logicFile": 700,
       "messageNumber": 6,
       "original": "Roberta Williams",
-      "translation": "רוברטה וויליאמס",
+      "translation": "Roberta Williams",
       "notes": "",
       "placeholders": []
     },
@@ -13821,7 +13821,7 @@
       "logicFile": 700,
       "messageNumber": 7,
       "original": "Art Designer",
-      "translation": "מעצב אמנותי",
+      "translation": "Art Designer",
       "notes": "",
       "placeholders": []
     },
@@ -13829,7 +13829,7 @@
       "logicFile": 700,
       "messageNumber": 8,
       "original": "Andy Hoyos",
-      "translation": "אנדי הויוס",
+      "translation": "Andy Hoyos",
       "notes": "",
       "placeholders": []
     },
@@ -13837,7 +13837,7 @@
       "logicFile": 700,
       "messageNumber": 9,
       "original": "Lead Programmer",
-      "translation": "מתכנת ראשי",
+      "translation": "Lead Programmer",
       "notes": "",
       "placeholders": []
     },
@@ -13845,7 +13845,7 @@
       "logicFile": 700,
       "messageNumber": 10,
       "original": "Robert W. Lindsley",
-      "translation": "רוברט ו. לינדסלי",
+      "translation": "Robert W. Lindsley",
       "notes": "",
       "placeholders": []
     },
@@ -13853,7 +13853,7 @@
       "logicFile": 700,
       "messageNumber": 11,
       "original": "Composers",
-      "translation": "מלחינים",
+      "translation": "Composers",
       "notes": "",
       "placeholders": []
     },
@@ -13861,7 +13861,7 @@
       "logicFile": 700,
       "messageNumber": 12,
       "original": "Mark Seibert",
-      "translation": "מארק סייברט",
+      "translation": "Mark Seibert",
       "notes": "",
       "placeholders": []
     },
@@ -13888,7 +13888,7 @@
       "logicFile": 701,
       "messageNumber": 3,
       "original": "Creative Consultant",
-      "translation": "יועץ קריאייטיב",
+      "translation": "Creative Consultant",
       "notes": "",
       "placeholders": []
     },
@@ -13896,7 +13896,7 @@
       "logicFile": 701,
       "messageNumber": 4,
       "original": "William D. Skirvin",
-      "translation": "וויליאם ד. סקירבין",
+      "translation": "William D. Skirvin",
       "notes": "",
       "placeholders": []
     },
@@ -13904,7 +13904,7 @@
       "logicFile": 701,
       "messageNumber": 5,
       "original": "Artists",
-      "translation": "אמנים",
+      "translation": "Artists",
       "notes": "",
       "placeholders": []
     },
@@ -13912,7 +13912,7 @@
       "logicFile": 701,
       "messageNumber": 6,
       "original": "Ernie Chan",
-      "translation": "ארני צ'אן",
+      "translation": "Ernie Chan",
       "notes": "",
       "placeholders": []
     },
@@ -13920,7 +13920,7 @@
       "logicFile": 701,
       "messageNumber": 7,
       "original": "Cindy Walker",
-      "translation": "סינדי ווקר",
+      "translation": "Cindy Walker",
       "notes": "",
       "placeholders": []
     },
@@ -13928,7 +13928,7 @@
       "logicFile": 701,
       "messageNumber": 8,
       "original": "Gerald Moore",
-      "translation": "ג'רלד מור",
+      "translation": "Gerald Moore",
       "notes": "",
       "placeholders": []
     },
@@ -13936,7 +13936,7 @@
       "logicFile": 701,
       "messageNumber": 9,
       "original": "Daryle Smith",
-      "translation": "דריל סמית'",
+      "translation": "Daryle Smith",
       "notes": "",
       "placeholders": []
     },
@@ -13944,7 +13944,7 @@
       "logicFile": 701,
       "messageNumber": 10,
       "original": "Programmed by:",
-      "translation": "תכנות:",
+      "translation": "Programmed by:",
       "notes": "",
       "placeholders": []
     },
@@ -13952,7 +13952,7 @@
       "logicFile": 701,
       "messageNumber": 11,
       "original": "Dan Carver",
-      "translation": "דן קארבר",
+      "translation": "Dan Carver",
       "notes": "",
       "placeholders": []
     },
@@ -13960,7 +13960,7 @@
       "logicFile": 701,
       "messageNumber": 12,
       "original": "Music Director",
-      "translation": "מנהל מוזיקלי",
+      "translation": "Music Director",
       "notes": "",
       "placeholders": []
     },
@@ -13968,7 +13968,7 @@
       "logicFile": 701,
       "messageNumber": 13,
       "original": "Mark Seibert",
-      "translation": "מארק סייברט",
+      "translation": "Mark Seibert",
       "notes": "",
       "placeholders": []
     },
@@ -13976,7 +13976,7 @@
       "logicFile": 701,
       "messageNumber": 14,
       "original": "Development System",
-      "translation": "מערכת פיתוח",
+      "translation": "Development System",
       "notes": "",
       "placeholders": []
     },
@@ -13984,7 +13984,7 @@
       "logicFile": 701,
       "messageNumber": 15,
       "original": "Robert E. Heitman",
-      "translation": "רוברט א. הייטמן",
+      "translation": "Robert E. Heitman",
       "notes": "",
       "placeholders": []
     },
@@ -13992,7 +13992,7 @@
       "logicFile": 701,
       "messageNumber": 16,
       "original": "Terry McHenry",
-      "translation": "טרי מק'הנרי",
+      "translation": "Terry McHenry",
       "notes": "",
       "placeholders": []
     },
@@ -14000,7 +14000,7 @@
       "logicFile": 701,
       "messageNumber": 17,
       "original": "Additional Musicians",
-      "translation": "מוזיקאים נוספים",
+      "translation": "Additional Musicians",
       "notes": "",
       "placeholders": []
     },
@@ -14008,7 +14008,7 @@
       "logicFile": 701,
       "messageNumber": 18,
       "original": "Rob Atesalp",
-      "translation": "רוב אטסלפ",
+      "translation": "Rob Atesalp",
       "notes": "",
       "placeholders": []
     },
@@ -14016,7 +14016,7 @@
       "logicFile": 701,
       "messageNumber": 19,
       "original": "Voice Talent",
-      "translation": "כישרונות קוליים (מדבבים)",
+      "translation": "Voice Talent",
       "notes": "",
       "placeholders": []
     },
@@ -14024,7 +14024,7 @@
       "logicFile": 701,
       "messageNumber": 20,
       "original": "Narrator - Art Lewicki",
-      "translation": "קריין - ארט לויקי",
+      "translation": "Narrator - Art Lewicki",
       "notes": "",
       "placeholders": []
     },
@@ -14032,7 +14032,7 @@
       "logicFile": 701,
       "messageNumber": 21,
       "original": "Willow Tree - Diana Wilson",
-      "translation": "ווילו (ערבה) - דיאנה וילסון",
+      "translation": "Willow Tree - Diana Wilson",
       "notes": "",
       "placeholders": []
     },
@@ -14040,7 +14040,7 @@
       "logicFile": 701,
       "messageNumber": 22,
       "original": "Toymaker - Leonard \"Ray\" Bergeron",
-      "translation": "יצרן הצעצועים - לאונרד \"ריי\" ברגרון",
+      "translation": "Toymaker - Leonard \"Ray\" Bergeron",
       "notes": "",
       "placeholders": []
     },
@@ -14048,7 +14048,7 @@
       "logicFile": 701,
       "messageNumber": 23,
       "original": "Woman in Town - Roberta Williams",
-      "translation": "אישה בעיר - רוברטה וויליאמס",
+      "translation": "Woman in Town - Roberta Williams",
       "notes": "",
       "placeholders": []
     },
@@ -14056,7 +14056,7 @@
       "logicFile": 701,
       "messageNumber": 24,
       "original": "Eagle - Barry T. Smith",
-      "translation": "נשר - בארי ט. סמית'",
+      "translation": "Eagle - Barry T. Smith",
       "notes": "",
       "placeholders": []
     },
@@ -14064,7 +14064,7 @@
       "logicFile": 701,
       "messageNumber": 25,
       "original": "Rocky, The Rock Creature - Barry T. Smith",
-      "translation": "רוקי, יצור הסלע - בארי ט. סמית'",
+      "translation": "Rocky, The Rock Creature - Barry T. Smith",
       "notes": "",
       "placeholders": []
     },
@@ -14072,7 +14072,7 @@
       "logicFile": 701,
       "messageNumber": 26,
       "original": "Princess Rosella - Diana Wilson",
-      "translation": "רוזלה - דיאנה וילסון",
+      "translation": "Princess Rosella - Diana Wilson",
       "notes": "",
       "placeholders": []
     },
@@ -14080,7 +14080,7 @@
       "logicFile": 701,
       "messageNumber": 27,
       "original": "Special Thanks To",
-      "translation": "תודות מיוחדות ל-",
+      "translation": "Special Thanks To",
       "notes": "",
       "placeholders": []
     },
@@ -14088,7 +14088,7 @@
       "logicFile": 701,
       "messageNumber": 28,
       "original": "J. Mark Hood",
-      "translation": "ג'יי. מארק הוד",
+      "translation": "J. Mark Hood",
       "notes": "",
       "placeholders": []
     },
@@ -14096,7 +14096,7 @@
       "logicFile": 701,
       "messageNumber": 29,
       "original": "Quality Assurance",
-      "translation": "בקרת איכות",
+      "translation": "Quality Assurance",
       "notes": "",
       "placeholders": []
     },
@@ -14104,7 +14104,7 @@
       "logicFile": 701,
       "messageNumber": 30,
       "original": "John Ratcliffe",
-      "translation": "ג'ון רטקליף",
+      "translation": "John Ratcliffe",
       "notes": "",
       "placeholders": []
     },

@@ -40,6 +40,9 @@ def convert_tsv_to_tex(tsv_filepath, tex_filepath, field):
                     if len(fields) >= field + 1:
                         text = fields[field]
 
+                    # Replace literal \n with actual newline character
+                    text = text.replace('\\n', '\n')
+
                     # write encoded field to TEX file
                     outfile.write(text.encode('windows-1255'))
 
