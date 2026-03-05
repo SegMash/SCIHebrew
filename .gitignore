@@ -222,4 +222,5 @@ output_kq7/mapping_*.txt
 temp_kq5
 games_assets/kq6/*.msg
 games_assets/kq7/*.msg
-output_kfg1/split
+output_qfg1/split
+patch_qfg1/bin/text.*

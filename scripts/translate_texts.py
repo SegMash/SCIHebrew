@@ -154,6 +154,7 @@ def apply_translations(input_dir, output_dir, mapping_file):
                     translated = message
                 
                 # Write message
+                #print(f"DEBUG: Original: {repr(translated)}")
                 out_file.write(str.encode(translated, ENCODING_OUT))
                 out_file.write(b'\0')
         
