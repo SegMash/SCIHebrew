@@ -354,7 +354,7 @@
       "logicFile": 300,
       "messageNumber": 2,
       "original": "In the kitchen of the bakehouse, Graham can see another big, burly man doing the day's baking.",
-      "translation": "במטבח האפייה, גרהאם רואה עוד איש גדול וחסון שעסוק באפיית המאפים של היום.",
+      "translation": "בתוך המאפייה, גרהאם רואה עוד איש גדול וחסון שעסוק באפיית המאפים של היום.",
       "notes": "",
       "placeholders": []
     },
@@ -378,7 +378,7 @@
       "logicFile": 300,
       "messageNumber": 5,
       "original": "Graham can see the bakehouse kitchen through the partially-open Dutch door.",
-      "translation": "גרהאם רואה את מטבח המאפייה דרך דלת חצויה שנשארה פתוחה למחצה.",
+      "translation": "גרהאם רואה את המאפייה דרך דלת חצויה שנשארה פתוחה למחצה.",
       "notes": "",
       "placeholders": []
     },
@@ -434,7 +434,7 @@
       "logicFile": 300,
       "messageNumber": 12,
       "original": "Graham would love to buy a pie if he could.",
-      "translation": "גרהאם היה שמח לקנות פשטידה אם רק יכול היה.",
+      "translation": "גרהאם היה שמח לקנות פשטידה אם רק היה יכול.",
       "notes": "",
       "placeholders": []
     },
@@ -450,7 +450,7 @@
       "logicFile": 300,
       "messageNumber": 14,
       "original": "The baker's brother is too busy to chat with Graham.",
-      "translation": "אחיו של האופה עסוק מדי בכדי לשוחח עם גרהאם.",
+      "translation": "אחיו של האופה עסוק מדי מכדי לשוחח עם גרהאם.",
       "notes": "",
       "placeholders": []
     },
@@ -474,7 +474,7 @@
       "logicFile": 300,
       "messageNumber": 17,
       "original": "He appears in too much of a hurry to talk to Graham.",
-      "translation": "נראה שהוא ממהר מדי כדי לדבר עם גרהאם.",
+      "translation": "נראה שהוא ממהר מדי מכדי לדבר עם גרהאם.",
       "notes": "",
       "placeholders": []
     },
@@ -482,7 +482,7 @@
       "logicFile": 300,
       "messageNumber": 18,
       "original": "She seems to be in too much of a hurry to talk to Graham.",
-      "translation": "נראה שהיא ממהרת מדי כדי לדבר עם גרהאם.",
+      "translation": "נראה שהיא ממהרת מדי מכדי לדבר עם גרהאם.",
       "notes": "",
       "placeholders": []
     },
@@ -514,7 +514,7 @@
       "logicFile": 300,
       "messageNumber": 22,
       "original": "The cat is much too lazy to care about it.",
-      "translation": "החתול עצל מדי בכדי להתייחס לזה.",
+      "translation": "החתול עצל מדי מכדי להתייחס לזה.",
       "notes": "",
       "placeholders": []
     },
@@ -562,7 +562,7 @@
       "logicFile": 300,
       "messageNumber": 28,
       "original": "Graham is not strong enough to push the boat.",
-      "translation": "גרהאם לא חזק מספיק כדי לדחוף את הסירה.",
+      "translation": "גרהאם לא חזק מספיק מכדי לדחוף את הסירה.",
       "notes": "",
       "placeholders": []
     },
@@ -570,7 +570,7 @@
       "logicFile": 300,
       "messageNumber": 29,
       "original": "Firmly, Graham wedges the softened piece of beeswax into the small hole in the boat's hull. Hopefully, the wax will hold and make her seaworthy.",
-      "translation": "בהחלטה של רגע, גרהאם תוחב את גוש השעווה המרוכך לתוך החור הקטן בגוף הסירה. הוא מקווה שהוא יחזיק מעמד ויהפוך את הסירה לראויה לשיט.",
+      "translation": "בהחלטה של רגע, גרהאם תוחב את גוש השעווה המרוכך לתוך החור הקטן בגוף הסירה. הוא מקווה שהוא יחזיק מעמד ויהפוך את הסירה ראויה לשיט.",
       "notes": "",
       "placeholders": []
     },
@@ -602,7 +602,7 @@
       "logicFile": 300,
       "messageNumber": 33,
       "original": "Through the open doorway, Graham can see the wizard lying asleep in his bed.",
-      "translation": "דרך הפתח, גרהאם רואה את הקוסם ישן במיטתו.",
+      "translation": "דרך הפתח, גרהאם רואה את המכשף ישן במיטתו.",
       "notes": "",
       "placeholders": []
     },
@@ -610,7 +610,7 @@
       "logicFile": 300,
       "messageNumber": 34,
       "original": "Mordack lies asleep on his huge, horrendous bed.",
-      "translation": "מורדק ישן על מיטתו האיומה.",
+      "translation": "מורדק ישן על מיטתו המפחידה.",
       "notes": "",
       "placeholders": []
     },
@@ -682,7 +682,7 @@
       "logicFile": 300,
       "messageNumber": 43,
       "original": "This would not be a good time to bother Mordack!",
-      "translation": "זה לא יהיה זמן טוב להטריד את מורדק!",
+      "translation": "זה לא יהיה עיתוי מוצלח להטריד את מורדק!",
       "notes": "",
       "placeholders": []
     },
@@ -690,7 +690,7 @@
       "logicFile": 300,
       "messageNumber": 44,
       "original": "It wouldn't be wise for Graham to carry the cat around.",
-      "translation": "לא יהיה זה חכם שגרהאם יישא את החתול איתו.",
+      "translation": "זה לא יהיה חכם שגרהאם יישא את החתול איתו.",
       "notes": "",
       "placeholders": []
     },
@@ -762,7 +762,7 @@
       "logicFile": 300,
       "messageNumber": 53,
       "original": "Graham should know better than to keep things bottled up inside!",
-      "translation": "גרהאם אמור לדעת שעדיף לא לשמור דברים סגורים בפנים!",
+      "translation": "גרהאם צריך לדעת שלא מוציאים את השד העדתי מהבקבוק!",
       "notes": "",
       "placeholders": []
     },
@@ -770,7 +770,7 @@
       "logicFile": 300,
       "messageNumber": 54,
       "original": "Many rocky islets dot the ocean just off-shore of the mountainous mainland.",
-      "translation": "איים סלעיים רבים מזדקרים בים הגדול ממש מול חופי היבשת ההררית.",
+      "translation": "איים סלעיים רבים מנקדים את פני הים, סמוך לחופיה של היבשה ההררית.",
       "notes": "",
       "placeholders": []
     },
@@ -858,7 +858,7 @@
       "logicFile": 300,
       "messageNumber": 65,
       "original": "Shivering with the cold, Cedric looks more than ready to leave these frozen reaches behind.",
-      "translation": "רועד מקור, סדריק נראה מוכן יותר מכל להשאיר את האזור הקפוא הזה מאחור.",
+      "translation": "רועד מקור, סדריק כנראה יעשה הכל להשאיר את האזור הקפוא הזה מאחור.",
       "notes": "",
       "placeholders": []
     },
@@ -866,7 +866,7 @@
       "logicFile": 300,
       "messageNumber": 66,
       "original": "Cedric looks relieved to be out of those cold mountains.",
-      "translation": "סדריק חש הקלה לצאת מההרים הקרים האלה.",
+      "translation": "סדריק חש הקלה לעזוב את ההרים הקרים האלה.",
       "notes": "",
       "placeholders": []
     },
@@ -930,7 +930,7 @@
       "logicFile": 300,
       "messageNumber": 74,
       "original": "Cedric seems to be thinking big thoughts right now, perhaps planning their next move, and so is not in a talkative mood.",
-      "translation": "נראה שסדריק שקוע במחשבות עמוקות, אולי מתכנן את הצעד הבא שלהם, ולכן אינו במצב רוח שיחתי.",
+      "translation": "נראה שסדריק שקוע במחשבות עמוקות, אולי מתכנן את הצעד הבא שלהם, ולכן אינו במצב רוח לשוחח.",
       "notes": "",
       "placeholders": []
     },
@@ -1002,7 +1002,7 @@
       "logicFile": 300,
       "messageNumber": 83,
       "original": "Whew! This smelly old fish is disgusting!",
-      "translation": "פיו! הדג המסריח הזה מגעיל!",
+      "translation": "פיו! הדג המסריח הזה גם מגעיל!",
       "notes": "",
       "placeholders": []
     },
@@ -1138,7 +1138,7 @@
       "logicFile": 300,
       "messageNumber": 100,
       "original": "It appears to be an average stick of wood.",
-      "translation": "זה נראה כמקל עץ רגיל.",
+      "translation": "זה נראה מקל עץ רגיל.",
       "notes": "",
       "placeholders": []
     },
@@ -1234,7 +1234,7 @@
       "logicFile": 300,
       "messageNumber": 112,
       "original": "This fine cloak is thick and warm.",
-      "translation": "גלימה יפה זו עבה וחמה.",
+      "translation": "גלימה יפה זו עבה ומחממת.",
       "notes": "",
       "placeholders": []
     },
@@ -1266,7 +1266,7 @@
       "logicFile": 300,
       "messageNumber": 116,
       "original": "Crispin's wand glows brightly with renewed power.",
-      "translation": "השרביט של קריספין זוהר באור בהיר בכוח מחודש.",
+      "translation": "השרביט של קריספין זוהר באור בהיר ובכוח מחודש.",
       "notes": "",
       "placeholders": []
     },
@@ -1394,7 +1394,7 @@
       "logicFile": 300,
       "messageNumber": 132,
       "original": "Graham is already wearing the warm cloak.",
-      "translation": "גרהאם כבר לובש את הגלימה החמה.",
+      "translation": "גרהאם כבר לובש את הגלימה המחממת.",
       "notes": "",
       "placeholders": []
     },
@@ -1402,7 +1402,7 @@
       "logicFile": 300,
       "messageNumber": 133,
       "original": "Here, the air is too warm to be wearing heavy outer garments.",
-      "translation": "כאן האוויר חם מדי בכדי ללבוש בגדים עליונים כבדים.",
+      "translation": "כאן האוויר חם מדי מכדי ללבוש בגדים עליונים כבדים.",
       "notes": "",
       "placeholders": []
     },
@@ -1410,7 +1410,7 @@
       "logicFile": 300,
       "messageNumber": 134,
       "original": "Graham hits and shakes the tambourine with much ruckus, but finds it doesn't accomplish anything.",
-      "translation": "גרהאם מנגן בתוף מרים, אך מגלה שזה לא משיג דבר.",
+      "translation": "גרהאם מכה בחוזקה בתוף מרים, אך מגלה שזה לא משיג דבר.",
       "notes": "",
       "placeholders": []
     },
@@ -1482,7 +1482,7 @@
       "logicFile": 300,
       "messageNumber": 143,
       "original": "Even though these are a very fine pair of shoes, Graham finds them too small for his own feet.",
-      "translation": "אף על פי שזהו זוג נעליים משובח מאוד, גרהאם מוצא אותן קטנות מדי לרגליו.",
+      "translation": "אף על פי שזהו זוג נעליים משובח מאוד, גרהאם מבין שהן קטנות מדי לרגליו.",
       "notes": "",
       "placeholders": []
     },
@@ -1498,7 +1498,7 @@
       "logicFile": 300,
       "messageNumber": 145,
       "original": "Nothing would be accomplished by using the hammer here.",
-      "translation": "שום דבר לא יושג באמצעות שימוש בפטיש כאן.",
+      "translation": "כאן שום דבר לא יושג באמצעות שימוש בפטיש.",
       "notes": "",
       "placeholders": []
     },
@@ -1618,7 +1618,7 @@
       "logicFile": 300,
       "messageNumber": 160,
       "original": "Nestled among the trees of the forest sits the wizard Crispin's worn, but cozy, cottage.",
-      "translation": "שקוע בין עצי היער יושב ביתו המוזנח מבחוץ אך הנעים מבפנים של הקוסם קריספין.",
+      "translation": "עמוק בין עצי היער עומד ביתו המוזנח מבחוץ אך הנעים מבפנים של הקוסם קריספין.",
       "notes": "",
       "placeholders": []
     },
@@ -1626,7 +1626,7 @@
       "logicFile": 300,
       "messageNumber": 161,
       "original": "A small well is located near the cottage.",
-      "translation": "באר קטנה ממוקמת ליד הבית.",
+      "translation": "באר קטנה ניצבת ליד הבית.",
       "notes": "",
       "placeholders": []
     },
@@ -1674,7 +1674,7 @@
       "logicFile": 300,
       "messageNumber": 167,
       "original": "A worn dirt path wanders through a thick wood alive with the sound of many creatures. Between the trees, to the east, Graham can see the outline of a great mountain range.",
-      "translation": "שביל עפר משוטט ביער סבוך שוקק בצלילי יצורים רבים. בין העצים, ממזרח, גרהאם יכול לראות את קווי המתאר של רכס הרים גדול.",
+      "translation": "שביל עפר משוטט ביער סבוך שוקק לצלילי יצורים רבים. בין העצים, ממזרח, גרהאם יכול לראות את קווי המתאר של רכס הרים גדול.",
       "notes": "",
       "placeholders": []
     },
@@ -1690,7 +1690,7 @@
       "logicFile": 300,
       "messageNumber": 169,
       "original": "Graham hits and shakes the tambourine with much ruckus, but finds it doesn't accomplish anything.",
-      "translation": "גרהאם מנגן בתוף מרים, אך מגלה שזה לא משיג דבר.",
+      "translation": "גרהאם מכה בתוף מרים, אך מגלה שזה לא משיג דבר.",
       "notes": "",
       "placeholders": []
     },
@@ -1746,7 +1746,7 @@
       "logicFile": 300,
       "messageNumber": 176,
       "original": "A wild river tumbles down from the eastern mountains and flows swiftly below the small town.",
-      "translation": "נהר פראי זורם מההרים המזרחיים וזורם חזק דרומית לעיירה הקטנה.",
+      "translation": "נהר פראי נובע מההרים המזרחיים וזורם בעוצמה דרומית לעיירה הקטנה.",
       "notes": "",
       "placeholders": []
     },
@@ -1770,7 +1770,7 @@
       "logicFile": 300,
       "messageNumber": 179,
       "original": "A small tributary of the larger river powers an old waterwheel as it flows through the town.",
-      "translation": "יובל קטן של הנהר הגדול מסובב גלגל מים ישן בזרימתו דרך העיירה.",
+      "translation": "יובל קטן של הנהר הגדול מניע גלגל מים ישן בזרימתו דרך העיירה.",
       "notes": "",
       "placeholders": []
     },
@@ -1794,7 +1794,7 @@
       "logicFile": 300,
       "messageNumber": 182,
       "original": "Unfortunately, the cow doesn't have anything to say. Her mouth is too full of cud.",
-      "translation": "לרוע המזל, לפרה אין שום דבר לומר. פיה מלא מדי בגירה.",
+      "translation": "לרוע המזל, לפרה אין שום דבר לומר. פיה מלא בעשב.",
       "notes": "",
       "placeholders": []
     },
@@ -1818,7 +1818,7 @@
       "logicFile": 300,
       "messageNumber": 185,
       "original": "Quaint houses and little shops line the town's main cobblestoned street.",
-      "translation": "בתים ציוריים וחנויות קטנות משתרעים לאורך רחוב האבן המרכזי של העיירה.",
+      "translation": "בתים ציוריים וחנויות קטנות ניצבים לאורך רחוב האבן המרכזי של העיירה.",
       "notes": "",
       "placeholders": []
     },
@@ -1826,7 +1826,7 @@
       "logicFile": 300,
       "messageNumber": 186,
       "original": "A broken wagon blocks access to a smaller side street.",
-      "translation": "עגלה שבורה חוסמת גישה לרחוב צדדי קטן יותר.",
+      "translation": "עגלה שבורה חוסמת את הגישה לסמטה צרה.",
       "notes": "",
       "placeholders": []
     },
@@ -1834,7 +1834,7 @@
       "logicFile": 300,
       "messageNumber": 187,
       "original": "A prosperous-looking tailorshop occupies the town's main corner.",
-      "translation": "חנות טקסטיל מוצלחת ממוקמת בפינה הראשית של העיירה.",
+      "translation": "חנות טקסטיל משגשגת ניצבת בפינה הראשית של העיירה.",
       "notes": "",
       "placeholders": []
     },
@@ -1842,7 +1842,7 @@
       "logicFile": 300,
       "messageNumber": 188,
       "original": "A small toyshop fronts the town's cobblestone street.",
-      "translation": "חנות צעצועים קטנה פונה לרחוב האבן של העיירה.",
+      "translation": "חנות צעצועים קטנה ניצבת בפינת רחוב האבן של העיירה.",
       "notes": "",
       "placeholders": []
     },
@@ -1850,7 +1850,7 @@
       "logicFile": 300,
       "messageNumber": 189,
       "original": "Nearly hidden at the end of the street sits a small shoeshop.",
-      "translation": "כמעט נסתרת בקצה הרחוב ממוקמת חנות נעליים קטנה.",
+      "translation": "כמעט נסתרת בקצה הרחוב ניצבת חנות נעליים קטנה.",
       "notes": "",
       "placeholders": []
     },
@@ -1874,7 +1874,7 @@
       "logicFile": 300,
       "messageNumber": 192,
       "original": "The town is busy with people going about their daily chores.",
-      "translation": "העיירה עמוסה באנשים העוסקים במטלותיהם היומיומיות.",
+      "translation": "העיירה עמוסה באנשים העוסקים בעבודתם היומיומית.",
       "notes": "",
       "placeholders": []
     },
@@ -1954,7 +1954,7 @@
       "logicFile": 300,
       "messageNumber": 202,
       "original": "With a fine view of the rushing river, the bakehouse sits a bit out of town along an old, rutted road.",
-      "translation": "עם נוף יפהפה של הנהר השוצף, המאפייה ממוקמת מעט מחוץ לעיר לאורך דרך עתיקה ועקלקלה.",
+      "translation": "עם נוף יפהפה של הנהר הזורם, המאפייה ממוקמת מעט מחוץ לעיר לאורך דרך עתיקה ועקלקלה.",
       "notes": "",
       "placeholders": []
     },
@@ -1962,7 +1962,7 @@
       "logicFile": 300,
       "messageNumber": 203,
       "original": "The bakehouse door beckons to all hungry travelers.",
-      "translation": "דלת המאפייה פתוחה לכל עובר אורח רעב.",
+      "translation": "דלת המאפייה פתוחה לכל אדם רעב.",
       "notes": "",
       "placeholders": []
     },
@@ -2034,7 +2034,7 @@
       "logicFile": 300,
       "messageNumber": 212,
       "original": "Despite his own troubles, Graham feels sorry for the young man who obviously has troubles of his own.",
-      "translation": "למרות צרותיו שלו, גרהאם מרחם על הצעיר שברור שיש לו צרות משלו.",
+      "translation": "למרות צרותיו שלו, גרהאם מרחם על הצעיר שמובן שיש גם לו צרות משלו.",
       "notes": "",
       "placeholders": []
     },
@@ -2074,7 +2074,7 @@
       "logicFile": 300,
       "messageNumber": 217,
       "original": "The wide dirt path ends at a crude warning sign placed before an ominous-looking forest. Beyond the sign, the path narrows to nothing more than a root-ensnarled trail.",
-      "translation": "שביל העפר הרחב מסתיים בשלט אזהרה גס שהוצב כנראה לפני יער מבשר רעות. מעברו השני של השלט, השביל מצטמצם ומוקף בסבך של שורשים.",
+      "translation": "שביל העפר הרחב מסתיים בשלט אזהרה מגושם שהוצב כנראה לפני אזור ביער המבשר רעות. מעברו השני של השלט, השביל מצטמצם ומוקף בסבך של שורשים.",
       "notes": "",
       "placeholders": []
     },
@@ -2098,7 +2098,7 @@
       "logicFile": 300,
       "messageNumber": 220,
       "original": "An old, hollow log lies in a small clearing before the gloomy forest.",
-      "translation": "בּול עץ ישן וחלול מונח בקרחת יער קטנה לפני היער הקודר.",
+      "translation": "בּול עץ ישן וחלול מונח בקרחת יער קטנה לפני היער האפל.",
       "notes": "",
       "placeholders": []
     },
@@ -2130,7 +2130,7 @@
       "logicFile": 300,
       "messageNumber": 224,
       "original": "There is a small pond here near the edge of a dark forest.",
-      "translation": "בקצה היער החשוך יש בריכה קטנה .",
+      "translation": "בקצה היער האפל יש בריכה קטנה .",
       "notes": "",
       "placeholders": []
     },
@@ -2138,7 +2138,7 @@
       "logicFile": 300,
       "messageNumber": 225,
       "original": "To the north, Graham can see the gnarly edge of a deep, dark forest.",
-      "translation": "מצפון, גרהאם רואה את תחילתו המתפתל של יער עמוק וחשוך.",
+      "translation": "מצפון, גרהאם רואה את תחילתו המתפתל של יער סבוך ואפל.",
       "notes": "",
       "placeholders": []
     },
@@ -2250,7 +2250,7 @@
       "logicFile": 300,
       "messageNumber": 239,
       "original": "The marionette belongs to the boy gnome!",
-      "translation": "המריונטה שייכת לגמד הילד!",
+      "translation": "המריונטה שייכת לגמד הצעיר!",
       "notes": "",
       "placeholders": []
     },
@@ -2282,7 +2282,7 @@
       "logicFile": 300,
       "messageNumber": 243,
       "original": "Graham attempts to speak to the young gnome but the boy seems to be very shy and doesn't answer.",
-      "translation": "גרהאם מנסה לדבר עם הגמד הצעיר אך הילד נראה ביישן מאוד ואינו עונה.",
+      "translation": "גרהאם מנסה לדבר עם הגמד הצעיר אך הוא נראה ביישן מאוד ואינו עונה.",
       "notes": "",
       "placeholders": []
     },
@@ -2298,7 +2298,7 @@
       "logicFile": 300,
       "messageNumber": 245,
       "original": "Tsk, tsk! Graham should know better than to feed the bear.",
-      "translation": "אוי, אוי! גרהאם צריך לדעת טוב יותר כיצד להאכיל את הדוב.",
+      "translation": "אוי ואבוי! גרהאם צריך לדעת טוב יותר כיצד להאכיל את הדוב.",
       "notes": "",
       "placeholders": []
     },
@@ -2314,7 +2314,7 @@
       "logicFile": 300,
       "messageNumber": 247,
       "original": "The swift river turns sharply to the south here.",
-      "translation": "הנהר השוצף פונה בחדות דרומה כאן.",
+      "translation": "הנהר השוצף פונה בנקודה זו בחדות דרומה.",
       "notes": "",
       "placeholders": []
     },
@@ -2378,7 +2378,7 @@
       "logicFile": 300,
       "messageNumber": 255,
       "original": "Graham has already taken a honeycomb. It wouldn't be wise to antagonize the now-friendly bees.",
-      "translation": "גרהאם כבר לקח חלת דבש. לא יהיה זה חכם להרגיז את הדבורים הידידותיות כעת.",
+      "translation": "גרהאם כבר לקח חלת דבש. זה לא יהיה חכם להרגיז את הדבורים הידידותיות כעת.",
       "notes": "",
       "placeholders": []
     },
@@ -2386,7 +2386,7 @@
       "logicFile": 300,
       "messageNumber": 256,
       "original": "Graham should be very careful around a big old bear!",
-      "translation": "גרהאם צריך להיות זהיר מאוד ליד דוב זקן וגדול!",
+      "translation": "גרהאם צריך להיות זהיר מאוד ליד דוב בוגר וגדול!",
       "notes": "",
       "placeholders": []
     },
@@ -2498,7 +2498,7 @@
       "logicFile": 300,
       "messageNumber": 270,
       "original": "The ants are too busy to engage in conversation with Graham.",
-      "translation": "הנמלים עסוקות מדי בכדי לנהל שיחה עם גרהאם.",
+      "translation": "הנמלים עסוקות מדי מכדי לנהל שיחה עם גרהאם.",
       "notes": "",
       "placeholders": []
     },
@@ -2522,7 +2522,7 @@
       "logicFile": 300,
       "messageNumber": 273,
       "original": "The wagon door looks inviting to those who wish to have their fortunes told.",
-      "translation": "דלת העגלה נראית מזמינה לאלו שמעוניינים לגלות את עתידם.",
+      "translation": "דלת העגלה נראית מזמינה לאלו המעוניינים לגלות את עתידם.",
       "notes": "",
       "placeholders": []
     },
@@ -2546,7 +2546,7 @@
       "logicFile": 300,
       "messageNumber": 276,
       "original": "The dark gypsy man bars Graham's entry into the fortune teller's wagon without proper payment.",
-      "translation": "הצועני הכהה חוסם את כניסתו של גרהאם לעגלת מגדת העתידות ללא תשלום הולם.",
+      "translation": "הצועני השחום חוסם את כניסתו של גרהאם לעגלת מגדת העתידות ללא תשלום הולם.",
       "notes": "",
       "placeholders": []
     },
@@ -2586,7 +2586,7 @@
       "logicFile": 300,
       "messageNumber": 281,
       "original": "Graham finds the huge beast completely uninteresting.",
-      "translation": "גרהאם מגלה שהבהמה הענקית לחלוטין בלתי מעניינת.",
+      "translation": "גרהאם לחלוטין חסר עניין בבהמה הענקית.",
       "notes": "",
       "placeholders": []
     },
@@ -2610,7 +2610,7 @@
       "logicFile": 300,
       "messageNumber": 284,
       "original": "The ox's mouth is too full of grass to even attempt a conversation with Graham!",
-      "translation": "פי השור מלא מדי בעשב כדי אפילו לנסות לשוחח עם גרהאם!",
+      "translation": "פי השור מלא מדי בעשב מכדי אפילו לנסות לשוחח עם גרהאם!",
       "notes": "",
       "placeholders": []
     },
@@ -2634,7 +2634,7 @@
       "logicFile": 300,
       "messageNumber": 287,
       "original": "The scraggly bushes of the dry brushland taper off to hot, sandy desert as far as the eye can see to the west. To the east, Graham can see the sparse edge of Serenia's woods.",
-      "translation": "השיחים הדלילים של אדמת השיחים היבשה הולכים ומתמעטים למדבר חם וחולי עד כמה שהעין רואה למערב. למזרח, גרהאם יכול לראות את הקצה הדליל של יערות סרניה.",
+      "translation": "השיחים הדלילים של אדמת השיחים היבשה הולכים ומתמעטים למדבר חם וחולי עד כמה שהעין רואה למערב. בכיוון מזרח, גרהאם יכול לראות את הקצה הדליל של יערות סרניה.",
       "notes": "",
       "placeholders": []
     },
@@ -2666,7 +2666,7 @@
       "logicFile": 300,
       "messageNumber": 291,
       "original": "In the distance to the north, rocky cliffs loom like sentinels across the barren desert.",
-      "translation": "מרחוק מצפון, מצוקים סלעיים נישאים כמו זקיפים על פני המדבר השומם.",
+      "translation": "מרחוק בצפון, מצוקים סלעיים נישאים כמו זקיפים על פני המדבר השומם.",
       "notes": "",
       "placeholders": []
     },
@@ -2690,7 +2690,7 @@
       "logicFile": 300,
       "messageNumber": 294,
       "original": "The scorching sun burns down on the dry desert as Graham struggles through the hot sand. He looks around, but all he can see is...more desert!",
-      "translation": "השמש הקופחת יוקדת על המדבר היבש כשגרהאם נאבק בחול החם. הוא מביט סביב, אך כל מה שהוא רואה זה... עוד מדבר!",
+      "translation": "השמש הקופחת יוקדת במדבר היבש כשגרהאם נאבק בחול החם. הוא מביט סביבו, אך כל מה שהוא רואה זה... עוד מדבר!",
       "notes": "",
       "placeholders": []
     },
@@ -2698,7 +2698,7 @@
       "logicFile": 300,
       "messageNumber": 295,
       "original": "Oh, oh! A picked-clean and sun-bleached skeleton lies in the sand of the hot, dry desert. What happened? Who can say...but it makes Graham uneasy nevertheless.",
-      "translation": "אוי, אוי! שלד עצמות ולבן מהשמש שרוע בחול של המדבר החם והיבש. מה קרה? מי יודע... אבל זה גורם לגרהאם אי נוחות בכל זאת.",
+      "translation": "אוי, ואבוי! שלד עצמות ולבן מהשמש שרוע בחול של המדבר החם והיבש. מה קרה? מי יודע... אבל זה גורם לגרהאם אי נוחות בכל זאת.",
       "notes": "",
       "placeholders": []
     },
@@ -2730,7 +2730,7 @@
       "logicFile": 300,
       "messageNumber": 299,
       "original": "Ah! Life-giving water! Nectar of the gods! Graham can now feel strength and renewal flowing through him.",
-      "translation": "אה! מים מעניקי חיים! נקטר האלים! גרהאם יכול כעת לחוש כוח והתחדשות זורמים דרכו.",
+      "translation": "אה! מים מעניקי חיים! נקטר האלים! גרהאם יכול כעת לחוש בכוח והתחדשות זורמים דרכו.",
       "notes": "",
       "placeholders": []
     },
@@ -2754,7 +2754,7 @@
       "logicFile": 300,
       "messageNumber": 302,
       "original": "Well, it's too late for conversation now!",
-      "translation": "ובכן, מאוחר כדי לשוחח עכשיו!",
+      "translation": "ובכן, מאוחר מדי לשוחח עכשיו!",
       "notes": "",
       "placeholders": []
     },
@@ -2914,7 +2914,7 @@
       "logicFile": 300,
       "messageNumber": 322,
       "original": "Ensnarling roots, creeping vines, decaying logs, and twisted, gnarled trees...the close feeling of the gloomy forest quickly overwhelms Graham.",
-      "translation": "שורשים סבוכים, גפנים מטפסות, בולי עץ רקובים, ועצים מפותלים ומעוותים... תחושת הכניסה ליער הקודר משתלטת במהירות על גרהאם.",
+      "translation": "שורשים סבוכים, גפנים מטפסות, בולי עץ רקובים, ועצים מפותלים ומעוותים... תחושת הכניסה ליער האפל משתלטת במהירות על גרהאם.",
       "notes": "",
       "placeholders": []
     },
@@ -2930,7 +2930,7 @@
       "logicFile": 300,
       "messageNumber": 324,
       "original": "The pervasive gloom of the forest settles around Graham like a tight, suffocating blanket. Everywhere he can hear the eerie sounds of strange creatures.",
-      "translation": "הקדרות השוררת ביער משתלטת על גרהאם כמו שמיכה הדוקה וחונקת. בכל מקום הוא שומע את הצלילים המוזרים של יצורים מוזרים.",
+      "translation": "הקדרות השוררת ביער משתלטת על גרהאם כמו שמיכה הדוקה וחונקת. בכל מקום הוא שומע את צלילים של יצורים מוזרים.",
       "notes": "",
       "placeholders": []
     },
@@ -2938,7 +2938,7 @@
       "logicFile": 300,
       "messageNumber": 325,
       "original": "There seems to be an unusually large number of toads in this forest.",
-      "translation": "נראה שיש מספר גדול באופן חריג של קרפדות ביער הזה.",
+      "translation": "נראה שיש מספר גדול וחריג של קרפדות ביער הזה.",
       "notes": "",
       "placeholders": []
     },
@@ -3050,7 +3050,7 @@
       "logicFile": 300,
       "messageNumber": 339,
       "original": "A crude, misshapen structure, which remotely resembles a house, sits forlornly in the center of the gloomy forest. A crevasse spewing hot steam and licks of flames surrounds it.",
-      "translation": "מבנה גס ומעוות, הדומה מרחוק לבית, ממוקם במרכז היער הקודר. סדק הפולט אדים חמים וליחוכי להבות מקיף אותו.",
+      "translation": "מבנה גס ומעוות, הדומה מרחוק לבית, ממוקם במרכז היער האפל. סדק הפולט אדים חמים וליחוכי להבות מקיף אותו.",
       "notes": "",
       "placeholders": []
     },
@@ -3442,7 +3442,7 @@
       "logicFile": 300,
       "messageNumber": 388,
       "original": "Carefully, Graham searches through the haystack but doesn't see anything of importance.",
-      "translation": "בזהירות, גרהאם מחפש בערימת השחת אך אינו רואה שום דבר מעניין.",
+      "translation": "בזהירות, גרהאם מחפש בערימת השחת אך אינו מוצא שום דבר מעניין.",
       "notes": "",
       "placeholders": []
     },
@@ -3522,7 +3522,7 @@
       "logicFile": 300,
       "messageNumber": 398,
       "original": "Oh, oh! That last step was a doozy!",
-      "translation": "אוי, אוי! המדרגה האחרונה הייתה קשה במיוחד!",
+      "translation": "אוי, ואבוי! המדרגה האחרונה הייתה קשה במיוחד!",
       "notes": "",
       "placeholders": []
     },
@@ -3746,7 +3746,7 @@
       "logicFile": 300,
       "messageNumber": 426,
       "original": "Graham can see a breathtaking view of distant snow-covered mountains towering majestically above a beautiful valley with a ribbon of river slicing through it.",
-      "translation": "גרהאם יכול לראות נוף עוצר נשימה של הרים מכוסי שלג רחוקים המתנשאים באצילות מעל עמק יפהפה עם נהר שחותך אותו בחדות.",
+      "translation": "גרהאם יכול לראות נוף עוצר נשימה של הרים מכוסי שלג רחוקים המתנשאים באצילות מעל עמק יפהפה עם נהר שזורם לאורכו בחדות.",
       "notes": "",
       "placeholders": []
     },
@@ -3794,7 +3794,7 @@
       "logicFile": 300,
       "messageNumber": 432,
       "original": "A deep crevasse splits the snowy mountain ridge in two while a thin strip of ice crosses it. Unfortunately, it looks too wide to jump across.",
-      "translation": "סדק עמוק חוצה את רכס ההר המושלג לשניים, בעוד רצועת קרח דקה חוצה אותו. לרוע המזל, היא נראית רחבה מדי מכדי לקפוץ מעליה.",
+      "translation": "סדק עמוק חוצה את רכס ההר המושלג לשניים, בעוד רצועת קרח דקה חוצה אותו. לרוע המזל, הסדק נראה רחב מדי מכדי לקפוץ מעליו.",
       "notes": "",
       "placeholders": []
     },
@@ -3858,7 +3858,7 @@
       "logicFile": 300,
       "messageNumber": 440,
       "original": "A castle, buried in snow and ice, perches precariously atop a steep pinnacle.",
-      "translation": "טירה, קבורה בשלג וקרח, ממוקמת בצורה מסוכנת על פסגה תלולה.",
+      "translation": "טירה, מכוסה בשלג וקרח, ניצבת בצורה מסוכנת על פסגה תלולה.",
       "notes": "",
       "placeholders": []
     },
@@ -3866,7 +3866,7 @@
       "logicFile": 300,
       "messageNumber": 441,
       "original": "A shivering eagle perches weakly upon a small rock. Despite his own problems, Graham's heart goes out to the poor thing.",
-      "translation": "נשר רועד יושב בחולשה על סלע קטן. למרות בעיותיו שלו, ליבו של גרהאם יוצא אל המסכן.",
+      "translation": "נשר רועד עומד בחולשה על סלע קטן. למרות בעיותיו שלו, ליבו של גרהאם יוצא אל המסכן.",
       "notes": "",
       "placeholders": []
     },
@@ -4162,7 +4162,7 @@
       "logicFile": 300,
       "messageNumber": 478,
       "original": "Oh, oh! The baby roc looks at Graham hungrily!",
-      "translation": "אוי, אוי! הרוק התינוק מביט בגרהאם ברעב!",
+      "translation": "אוי, ואבוי! הרוק הגוזל מביט בגרהאם ברעב!",
       "notes": "",
       "placeholders": []
     },
@@ -4170,7 +4170,7 @@
       "logicFile": 300,
       "messageNumber": 479,
       "original": "Graham finds himself in a terrible situation: dropped painfully in the middle of a huge roc's nest set high on a rocky ledge with no way of climbing down. And now the baby roc eyes Graham hungrily!",
-      "translation": "גרהאם מבין שהוא במצב נורא: נזרק בכאב באמצע קן רוק ענק הממוקם גבוה על מדף סלעי ללא דרך לרדת. ועכשיו הרוק הגוזל מביט בגרהאם ברעב!",
+      "translation": "גרהאם מבין שהוא במצב נורא: נפל בכאב אל תוך קן רוק ענק הממוקם גבוה על מדף סלעי ללא דרך לרדת. ועכשיו הגוזל מביט בגרהאם ברעב!",
       "notes": "",
       "placeholders": []
     },
@@ -4178,7 +4178,7 @@
       "logicFile": 300,
       "messageNumber": 480,
       "original": "Graham finds himself in a terrible situation: dropped painfully in the middle of a huge roc's nest set high on a rocky ledge with no way of climbing down. And, even worse...the roc's egg is hatching!",
-      "translation": "גרהאם מבין שהוא במצב נורא: נזרק בכאב באמצע קן רוק ענק הממוקם גבוה על מדף סלעי ללא דרך לרדת. וגרוע מכך... ביצת הרוק בוקעת!",
+      "translation": "גרהאם מבין שהוא במצב נורא: נפל בכאב אל תוך קן רוק ענק הממוקם גבוה על מדף סלעי ללא דרך לרדת. וגרוע מכך... ביצת הרוק בוקעת!",
       "notes": "",
       "placeholders": []
     },
@@ -4226,7 +4226,7 @@
       "logicFile": 300,
       "messageNumber": 486,
       "original": "A narrow strand of beach skirts the bottom of the steep cliffs while the cold water of the ocean seems to cunningly steal what little is left.",
-      "translation": "רצועת חוף צרה חגה סביב תחתית הצוקים התלולים, בעוד מי האוקיינוס הקרים נדמים גונבים בערמומיות את המעט שנותר.",
+      "translation": "רצועת חוף צרה חגה סביב תחתית הצוקים התלולים, בעוד מי האוקיינוס הקרים נדמים מכרסמים בערמומיות את המעט שנותר.",
       "notes": "",
       "placeholders": []
     },
@@ -4258,7 +4258,7 @@
       "logicFile": 300,
       "messageNumber": 490,
       "original": "Graham spies a small boat in the distance.",
-      "translation": "גרהאם מבחין בסירה קטנה במרחק.",
+      "translation": "מרחוק, גרהאם מבחין בסירה קטנה.",
       "notes": "",
       "placeholders": []
     },
@@ -4274,7 +4274,7 @@
       "logicFile": 300,
       "messageNumber": 492,
       "original": "The narrow beach at the base of the steep, rocky cliff widens here a bit, while a chilly ocean continues to beat relentlessly upon it.",
-      "translation": "החוף הצר שבבסיס הצוק הסלעי והתלול מתרחב מעט כאן, בעוד אוקיינוס צונן ממשיך להכות בו ללא הרף.",
+      "translation": "החוף הצר שבבסיס הצוק הסלעי והתלול מתרחב כאן מעט, בעוד מי אוקיינוס צוננים ממשיכים להכות בו ללא הרף.",
       "notes": "",
       "placeholders": []
     },
@@ -4290,7 +4290,7 @@
       "logicFile": 300,
       "messageNumber": 494,
       "original": "Unfortunately, the waterfall hinders Graham's progress farther up the coast.",
-      "translation": "לרוע המזל, המפל מפריע לגרהאם להתקדם הלאה בהמשך החוף.",
+      "translation": "לרוע המזל, המפל מפריע לגרהאם להתקדם הלאה בחוף.",
       "notes": "",
       "placeholders": []
     },
@@ -4322,7 +4322,7 @@
       "logicFile": 300,
       "messageNumber": 498,
       "original": "The ocean's cold water seems to lap hungrily toward the small \"ship-house\" built against the steep cliffs of the narrow beach.",
-      "translation": "המים הקרים של האוקיינוס נראים מלטפים ברעב את \"בית הספינה\" הקטן הבנוי על צוקי החוף הצר.",
+      "translation": "המים הקרים של הים נראים מלטפים ברעב את \"בית הספינה\" הקטן הבנוי על צוקי החוף הצר.",
       "notes": "",
       "placeholders": []
     },
@@ -4474,7 +4474,7 @@
       "logicFile": 300,
       "messageNumber": 517,
       "original": "Graham notices a large conch shell lying delicately upon the sandy beach.",
-      "translation": "גרהאם מבחין בקונכייה גדולה מונחת על חוף החול.",
+      "translation": "גרהאם מבחין בקונכייה גדולה מוטלת על חוף החול.",
       "notes": "",
       "placeholders": []
     },
@@ -4538,7 +4538,7 @@
       "logicFile": 300,
       "messageNumber": 525,
       "original": "A crude set of stairs has been carved into the rocky cliffs of Mordack's island. Above them, a narrow, winding trail leads on up to his castle.",
-      "translation": "סט מדרגות גס נחצב בצוקי הסלע של האי של מורדק. מעליהן, שביל צר ומפותל מוביל אל טירתו.",
+      "translation": "סט מדרגות גס נחצב בצוקי האי של מורדק. מעליהן, שביל צר ומפותל מוביל אל טירתו.",
       "notes": "",
       "placeholders": []
     },
@@ -4666,7 +4666,7 @@
       "logicFile": 300,
       "messageNumber": 541,
       "original": "Graham notices a small stairway leading down to another trail which winds around the left side of Mordack's castle.",
-      "translation": "גרהאם מבחין במדרגות קטנות המובילות מטה לשביל אחר המתפתל סביב הצד השמאלי של טירת מורדק.",
+      "translation": "גרהאם מבחין במדרגות קטנות המובילות מטה לשביל אחר המתפתל סביב הצד השמאלי של הטירה.",
       "notes": "",
       "placeholders": []
     },
@@ -4698,7 +4698,7 @@
       "logicFile": 300,
       "messageNumber": 545,
       "original": "Graham notices a rusted grate embedded into a stone platform of Mordack's castle.",
-      "translation": "גרהאם מבחין בסורג חלוד המשובץ במשטח אבן של טירת מורדק.",
+      "translation": "גרהאם מבחין בסורג חלוד המשובץ במשטח אבן של הטירה.",
       "notes": "",
       "placeholders": []
     },
@@ -4906,7 +4906,7 @@
       "logicFile": 300,
       "messageNumber": 571,
       "original": "Graham scans the various items lining the open shelves but doesn't see anything of interest.",
-      "translation": "גרהאם סורק את הפריטים השונים המונחים על המדפים הפתוחים אך אינו רואה דבר מעניין.",
+      "translation": "גרהאם סורק את הפריטים השונים המונחים על המדפים אך אינו רואה שום דבר מעניין.",
       "notes": "",
       "placeholders": []
     },
@@ -4922,7 +4922,7 @@
       "logicFile": 300,
       "messageNumber": 573,
       "original": "A bag labeled Peas sits on a shelf in the cupboard.",
-      "translation": "שקית שכתוב עליה \"אפונה\" יושבת על מדף בארון.",
+      "translation": "שקית שכתוב עליה \"אפונה\" מונחת על מדף בארון.",
       "notes": "",
       "placeholders": []
     },
@@ -4946,7 +4946,7 @@
       "logicFile": 300,
       "messageNumber": 576,
       "original": "Reaching into the open cupboard, Graham retrieves the bag of dried peas.",
-      "translation": "פושט יד לתוך הארון הפתוח, גרהאם מוציא את שקית האפונים היבשים.",
+      "translation": "שולח ידו לתוך הארון הפתוח, גרהאם מוציא את שקית האפונים היבשים.",
       "notes": "",
       "placeholders": []
     },
@@ -4954,7 +4954,7 @@
       "logicFile": 300,
       "messageNumber": 577,
       "original": "Graham examines the contents of the shelves but doesn't see anything of interest.",
-      "translation": "גרהאם בוחן את תכולת המדפים אך אינו רואה דבר מעניין.",
+      "translation": "גרהאם בוחן את תכולת המדפים אך אינו רואה שום דבר מעניין.",
       "notes": "",
       "placeholders": []
     },
@@ -4986,7 +4986,7 @@
       "logicFile": 300,
       "messageNumber": 581,
       "original": "Graham surveys Mordack's kitchen in disgust. It is an untidy mishmash of dirty pots, jars with unidentified contents, rags, and assorted junk. Even with all that, Graham can see nothing that interests him.",
-      "translation": "גרהאם סוקר את המטבח של מורדק בתיעוב. זהו בלגן מבולגן של סירים מלוכלכים, צנצנות עם תכולה בלתי מזוהה, סמרטוטים וג'אנק מגוון. גם עם כל זה, גרהאם לא רואה שום דבר שמעניין אותו.",
+      "translation": "גרהאם סוקר את המטבח של מורדק בתיעוב. זהו בלגן גדול של סירים מלוכלכים, צנצנות עם תכולה בלתי מזוהה, סמרטוטים וג'אנק מגוון. גם עם כל זה, גרהאם לא רואה שום דבר שמעניין אותו.",
       "notes": "",
       "placeholders": []
     },
@@ -5122,7 +5122,7 @@
       "logicFile": 300,
       "messageNumber": 598,
       "original": "Graham can see into a large dining hall through the doorway.",
-      "translation": "גרהאם יכול לראות את אולם האוכל הגדול דרך הפתח.",
+      "translation": "גרהאם יכול לראות את חדר האוכל הגדול דרך הפתח.",
       "notes": "",
       "placeholders": []
     },
@@ -5194,7 +5194,7 @@
       "logicFile": 300,
       "messageNumber": 607,
       "original": "A huge dining table, placed before an ornate fireplace, dominates the cavernous dining hall.",
-      "translation": "שולחן אוכל ענק, המוצב מול אח מקושטת, תופס שטח גדול באולם האוכל העצום.",
+      "translation": "שולחן אוכל ענק, המוצב מול אח מקושטת, תופס שטח גדול בחדר האוכל העצום.",
       "notes": "",
       "placeholders": []
     },
@@ -5306,7 +5306,7 @@
       "logicFile": 300,
       "messageNumber": 621,
       "original": "Graham can see into Mordack's laboratory through the doorway.",
-      "translation": "גרהאם יכול לראות את מעבדה של מורדק דרך הפתח.",
+      "translation": "גרהאם יכול לראות את המעבדה של מורדק דרך הפתח.",
       "notes": "",
       "placeholders": []
     },
@@ -5330,7 +5330,7 @@
       "logicFile": 300,
       "messageNumber": 624,
       "original": "A hot fire burns fiercely in the hideous fireplace near the bed.",
-      "translation": "אש חמה בוערת בעוז באח המחרידה ליד המיטה.",
+      "translation": "אש חמה בוערת בעוצמה באח המחרידה ליד המיטה.",
       "notes": "",
       "placeholders": []
     },
@@ -5458,7 +5458,7 @@
       "logicFile": 300,
       "messageNumber": 640,
       "original": "The strange symbols have been burned into Graham's memory; there is no need to look at them again. Perhaps they'll be of use later.",
-      "translation": "הסמלים המוזרים נצרבו בזיכרונו של גרהאם; אין צורך להסתכל עליהם שוב. אולי הם יועילו מאוחר יותר.",
+      "translation": "הסמלים המוזרים נצרבו בזיכרונו של גרהאם; אין צורך להסתכל עליהם שוב. ייתכן שהם יועילו מאוחר יותר.",
       "notes": "",
       "placeholders": []
     },
@@ -5562,7 +5562,7 @@
       "logicFile": 300,
       "messageNumber": 653,
       "original": "Mordack's wand now barely glows; perhaps its power has weakened while Crispin's old wand now appears completely energized.",
-      "translation": "שרביטו של מורדק בקושי זוהר כעת; אולי כוחו נחלש, בעוד שרביטו הישן של קריספין נראה כעת טעון אנרגיה מלאה.",
+      "translation": "שרביטו של מורדק כעת זוהר חלושות; אולי כוחו נחלש, בעוד שרביטו הישן של קריספין נראה כעת טעון אנרגיה מלאה.",
       "notes": "",
       "placeholders": []
     },
@@ -5594,7 +5594,7 @@
       "logicFile": 300,
       "messageNumber": 657,
       "original": "The strange device has returned to its original placid state, though Graham remains awestruck by the incredible display of power he has just witnessed. Mordack obviously is a wizard with extraordinary talents to have harnessed such amazing power.",
-      "translation": "המכשיר המוזר חזר למצבו השקט המקורי, אם כי גרהאם נשאר מוקסם מהתצוגה המדהימה של כוח שראה זה עתה. מורדק הוא ללא ספק קוסם בעל כישרונות יוצאי דופן שאילף כוח מדהים שכזה.",
+      "translation": "המכשיר המוזר חזר למצבו השקט המקורי, אם כי גרהאם נשאר מוקסם מהתצוגה המדהימה של כוח שראה זה עתה. מורדק הוא ללא ספק קוסם בעל כישרונות יוצאי דופן שיצר מכונה מדהימה שכזו.",
       "notes": "",
       "placeholders": []
     },
@@ -5610,7 +5610,7 @@
       "logicFile": 300,
       "messageNumber": 659,
       "original": "Mordack's wand now looks dim and powerless. Graham has no desire for it anymore.",
-      "translation": "שרביטו של מורדק נראה עמום וחסר כוח כעת. לגרהאם אין יותר משיכה אליו.",
+      "translation": "שרביטו של מורדק נראה עמום וחסר כוח כעת. לגרהאם אין יותר עניין בו.",
       "notes": "",
       "placeholders": []
     },
@@ -5730,7 +5730,7 @@
       "logicFile": 300,
       "messageNumber": 674,
       "original": "Graham finds that his hand is too large to reach very far into the small mousehole.",
-      "translation": "גרהאם מגלה שידו גדולה מדי כדי להגיע פנימה לתוך חור העכבר הקטן.",
+      "translation": "גרהאם מגלה שידו גדולה מדי מכדי להגיע פנימה לתוך חור העכבר הקטן.",
       "notes": "",
       "placeholders": []
     },
@@ -5778,7 +5778,7 @@
       "logicFile": 300,
       "messageNumber": 680,
       "original": "The grate is too high up. There is nothing Graham can do with it.",
-      "translation": "הסורג גבוה מדי. גרהאם לא יכול לעשות איתו כלום.",
+      "translation": "הסורג גבוה מדי. גרהאם לא יכול להגיע אליו.",
       "notes": "",
       "placeholders": []
     },
@@ -5850,7 +5850,7 @@
       "logicFile": 300,
       "messageNumber": 689,
       "original": "The little shoemaker elf has left and is nowhere in sight.",
-      "translation": "גמד הסנדלר הקטן עזב ואינו נראה באופק.",
+      "translation": "הסנדלר הגמד עזב ואינו נראה באופק.",
       "notes": "",
       "placeholders": []
     },
@@ -5970,7 +5970,7 @@
       "logicFile": 300,
       "messageNumber": 704,
       "original": "Playing the harp has attracted the attention of the men at the bar.",
-      "translation": "נגינה בנבל משכה את תשומת ליבם של הגברים בבר.",
+      "translation": "הנגינה בנבל משכה את תשומת ליבם של הגברים בבר.",
       "notes": "",
       "placeholders": []
     },
@@ -6058,7 +6058,7 @@
       "logicFile": 300,
       "messageNumber": 715,
       "original": "Struggle as he might, Graham cannot escape his bonds.",
-      "translation": "ייאבק ככל שייאבק, גרהאם אינו יכול לברוח מכבליו.",
+      "translation": "ייאבק ככל שיוכל, גרהאם אינו יכול לברוח מכבליו.",
       "notes": "",
       "placeholders": []
     },
@@ -6090,7 +6090,7 @@
       "logicFile": 300,
       "messageNumber": 719,
       "original": "Several hungry-looking harpies eye Graham greedily as he frantically looks for a route of escape. To his horror, he sees none.",
-      "translation": "כמה הרפיות רעבות חומדות בעיניהן את גרהאם כשהוא מחפש בבהלה דרך מילוט. לזוועתו, הוא לא רואה אף דרך להמלט.",
+      "translation": "כמה הרפיות רעבות חומדות בעיניהן את גרהאם כשהוא מחפש בבהלה דרך מילוט. לזוועתו, הוא לא רואה אף דרך כזו.",
       "notes": "",
       "placeholders": []
     },
@@ -6250,7 +6250,7 @@
       "logicFile": 300,
       "messageNumber": 739,
       "original": "From across the desert sands, Graham can hear the sound of approaching hoofbeats.",
-      "translation": "מעבר לחולות המדבר, גרהאם יכול לשמוע קולות מתקרבים של פרסות.",
+      "translation": "גרהאם יכול לשמוע קולות של פרסות סוסים מתקרבים מחולות המדבר.",
       "notes": "",
       "placeholders": []
     },
@@ -6282,7 +6282,7 @@
       "logicFile": 300,
       "messageNumber": 743,
       "original": "Sheer rock cliffs rising straight up from the desert floor form an unreachable flat plateau at the top.",
-      "translation": "צוקי סלע תלולים המתנשאים מעלה מאדמת המדבר יוצרים רמה שטוחה בלתי נגישה בפסגה.",
+      "translation": "צוקי סלע תלולים המתנשאים מעלה מאדמת המדבר יוצרים רמה שטוחה בלתי נגישה.",
       "notes": "",
       "placeholders": []
     },

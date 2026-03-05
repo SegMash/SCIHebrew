@@ -1,0 +1,78 @@
+   So You Want To Be A Hero  [score %d of 500]
+You will not need to use the word "%s" in this game.
+%s on day %d.
+%c
+Silver Coin%c
+Gold Coin%c
+Food Ration%c
+Mandrake Root%c
+Large Brass Key%c
+Broadsword%c
+Dagger%c
+Leather Armor%c
+Shield%c
+Piece%c of Paper
+Small apple%c
+Vegetable%c
+Glowing Gem%c
+Alabaster Vase%c
+Candelabra%c
+Music Box%c
+Silver Candlestick%c
+String%c of Pearls
+Gold Ring%c
+Spirea Seed%c
+Small Rock%c
+Beautiful Flower%c
+Lock Pick%c
+Thief's Tool Kit%c
+Thief's Guild License%c
+Empty Flask%c
+Handful%c of Green Fur
+Flask%c of Fairy Dust
+Flask%c of Water
+Mushroom%c
+Cheetaur Claw%c
+Troll Beard%c
+Chainmail Armor%c
+Potion%c of Healing
+Potion%c of Magic Power
+Vigor Potion%c
+Dispel Potion%c
+Flask%c of Undead Unguent
+Hand Mirror%c
+Magic Acorn%c
+After %d minutes rest, you feel better.
+%s
+"Well, you seem to have beginner's luck.  It only took you %d game%s to win.  Hmph.  It usually takes at least %d tries for anyone less than a full Wizard to defeat me."
+Let's see, to make the Dispel Potion I still need: %s %s %s %s %s
+Oh, you want %s?  I think I have %s somewhere around here.
+By golly, It's %s!
+%s, you're in big trouble!
+Have you learned the %s spell yet?
+Do you know how to cast the %s spell?
+He's dead, %s.
+You find %d silver coins, and carefully place them in your pouch.
+%d
+%d / %d
+%d#
+%d/%d
+Our Hero has %d silvers.
+Good luck in your quest, %s.
+The writing on this page looks very recent.  It says "I, %s, have come to Spielburg to become a Hero."
+The %s entry was made several years ago.  It says: "Baronet Barnard von Spielburg killed a Troll near the Flying Falls on this 23 day of Octember".
+"Got any %d's?"
+"%d silvers.  Here you are."
+You now have %d gold and %d silver coins.
+"The password is '%s'."
+         Dag-Nab-It  [score %d of 500]
+   So You've Become A Hero!  [score %d of 500]
+Congratulations!  You have successfully completed "Hero's Quest I:  So You Want To Be A Hero."  Your final score was %d of 500 possible Puzzle Points.
+Could not create file -- %s.
+%2x
+   Wow!  You're Really A Hero!  [score %d of 500]
+%s needs an 'at:' method.
+%ssg.dir
+File: %s
+I don't understand "%s".
+Please insert your %s disk in drive %s.

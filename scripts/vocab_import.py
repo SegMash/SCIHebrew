@@ -93,13 +93,14 @@ def read_csv_file(csvdir):
             # we combine the two entries
             # note - we don't do `new_entry['words'].append(duplicated)` - because `duplicated` already exists in existing_entry
             existing_entry = get_entry_with_word(entries, duplicated.strip())
-            common_rooms = existing_entry['rooms'].intersection(new_entry['rooms'])
+            #common_rooms = existing_entry['rooms'].intersection(new_entry['rooms'])
             #print(f"duplicated word {duplicated.strip()}")
-            if common_rooms:
-                warnings_duplicates.append((duplicated.strip(), sorted(common_rooms)))
-            if existing_entry['cls'] != new_entry['cls']:
-                existing_entry['cls'] = existing_entry['cls'] | new_entry['cls']
-            existing_entry['words'].extend(new_entry['words'])
+            #if common_rooms:
+            #    warnings_duplicates.append((duplicated.strip(), sorted(common_rooms)))
+            #if existing_entry['cls'] != new_entry['cls']:
+            #    existing_entry['cls'] = existing_entry['cls'] | new_entry['cls']
+            #existing_entry['words'].extend(new_entry['words'])
+            print(f"Total duplicated words: {count_duplicated}")
             assert duplicated in existing_entry['words']
         else:
             entries.append(new_entry)
