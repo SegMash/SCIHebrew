@@ -113,7 +113,7 @@ def apply_translations(input_dir, output_dir, mapping_file):
                 translated = None
                 
                 # Convert actual newlines to literal \n for matching with mapping file
-                message_with_literal_newlines = message.replace('\n', '\\n')
+                message_with_literal_newlines = message.replace('\n', '\\n').replace('\r', '\\r')
                 
                 #if "1643" in message:
                 #    print(f"DEBUG: Message with '1643': {repr(message)}")
@@ -133,6 +133,7 @@ def apply_translations(input_dir, output_dir, mapping_file):
                     translated = mapping[message_with_literal_newlines]
                     # Convert literal \n back to actual newlines in the translated text
                     translated = translated.replace('\\n', '\n')
+                    translated = translated.replace('\\r', '\r')
                 # Strategy 3: Strip whitespace (original)
                 elif message.strip() in mapping:
                     translated = mapping[message.strip()]
@@ -142,6 +143,8 @@ def apply_translations(input_dir, output_dir, mapping_file):
                     translated = translated.replace('\\n', '\n')
                 # Strategy 5: Normalize whitespace (collapse multiple spaces, strip)
                 else:
+                    print(f"DEBUG: No exact match for message: {repr(message_with_literal_newlines)}")
+                    print(f"DEBUG: mapping[0]: {list(mapping.items())[0] if mapping else 'Empty mapping'}")
                     normalized = ' '.join(message.split())
                     if normalized in mapping:
                         translated = mapping[normalized]

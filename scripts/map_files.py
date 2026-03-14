@@ -32,7 +32,9 @@ def split_messages(lines):
         if line.strip() == '=====':
             # End of current message - join lines with \n
             if current_message:
-                messages.append('\\n'.join(current_message))
+                msg='\\n'.join(current_message)
+                msg=msg.replace('\\n\\n', '\\r\\n')
+                messages.append(msg)
                 current_message = []
         else:
             # Add line to current message
@@ -40,7 +42,9 @@ def split_messages(lines):
     
     # Don't forget the last message if file doesn't end with separator
     if current_message:
-        messages.append('\\n'.join(current_message))
+        msg='\\n'.join(current_message)
+        msg=msg.replace('\\n\\n', '\\r\\n')
+        messages.append(msg)
     
     return messages
 
