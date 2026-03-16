@@ -46,4 +46,5 @@ REM - Copy all TEX files from resources, and then from work dir (GOG patches)
 REM - extract texts from tex files.
 REM - translate to hebrew
 REM - add 
-
+makensis.exe .\kq5_hebrew_patch.nsi
+powershell -Command "(Get-FileHash -Algorithm MD5 'games_assets\kq5\0.fon').Hash.ToLower()"

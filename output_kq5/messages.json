@@ -6306,7 +6306,7 @@
       "logicFile": 300,
       "messageNumber": 746,
       "original": "Graham contemplates an attempt to climb the rocky cliff but wisely chooses not to.",
-      "translation": "גרהאם שוקל ניסיון לטפס על צוק הסלע אך בחוכמה בוחר שלא לעשות זאת.",
+      "translation": "גרהאם שוקל לנסות ולטפס על צוק הסלע אך בחוכמה בוחר שלא לעשות זאת.",
       "notes": "",
       "placeholders": []
     },
@@ -6330,7 +6330,7 @@
       "logicFile": 300,
       "messageNumber": 749,
       "original": "Stone statues of Pegasus seem to guard the old, crumbling temple.",
-      "translation": "פסלי פגסוס עשויים אבן נראים שומרים על המקדש הישן והמתפורר.",
+      "translation": "פסלי פגסוס מפוסלים באבן ניצבים כשומרים על המקדש הישן והמתפורר.",
       "notes": "",
       "placeholders": []
     },
@@ -6346,7 +6346,7 @@
       "logicFile": 300,
       "messageNumber": 751,
       "original": "Carved into the rocky cliffs, an ancient temple towers above Graham as he surveys its ornate columns and friezes.",
-      "translation": "חצוב בתוך צוקי הסלע, מקדש עתיק מתנשא ממול גרהאם כשהוא סוקר את עמודיו המקושטים ואת עיטורי האפריזים שלו.",
+      "translation": "חצוב בתוך צוקי הסלע, מקדש עתיק המתנשא ממול גרהאם כשהוא סוקר את עמודיו המקושטים ואת עיטורי האפריזים שלו.",
       "notes": "",
       "placeholders": []
     },
@@ -6370,7 +6370,7 @@
       "logicFile": 300,
       "messageNumber": 754,
       "original": "Graham examines the statue carefully but doesn't see anything of importance.",
-      "translation": "גרהאם בוחן את הפסל בזהירות אך אינו רואה דבר חשוב.",
+      "translation": "גרהאם בוחן את הפסל בזהירות אך אינו רואה משהו מיוחד.",
       "notes": "",
       "placeholders": []
     },
@@ -6410,7 +6410,7 @@
       "logicFile": 300,
       "messageNumber": 759,
       "original": "The campfire, all but forgotten, has been reduced to a pile of glowing embers.",
-      "translation": "המדורה, שכמעט דעכה, הצטמצמה לערימה של גחלים זוהרות.",
+      "translation": "המדורה, שכמעט דעכה, הצטמצמה לערימה של גחלים לוחשות.",
       "notes": "",
       "placeholders": []
     },
@@ -6426,7 +6426,7 @@
       "logicFile": 300,
       "messageNumber": 761,
       "original": "The bandits' horses rest in the desert sun while their unsavory owners revel within the large tent.",
-      "translation": "סוסי השודדים נחים בשמש המדבר בעוד בעליהם הלא נעימים חוגגים בתוך האוהל הגדול.",
+      "translation": "סוסי השודדים נחים בשמש המדבר בעוד בעליהם האלימים חוגגים בתוך האוהל הגדול.",
       "notes": "",
       "placeholders": []
     },
@@ -6458,7 +6458,7 @@
       "logicFile": 300,
       "messageNumber": 765,
       "original": "There doesn't seem to be any activity within the smaller tent.",
-      "translation": "לא נראה שיש פעילות כלשהי בתוך האוהל הקטן יותר.",
+      "translation": "לא נראה שיש פעילות כלשהי בתוך האוהל הקטן.",
       "notes": "",
       "placeholders": []
     },
@@ -6474,7 +6474,7 @@
       "logicFile": 300,
       "messageNumber": 767,
       "original": "With disgust, Graham looks at a drunken bandit lying face down in the desert sand...completely passed out.",
-      "translation": "בגועל, גרהאם מביט בשודד שיכור ששוכב עם פניו בתוך חול המדבר... עילפון מוחלט.",
+      "translation": "בתחושת גועל, גרהאם מביט בשודד שיכור ששוכב עם פניו בתוך חול המדבר... עילפון מוחלט.",
       "notes": "",
       "placeholders": []
     },
@@ -6482,7 +6482,7 @@
       "logicFile": 300,
       "messageNumber": 768,
       "original": "Whew! Holding his nose against the drunken bandit's pungent odor, Graham searches him but doesn't find anything of importance.",
-      "translation": "פיו! מחזיק את אפו מפני הריח החריף של השודד השיכור, גרהאם מחפש עליו אך לא מוצא דבר חשוב.",
+      "translation": "פיו! מחזיק את אפו מפני הריח החריף של השודד השיכור, גרהאם מחפש עליו אך לא מוצא דבר בעל ערך.",
       "notes": "",
       "placeholders": []
     },
@@ -6546,7 +6546,7 @@
       "logicFile": 300,
       "messageNumber": 776,
       "original": "The old shoemaker, eyes squinted and fingers calloused from years of making shoes, drives tiny nails into a shoe sole with a small cobbler's hammer.",
-      "translation": "הסנדלר הזקן, עיניו מצומצמות ואצבעותיו מלאות יבלות משנים של עשיית נעליים, נועץ מסמרים זעירים בסוליית נעל עם פטיש סנדלר קטן.",
+      "translation": "הסנדלר הזקן, עיניו מצומצמות ואצבעותיו מלאות יבלות משנים של עשיית נעליים, נועץ מסמרים זעירים בסוליית נעל עם פטיש סנדלרים קטן.",
       "notes": "",
       "placeholders": []
     },
@@ -6554,7 +6554,7 @@
       "logicFile": 300,
       "messageNumber": 777,
       "original": "The shoeshop looks even more empty now that the shoemaker and his wife have left.",
-      "translation": "עכשיו שהסנדלר ואשתו עזבו, חנות הנעליים נראית ריקה אף יותר.",
+      "translation": "עכשיו שהסנדלר ואשתו עזבו, חנות הנעליים נראית שוממה אף יותר.",
       "notes": "",
       "placeholders": []
     },
@@ -6570,7 +6570,7 @@
       "logicFile": 300,
       "messageNumber": 779,
       "original": "A skinny old dog lies down on the hard floor of the shoeshop.",
-      "translation": "כלב זקן ורזה שוכב על הרצפה הקשה של חנות הנעליים.",
+      "translation": "כלב זקן וכחוש שוכב על הרצפה הקשה של חנות הנעליים.",
       "notes": "",
       "placeholders": []
     },
@@ -6578,7 +6578,7 @@
       "logicFile": 300,
       "messageNumber": 780,
       "original": "Business doesn't seem to be so good for the shoemaker and his wife. There isn't one pair of shoes for sale, and the old couple look tired and worn out.",
-      "translation": "נראה שהעסקים לא כל כך טובים עבור הסנדלר ואשתו. אין זוג נעליים אחד למכירה, והזוג המבוגר נראה עייף ושחוק.",
+      "translation": "נראה שהעסקים לא כל כך משגשגים עבור הסנדלר ואשתו. אין זוג נעליים אחד למכירה, והזוג המבוגר נראה עייף ושחוק.",
       "notes": "",
       "placeholders": []
     },
@@ -6594,7 +6594,7 @@
       "logicFile": 300,
       "messageNumber": 782,
       "original": "The old shoemaker wearily hammers tiny nails in a shoe sole. He doesn't even seem to notice Graham.",
-      "translation": "הסנדלר הזקן נועץ בעייפות מסמרים זעירים בסוליית נעל. הוא אפילו לא נראה מבחין בגרהאם.",
+      "translation": "הסנדלר הזקן נועץ בעייפות מסמרים זעירים בסוליית נעל. הוא כנראה אפילו לא מבחין בגרהאם.",
       "notes": "",
       "placeholders": []
     },
@@ -6602,7 +6602,7 @@
       "logicFile": 300,
       "messageNumber": 783,
       "original": "This old dog doesn't appeal to Graham.",
-      "translation": "הכלב הזקן הזה לא מושך את גרהאם.",
+      "translation": "הכלב הזקן לא מושך את גרהאם.",
       "notes": "",
       "placeholders": []
     },
@@ -6674,7 +6674,7 @@
       "logicFile": 300,
       "messageNumber": 792,
       "original": "In the corner of the shop, draped casually over a tailor's form, Graham sees a thick, fur-lined cloak.",
-      "translation": "בפינת החנות, תלויה בחופשיות על בובת תופרים, גרהאם רואה גלימה עבה מרופדת פרווה.",
+      "translation": "בפינת החנות, תלויה בחופשיות על בובת תופרים, גרהאם מבחין בגלימה עבה מרופדת פרווה.",
       "notes": "",
       "placeholders": []
     },
@@ -6682,7 +6682,7 @@
       "logicFile": 300,
       "messageNumber": 793,
       "original": "At the back of the shop, Graham notices a dressing room in which a rude, finicky customer tries on many items of fine clothing.",
-      "translation": "בעומק החנות, גרהאם מבחין בחדר הלבשה שבו לקוח גס רוח וקפדן מודד פריטים רבים של בגדים יפים.",
+      "translation": "בעומק החנות, גרהאם מבחין בחדר הלבשה שבו לקוח גס רוח וקפדן מודד בגדים רבים.",
       "notes": "",
       "placeholders": []
     },
@@ -6698,7 +6698,7 @@
       "logicFile": 300,
       "messageNumber": 795,
       "original": "The busy tailorshop bustles with activity as Graham looks around with interest at all the tailor's wares.",
-      "translation": "חנות החייטות העמוסה שוקקת פעילות כשגרהאם מביט סביב בעניין בכל סחורות החייט.",
+      "translation": "חנות הבגדים העמוסה שוקקת פעילות כשגרהאם מביט סביב בעניין בכל סחורות החייט.",
       "notes": "",
       "placeholders": []
     },
@@ -6730,7 +6730,7 @@
       "logicFile": 300,
       "messageNumber": 799,
       "original": "Graham sees nothing else of interest in the tailor's shop.",
-      "translation": "גרהאם לא רואה דבר נוסף מעניין בחנות החייט.",
+      "translation": "גרהאם לא רואה דבר נוסף מעניין בחנות הבגדים.",
       "notes": "",
       "placeholders": []
     },
@@ -6754,7 +6754,7 @@
       "logicFile": 300,
       "messageNumber": 802,
       "original": "The rude customer doesn't care to talk to Graham.",
-      "translation": "הלקוח הגס רוח לא מעוניין לדבר עם גרהאם.",
+      "translation": "הלקוח גס הרוח, לא מעוניין לדבר עם גרהאם.",
       "notes": "",
       "placeholders": []
     },
@@ -6762,7 +6762,7 @@
       "logicFile": 300,
       "messageNumber": 803,
       "original": "It seems to Graham that there is an unusually large number of toads in this forest.",
-      "translation": "נראה לגרהאם שיש מספר יוצא דופן של קרפדות ביער הזה.",
+      "translation": "גרהאם חושד שיש מספר יוצא דופן של קרפדות ביער הזה.",
       "notes": "",
       "placeholders": []
     },
@@ -6794,7 +6794,7 @@
       "logicFile": 300,
       "messageNumber": 807,
       "original": "A pet goldfish swims endlessly around in its fishbowl.",
-      "translation": "דג זהב שוחה ללא הרף בתוך קערת הדגים שלו.",
+      "translation": "דג זהב שוחה ללא הרף באקווריום שלו.",
       "notes": "",
       "placeholders": []
     },
@@ -6858,7 +6858,7 @@
       "logicFile": 300,
       "messageNumber": 815,
       "original": "Graham sees nothing else of interest in the toyshop.",
-      "translation": "גרהאם לא רואה דבר נוסף מעניין בחנות הצעצועים.",
+      "translation": "גרהאם לא רואה דבר מעניין נוסף בחנות הצעצועים.",
       "notes": "",
       "placeholders": []
     },
@@ -6898,7 +6898,7 @@
       "logicFile": 300,
       "messageNumber": 820,
       "original": "Though she may look like an ancient old woman, this witch is really very powerful... and much too strong to be shoved aside by a mere man as she staunchly defends her bridge.",
-      "translation": "אף על פי שהיא עשויה להיראות כאישה זקנה וחלשה, מכשפה זו חזקה מאוד... וחזקה מדי מכדי שאיש פשוט יוכל לדחוף אותה הצידה כשהיא מגינה בנאמנות על גשרה.",
+      "translation": "אף על פי שהיא עשויה להיראות כאישה זקנה וחלשה, מכשפה זו חזקה מאוד... וחזקה מדי מכדי שמישהו פשוט יוכל לדחוף אותה הצידה כשהיא מגינה בנאמנות על גשרה.",
       "notes": "",
       "placeholders": []
     },
@@ -6906,7 +6906,7 @@
       "logicFile": 300,
       "messageNumber": 821,
       "original": "Of all the ugly hags Graham has seen in his life, THIS is by far the ugliest!",
-      "translation": "מכל המכוערות שגרהאם ראה בחייו, זוהי ללא ספק המכוערת ביותר!",
+      "translation": "מכל המכשפות הרעות שגרהאם ראה בחייו, זוהי ללא ספק המכוערת ביותר!",
       "notes": "",
       "placeholders": []
     },
@@ -6914,7 +6914,7 @@
       "logicFile": 300,
       "messageNumber": 822,
       "original": "Even though the old witch is now powerless to inflict her evil magic on Graham, Graham also finds himself powerless to do anything about her!",
-      "translation": "אף על פי שהמכשפה הזקנה חסרת כוח כעת להטיל את קסמה הרע על גרהאם, גרהאם גם מוצא את עצמו חסר אונים לעשות לה משהו!",
+      "translation": "אף על פי שהמכשפה הזקנה חסרת כוח כעת להטיל את קסמה הרע על גרהאם, גרהאם עדיין מוצא את עצמו חסר אונים לעשות לה משהו!",
       "notes": "",
       "placeholders": []
     },
@@ -6922,7 +6922,7 @@
       "logicFile": 300,
       "messageNumber": 823,
       "original": "The amulet is already working its magic on the witch.",
-      "translation": "הקמע כבר עושה את קסמו על המכשפה.",
+      "translation": "הקמע כבר מפעיל את קסמו על המכשפה.",
       "notes": "",
       "placeholders": []
     },
@@ -6978,7 +6978,7 @@
       "logicFile": 300,
       "messageNumber": 830,
       "original": "It was the powerful and evil wizard Mordack who did it. I just happened to be visiting with an old friend when I saw him materialize out of thin air. Thank goodness he didn't notice ME!",
-      "translation": "זה היה הקוסם החזק והרשע מורדק שעשה זאת. פשוט ביקרתי אצל חבר ותיק כשראיתי אותו מופיע לפתע מחלל האוויר. תודה לאל שהוא לא שם לב אלי!",
+      "translation": "זה היה הקוסם החזק והרשע מורדק שעשה זאת. פשוט ביקרתי אצל חבר ותיק כשראיתי אותו מפציע לפתע מחלל האוויר. תודה לאל שהוא לא שם לב אלי!",
       "notes": "",
       "placeholders": []
     },
@@ -6994,7 +6994,7 @@
       "logicFile": 300,
       "messageNumber": 832,
       "original": "He conjured up a terrible whirlwind that swirled faster and faster around the castle. With another incantation Mordack then caused the wind to draw the castle up into the sky and out of sight. Oh, it was something to see, all right!",
-      "translation": "הוא העלה מערבולת נוראית שסבבה מהר יותר ויותר סביב הטירה. עם לחש נוסף, מורדק גרם לרוח למשוך את הטירה למעלה לשמיים ומחוץ לטווח הראיה. הו, זה היה מראה מרהיב, באמת!",
+      "translation": "הוא יצר מערבולת נוראית שסבבה מהר יותר ויותר סביב הטירה. עם לחש נוסף, מורדק גרם לרוח למשוך את הטירה למעלה לשמיים ומחוץ לטווח הראיה. הו, זה היה מראה מרהיב, באמת!",
       "notes": "",
       "placeholders": []
     },
@@ -7010,7 +7010,7 @@
       "logicFile": 300,
       "messageNumber": 834,
       "original": "That I don't know. I only know that it was Mordack who took your castle...and your family.",
-      "translation": "זה אני לא יודע. אני רק יודע שזה היה מורדק שלקח את הטירה שלך... ואת משפחתך.",
+      "translation": "את זה אני לא יודע. אני רק יודע שזה היה מורדק שלקח את הטירה שלך... ואת משפחתך.",
       "notes": "",
       "placeholders": []
     },
@@ -7026,7 +7026,7 @@
       "logicFile": 300,
       "messageNumber": 836,
       "original": "His name is Crispinophur...but we all call him Crispin for short. The only problem is, you see...,",
-      "translation": "שמו קריספינופור... אבל כולנו קוראים לו קריספין בקיצור. הבעיה היחידה, אתה מבין...,",
+      "translation": "שמו קריספינופור... אבל כולנו קוראים לו בקיצור קריספין. הבעיה היחידה, אתה מבין...,",
       "notes": "",
       "placeholders": []
     },
@@ -7066,7 +7066,7 @@
       "logicFile": 300,
       "messageNumber": 841,
       "original": "Oh, sure it would! Crispin is a very qualified wizard...one of the best. He just gets a little forgetful now and again, that's all.",
-      "translation": "הו, בטח שכן! קריספין הוא קוסם מאוד מוכשר... אחד מהטובים ביותר. הוא פשוט מדי פעם קצת שכחן, זה הכל.",
+      "translation": "הו, בטח שכן! קריספין הוא קוסם מאוד מוכשר... אחד הטובים ביותר. הוא פשוט קצת שכחן, זה הכל.",
       "notes": "",
       "placeholders": []
     },
@@ -7098,7 +7098,7 @@
       "logicFile": 300,
       "messageNumber": 845,
       "original": "Excuse me for saying, Your Majesty...but you don't have a choice. You MUST come with me. I'm sure Crispin can help you!",
-      "translation": "סלח לי שאני אומר, הוד מלכותך... אבל אין לך ברירה. אתה חייב לבוא איתי. אני בטוח שקריספין יכול לעזור לך!",
+      "translation": "סלח לי שאני אומר, הוד מלכותך... אבל אין לך ברירה. אתה חייב לבוא איתי. אני בטוח שקריספין יוכל לעזור לך!",
       "notes": "",
       "placeholders": []
     },
@@ -7114,7 +7114,7 @@
       "logicFile": 300,
       "messageNumber": 847,
       "original": "Oh, just some old, left-over fairy dust I've been carrying around. It'll help you to fly.",
-      "translation": "הו, סתם קצת אבקת פיות ישנה שנותרה לי משנה שעברה. היא תעזור לך לעוף.",
+      "translation": "הו, סתם מעט אבקת פיות ישנה שנותרה לי משנה שעברה. היא תעזור לך לעוף.",
       "notes": "",
       "placeholders": []
     },
@@ -7186,7 +7186,7 @@
       "logicFile": 300,
       "messageNumber": 856,
       "original": "A bit clumsy, are you? Well, come on in the house and dry off. No sense sitting around like a wet dog.",
-      "translation": "קצת מגושם, אתה? ובכן, בוא פנימה לבית והתייבש. אין טעם לשבת כמו כלב רטוב.",
+      "translation": "קצת מגושם, הא? ובכן, בוא פנימה לבית והתייבש. אין טעם לשכב כמו כלב רטוב.",
       "notes": "",
       "placeholders": []
     },
@@ -7210,7 +7210,7 @@
       "logicFile": 300,
       "messageNumber": 859,
       "original": "...The Society of Wizards has always taken a dim view of Mordack and his abuse of his power. Why, he's even been put on suspension a few times. It never seems to do any good, though.",
-      "translation": "...חברת הקוסמים תמיד התייחסה בחומרה למורדק ולשימוש לרעה בכוחו. הוא אפילו הושעה כמה פעמים. אבל זה אף פעם לא נראה שהועיל.",
+      "translation": "...חברת הקוסמים תמיד התייחסה בחומרה למורדק ולשימוש לרעה בכוחו. הוא אפילו הושעה כמה פעמים. אבל זה אף פעם לא הועיל.",
       "notes": "",
       "placeholders": []
     },
@@ -7218,7 +7218,7 @@
       "logicFile": 300,
       "messageNumber": 860,
       "original": "Crispin, why would Mordack want to take my family or castle? What did WE ever do to him?",
-      "translation": "קריספין, למה שמורדק ירצה לקחת את משפחתי או את טירתי? מה אי פעם עשינו לו?",
+      "translation": "קריספין, למה שמורדק ירצה לקחת את משפחתי או את טירתי? מה עשינו לו?",
       "notes": "",
       "placeholders": []
     },
@@ -7530,7 +7530,7 @@
       "logicFile": 300,
       "messageNumber": 899,
       "original": "You're holding out on me, little man! You're taking advantage of my good nature...but not for long! If I don't get a change of tune from you soon, I'll feed your family to the cat...starting with your dear mother!",
-      "translation": "אתה מוליך אותי שולל, איש קטן! אתה מנצל את טובי לבי... אבל לא להרבה זמן! אם לא תשנה גישה בקרוב, אני אאכיל את משפחתך לחתול... החל מהאמא היקרה שלך!",
+      "translation": "אתה מוליך אותי שולל, איש קטן! אתה מנצל את טוב לבי... אבל לא להרבה זמן! אם לא תשנה גישה בקרוב, אני אאכיל את משפחתך לחתול... החל מהאמא היקרה שלך!",
       "notes": "",
       "placeholders": []
     },
@@ -7618,7 +7618,7 @@
       "logicFile": 300,
       "messageNumber": 910,
       "original": "You may go now. Sir Greywolf will lead the way.",
-      "translation": "אתם רשאים ללכת כעת. סר גרייוולף יוביל את הדרך.",
+      "translation": "אתם כעת רשאים ללכת. סר גרייוולף יראה לכם את הדרך.",
       "notes": "",
       "placeholders": []
     },
@@ -7674,7 +7674,7 @@
       "logicFile": 300,
       "messageNumber": 917,
       "original": "I'm so weak from hunger. I haven't been able to catch any food for days. I can barely fly anymore.",
-      "translation": "אני כל כך חלש מרעב. לא הצלחתי לתפוס אוכל כבר ימים. אני בקושי יכול לעוף.",
+      "translation": "אני כל כך חלש מרעב. לא הצלחתי לתפוס אוכל כבר כמה ימים. אני בקושי יכול לעוף.",
       "notes": "",
       "placeholders": []
     },
@@ -7722,7 +7722,7 @@
       "logicFile": 300,
       "messageNumber": 923,
       "original": "You have shown yourself to be a kind, compassionate man and I will not forget what you did for me. Good-bye, dear friend.",
-      "translation": "הוכחת את עצמך כאדם טוב לב וחומל ולא אשכח מה שעשית למעני. להתראות, חבר יקר.",
+      "translation": "הוכחת את עצמך כאדם טוב לב וחומל ולא אשכח את מה שעשית למעני. להתראות, חבר יקר.",
       "notes": "",
       "placeholders": []
     },
@@ -7762,7 +7762,7 @@
       "logicFile": 300,
       "messageNumber": 928,
       "original": "That is a very perilous undertaking. I wish you would reconsider. But if you shall not, in return for rescuing our home from that flea-bitten cur I wish to offer you our help if perchance you may ever need it.",
-      "translation": "זו משימה מסוכנת מאוד. הלוואי שתשקול מחדש. אבל אם לא, בתמורה להצלת ביתנו מהכלב הזה, אני רוצה להציע לך את עזרתנו אם אי פעם תצטרך אותה.",
+      "translation": "זו משימה מסוכנת מאוד. והלוואי שתשקול אותה מחדש. אבל אם לא, בתמורה להצלת ביתנו מהכלב הזה, אני רוצה להציע לך את עזרתנו אם אי פעם תצטרך אותה.",
       "notes": "",
       "placeholders": []
     },
@@ -7770,7 +7770,7 @@
       "logicFile": 300,
       "messageNumber": 929,
       "original": "Thank you very much, King Antony. Cedric and I appreciate your kind offer. We look forward to meeting you again.",
-      "translation": "תודה רבה, המלך אנטוני. סדריק ואני מעריכים את הצעתך האדיבה. אנו מצפים לפגוש אותך שוב.",
+      "translation": "תודה רבה, המלך אנטוני. סדריק ואני מעריכים את הצעתך הנדיבה. אנו מצפים לפגוש אותך שוב.",
       "notes": "",
       "placeholders": []
     },
@@ -7778,7 +7778,7 @@
       "logicFile": 300,
       "messageNumber": 930,
       "original": "Here, boy!",
-      "translation": "הנה, ילד!",
+      "translation": "הנה, בחור!",
       "notes": "",
       "placeholders": []
     },
@@ -7794,7 +7794,7 @@
       "logicFile": 300,
       "messageNumber": 932,
       "original": "Why, thank you, King Antony. I'm honored.",
-      "translation": "הו, תודה, המלך אנטוני. אני מתכבד.",
+      "translation": "הו, תודה, המלך אנטוני. הכבוד הוא לי.",
       "notes": "",
       "placeholders": []
     },
@@ -7810,7 +7810,7 @@
       "logicFile": 300,
       "messageNumber": 934,
       "original": "So, you are here to see Madame Mushka, no? Vell, come closer. Seet down.",
-      "translation": "אז, אתה כאן כדי לראות את מאדאם מושקה, לא? ובכן, בוא קרוב יותר. שב.",
+      "translation": "אז אתה כאן כדי לראות את מאדאם מושקה, לא? ובכן, בוא קרוב יותר. שב.",
       "notes": "",
       "placeholders": []
     },
@@ -7850,7 +7850,7 @@
       "logicFile": 300,
       "messageNumber": 939,
       "original": "Good luck, King Graham. Be careful; zat Mordack eez a bad one!",
-      "translation": "בהצלחה, המלך גרהאם. היזהר; מורדק הזה הוא רשע!",
+      "translation": "בהצלחה, המלך גרהאם. היזהר, מורדק הזה הוא רשע!",
       "notes": "",
       "placeholders": []
     },
@@ -7906,7 +7906,7 @@
       "logicFile": 300,
       "messageNumber": 946,
       "original": "We'll see about that!",
-      "translation": "נראה את זה!",
+      "translation": "אנחנו עוד נראה!",
       "notes": "",
       "placeholders": []
     },
@@ -8075,7 +8075,7 @@
       "messageNumber": 967,
       "original": "Where have you been all this time, my love?",
       "translation": "איפה היית כל הזמן הזה, אהובתי?",
-      "notes": "אהובי או אהובתי?- לבדוק!!!",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -8106,7 +8106,7 @@
       "logicFile": 300,
       "messageNumber": 971,
       "original": "I don't want any of your things. All I need is my stolen heart brought back to me.",
-      "translation": "אני לא רוצה שום דבר מהדברים שלך. כל מה שאני צריכה זה את ליבי הגנוב שיוחזר אליי.",
+      "translation": "אני לא רוצה שום דבר מהדברים שלך. כל מה שאני צריכה זה את ליבי הגנוב שיוחזר אלי.",
       "notes": "",
       "placeholders": []
     },
@@ -8130,7 +8130,7 @@
       "logicFile": 300,
       "messageNumber": 974,
       "original": "That's right. No shoes at all. We're makin' a pair right now, but it'll take awhile...we're not as fast as we used to be.",
-      "translation": "נכון. אין נעליים בכלל. אנחנו מכינים זוג עכשיו, אבל זה ייקח קצת זמן... אנחנו לא מהירים כמו פעם.",
+      "translation": "נכון. אין נעליים בכלל. כרגע אנחנו מכינים זוג אחד, אבל זה ייקח קצת זמן... אנחנו לא מהירים כמו פעם.",
       "notes": "",
       "placeholders": []
     },
@@ -8154,7 +8154,7 @@
       "logicFile": 300,
       "messageNumber": 977,
       "original": "I don't know why you're still hangin' around here. We ain't got nothin' for you. Come back in a day or two.",
-      "translation": "אני לא יודע למה אתה עדיין מסתובב כאן. אין לנו שום דבר בשבילך. תחזור בעוד יום או יומיים.",
+      "translation": "אני לא יודע למה אתה עדיין מסתובב כאן. אין לנו שום דבר בשבילך. חזור בעוד יום או יומיים.",
       "notes": "",
       "placeholders": []
     },
@@ -8162,7 +8162,7 @@
       "logicFile": 300,
       "messageNumber": 978,
       "original": "It's you again, is it? We still don't have any shoes for sale.",
-      "translation": "זה אתה שוב, כן? עדיין אין לנו נעליים למכירה.",
+      "translation": "האם זה שוב אתה? עדיין אין לנו נעליים למכירה.",
       "notes": "",
       "placeholders": []
     },
@@ -8178,7 +8178,7 @@
       "logicFile": 300,
       "messageNumber": 980,
       "original": "We sold our last finished pair yesterday. Our business ain't doin' so good anymore and we're gettin' too old to keep tryin'.",
-      "translation": "מכרנו את הזוג האחרון המוכן אתמול. העסק שלנו כבר לא הולך כל כך טוב ואנחנו מתבגרים מדי מכדי להמשיך לנסות.",
+      "translation": "אתמול מכרנו את הזוג האחרון. העסק שלנו כבר לא הולך כל כך טוב ואנחנו מתבגרים מדי מכדי להמשיך לנסות.",
       "notes": "",
       "placeholders": []
     },
@@ -8194,7 +8194,7 @@
       "logicFile": 300,
       "messageNumber": 982,
       "original": "There ain't nothin' you can do short o' buyin' us out. But, like I said, if you want to look around, feel free.",
-      "translation": "אין שום דבר שאתה יכול לעשות מלבד לקנות אותנו. אבל, כמו שאמרתי, אם אתה רוצה להסתכל מסביב, תרגיש חופשי.",
+      "translation": "אין שום דבר שאתה יכול לעשות מלבד לקנות אותנו. אבל, כמו שאמרתי, אם אתה רוצה להסתכל סביב, תרגיש חופשי.",
       "notes": "",
       "placeholders": []
     },
@@ -8210,7 +8210,7 @@
       "logicFile": 300,
       "messageNumber": 984,
       "original": "What have we here? Mama, take those shoes from the young man. Let me see them.",
-      "translation": "מה יש לנו כאן? מאמא, קחי את הנעליים האלה מהצעיר. תני לי לראות אותן.",
+      "translation": "מה יש לנו כאן? אשתי, קחי את הנעליים האלה מהצעיר. תני לי לראות אותן.",
       "notes": "",
       "placeholders": []
     },
@@ -8226,7 +8226,7 @@
       "logicFile": 300,
       "messageNumber": 986,
       "original": "The craftmanship of these shoes are superb. And, Mama, look at the solid gold buckle! Why, I could retire from the sale of these shoes!",
-      "translation": "עבודת היד של הנעליים האלה מעולה. ומאמא, תראי את האבזם - זהב יצוק! וואו, אני יכול לפרוש ממכירת הנעליים האלה!",
+      "translation": "עבודת היד של הנעליים האלה מעולה. ואשתי, ראי את האבזם - זהב יצוק! וואו, אני יכול לפרוש ממכירת הנעליים האלה!",
       "notes": "",
       "placeholders": []
     },
@@ -8242,7 +8242,7 @@
       "logicFile": 300,
       "messageNumber": 988,
       "original": "You're a godsend, young man! How can we ever repay you?",
-      "translation": "אתה מתת אל, איש צעיר! איך נוכל אי פעם להחזיר לך טובה?",
+      "translation": "אתה מתת אל, איש צעיר! איך נוכל אי פעם לגמול לך טובה?",
       "notes": "",
       "placeholders": []
     },
@@ -8250,7 +8250,7 @@
       "logicFile": 300,
       "messageNumber": 989,
       "original": "You don't need to repay me. Just knowing I helped you is enough for me.",
-      "translation": "אתה לא צריך להחזיר לי טובה. עצם הידיעה שעזרתי לך מספיקה לי.",
+      "translation": "אתה לא צריך לגמול לי טובה. עצם הידיעה שעזרתי לך מספיקה לי.",
       "notes": "",
       "placeholders": []
     },
@@ -8298,7 +8298,7 @@
       "logicFile": 300,
       "messageNumber": 995,
       "original": "Come on, Mama. Let's go home. Let's celebrate our good fortune!",
-      "translation": "קדימה, מאמא. בואו נלך הביתה. בואו נחגוג את מזלנו הטוב!",
+      "translation": "קדימה, אשתי. בואי נלך הביתה. בואי נחגוג את מזלנו הטוב!",
       "notes": "",
       "placeholders": []
     },
@@ -8314,7 +8314,7 @@
       "logicFile": 300,
       "messageNumber": 997,
       "original": "My name is Austin. I'm here with my mama. We're buying a pie for dinner tonight.",
-      "translation": "שמי אוסטין. אני כאן עם אמא שלי. אנחנו קונים פאי לארוחת הערב הלילה.",
+      "translation": "שמי אוסטין. אני כאן עם אמא שלי. אנחנו קונים פאי לארוחת הערב.",
       "notes": "",
       "placeholders": []
     },
@@ -8347,7 +8347,7 @@
       "messageNumber": 1001,
       "original": "And how is your poor dear mother doing, William?",
       "translation": "ומה שלום אמך המסכנה, וויליאם?",
-      "notes": "למי קוראים ווילאם?",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -8362,7 +8362,7 @@
       "logicFile": 300,
       "messageNumber": 1003,
       "original": "The pies look lovely. I think I'll take one.",
-      "translation": "הפשטידות נראות נהדרות. אני חושב שאקח אחת.",
+      "translation": "הפשטידות נראות נהדר. אני חושבת שאקח אחת.",
       "notes": "",
       "placeholders": []
     },
@@ -8370,7 +8370,7 @@
       "logicFile": 300,
       "messageNumber": 1004,
       "original": "Yes, this will be a fine dessert for our dinner tonight.",
-      "translation": "כן, זה יהיה קינוח נהדר לארוחת הערב שלנו הלילה.",
+      "translation": "כן, זה יהיה קינוח נהדר לארוחת הערב שלנו.",
       "notes": "",
       "placeholders": []
     },
@@ -8418,7 +8418,7 @@
       "logicFile": 300,
       "messageNumber": 1010,
       "original": "I don't believe you! You're probably one of...THEM!",
-      "translation": "אני לא מאמין לך! אתה בטח אחד מ...הם!",
+      "translation": "אני לא מאמינה לך! אתה בטח אחד מ...הם!",
       "notes": "",
       "placeholders": []
     },
@@ -8426,7 +8426,7 @@
       "logicFile": 300,
       "messageNumber": 1011,
       "original": "I'm not; believe me.",
-      "translation": "אני לא; תאמין לי.",
+      "translation": "אני לא! תאמיני לי.",
       "notes": "",
       "placeholders": []
     },
@@ -8539,7 +8539,7 @@
       "messageNumber": 1025,
       "original": "Take that away from me! I don't want it!",
       "translation": "קח את זה ממני! אני לא רוצה את זה!",
-      "notes": "קח או קחי?",
+      "notes": "",
       "placeholders": []
     },
     {
@@ -8594,7 +8594,7 @@
       "logicFile": 300,
       "messageNumber": 1032,
       "original": "You wouldn't believe me even if I told you. But tell me, who are you...and how did you come to be here?",
-      "translation": "לא היית מאמינה לי גם אם הייתי אומר לך. אבל הגידי לי, מי את... ואיך הגעת לכאן?",
+      "translation": "לא היית מאמינה לי גם אם הייתי מספר לך. אבל הגידי לי, מי את... ואיך הגעת לכאן?",
       "notes": "",
       "placeholders": []
     },
@@ -8626,7 +8626,7 @@
       "logicFile": 300,
       "messageNumber": 1036,
       "original": "NOW why won't you work?!",
-      "translation": "למה דווקא עכשיו את לא עובדת?!",
+      "translation": "למה עכשיו זה לא עובד?!",
       "notes": "",
       "placeholders": []
     },
@@ -8650,7 +8650,7 @@
       "logicFile": 300,
       "messageNumber": 1039,
       "original": "He's dead, all right. He turned himself into a fire and I put him out with rainwater. He'll never bother anyone else EVER again! But now I have a bigger problem; I don't know what to do about my family or my castle. I don't know how to turn them back to normal!",
-      "translation": "הוא מת, אין ספק. הוא הפך את עצמו לאש ואני כיביתי אותו במי גשם. הוא לעולם לא יטריד אף אחד אחר לעולם! אבל עכשיו יש לי בעיה גדולה יותר; אני לא יודע מה לעשות עם המשפחה שלי או עם הטירה שלי. אני לא יודע איך להחזיר אותם למצב נורמלי!",
+      "translation": "הוא מת, אין ספק. הוא הפך את עצמו לאש ואני כיביתי אותו במי גשם. הוא לעולם לא יטריד אף אחד לעולם! אבל עכשיו יש לי בעיה גדולה יותר. אני לא יודע מה לעשות עם המשפחה שלי או עם הטירה שלי. אני לא יודע איך להחזיר אותם למצב נורמלי!",
       "notes": "",
       "placeholders": []
     },
@@ -8666,7 +8666,7 @@
       "logicFile": 300,
       "messageNumber": 1041,
       "original": "Yes, that's right! I can't wait to see my parents again! Good-bye, Alexander. Perhaps we'll meet again.",
-      "translation": "כן, נכון! אני לא יכולה להתאפק מלראות את הוריי שוב! להתראות, אלכסנדר. אולי ניפגש שוב.",
+      "translation": "כן, נכון! אני לא יכולה להמתין יותר ומוכרחה לחזור להורי! להתראות, אלכסנדר. אולי ניפגש שוב.",
       "notes": "",
       "placeholders": []
     },
@@ -8866,7 +8866,7 @@
       "logicFile": 300,
       "messageNumber": 1066,
       "original": "I'm King Graham of Daventry and I'm on a journey to find the wizard Mordack's island. But I seem to be stuck; I don't know where to go from here.",
-      "translation": "אני המלך גרהאם מדבנטרי ואני במסע למצוא את האי של הקוסם מורדק. אבל אני נראה תקוע; אני לא יודע לאן ללכת מכאן.",
+      "translation": "אני המלך גרהאם מדבנטרי ואני במסע למצוא את האי של הקוסם מורדק. אבל אני נראה תקוע. אני לא יודע לאן ללכת מכאן.",
       "notes": "",
       "placeholders": []
     },
@@ -8930,7 +8930,7 @@
       "logicFile": 300,
       "messageNumber": 1074,
       "original": "Please! Take the time to listen to me.",
-      "translation": "בבקשה! קח את הזמן להקשיב לי.",
+      "translation": "בבקשה! הקדש מעט זמן להקשיב לי.",
       "notes": "",
       "placeholders": []
     },
@@ -9002,7 +9002,7 @@
       "logicFile": 300,
       "messageNumber": 1083,
       "original": "Wounded by the harpies, did you say? Well, if you can bring him to me, I'll fix him right up...good as new!",
-      "translation": "נפצע על ידי ההרפיות, אמרת? ובכן, אם תוכל להביא אותו אליי, ארפא אותו מיד... חדש לגמרי!",
+      "translation": "הוא נפצע על ידי ההרפיות, אמרת? ובכן, אם תוכל להביא אותו אליי, ארפא אותו מיד... חדש לגמרי!",
       "notes": "",
       "placeholders": []
     },
@@ -9042,7 +9042,7 @@
       "logicFile": 300,
       "messageNumber": 1088,
       "original": "I'm feeling better already! Tell me, what was in those poultices? My employer would be very interested in them.",
-      "translation": "אני כבר מרגיש טוב יותר! תגיד לי, מה היה בתחבושות האלה? הבוס שלי יתעניין בהן מאוד.",
+      "translation": "אני כבר מרגיש טוב יותר! אמור לי, מה היה בתחבושות האלה? הבוס שלי יתעניין בהן מאוד.",
       "notes": "",
       "placeholders": []
     },
@@ -9066,7 +9066,7 @@
       "logicFile": 300,
       "messageNumber": 1091,
       "original": "Gifts from the sea, lad. Gifts from the sea. Ain't nothin' special. You just gotta know how to use 'em. I don't think he'd find them particularly interestin'.",
-      "translation": "מתנות מהים, בחור. מתנות מהים. אין בזה שום דבר מיוחד. אתה רק צריך לדעת איך להשתמש בהן. אני לא חושב שהוא ימצא אותן מעניינות במיוחד.",
+      "translation": "מתנות מהים, בחור. מתנות מהים. אין בזה שום דבר מיוחד. אתה רק צריך לדעת איך להשתמש בהן. אני לא חושב שהוא יחשוב אותן למעניינות במיוחד.",
       "notes": "",
       "placeholders": []
     },
@@ -9098,7 +9098,7 @@
       "logicFile": 300,
       "messageNumber": 1095,
       "original": "I'd try to talk you outta goin' there 'cept I can see that you cain't leave your poor defenseless family unaided.",
-      "translation": "הייתי מנסה לשכנע אותך לא ללכת לשם, אלא שאני רואה שאינך יכול להשאיר את משפחתך המסכנה והחסרת אונים ללא עזרה.",
+      "translation": "הייתי מנסה לשכנע אותך לא ללכת לשם, אלא שאני רואה שאינך יכול להשאיר את משפחתך המסכנה וחסרת האונים ללא עזרה.",
       "notes": "",
       "placeholders": []
     },
@@ -9122,7 +9122,7 @@
       "logicFile": 300,
       "messageNumber": 1098,
       "original": "Pearl cain't speak human talk but she's agreed to help you. Just get on into your boat and folla her.",
-      "translation": "פרל לא יכולה לדבר בשפה אנושית, אבל היא הסכימה לעזור לך. פשוט תיכנס לסירה שלך ותעקוב אחריה.",
+      "translation": "פרל לא יכולה לדבר בשפה אנושית, אבל היא הסכימה לעזור לך. פשוט היכנס לסירה שלך ותעקוב אחריה.",
       "notes": "",
       "placeholders": []
     },
@@ -9186,7 +9186,7 @@
       "logicFile": 300,
       "messageNumber": 1106,
       "original": "Well, let me know if you do.",
-      "translation": "טוב, תגיד לי אם יש לך.",
+      "translation": "טוב, אמור לי אם יש לך.",
       "notes": "",
       "placeholders": []
     },
@@ -9322,7 +9322,7 @@
       "logicFile": 300,
       "messageNumber": 1123,
       "original": "Welcome back to our bakehouse, traveler! Of course ALL of our wares are wonderful, but don't forget our special on custard pies.",
-      "translation": "ברוך הבא למאפייה שלנו! כמובן שכל הסחורה שלנו נפלאה, אבל אל תשכח את המבצע המיוחד שלנו על פשטידות קרם.",
+      "translation": "ברוך הבא למאפייה שלנו! כמובן שכל הסחורה שלנו נפלאה, אבל אל תשכח את המבצע המיוחד שלנו על פשטידות הקרם.",
       "notes": "",
       "placeholders": []
     },
@@ -9386,7 +9386,7 @@
       "logicFile": 300,
       "messageNumber": 1131,
       "original": "It looks delicious! I'm sure I will.",
-      "translation": "זה נראה טעים! אני בטוח שאיהנה.",
+      "translation": "זה נראה טעים! אני בטוחה שאיהנה.",
       "notes": "",
       "placeholders": []
     },
@@ -9506,7 +9506,7 @@
       "logicFile": 300,
       "messageNumber": 1146,
       "original": "Let me tell you... it will certainly keep you toasty warm during the coming winter.",
-      "translation": "תגיד לי... היא בהחלט תשמור עליך חם ונעים במהלך החורף הקרוב.",
+      "translation": "הרשה לי לומר לך... שהיא בהחלט תשמור עליך חם ונעים במהלך החורף הקרוב.",
       "notes": "",
       "placeholders": []
     },
@@ -9546,7 +9546,7 @@
       "logicFile": 300,
       "messageNumber": 1151,
       "original": "There isn't a more beautiful piece of fabric to be found anywhere! With this, I could make you the finest trousers you've ever had.",
-      "translation": "אין פיסת בד יפה יותר שניתן למצוא בשום מקום! עם זה, אוכל לתפור לך את המכנסיים המשובחים ביותר שהיו לך אי פעם.",
+      "translation": "אין פיסת בד יפה יותר שניתן למצוא באיזשהו מקום! עם זאת, אוכל לתפור לך את המכנסיים המשובחים ביותר שהיו לך אי פעם.",
       "notes": "",
       "placeholders": []
     },
@@ -9762,7 +9762,7 @@
       "logicFile": 300,
       "messageNumber": 1178,
       "original": "I would appreciate that. Well, I guess I'd better get back to looking for her. I'm not ever going to find her just sitting around here. Thanks for your concern.",
-      "translation": "אני אעריך זאת. ובכן, אני מניח שעדיף שאחזור לחפש אותה. אני לעולם לא אמצא אותה אם אמשיך לשבת כאן. תודה לך על הדאגה.",
+      "translation": "אני מעריך זאת. ובכן, אני מניח שעדיף שאחזור לחפש אותה. אני לעולם לא אמצא אותה אם אמשיך לשבת כאן. תודה לך על הדאגה.",
       "notes": "",
       "placeholders": []
     },
@@ -9834,7 +9834,7 @@
       "logicFile": 330,
       "messageNumber": 9,
       "original": "You'll find a run-down inn if you follow the road to the west.",
-      "translation": "תמצא פונדק רעוע אם תלך מערבה.",
+      "translation": "תמצא פונדק מוזנח אם תלך מערבה.",
       "notes": "",
       "placeholders": []
     },
@@ -9866,7 +9866,7 @@
       "logicFile": 330,
       "messageNumber": 13,
       "original": "That's a dark, creepy forest that we ALL avoid! I've heard you can get lost in there; and maybe run into an evil old WITCH!",
-      "translation": "זה יער אפל ומצמרר שכולנו נמנעים ממנו! שמעתי שאפשר ללכת שם לאיבוד; ואולי גם לפגוש מכשפה רעה וזקנה!",
+      "translation": "זה יער אפל ומצמרר שכולנו נמנעים ממנו! שמעתי שאפשר ללכת שם לאיבוד, ואולי גם לפגוש מכשפה רעה וזקנה!",
       "notes": "",
       "placeholders": []
     },
@@ -9898,7 +9898,7 @@
       "logicFile": 330,
       "messageNumber": 17,
       "original": "I've never been here before, but I think this is the way over the mountains.",
-      "translation": "מעולם לא הייתי כאן, אבל אני חושב שזו הדרך לחציית להרים.",
+      "translation": "מעולם לא הייתי כאן, אבל אני חושב שזו הדרך לחציית ההרים.",
       "notes": "",
       "placeholders": []
     },
@@ -9946,7 +9946,7 @@
       "logicFile": 330,
       "messageNumber": 23,
       "original": "Oh, don't bother with the cellar door; there's nothing there. Besides, it's locked.",
-      "translation": "אוי, אל תטרח עם דלת המרתף; אין שם כלום. חוץ מזה, היא נעולה.",
+      "translation": "אוי, אל תטרח עם דלת המרתף, אין שם כלום. חוץ מזה, היא נעולה.",
       "notes": "",
       "placeholders": []
     },
@@ -9970,7 +9970,7 @@
       "logicFile": 330,
       "messageNumber": 26,
       "original": "If you're going into town I'll just wait for you here. I had a nasty run-in with a big dog once and I feel much safer out here.",
-      "translation": "אם אתה הולך לעיר, אני אחכה לך כאן. פעם הייתה לי מפגש לא נעים עם כלב גדול ואני מרגיש הרבה יותר בטוח בחוץ.",
+      "translation": "אם אתה הולך לעיר, אני אחכה לך כאן. פעם היה לי מפגש לא נעים עם כלב גדול ואני מרגיש הרבה יותר בטוח בחוץ.",
       "notes": "",
       "placeholders": []
     },
@@ -10034,7 +10034,7 @@
       "logicFile": 330,
       "messageNumber": 34,
       "original": "Let's say 'hello' to the young prince, Graham. He looks like he could use a cheering up.",
-      "translation": "בוא נגיד 'שלום' לנסיך הצעיר, גרהאם. הוא נראה כאילו הוא זקוק למעט עידוד.",
+      "translation": "בוא נגיד 'שלום' לנסיך הצעיר, גרהאם. נראה שהוא זקוק למעט עידוד.",
       "notes": "",
       "placeholders": []
     },
@@ -10050,7 +10050,7 @@
       "logicFile": 330,
       "messageNumber": 36,
       "original": "Thank goodness, Graham! I didn't know if I'd EVER see you again!",
-      "translation": "תודה לאל, גרהאם! לא ידעתי אם אי פעם אראה אותך שוב!",
+      "translation": "תודה לאל, גרהאם! לא ידעתי אם אי פעם אזכה לראות אותך שוב!",
       "notes": "",
       "placeholders": []
     },
@@ -10074,7 +10074,7 @@
       "logicFile": 330,
       "messageNumber": 39,
       "original": "Oh, I'm glad to see you're okay! I was beginning to worry!",
-      "translation": "או, אני שמח לראות שאתה בסדר! כבר התחלתי לדאוג!",
+      "translation": "הו, אני שמח לראות שאתה בסדר! כבר התחלתי לדאוג!",
       "notes": "",
       "placeholders": []
     },
@@ -10394,7 +10394,7 @@
       "logicFile": 330,
       "messageNumber": 79,
       "original": "I hate to say this, Graham, but...I don't like this place at all!",
-      "translation": "אני שונא להגיד את זה, גרהאם, אבל... אני לא אוהב את המקום הזה בכלל!",
+      "translation": "אני שונא להגיד את זה, גרהאם, אבל... אני בכלל לא אוהב את המקום הזה!",
       "notes": "",
       "placeholders": []
     },
@@ -10434,7 +10434,7 @@
       "logicFile": 330,
       "messageNumber": 84,
       "original": "You're crazy to go down into that dark hole; you don't know what's down there!",
-      "translation": "אתה משוגע לרדת לתוך החור החשוך הזה; אתה לא יודע מה יש שם למטה!",
+      "translation": "אתה משוגע לרדת לתוך החור החשוך הזה, אתה לא יודע מה יש שם למטה!",
       "notes": "",
       "placeholders": []
     },
@@ -10754,7 +10754,7 @@
       "logicFile": 350,
       "messageNumber": 28,
       "original": "Well...okay. But I'm getting the MUCH better deal. Go ahead und take the sled.",
-      "translation": "ובכן... בסדר. אבל אני מקבל את העסקה הטובה בהרבה. קדימה וקח את המזחלת.",
+      "translation": "ובכן... בסדר. אבל אני מקבל עסקה טובה בהרבה. קדימה וקח את המזחלת.",
       "notes": "",
       "placeholders": []
     },
@@ -10786,7 +10786,7 @@
       "logicFile": 350,
       "messageNumber": 32,
       "original": "Well...okay. But I'm getting the MUCH better deal. Go ahead und take the sled.",
-      "translation": "ובכן... בסדר. אבל אני מקבל את העסקה הטובה בהרבה. קדימה וקח את המזחלת.",
+      "translation": "ובכן... בסדר. אבל אני מקבל עסקה טובה בהרבה. קדימה וקח את המזחלת.",
       "notes": "",
       "placeholders": []
     },
@@ -10970,7 +10970,7 @@
       "logicFile": 350,
       "messageNumber": 55,
       "original": "I haven't forgotten. It's all ready to go.",
-      "translation": "לא שכחתי. הכל מוכן לצאת.",
+      "translation": "לא שכחתי. הכל מוכן ליציאה.",
       "notes": "",
       "placeholders": []
     },
@@ -11114,7 +11114,7 @@
       "logicFile": 350,
       "messageNumber": 73,
       "original": "Hey, that's not fair! Let's get her, girls!",
-      "translation": "היי, זה לא הוגן! בואו נתפוס אותה, בנות!",
+      "translation": "הי, זה לא הוגן! בואו נתפוס אותה, בנות!",
       "notes": "",
       "placeholders": []
     },
@@ -11314,7 +11314,7 @@
       "logicFile": 350,
       "messageNumber": 98,
       "original": "I see that the yeti is dead. Queen Icebella will be pleased. Come...follow me.",
-      "translation": "אני רואה שהייטי מת. המלכה איזבלה תשמח. בוא... עקוב אחריי.",
+      "translation": "אני רואה שהייטי מת. המלכה איזבלה תשמח. בוא... עקוב אחרי.",
       "notes": "",
       "placeholders": []
     },
@@ -11338,7 +11338,7 @@
       "logicFile": 350,
       "messageNumber": 101,
       "original": "While you and Cedric were gone, I did some asking around, and I found out that YOUR son, Alexander, had the dubious distinction, if you may, of turning Mordack's brother, Mannanan, into a cat some time back.",
-      "translation": "בזמן שאתה וסדריק נעלמתם, ביררתי קצת, וגיליתי שבן שלך, אלכסנדר, זכה לכבוד המפוקפק, אם יורשה לי, להפוך את אחיו של מורדאק, מנאנן, לחתול לפני זמן רב.",
+      "translation": "בזמן שאתה וסדריק נעלמתם, ביררתי קצת, וגיליתי שהבן שלך, אלכסנדר, זכה לכבוד המפוקפק, אם יורשה לי, להפוך את אחיו של מורדאק, מנאנן, לחתול לפני זמן רב.",
       "notes": "",
       "placeholders": []
     },
@@ -11482,7 +11482,7 @@
       "logicFile": 350,
       "messageNumber": 119,
       "original": "Abra...abracarbara...no. Uh, abra...codora...hmmmmm.",
-      "translation": "אברא... אברקרברה... לא. אה, אברא... קודורה... הממממ.",
+      "translation": "אברא... אבראקברה... לא. אה, אברא... קודורה... הממממ.",
       "notes": "",
       "placeholders": []
     },
@@ -11530,7 +11530,7 @@
       "logicFile": 350,
       "messageNumber": 125,
       "original": "All right. Enough is enough. Let's get on with it.",
-      "translation": "בסדר. מספיק זה מספיק. בואו נתקדם.",
+      "translation": "הכל בסדר. עכשיו די. בואו נתקדם.",
       "notes": "",
       "placeholders": []
     },
@@ -11554,7 +11554,7 @@
       "logicFile": 350,
       "messageNumber": 128,
       "original": "Before you send us all home, Crispin, I just want to thank you for all your help. And, you too, Cedric. I wouldn't be standing here with my family without you two. I'm deeply, deeply grateful.",
-      "translation": "לפני שאתה שולח את כולנו הביתה, קריספין, אני רק רוצה להודות לך על כל עזרתך. וגם לך, סדריק. לא הייתי עומד כאן עם משפחתי בלעדי שניכם. אני ממש ממש מודה לך.",
+      "translation": "לפני שאתה שולח את כולנו הביתה, קריספין, אני רק רוצה להודות לך על כל עזרתך. וגם לך, סדריק. לא הייתי עומד כאן עם משפחתי בלעדי שניכם. אני ממש ממש מודה לכם.",
       "notes": "",
       "placeholders": []
     },
@@ -11618,7 +11618,7 @@
       "logicFile": 350,
       "messageNumber": 136,
       "original": "You know dat job we pulled yesterday? Where's da rest of da loot...huh? I think one o' you guys is holdin' out on me!",
-      "translation": "אתה יודע את העבודה שעשינו אתמול? איפה שאר השלל... אה? אני חושב שאחד מכם מסתיר ממני!",
+      "translation": "אתה מכיר את העבודה שעשינו אתמול? איפה שאר השלל... אה? אני חושב שאחד מכם מסתיר ממני!",
       "notes": "",
       "placeholders": []
     },
@@ -11642,7 +11642,7 @@
       "logicFile": 350,
       "messageNumber": 139,
       "original": "Hey, boss! Dis guy looks like a real troublemaker! Whaddya want me ta do wid 'im?",
-      "translation": "היי, בוס! הבחור הזה נראה כמו אחד שעושה בעיות! מה אתה רוצה שאעשה איתו?",
+      "translation": "היי, בוס! הבחור הזה נראה כמו אחד שעושה צרות! מה אתה רוצה שאעשה איתו?",
       "notes": "",
       "placeholders": []
     },
@@ -11650,7 +11650,7 @@
       "logicFile": 350,
       "messageNumber": 140,
       "original": "Rub 'im out!",
-      "translation": "תחסל אותו!",
+      "translation": "חסל אותו!",
       "notes": "",
       "placeholders": []
     },
@@ -11666,7 +11666,7 @@
       "logicFile": 350,
       "messageNumber": 142,
       "original": "Dis time...rub 'im out for good!",
-      "translation": "הפעם... תחסל אותו סופית!",
+      "translation": "הפעם... חסל אותו סופית!",
       "notes": "",
       "placeholders": []
     },
@@ -11930,7 +11930,7 @@
       "logicFile": 370,
       "messageNumber": 10,
       "original": "Sir Wolf, I don't know HOW you expect me to conquer a yeti! Why he's got to be at least TWICE as big as me...and much, MUCH more powerful! What do you expect me to do?",
-      "translation": "אדון זאב, אני לא יודע איך אתה מצפה ממני לגרש את ייטי! הוא בטח לפחות פי שניים גדול ממני... והרבה, הרבה יותר חזק! מה אתה מצפה ממני לעשות?",
+      "translation": "אדון זאב, אני לא יודע איך אתה מצפה ממני לגרש את הייטי! הוא בטח לפחות פי שניים גדול ממני... והרבה, הרבה יותר חזק! מה אתה מצפה ממני לעשות?",
       "notes": "",
       "placeholders": []
     },
@@ -12042,7 +12042,7 @@
       "logicFile": 370,
       "messageNumber": 24,
       "original": "Whew! That was close!",
-      "translation": "פיו! זה היה קרוב!",
+      "translation": "ואו! זה היה קרוב!",
       "notes": "",
       "placeholders": []
     },
@@ -12050,7 +12050,7 @@
       "logicFile": 370,
       "messageNumber": 25,
       "original": "Open sesame!",
-      "translation": "שומשום היפתח!",
+      "translation": "שומשום הפתח!",
       "notes": "",
       "placeholders": []
     },
@@ -12114,7 +12114,7 @@
       "logicFile": 370,
       "messageNumber": 33,
       "original": "Ugh, a dead fish. Maybe I can use it.",
-      "translation": "אויש, דג מת. אולי אוכל להשתמש בו.",
+      "translation": "הו, דג מת. אולי אוכל להשתמש בו.",
       "notes": "",
       "placeholders": []
     },
@@ -12186,7 +12186,7 @@
       "logicFile": 390,
       "messageNumber": 9,
       "original": "Why, this spinning wheel can spin straw into GOLD, that's what! 'Cept...you gotta know how to use it.",
-      "translation": "הגלגל הזה יכול לטוות קש לזהב, רק מה? רק... אתה צריך לדעת איך להשתמש בו.",
+      "translation": "הגלגל הזה יכול לטוות קש לזהב, רק מה? רק... שאתה צריך לדעת איך להשתמש בו.",
       "notes": "",
       "placeholders": []
     },
@@ -12194,7 +12194,7 @@
       "logicFile": 390,
       "messageNumber": 10,
       "original": "I doubt even the witch could figger that out. Thankee for bringin' it back to me.",
-      "translation": "אני בספק אם אפילו המכשפה יכלה להבין את זה. תודה שהחזרת לי אותו.",
+      "translation": "אני בספק אם אפילו המכשפה ידעה איך להפעיל אותו. תודה שהחזרת לי אותו.",
       "notes": "",
       "placeholders": []
     },
@@ -12234,7 +12234,7 @@
       "logicFile": 390,
       "messageNumber": 15,
       "original": "Oh! I'm terribly sorry to bother you. I was just noticing your son's marionette. It's very interesting. Where did you get it?",
-      "translation": "הו! אני מצטער נורא להפריע לך. רק שמתי לב למריונטה של בנך. היא מאוד מעניינת. מאיפה השגת אותה?",
+      "translation": "הו! אני מצטער נורא להפריע לך. רק שמתי לב למריונטה של בנך. היא מאוד מעניינת. איפה השגת אותה?",
       "notes": "",
       "placeholders": []
     },
@@ -12250,7 +12250,7 @@
       "logicFile": 390,
       "messageNumber": 17,
       "original": "I just wanted to comment on its artistry. It's very well done. I don't suppose it could be bought?",
-      "translation": "רק רציתי להעיר על האמנות שבה. היא עשויה היטב. אני מניח שלא ניתן לקנות אותה. נכון?",
+      "translation": "רק רציתי להעיר על האמנות. היא עשויה היטב. אני מניח שלא ניתן לקנות אותה. נכון?",
       "notes": "",
       "placeholders": []
     },
@@ -12258,7 +12258,7 @@
       "logicFile": 390,
       "messageNumber": 18,
       "original": "If it could, the price would be very steep; I reckon you couldn't afford it. Now...leave me and my grandson be!",
-      "translation": "אם כן, המחיר יהיה גבוה מאוד; אני מניח שאינך יכול להרשות לעצמך. עכשיו... עזוב אותי ואת נכדי!",
+      "translation": "אם כן, המחיר יהיה גבוה מאוד. אני מניח שאינך יכול להרשות לעצמך. עכשיו... עזוב אותי ואת נכדי!",
       "notes": "",
       "placeholders": []
     },
@@ -12394,7 +12394,7 @@
       "logicFile": 390,
       "messageNumber": 35,
       "original": "Oh, my! Look at all this treasure!",
-      "translation": "אוי, אלוהים! תראה את כל האוצר הזה!",
+      "translation": "הו, אלוהים! תראה את כל האוצר הזה!",
       "notes": "",
       "placeholders": []
     },
@@ -12402,7 +12402,7 @@
       "logicFile": 390,
       "messageNumber": 36,
       "original": "The baker bides his time behind the counter while Graham looks hungrily at all the delicious wares.",
-      "translation": "האופה מחכה בסבלנות מאחורי הדלפק בזמן שגרהאם מביט בתיאבון בכל המאכלים הטעימים.",
+      "translation": "האופה מחכה בסבלנות מאחורי הדלפק בזמן שגרהאם מביט בתיאבון בכל המאפים הטעימים.",
       "notes": "",
       "placeholders": []
     },
@@ -12482,7 +12482,7 @@
       "logicFile": 390,
       "messageNumber": 46,
       "original": "The people are too caught up in their own business to pay much attention to Graham.",
-      "translation": "האנשים עסוקים מדי בענייניהם מכדי לשים לב רב לגרהאם.",
+      "translation": "האנשים עסוקים מדי בענייניהם מכדי לשים לב לגרהאם.",
       "notes": "",
       "placeholders": []
     },
@@ -12490,7 +12490,7 @@
       "logicFile": 390,
       "messageNumber": 47,
       "original": "The poor woman has enough troubles of her own without worrying about Graham's.",
-      "translation": "לאישה המסכנה יש מספיק צרות משלה מבלי לדאוג לצרות של גרהאם.",
+      "translation": "לאישה המסכנה יש מספיק צרות משלה מכדי לדאוג לצרות של גרהאם.",
       "notes": "",
       "placeholders": []
     },
@@ -12626,7 +12626,7 @@
       "logicFile": 390,
       "messageNumber": 64,
       "original": "I'd be delighted to...Graham. Anyway...what was I talking about...Oh, yes! The town! You might be able to find some supplies there. It's just over a little hill to the south; not too far.",
-      "translation": "אשמח מאוד... גרהאם. בכל אופן... על מה דיברתי... אה, כן! העיר! אולי תוכל למצוא שם קצת ציוד. זה רק מעבר לגבעה קטנה דרומה; לא רחוק מדי.",
+      "translation": "אשמח מאוד... גרהאם. בכל אופן... על מה דיברתי... אה, כן! העיר! אולי תוכל למצוא שם קצת ציוד. זה רק מעבר לגבעה קטנה דרומה, לא רחוק מדי.",
       "notes": "",
       "placeholders": []
     },
@@ -12666,7 +12666,7 @@
       "logicFile": 390,
       "messageNumber": 69,
       "original": "Ah! Freedom at last! Now YOU spend the next five hundred years in a bottle!",
-      "translation": "אה! חופש סוף סוף! עכשיו אחליף איתך לבלות את חמש מאות השנים הבאות בבקבוק!",
+      "translation": "אה! סוף סוף חופש! עכשיו אתחלף איתך לבלות את חמש מאות השנים הבאות בבקבוק!",
       "notes": "",
       "placeholders": []
     },
@@ -12674,7 +12674,7 @@
       "logicFile": 390,
       "messageNumber": 70,
       "original": "Wounded by the harpies, did you say? Well, bring him on into the house. I'll fix him right up...good as new!",
-      "translation": "פצוע על ידי ההארפיות, אמרת? ובכן, הכנס אותו לבית. אני אתקן אותו מיד... טוב כמו חדש!",
+      "translation": "פצוע על ידי ההרפיות, אמרת? ובכן, הכנס אותו פנימה. אני אתקן אותו מיד... טוב כמו חדש!",
       "notes": "",
       "placeholders": []
     },
@@ -12682,7 +12682,7 @@
       "logicFile": 390,
       "messageNumber": 71,
       "original": "Open sesame!",
-      "translation": "שומשום היפתח!",
+      "translation": "שומשום הפתח!",
       "notes": "",
       "placeholders": []
     },
@@ -12994,7 +12994,7 @@
       "logicFile": 600,
       "messageNumber": 8,
       "original": "Cedric perches upon the \"Swarthy Hog Inn\" sign.",
-      "translation": "סדריק יושב על שלט \"פונדק החזיר השחור\".",
+      "translation": "סדריק יושב על שלט \"פונדק החזיר השחום\".",
       "notes": "",
       "placeholders": []
     },
@@ -13002,7 +13002,7 @@
       "logicFile": 600,
       "messageNumber": 9,
       "original": "Even Cedric looks cold as he watches Graham traverse the icy path.",
-      "translation": "אפילו לסדריק נראה שקר כשהוא צופה בגרהאם חוצה את השביל הקפוא.",
+      "translation": "אפילו לסדריק קר כשהוא צופה בגרהאם חוצה את השביל הקפוא.",
       "notes": "",
       "placeholders": []
     },
@@ -13026,7 +13026,7 @@
       "logicFile": 600,
       "messageNumber": 12,
       "original": "Shivering with the cold, Cedric looks more than ready to leave these frozen reaches behind.",
-      "translation": "רועד מקור, סדריק נראה יותר ממוכן להשאיר מאחור את המרחבים הקפואים האלה.",
+      "translation": "רועד מקור, סדריק נראה מוכן בהחלט להשאיר מאחור את המרחבים הקפואים האלה.",
       "notes": "",
       "placeholders": []
     },
@@ -13170,7 +13170,7 @@
       "logicFile": 602,
       "messageNumber": 1,
       "original": "\"See how the path goes to the east up into the mountains? That's the route to Mordack's castle.\"",
-      "translation": "\"אתה רואה איך השביל מטפס מזרחה אל ההרים? זו הדרך לטירת מורדאק.\"",
+      "translation": "\"אתה רואה איך השביל מטפס מזרחה אל ההרים? זו הדרך לטירה של מורדאק.\"",
       "notes": "",
       "placeholders": []
     },
@@ -13226,7 +13226,7 @@
       "logicFile": 602,
       "messageNumber": 8,
       "original": "\"That's a dark, creepy forest that we ALL avoid! I've heard you can get lost in there; and maybe run into an evil old WITCH!\"",
-      "translation": "\"זה יער אפל ומצמרר שכולנו נמנעים ממנו! שמעתי שאפשר ללכת שם לאיבוד; ואולי גם לפגוש מכשפה רעה וזקנה!\"",
+      "translation": "\"זה יער אפל ומצמרר שכולנו נמנעים ממנו! שמעתי שאפשר ללכת שם לאיבוד, ואולי גם לפגוש מכשפה רעה וזקנה!\"",
       "notes": "",
       "placeholders": []
     },
@@ -13386,7 +13386,7 @@
       "logicFile": 650,
       "messageNumber": 1,
       "original": "CASTLE DAVENTRY",
-      "translation": "טירת דאבנטרי",
+      "translation": "טירת דאבנטרי     ",
       "notes": "",
       "placeholders": []
     },
