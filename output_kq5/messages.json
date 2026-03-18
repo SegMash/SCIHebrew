@@ -7010,7 +7010,7 @@
       "logicFile": 300,
       "messageNumber": 834,
       "original": "That I don't know. I only know that it was Mordack who took your castle...and your family.",
-      "translation": "את זה אני לא יודע. אני רק יודע שזה היה מורדק שלקח את הטירה שלך... ואת משפחתך.",
+      "translation": "אני באמת לא יודע. אני רק יודע שזה היה מורדק שלקח את הטירה שלך... ואת משפחתך.",
       "notes": "",
       "placeholders": []
     },
@@ -7210,7 +7210,7 @@
       "logicFile": 300,
       "messageNumber": 859,
       "original": "...The Society of Wizards has always taken a dim view of Mordack and his abuse of his power. Why, he's even been put on suspension a few times. It never seems to do any good, though.",
-      "translation": "...חברת הקוסמים תמיד התייחסה בחומרה למורדק ולשימוש לרעה בכוחו. הוא אפילו הושעה כמה פעמים. אבל זה אף פעם לא הועיל.",
+      "translation": "...חברת הקוסמים תמיד התייחסה בחומרה למורדק ולשימוש לרעה בכוחו. הוא אפילו הושעה כמה פעמים. אם כי אף פעם זה לא הועיל.",
       "notes": "",
       "placeholders": []
     },
@@ -11970,7 +11970,7 @@
       "logicFile": 370,
       "messageNumber": 15,
       "original": "Me neither!",
-      "translation": "גם אני לא!",
+      "translation": "גם לי לא!",
       "notes": "",
       "placeholders": []
     },
@@ -12674,7 +12674,7 @@
       "logicFile": 390,
       "messageNumber": 70,
       "original": "Wounded by the harpies, did you say? Well, bring him on into the house. I'll fix him right up...good as new!",
-      "translation": "פצוע על ידי ההרפיות, אמרת? ובכן, הכנס אותו פנימה. אני אתקן אותו מיד... טוב כמו חדש!",
+      "translation": "פצוע על ידי ההרפיות, אמרת? ובכן, הכנס אותו פנימה. אני ארפא אותו מיד... יהיה כמו חדש!",
       "notes": "",
       "placeholders": []
     },
@@ -13498,7 +13498,7 @@
       "logicFile": 659,
       "messageNumber": 2,
       "original": "\"Here, eat this.\"",
-      "translation": "\"קח, אכול את זה.\"",
+      "translation": "\"הנה, אכול את זה.\"",
       "notes": "",
       "placeholders": []
     },

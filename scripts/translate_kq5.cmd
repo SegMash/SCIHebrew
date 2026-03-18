@@ -26,7 +26,7 @@ for %%f in (0 119 763) do (
     copy .\games_assets\kq5\%%f.scr .\kq5_work
 )
 REM Copy fonts
-for %%f in (0 4 69 8) do (
+for %%f in (0 4 69 8 9) do (
     copy .\games_assets\kq5\%%f.fon .\kq5_work
 )
 REM Copy images
