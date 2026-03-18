@@ -123,11 +123,16 @@ git config --global --unset http.proxy; git config --global --unset https.proxy
     git checkout -b <kq?-hebrew-translation>
 
 ## Do your translation work...
+    ...Insert your code now...
+    re-struct the project
+    cd dists\msvc
+    .\create_project ..\.. --msvc --enable-fluidlite
+    (make sure compilation is ok)
     git add .
-    git commit -m "SCI: Add detection for the Hebrew fan translation of KQ4"
+    git commit -m "SCI: Add detection for the Hebrew fanmade translation of KQ<?>"
 
 #### Get the hash code:
-    git log 
+    git log (dd2939020b322ae15ff1dd99a24f8b50aa68dd10)
     git push origin <kq?-hebrew-translation>
 <I>Now you can create your PR from github interface</I>
 ## In case of mess with commits , to create pull request as properly:
