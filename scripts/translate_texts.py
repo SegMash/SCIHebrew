@@ -107,6 +107,10 @@ def apply_translations(input_dir, output_dir, mapping_file):
             # Write translated messages
             file_translated = 0
             for message in messages:
+                # Ignore empty messages
+                if not message.strip():
+                    out_file.write(b'\0')
+                    continue
                 total_messages += 1
                 
                 # Try multiple matching strategies
@@ -143,11 +147,25 @@ def apply_translations(input_dir, output_dir, mapping_file):
                     translated = translated.replace('\\n', '\n')
                 # Strategy 5: Normalize whitespace (collapse multiple spaces, strip)
                 else:
-                    print(f"DEBUG: No exact match for message: {repr(message_with_literal_newlines)}")
-                    print(f"DEBUG: mapping[0]: {list(mapping.items())[0] if mapping else 'Empty mapping'}")
-                    normalized = ' '.join(message.split())
-                    if normalized in mapping:
-                        translated = mapping[normalized]
+                    message_with_literal_newlines_check = message_with_literal_newlines.replace('\\n\\n', '\\r\\n')
+                    if message_with_literal_newlines_check in mapping:
+                        translated = mapping[message_with_literal_newlines_check]
+                        translated = translated.replace('\\r', '\n').replace('\\n', '\n')
+                    else:
+                        # try by adding space before the message
+                        message_with_literal_newlines=message_with_literal_newlines.replace('\\n\\n', '\\r\\n')
+                        # trim all spaces from the start messaage
+                        message_with_literal_newlines = message_with_literal_newlines.lstrip()
+                        message_with_literal_newlines = message_with_literal_newlines.rstrip()
+                        if message_with_literal_newlines in mapping:
+                            translated = mapping[message_with_literal_newlines]
+                            translated = translated.replace('\\r', '\n').replace('\\n', '\n')
+                        else:
+                            print(f"DEBUG: No exact match for message: |{message_with_literal_newlines}|")
+                            print(f"DEBUG: mapping[0]: {list(mapping.items())[3814] if mapping else 'Empty mapping'}")
+                            normalized = ' '.join(message.split())
+                            if normalized in mapping:
+                                translated = mapping[normalized]
                 
                 if translated:
                     translated_messages += 1

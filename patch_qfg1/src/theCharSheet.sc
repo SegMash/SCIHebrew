@@ -101,11 +101,11 @@
 		)
 		(localproc_1 288 8 204 1) ; "Name :"
 		;(localproc_1 83 35 204 2) ; "Strength"
-		(localproc_5 80 35 204 2) ; "Strength"
-		(localproc_5 80 47 204 3) ; "Intelligence"
-		(localproc_5 80 59 204 4) ; "Agility"
-		(localproc_5 80 71 204 5) ; "Vitality"
-		(localproc_5 80 83 204 6) ; "Luck"
+		(localproc_5 86 35 204 2) ; "Strength"
+		(localproc_5 86 47 204 3) ; "Intelligence"
+		(localproc_5 86 59 204 4) ; "Agility"
+		(localproc_5 86 71 204 5) ; "Vitality"
+		(localproc_5 86 83 204 6) ; "Luck"
 		(if showBars
 			(localproc_5 50 112 204 7) ; "Puzzle Points"
 			(localproc_5 50 124 204 8) ; "Experience"
@@ -128,11 +128,11 @@
 		(if showBars
 			(Display @global401 dsWIDTH 225 dsCOORD 58 8 dsALIGN alLEFT dsFONT 300 dsCOLOR global274)
 		)
-		(localproc_4 83 35 0 showBars)
-		(localproc_4 83 47 1 showBars)
-		(localproc_4 83 59 2 showBars)
-		(localproc_4 83 71 3 showBars)
-		(localproc_4 83 83 4 showBars)
+		(localproc_4 86 35 0 showBars)
+		(localproc_4 86 47 1 showBars)
+		(localproc_4 86 59 2 showBars)
+		(localproc_4 86 71 3 showBars)
+		(localproc_4 86 83 4 showBars)
 		(if showBars
 			(= temp0 (if (== gScore global335) global274 else global275))
 			(= global335 gScore)
@@ -203,14 +203,14 @@
 			106
 			50
 		)
-		(localproc_4 200 28 5 showBars)
-		(localproc_4 200 40 6 showBars)
-		(localproc_4 200 52 7 showBars)
-		(localproc_4 200 64 8 showBars)
-		(localproc_4 200 76 9 showBars)
-		(localproc_4 200 88 10 showBars)
-		(localproc_4 200 100 11 showBars)
-		(localproc_4 200 112 12 showBars)
+		(localproc_4 210 28 5 showBars)
+		(localproc_4 210 40 6 showBars)
+		(localproc_4 210 52 7 showBars)
+		(localproc_4 210 64 8 showBars)
+		(localproc_4 210 76 9 showBars)
+		(localproc_4 210 88 10 showBars)
+		(localproc_4 210 100 11 showBars)
+		(localproc_4 210 112 12 showBars)
 	)
 )
 

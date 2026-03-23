@@ -25,7 +25,6 @@
 
 (procedure (localproc_1 param1 param2 param3)
 	(Display &rest 100 param1 param2 dsALIGN alLEFT dsFONT 300 dsCOLOR param3 dsBACKGROUND 15)
-	;(Display &rest dsCOORD param1 param2 dsALIGN alLEFT dsFONT 300 dsCOLOR param3 dsBACKGROUND 15)
 )
 
 (procedure (localproc_2)
@@ -39,7 +38,6 @@
 		nsTop 6
 		nsLeft 28
 		nsBottom 19
-		;nsRight 310
 		nsRight 280
 		font 300
 		max 40
@@ -494,8 +492,7 @@
 				magicSel
 				exitButton
 				canButton
-			;open: 0 15
-			open: 5 15
+			open: 0 15
 		)
 		((ScriptID 204 0) useWindow: 0 showBars: 0 init:) ; theCharSheet
 		(Display 203 1 dsCOORD 62 109 dsALIGN alLEFT dsFONT 300 dsCOLOR global275) ; "Points Available"
