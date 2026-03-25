@@ -9,6 +9,7 @@ python.exe .\scripts\vocab_import.py output_qfg1 qfg1_work patch_qfg1\bin
 copy patch_qfg1\bin\text.* qfg1_work
 copy patch_qfg1\bin\script.* qfg1_work
 copy patch_qfg1\bin\view.* qfg1_work
+copy patch_qfg1\bin\pic.* qfg1_work
 
 REM commands to create mapping file for built-in messages and to replace in gog sources
 REM python.exe .\scripts\map_files.py .\output_qfg1\built-in-messages.txt .\output_qfg1\built-in-messages_hebrew.txt .\output_qfg1\built-in-mapping.txt
