@@ -211,7 +211,9 @@
 				temp7
 			)
 	)
-	(temp1 setSize: (- (- (temp0 nsRight?) (temp0 nsLeft?)) (* 2 4)))
+	(if (not temp2)
+		(temp1 setSize: (- (- (temp0 nsRight?) (temp0 nsLeft?)) (* 2 4)))
+	)
 	(temp0 open: (if (temp0 text:) 4 else 0) (if temp9 15 else -1))
 	(if temp9
 		(= global62 (GetPort))
