@@ -261,7 +261,7 @@
 					(HighPrint 331 11) ; "But you're not sitting down!"
 				)
 			)
-			((Said 'show,make/sign[<thief]')
+			((or (Said 'show,make/sign[<thief]') (Said 'show,make/thief[<sign]'))
 				(if local1
 					(HighPrint 331 12) ; "You'd better talk to Crusher."
 				else
