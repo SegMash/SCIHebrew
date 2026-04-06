@@ -32717,7 +32717,7 @@
       "logicFile": 580,
       "messageNumber": 35,
       "original": "\"Legend has it that it is the right of any human to challenge the Lord of the Dead in order to save his own life or the life of another already passed.  But the knowledge of how to do this was lost centuries ago.\"",
-      "translation": "\"האגדה מספרת שזו זכותו של כל אדם לאתגר את אדון המתים כדי להציל את חייו שלו או את חייו של אחר שכבר עבר זמנו. אך הידע כיצד לעשות זאת אבד לפני מאות שנים.\"",
+      "translation": "\"האגדה מספרת שזו זכותו של כל אדם לאתגר את מלאך המוות כדי להציל את חייו שלו או את חייו של אחר שכבר עבר זמנו. אך הידע כיצד לעשות זאת אבד לפני מאות שנים.\"",
       "notes": "",
       "placeholders": []
     },
@@ -32725,7 +32725,7 @@
       "logicFile": 580,
       "messageNumber": 36,
       "original": "\"I have only heard of one who tried it--a young knight who came to the Land of the Green Isles from a distant land long ago.  According to the story, he was determined to challenge the Lord of the Dead for the soul of his dead lover.\"",
-      "translation": "\"שמעתי רק על אחד שניסה זאת – אביר צעיר שהגיע לארץ האיים הירוקים מארץ רחוקה לפני זמן רב. לפי הסיפור, הוא היה נחוש לאתגר את אדון המתים עבור נשמת אהובתו המתה.\"",
+      "translation": "\"שמעתי רק על אחד שניסה זאת – אביר צעיר שהגיע לארץ האיים הירוקים מארץ רחוקה לפני זמן רב. לפי הסיפור, הוא היה נחוש לאתגר את מלאך המוות עבור נשמת אהובתו המתה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -32733,7 +32733,7 @@
       "logicFile": 580,
       "messageNumber": 37,
       "original": "\"It is said that he tamed the Lord of the Dead's horse, a black-winged, demon-hearted beast named Night Mare.  Night Mare sometimes flies to the human world to feed on certain noxious plants.  Those unfortunate enough to see her are glad to escape with their very souls intact!\"",
-      "translation": "\"נאמר שהוא אילף את סוסה של אדון המתים, סוסה שחורת כנף בעלת לב דמוני בשם אימה. אימה עפה לעיתים לעולם בני האדם כדי לזלול צמחים ארסיים מסוימים. אלה חסרי המזל שרואים אותה שמחים להימלט כשנשמתם שלמה!\"",
+      "translation": "\"נאמר שהוא אילף את סוסה של מלאך המוות, סוסה שחורת כנף בעלת לב דמוני בשם אימה. אימה עפה לעיתים לעולם בני האדם כדי לזלול צמחים ארסיים מסוימים. אלה חסרי המזל שרואים אותה שמחים להימלט כשנשמתם שלמה!\"",
       "notes": "",
       "placeholders": []
     },
@@ -32749,7 +32749,7 @@
       "logicFile": 580,
       "messageNumber": 39,
       "original": "\"I see.  Can you tell me anything about the Lord of the Dead?\"",
-      "translation": "\"אני מבין. האם תוכל לספר לי משהו על אדון המתים?\"",
+      "translation": "\"אני מבין. האם תוכל לספר לי משהו על מלאך המוות?\"",
       "notes": "",
       "placeholders": []
     },
@@ -33029,7 +33029,7 @@
       "logicFile": 600,
       "messageNumber": 3,
       "original": "The spirits of Queen Allaria and King Caliphim continue their wandering.  The queen acts as a silent guardian over the distraught, despairing king.",
-      "translation": "רוחות המלכה אלאריה והמלך קליפים ממשיכות לשוטט. המלכה משמשת שומרת שקטה על המלך המיוסר והנואש.",
+      "translation": "רוחות המלכה אלאריה והמלך קליפים ממשיכות לשוטט. המלכה משמשת כשומרת ראש שקטה של המלך המיוסר והנואש.",
       "notes": "",
       "placeholders": []
     },
@@ -33037,7 +33037,7 @@
       "logicFile": 600,
       "messageNumber": 4,
       "original": "Restless spirits are bound to the surface of the Underworld.  Chained by earthly cares, they are unable to go below.",
-      "translation": "רוחות חסרות מנוחה כבולות לפני השטח של השאול. כבולות לדאגות ארציות, הן אינן יכולות לרדת למטה.",
+      "translation": "רוחות חסרות מנוחה כבולות בפתחו של השאול. חסרות אונים לבעיות, הן אינן יכולות לרדת למטה.",
       "notes": "",
       "placeholders": []
     },
@@ -33085,7 +33085,7 @@
       "logicFile": 600,
       "messageNumber": 10,
       "original": "\"Now my husband's soul is broken and he will not speak.\"",
-      "translation": "\"עכשיו נפשו של בעלי שבורה והוא לא ידבר.\"",
+      "translation": "\"עכשיו נפשו של בעלי שבורה והוא לא יכול לדבר.\"",
       "notes": "",
       "placeholders": []
     },
@@ -33101,7 +33101,7 @@
       "logicFile": 600,
       "messageNumber": 12,
       "original": "\"Our daughter!  Have you news of the princess?\"",
-      "translation": "\"בתנו! האם יש לך חדשות על הנסיכה?\"",
+      "translation": "\"בתנו! האם יש לך חדשות בקשר לנסיכה?\"",
       "notes": "",
       "placeholders": []
     },
@@ -33109,7 +33109,7 @@
       "logicFile": 600,
       "messageNumber": 13,
       "original": "\"I know that she is alive and safely back in her kingdom after being rescued from Mordack.  But I'm afraid I have not personally seen her.  Alhazred is keeping her in her room in mourning for you.\"",
-      "translation": "\"אני יודע שהיא בחיים ובטוחה חזרה לממלכתה לאחר שחולצה ממורדק. אבל אני חושש שלא ראיתי אותה אישית. אלחזרד מחזיק אותה בחדרה באבל עליכם.\"",
+      "translation": "\"אני יודע שהיא במקום בטוח ושחזרה לממלכתה לאחר שחולצה ממורדק. אבל אני חושש שלא ראיתי אותה אישית. אלחזרד מחזיק אותה בחדרה באבל עליכם.\"",
       "notes": "",
       "placeholders": []
     },
@@ -33133,7 +33133,7 @@
       "logicFile": 600,
       "messageNumber": 16,
       "original": "\"My poor husband will never rest while our murder goes unavenged and our daughter is in danger!\"",
-      "translation": "\"בעלי המסכן לעולם לא ימצא מנוח כל עוד הרצח שלנו לא יבוא על עונשו ובתנו בסכנה!\"",
+      "translation": "\"בעלי המסכן לעולם לא ימצא מנוח כל עוד הרוצח שלנו לא יבוא על עונשו וכל עוד בתנו בסכנה!\"",
       "notes": "",
       "placeholders": []
     },
@@ -33157,7 +33157,7 @@
       "logicFile": 600,
       "messageNumber": 19,
       "original": "\"The only one who might be able to return us all to the land of the living is the Lord of the Dead, but he would never help us.  He has no mercy.\"",
-      "translation": "\"היחיד שיכול להחזיר את כולנו לארץ החיים הוא אדון המתים, אבל הוא לעולם לא יעזור לנו. אין לו רחמים.\"",
+      "translation": "\"היחיד שיכול להחזיר את כולנו לארץ החיים הוא מלאך המוות, אבל הוא לעולם לא יעזור לנו. אין לו רחמים.\"",
       "notes": "",
       "placeholders": []
     },
@@ -33173,7 +33173,7 @@
       "logicFile": 600,
       "messageNumber": 21,
       "original": "\"Then, take this.  It is my ticket to the Underworld.  There you will find the Lord of the Dead.\"",
-      "translation": "\"אז קח זאת. זה כרטיסי לשאול. שם תמצא את אדון המתים.\"",
+      "translation": "\"אז קח את זה. זה כרטיסי לשאול. שם תמצא את מלאך המוות.\"",
       "notes": "",
       "placeholders": []
     },
@@ -33181,8 +33181,8 @@
       "logicFile": 600,
       "messageNumber": 22,
       "original": "\"I cannot use the ticket as long as I'm chained here, and if we cannot be avenged, I will never be unchained.\"",
-      "translation": "\"אינני יכול להשתמש בכרטיס כל עוד אני כבול כאן, ואם לא נוכל לנקום, לעולם לא אשוחרר.\"",
-      "notes": "",
+      "translation": "\"אינני יכולה להשתמש בכרטיס כל עוד אני כבולה כאן, ואם לא נוכל לנקום, לעולם לא נשוחרר.\"",
+      "notes": "לבדוק מי אומר את זה",
       "placeholders": []
     },
     {
@@ -33205,7 +33205,7 @@
       "logicFile": 600,
       "messageNumber": 25,
       "original": "\"I will do my best.  Goodbye, Queen Allaria.\"",
-      "translation": "\"אעשה כמיטב יכולתי. להתראות, מלכה אלאריה.\"",
+      "translation": "\"אעשה כמיטב יכולתי. להתראות, המלכה אלאריה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -33213,7 +33213,7 @@
       "logicFile": 600,
       "messageNumber": 26,
       "original": "Alexander wishes to comfort the tormented spirits, but they are beyond the warmth of human hands.",
-      "translation": "אלכסנדר רוצה לנחם את הרוחות המיוסרות, אך הן מעבר לחום ידי אדם.",
+      "translation": "אלכסנדר רוצה לנחם את הרוחות המיוסרות, אך הן מעבר להשג ידו של חום אנושי.",
       "notes": "",
       "placeholders": []
     },
@@ -33221,7 +33221,7 @@
       "logicFile": 600,
       "messageNumber": 27,
       "original": "The poor spirits that haunt the surface of the Realm of the Dead have no use for that bony key.",
-      "translation": "הרוחות המסכנות הרודפות את פני השטח של ממלכת המתים אין להן שימוש במפתח העצמות הזה.",
+      "translation": "הרוחות המסכנות הרודפות את פני השטח של ממלכת המתים אין להן צורך במפתח העצמות הזה.",
       "notes": "",
       "placeholders": []
     },
@@ -33253,7 +33253,7 @@
       "logicFile": 600,
       "messageNumber": 31,
       "original": "Alexander might want to find out more about the ghostly shades before showing them tokens from his beloved.",
-      "translation": "אלכסנדר אולי ירצה לברר יותר על הצללים הרפאים לפני שיציג להם סמלים מאהובתו.",
+      "translation": "אלכסנדר אולי ירצה לברר יותר על רוחות הרפאים לפני שיציג להם סמלים מאהובתו.",
       "notes": "",
       "placeholders": []
     },
@@ -33293,7 +33293,7 @@
       "logicFile": 600,
       "messageNumber": 36,
       "original": "The Realm of the Dead is too eerie to invite close inspection.  Alexander wants to touch as little as possible!",
-      "translation": "ממלכת המתים מצמררת מכדי להזמין בדיקה מקרוב. אלכסנדר רוצה לגעת בכמה שפחות!",
+      "translation": "ממלכת המתים מצמררת מכדי להתבונן בה מקרוב. אלכסנדר רוצה לגעת בכמה שפחות!",
       "notes": "",
       "placeholders": []
     },
@@ -33365,7 +33365,7 @@
       "logicFile": 600,
       "messageNumber": 45,
       "original": "The ghoulish, animated bodies of the undead roam the haunted landscape.",
-      "translation": "גופותיהם המבעיתות והמונעות של האל-מתים משוטטות בנוף הרדוף.",
+      "translation": "גופותיהם המבעיתות והמהלכות של האל-מתים משוטטות בנוף הרדוף.",
       "notes": "",
       "placeholders": []
     },
@@ -33437,7 +33437,7 @@
       "logicFile": 600,
       "messageNumber": 54,
       "original": "Those ghouls looked hacked up enough as it is!",
-      "translation": "הגולים האלה נראו קרועים מספיק גם ככה!",
+      "translation": "הגולים האלה נראים חבולים מספיק גם ככה!",
       "notes": "",
       "placeholders": []
     },
@@ -33605,7 +33605,7 @@
       "logicFile": 630,
       "messageNumber": 15,
       "original": "Alexander wishes to comfort the tormented spirit, but she is beyond the warmth of human hands.",
-      "translation": "אלכסנדר מבקש לנחם את הרוח המעונה, אך היא מעבר לחום ידי אנוש.",
+      "translation": "אלכסנדר מבקש לנחם את הרוח המעונה, אך היא מעבר להשג חום אנושי.",
       "notes": "",
       "placeholders": []
     },
@@ -33677,7 +33677,7 @@
       "logicFile": 630,
       "messageNumber": 24,
       "original": "The path beneath Alexander's feet feels strangely organic.  He has no desire to get any closer to it than is absolutely necessary.",
-      "translation": "השביל מתחת לרגליו של אלכסנדר מרגיש אורגני באופן מוזר. אין לו רצון להתקרב אליו יותר מההכרחי.",
+      "translation": "השביל מתחת לרגליו של אלכסנדר מרגיש בעל מגע חי באופן מוזר. אין לו רצון להתקרב אליו יותר מההכרחי.",
       "notes": "",
       "placeholders": []
     },
@@ -33717,7 +33717,7 @@
       "logicFile": 630,
       "messageNumber": 29,
       "original": "The Realm of the Dead is too eerie to invite close inspection.  Alexander wants to touch as little as possible!",
-      "translation": "ממלכת המתים מצמררת מכדי להזמין בדיקה מדוקדקת. אלכסנדר רוצה לגעת כמה שפחות!",
+      "translation": "ממלכת המתים מצמררת מכדי לבדוק מקרוב בדקדוק. אלכסנדר רוצה לגעת כמה שפחות!",
       "notes": "",
       "placeholders": []
     },
@@ -33733,7 +33733,7 @@
       "logicFile": 630,
       "messageNumber": 31,
       "original": "Alexander can't fly in his current fleshly state.",
-      "translation": "אלכסנדר אינו יכול לעוף במצבו הבשרי הנוכחי.",
+      "translation": "אלכסנדר אינו יכול לעוף במצבו החומרי הנוכחי.",
       "notes": "",
       "placeholders": []
     },
@@ -33797,7 +33797,7 @@
       "logicFile": 630,
       "messageNumber": 39,
       "original": "Uh, oh!  One of the wandering ghouls brushes up against Alexander!",
-      "translation": "אוי ואבוי! אחד מהזומבים המשוטטים מצחצח את אלכסנדר!",
+      "translation": "אוי ואבוי! אחד מהזומבים המשוטטים מתחכך באלכסנדר!",
       "notes": "",
       "placeholders": []
     },
@@ -33853,7 +33853,7 @@
       "logicFile": 630,
       "messageNumber": 46,
       "original": "The ghoulish, animated bodies of the undead roam the haunted landscape.",
-      "translation": "הגופות המונפשות והמפלצתיות של האל-מתים משוטטות בנוף הרדוף.",
+      "translation": "הרוחות חסרות המנוחה של האל-מתים משוטטות בנוף הרדוף.",
       "notes": "",
       "placeholders": []
     },
@@ -33933,7 +33933,7 @@
       "logicFile": 630,
       "messageNumber": 56,
       "original": "Those ghouls looked hacked up enough as it is!",
-      "translation": "הגולים האלה נראו חתוכים מספיק גם ככה!",
+      "translation": "הגולים האלה נראים חבולים וקרועים מספיק גם כעת!",
       "notes": "",
       "placeholders": []
     },
@@ -33949,7 +33949,7 @@
       "logicFile": 630,
       "messageNumber": 58,
       "original": "Those shambling undead have no human sentiment left and do not care about the plight of a mother and her son.",
-      "translation": "לאותם אל-מתים מהלכים אין שום רגש אנושי שנותר, והם אינם דואגים למצוקה של אם ובנה.",
+      "translation": "לאותם אל-מתים מהלכים לא נותר שום רגש אנושי, והם אינם דואגים למצוקה של אם ובנה.",
       "notes": "",
       "placeholders": []
     },
@@ -34045,7 +34045,7 @@
       "logicFile": 640,
       "messageNumber": 12,
       "original": "The Realm of the Dead is too eerie to invite close inspection.  Alexander wants to touch as little as possible!",
-      "translation": "ממלכת המתים מצמררת מכדי להזמין בדיקה מקרוב. אלכסנדר רוצה לגעת כמה שפחות!",
+      "translation": "ממלכת המתים מצמררת מכדי לבדוק מקרוב. אלכסנדר רוצה לגעת כמה שפחות!",
       "notes": "",
       "placeholders": []
     },
@@ -34069,7 +34069,7 @@
       "logicFile": 640,
       "messageNumber": 15,
       "original": "A strange skeleton with a long, horse-like head and ceremonial armor stands at the base of the path to the Underworld.  He watches over new arrivals with a discerning eye, handing tickets to the spirits desiring admittance.",
-      "translation": "שלד מוזר בעל ראש ארוך דמוי סוס ושריון טקסי עומד בבסיס השביל לעולם המתים. הוא מפקח על המגיעים החדשים בעין בוחנת, ומחלק כרטיסים לרוחות החפצות להיכנס.",
+      "translation": "שלד מוזר בעל ראש מוארך דמוי סוס ושריון טקסי עומד בבסיס השביל לעולם המתים. הוא מפקח על המגיעים החדשים בעין בוחנת, ומחלק כרטיסים לרוחות החפצות להיכנס.",
       "notes": "",
       "placeholders": []
     },
@@ -34077,7 +34077,7 @@
       "logicFile": 640,
       "messageNumber": 16,
       "original": "A large bone keyring hangs from his waist.",
-      "translation": "צרור מפתחות עצמות גדול תלוי מחגורתו.",
+      "translation": "צרור מפתחות עצם גדול תלוי על חגורתו.",
       "notes": "",
       "placeholders": []
     },
@@ -34109,7 +34109,7 @@
       "logicFile": 640,
       "messageNumber": 20,
       "original": "Alexander COULD return the bony key, but he might find it useful.  Besides, the skeleton has plenty more bones where that came from!",
-      "translation": "אלכסנדר יכל להחזיר את מפתח העצם, אבל הוא עשוי למצוא אותו שימושי. חוץ מזה, לשלד יש עוד הרבה עצמות מאיפה שזה בא!",
+      "translation": "אלכסנדר יכל להחזיר את מפתח העצם, אבל הוא עשוי לגלות שהוא שימושי. חוץ מזה, לשלד יש עוד הרבה עצמות כגון זה!",
       "notes": "",
       "placeholders": []
     },
@@ -34149,7 +34149,7 @@
       "logicFile": 640,
       "messageNumber": 25,
       "original": "A uniformed skeleton stands guard at the entrance to the Underworld.  He takes something from the passing spirits and then waves them on into the Underworld.",
-      "translation": "שלד במדים עומד על המשמר בכניסה לעולם המתים. הוא לוקח משהו מהרוחות העוברות ואז מניף אותן פנימה לעולם המתים.",
+      "translation": "שלד במדים עומד על המשמר בכניסה לעולם המתים. הוא לוקח משהו מהרוחות העוברות ואז דוחף אותן פנימה לעולם המתים.",
       "notes": "",
       "placeholders": []
     },
@@ -34157,7 +34157,7 @@
       "logicFile": 640,
       "messageNumber": 26,
       "original": "\"I must see the Lord of the Dead.  Please let me pass.\"",
-      "translation": "\"אני חייב לראות את אדון המתים. אנא תן לי לעבור.\"",
+      "translation": "\"אני חייב לראות את מלאך המוות. אנא תן לי לעבור.\"",
       "notes": "",
       "placeholders": []
     },
@@ -34165,7 +34165,7 @@
       "logicFile": 640,
       "messageNumber": 27,
       "original": "\"Tickets only!\"",
-      "translation": "\"כרטיסים בלבד!\"",
+      "translation": "\"כרטיס בלבד!\"",
       "notes": "",
       "placeholders": []
     },
@@ -34197,7 +34197,7 @@
       "logicFile": 640,
       "messageNumber": 31,
       "original": "\"Tickets only!\"",
-      "translation": "\"כרטיסים בלבד!\"",
+      "translation": "\"כרטיס בלבד!\"",
       "notes": "",
       "placeholders": []
     },
@@ -34237,7 +34237,7 @@
       "logicFile": 640,
       "messageNumber": 36,
       "original": "A group of large bones form an interesting arrangement to the right of the path.  Two smaller bones are propped up on the ground near the larger group.",
-      "translation": "קבוצת עצמות גדולות יוצרת סידור מעניין מימין לשביל. שתי עצמות קטנות יותר מונחות על הקרקע ליד הקבוצה הגדולה.",
+      "translation": "ערמת עצמות גדולות יוצרת סידור מעניין מימין לשביל. שתי עצמות קטנות יותר מונחות על הקרקע ליד הקבוצה הגדולה.",
       "notes": "",
       "placeholders": []
     },
@@ -34245,7 +34245,7 @@
       "logicFile": 640,
       "messageNumber": 37,
       "original": "The group of bones near the path does not respond to the sound of Alexander's voice.",
-      "translation": "קבוצת העצמות ליד השביל אינה מגיבה לצליל קולו של אלכסנדר.",
+      "translation": "ערמת העצמות ליד השביל אינה מגיבה לצליל קולו של אלכסנדר.",
       "notes": "",
       "placeholders": []
     },
@@ -34253,7 +34253,7 @@
       "logicFile": 640,
       "messageNumber": 38,
       "original": "Alexander picks up the two bones on the ground.  Now what do these bones remind him of?",
-      "translation": "אלכסנדר מרים את שתי העצמות על הקרקע. במה מזכירות לו העצמות האלה?",
+      "translation": "אלכסנדר מרים את שתי העצמות על הקרקע. כעת מה מזכירות לו העצמות האלה?",
       "notes": "",
       "placeholders": []
     },
@@ -34285,7 +34285,7 @@
       "logicFile": 640,
       "messageNumber": 42,
       "original": "Alexander gears himself up for another round of 'dem bones.",
-      "translation": "אלכסנדר מתכונן לסבב נוסף של 'עצמות אלו.",
+      "translation": "אלכסנדר מתכונן לסבב נוסף של ריקוד העצמות.",
       "notes": "",
       "placeholders": []
     },
@@ -34341,7 +34341,7 @@
       "logicFile": 640,
       "messageNumber": 49,
       "original": "Alexander shudders with repulsion at the thought of going through that door, yet he must if he's to have any hope of leaving this realm alive!",
-      "translation": "אלכסנדר רועד בחילה למחשבה לעבור דרך הדלת הזו, ובכל זאת הוא חייב אם יש לו תקווה לעזוב את הממלכה הזו בחיים!",
+      "translation": "אלכסנדר מתחלחל מגועלרק מהמחשבה לעבור דרך הדלת הזו, ובכל זאת הוא חייב לעבור אם הוא רוצה לעזוב את הממלכה הזו בחיים!",
       "notes": "",
       "placeholders": []
     },
@@ -34389,7 +34389,7 @@
       "logicFile": 640,
       "messageNumber": 55,
       "original": "Alexander cannot get close enough to the door to try that key.  Besides, he doesn't see a keyhole.  Perhaps the key is for something else.",
-      "translation": "אלכסנדר לא יכול להתקרב מספיק לדלת כדי לנסות את המפתח הזה. חוץ מזה, הוא לא רואה חור מנעול. אולי המפתח מיועד למשהו אחר.",
+      "translation": "אלכסנדר לא יכול להתקרב מספיק לדלת כדי לנסות את המפתח הזה. חוץ מזה, הוא לא רואה חור של מנעול. אולי המפתח מיועד למשהו אחר.",
       "notes": "",
       "placeholders": []
     },
@@ -34461,7 +34461,7 @@
       "logicFile": 640,
       "messageNumber": 64,
       "original": "The hideous skull repulses Alexander even as it draws him.  He has no desire to touch it more than is absolutely necessary to enter the door.",
-      "translation": "הגולגולת המגעילה דוחה את אלכסנדר גם כשהיא מושכת אותו. אין לו רצון לגעת בה יותר ממה שנחוץ בהחלט כדי להיכנס בדלת.",
+      "translation": "הגולגולת המבעיתה דוחה את אלכסנדר גם כשהיא מושכת אותו. אין לו רצון לגעת בה יותר ממה שנחוץ בהחלט כדי להיכנס בדלת.",
       "notes": "",
       "placeholders": []
     },
@@ -34501,7 +34501,7 @@
       "logicFile": 650,
       "messageNumber": 3,
       "original": "Alexander doesn't want to experiment with the organic surfaces of the Underworld.  They might not like it!",
-      "translation": "אלכסנדר לא מעוניין להתנסות עם המשטחים האורגניים של השאול. אולי הם לא יאהבו את זה!",
+      "translation": "אלכסנדר לא מעוניין להתנסות עם משטחים בעלי מראה חי של השאול. אולי הם לא יאהבו את זה!",
       "notes": "",
       "placeholders": []
     },
@@ -34509,7 +34509,7 @@
       "logicFile": 650,
       "messageNumber": 4,
       "original": "Alexander is standing inside the Underworld.  Organic walls form an oppressive passageway from which a spiraling path emerges and descends into the darkness.  Far below, the surface of a black, glassy river eerily reflects the glow of flickering torches.",
-      "translation": "אלכסנדר עומד בתוך השאול. קירות אורגניים יוצרים מעבר צר ומעיק שממנו יוצא שביל מתפתל ויורד אל תוך האפלה. הרחק למטה, פני השטח של נהר שחור ומבריק משקפים באורח מצמרר את זוהר הלפידים המרצדים.",
+      "translation": "אלכסנדר עומד בתוך השאול. קירות בעלות מראה חי יוצרים מעבר צר ומעיק שממנו יוצא שביל מתפתל ויורד אל תוך האפלה. הרחק למטה, פני השטח של נהר שחור ומבריק משקפים באורח מצמרר את זוהר הלפידים המרצדים.",
       "notes": "",
       "placeholders": []
     },
@@ -34549,7 +34549,7 @@
       "logicFile": 650,
       "messageNumber": 9,
       "original": "The organic surfaces of the Underworld seem to ooze with life.  Alexander is not anxious to get any closer to them than he has to!",
-      "translation": "המשטחים האורגניים של השאול נראים רוחשים חיים. אלכסנדר אינו להוט להתקרב אליהם יותר מהכרח!",
+      "translation": "משטחים בעלי מראה חי של השאול נראים רוחשי חיים. אלכסנדר אינו להוט להתקרב אליהם יותר מהכרח!",
       "notes": "",
       "placeholders": []
     },
@@ -34573,7 +34573,7 @@
       "logicFile": 650,
       "messageNumber": 12,
       "original": "The dead knight has no need for a key--skeleton or otherwise.",
-      "translation": "האביר המת אינו זקוק למפתח – שלד או אחרת.",
+      "translation": "האביר המת אינו זקוק למפתח – שלד או משהו אחר.",
       "notes": "",
       "placeholders": []
     },
@@ -34589,7 +34589,7 @@
       "logicFile": 650,
       "messageNumber": 14,
       "original": "The dead knight is most likely NOT the son of the mother ghost.",
-      "translation": "האביר המת הוא כנראה לא בנה של רוח הרפאים האם.",
+      "translation": "האביר המת הוא כנראה לא בנה של רוח רפאים האם.",
       "notes": "",
       "placeholders": []
     },
@@ -34597,7 +34597,7 @@
       "logicFile": 650,
       "messageNumber": 15,
       "original": "A knight's remains lie abandoned on the path.  The knight, like Alexander, must have been alive when he entered the Underworld, but for some reason he never reached his destination.  Alexander wonders if this is the knight the Druids spoke of.",
-      "translation": "שרידי אביר מוטלים נטושים על השביל. האביר, כמו אלכסנדר, בוודאי היה בחיים כשנכנס לשאול, אך מסיבה כלשהי מעולם לא הגיע ליעדו. אלכסנדר תוהה אם זהו האביר שהדרואידים דיברו עליו.",
+      "translation": "שרידי אביר מוטלים כאבן על השביל. האביר, כמו אלכסנדר, בוודאי היה בחיים כשנכנס לשאול, אך מסיבה כלשהי מעולם לא הגיע ליעדו. אלכסנדר תוהה אם זהו האביר שהדרואידים דיברו עליו.",
       "notes": "",
       "placeholders": []
     },
@@ -34605,7 +34605,7 @@
       "logicFile": 650,
       "messageNumber": 16,
       "original": "Alexander has no need for the old armor.  He decides to leave the knight's remains as undisturbed as possible.",
-      "translation": "אלכסנדר אינו זקוק לשריון הישן. הוא מחליט להשאיר את שרידי האביר בלתי מופרעים ככל האפשר.",
+      "translation": "אלכסנדר אינו זקוק לשריון הישן. הוא מחליט להשאיר את שרידי האביר כפי שהם ככל האפשר.",
       "notes": "",
       "placeholders": []
     },
@@ -34629,8 +34629,8 @@
       "logicFile": 650,
       "messageNumber": 19,
       "original": "\"Flesh may cross the portal,\\n and seek its master Death.\\n Flesh may go where Death has trod,\\n and challenge, like Scheherazade,\\n He Who Reins Beneath The Sod,\\n to spare a mortal's breath.\"",
-      "translation": "\"בשר יעבור את השער,\\n ויחפש את אדונו המוות.\\n בשר ילך למקום בו דרך המוות,\\n ויאתגר, כאלף לילה ולילה,\\n את השליט תחת רגבי העפר,\\n לחוס על נשימת בן תמותה.\"",
-      "notes": "",
+      "translation": "\"בשר ודם רשאי לעבור,\\n ולדרוש את אדון השאול.\\n במקום בו המוות צועד,\\n שם ירהיב הוא עוז ויכול,\\n כמו שחרזאדה – יקרא לתיגר,\\n על שוכן העפר והשכול,\\nלחוס על חיי בן-תמותה,\\nולא לתת לו ליפול.\"",
+      "notes": "לוודא שתוספת 2 שורות עובד טוב",
       "placeholders": []
     },
     {
@@ -34709,7 +34709,7 @@
       "logicFile": 650,
       "messageNumber": 29,
       "original": "The passing spirits are past any interest in material things.",
-      "translation": "הרוחות החולפות כבר עברו כל עניין בדברים גשמיים.",
+      "translation": "הרוחות החולפות כבר מיצו כל עניין גשמי.",
       "notes": "",
       "placeholders": []
     },
@@ -34733,7 +34733,7 @@
       "logicFile": 650,
       "messageNumber": 32,
       "original": "The passing spirits are beyond Alexander's ability to grasp.",
-      "translation": "הרוחות החולפות מעבר ליכולתו של אלכסנדר להבין.",
+      "translation": "הרוחות הנודדות נשגבות מבינתו וממגעו של אלכסנדר.",
       "notes": "",
       "placeholders": []
     },
@@ -34773,7 +34773,7 @@
       "logicFile": 650,
       "messageNumber": 37,
       "original": "Extending from the walls are outgrowths spouting flickering flames.  The eerie torches dimly light the passages of the Underworld.",
-      "translation": "מן הקירות בולטים גדלים הפולטים להבות מרצדות. הלפידים המצמררים מאירים בעמום את מעברי השאול.",
+      "translation": "מבליטות שבקירות בוקעות להבות מרצדות. הלפידים המאיימים מטילים אור עמום על נתיבי השאול.",
       "notes": "",
       "placeholders": []
     },
@@ -34781,7 +34781,7 @@
       "logicFile": 650,
       "messageNumber": 38,
       "original": "The torches flicker silently in little, lapping tongues of flame.",
-      "translation": "הלפידים מרצדים בדממה בלשונות להבה קטנות ומלטפות.",
+      "translation": "הלפידים מרצדים בדממה בלשונות להבה מלחכות וקטנות.",
       "notes": "",
       "placeholders": []
     },
@@ -34797,7 +34797,7 @@
       "logicFile": 650,
       "messageNumber": 40,
       "original": "Alexander doesn't want to experiment with the organic path beneath his feet.  The path might not like being fooled with, and he's a bit dependent on it at the moment!",
-      "translation": "אלכסנדר לא רוצה להתנסות עם השביל האורגני שמתחת לרגליו. השביל עלול לא לאהוב שמתעסקים איתו, והוא די תלוי בו כרגע!",
+      "translation": "אלכסנדר לא רוצה להתעסק עם השביל בעל מגע חי שתחת לרגליו. השביל עלול לא לאהוב שמתעסקים איתו, והוא די תלוי בו כרגע!",
       "notes": "",
       "placeholders": []
     },
@@ -34805,7 +34805,7 @@
       "logicFile": 650,
       "messageNumber": 41,
       "original": "A strange path, grown up from the depths of the river and out from the surrounding walls, spirals down into the Underworld.",
-      "translation": "שביל מוזר, שצמח מעמקי הנהר ומתוך הקירות הסובבים, מתפתל אל תוך השאול.",
+      "translation": "שביל מוזר, שעלה מעמקי הנהר ומתוך הקירות הסובבים, מתפתל אל תוך השאול.",
       "notes": "",
       "placeholders": []
     },
@@ -34837,7 +34837,7 @@
       "logicFile": 660,
       "messageNumber": 2,
       "original": "Charon's boat is an unearthly vessel.  It bears a huge skeletal prow for slicing through the River Styx.",
-      "translation": "סירתו של כארון היא כלי שיט ארצי. חרטום ענק דמוי שלד נועד לבתר את נהר הסטיקס.",
+      "translation": "סירתו של כארון היא כלי שיט מקומי. חרטום ענק דמוי שלד נועד לחתוך את נהר הסטיקס.",
       "notes": "",
       "placeholders": []
     },
@@ -34885,7 +34885,7 @@
       "logicFile": 660,
       "messageNumber": 8,
       "original": "Charon stands in his boat, eternal ferryman of the dead.  Alexander can't quite make out what's under Charon's cowl, and he's not sure he would want to!",
-      "translation": "כארון עומד בסירתו, מעבורן המתים הנצחי. אלכסנדר לא מצליח להבחין היטב מה מתחת לברדס של כארון, והוא לא בטוח שהוא רוצה!",
+      "translation": "כארון עומד בסירתו, משיט מעבורת המתים הנצחי. אלכסנדר לא מצליח להבחין היטב מה מתחת לברדס של כארון, והוא לא בטוח שהוא רוצה!",
       "notes": "",
       "placeholders": []
     },
@@ -34893,7 +34893,7 @@
       "logicFile": 660,
       "messageNumber": 9,
       "original": "\"I must see the Lord of the Dead.  Please let me ride across the River Styx on the ferry.\"",
-      "translation": "\"אני חייב לראות את אדון המתים. אנא תן לי לחצות את נהר הסטיקס במעבורת.\"",
+      "translation": "\"אני חייב לראות את מלאך המוות. אנא תן לי לחצות את נהר הסטיקס במעבורת.\"",
       "notes": "",
       "placeholders": []
     },
@@ -34909,7 +34909,7 @@
       "logicFile": 660,
       "messageNumber": 11,
       "original": "Alexander can't push his way past Charon.  He'll have to convince the ferryman to let him board.",
-      "translation": "אלכסנדר לא יכול לדחוף את דרכו מעבר לכארון. הוא יצטרך לשכנע את המעבורן לתת לו לעלות.",
+      "translation": "אלכסנדר לא יכול לעבור את כארון. הוא יצטרך לשכנע את משיט הסירה לתת לו לעלות.",
       "notes": "",
       "placeholders": []
     },
@@ -34941,7 +34941,7 @@
       "logicFile": 660,
       "messageNumber": 15,
       "original": "Alexander can see all he wants to see of Charon without the aid of that mirror!",
-      "translation": "אלכסנדר יכול לראות את כל מה שהוא רוצה לראות מכארון ללא עזרת המראה הזו!",
+      "translation": "אלכסנדר יכול לראות את כל מה שהוא רוצה לראות בכארון גם ללא עזרת המראה הזו!",
       "notes": "",
       "placeholders": []
     },
@@ -34957,7 +34957,7 @@
       "logicFile": 660,
       "messageNumber": 17,
       "original": "The spell book has no remedy for the ghostly ferryman's silent insistence on a fare.",
-      "translation": "ספר הקסמים אינו מציע תרופה לדרישתו השקטה של המעבורן הרפאי לתשלום.",
+      "translation": "ספר הקסמים אינו נותן מענה לדרישתו הדוממת של משיט הסירה לתשלום.",
       "notes": "",
       "placeholders": []
     },
@@ -34973,7 +34973,7 @@
       "logicFile": 660,
       "messageNumber": 19,
       "original": "Alexander decides to play his flute for the ferryman.",
-      "translation": "אלכסנדר מחליט לנגן בחלילו למעבורן.",
+      "translation": "אלכסנדר מחליט לנגן בחלילו למשיט הסירה.",
       "notes": "",
       "placeholders": []
     },
@@ -34997,7 +34997,7 @@
       "logicFile": 660,
       "messageNumber": 22,
       "original": "Alexander decides to try a little of nature's music on the River Styx ferryman.",
-      "translation": "אלכסנדר מחליט לנסות מעט ממוזיקת הטבע על המעבורן של נהר הסטיקס.",
+      "translation": "אלכסנדר מחליט לנסות מעט ממוזיקת הטבע על משיט הסירה של נהר הסטיקס.",
       "notes": "",
       "placeholders": []
     },
@@ -35021,7 +35021,7 @@
       "logicFile": 660,
       "messageNumber": 25,
       "original": "Charon seems unimpressed with the knight's gauntlet.  Whatever the gauntlet's purpose, it apparently has nothing to do with the River Styx ferryman.",
-      "translation": "כארון נראה לא מתרשם מכפפת האביר. לא משנה מה מטרת הכפפה, נראה שאין לה קשר למעבורן של נהר הסטיקס.",
+      "translation": "כארון נראה לא מתרשם מכפפת האביר. לא משנה מה מטרת הכפפה, נראה שאין לה קשר למשיט הסירה של נהר הסטיקס.",
       "notes": "",
       "placeholders": []
     },
@@ -35109,7 +35109,7 @@
       "logicFile": 660,
       "messageNumber": 36,
       "original": "Alexander doesn't want to experiment with the organic surfaces of the Underworld.  They might not like it!",
-      "translation": "אלכסנדר לא רוצה להתנסות עם המשטחים האורגניים של העולם התחתון. אולי הם לא יאהבו את זה!",
+      "translation": "אלכסנדר לא רוצה להתנסות עם משטחים בעלי מראה חי של העולם התחתון. אולי הם לא יאהבו את זה!",
       "notes": "",
       "placeholders": []
     },
@@ -35117,7 +35117,7 @@
       "logicFile": 660,
       "messageNumber": 37,
       "original": "Alexander stands on the banks of the River Styx.  The black river is as still as a mirror and gives off a penetrating cold.  Charon, the ferryman, and his eerie ship wait on the shore to shepherd souls across the river.",
-      "translation": "אלכסנדר עומד על גדות נהר הסטיקס. הנהר השחור דומם כמו מראה ופולט קור חודר. כארון, המעבורן, וספינתו המטרידה ממתינים על החוף להעביר נשמות מעבר לנהר.",
+      "translation": "אלכסנדר עומד על גדות נהר הסטיקס. הנהר השחור דומם כמו מראה ופולט קור חודר. כארון, משיט המעבורת, וסירתו המטרידה ממתינים על החוף להעביר נשמות מעבר לנהר.",
       "notes": "",
       "placeholders": []
     },
@@ -35149,7 +35149,7 @@
       "logicFile": 660,
       "messageNumber": 41,
       "original": "The journeying spirits are past any interest in material things.",
-      "translation": "הרוחות הנודדות כבר איבדו כל עניין בדברים חומריים.",
+      "translation": "הרוחות הנודדות כבר איבדו כל עניין בדברים גשמיים.",
       "notes": "",
       "placeholders": []
     },
@@ -35181,7 +35181,7 @@
       "logicFile": 660,
       "messageNumber": 45,
       "original": "The mother ghost's son is not among the journeying spirits.",
-      "translation": "בנה של רוח הרפאים האם אינו בין הרוחות הנודדות.",
+      "translation": "בנה של רוח רפאים האם אינו בין הרוחות הנודדות.",
       "notes": "",
       "placeholders": []
     },
@@ -35237,7 +35237,7 @@
       "logicFile": 660,
       "messageNumber": 52,
       "original": "Extending from the walls are outgrowths spouting flickering flames.  The eerie torches dimly light the passages of the Underworld.",
-      "translation": "מגני קירות בולטים מתוכם להבות מרצדות. הלפידים המטרידים מאירים באור עמום את מעברי העולם התחתון.",
+      "translation": "מבליטות שבקירות בוקעות להבות מרצדות. הלפידים המאיימים מטילים אור עמום על נתיבי השאול.",
       "notes": "",
       "placeholders": []
     },
@@ -35261,7 +35261,7 @@
       "logicFile": 660,
       "messageNumber": 55,
       "original": "Alexander decides to play his flute for the ferryman.",
-      "translation": "אלכסנדר מחליט לנגן בחלילו למעבורן.",
+      "translation": "אלכסנדר מחליט לנגן בחלילו למשיט הסירה.",
       "notes": "",
       "placeholders": []
     },
@@ -35277,7 +35277,7 @@
       "logicFile": 660,
       "messageNumber": 57,
       "original": "Alexander decides to try a little of nature's music on the River Styx ferryman.",
-      "translation": "אלכסנדר מחליט לנסות מעט ממוזיקת הטבע על המעבורן של נהר הסטיקס.",
+      "translation": "אלכסנדר מחליט לנסות מעט ממוזיקת הטבע על משיט הסירה של נהר הסטיקס.",
       "notes": "",
       "placeholders": []
     },
@@ -35293,7 +35293,7 @@
       "logicFile": 670,
       "messageNumber": 1,
       "original": "\"My first is foremost legally.  My second circles outwardly.\\nMy third leads all in victory. My fourth twice ends a nominee.\\nMy whole is this gate's only key.\"",
-      "translation": "\"הראשון שלי בראש ובראשונה חוקי. השני שלי מקיף כלפי חוץ.\\nהשלישי שלי מוביל הכל לניצחון. הרביעי שלי פעמיים מסיים מועמד.\\nהשלם שלי הוא המפתח היחיד לשער הזה.\"",
+      "translation": "\"אמונה היא ראשונה בדין. הקשבה תקיף כל מאמין.\\nבטחון באל - את הניצחון יזמין. התמדה תחתום כל משאלה ותקווה.\\nזה המפתח לשער ושמו: ____\"",
       "notes": "",
       "placeholders": []
     },
@@ -35309,7 +35309,7 @@
       "logicFile": 670,
       "messageNumber": 3,
       "original": "\"ARRGGH!  Thou traitor of the mortal plane!  How didst thou guess 'Love?'  That riddle should never have been solved!  Love is unknown in this realm!\"",
-      "translation": "\"אאוץ'! בוגד בממלכת התמותה! איך ניחשת 'אהבה'? החידה הזו מעולם לא הייתה צריכה להיפתר! אהבה אינה מוכרת בממלכה הזו!\"",
+      "translation": "\"אאוץ'! בוגד בממלכת התמותה! איך ניחשת 'אהבה'? החידה הזו מעולם לא הייתה אמורה להיפתר! אהבה אינה מוכרת בממלכה הזו!\"",
       "notes": "",
       "placeholders": []
     },
@@ -35365,7 +35365,7 @@
       "logicFile": 670,
       "messageNumber": 10,
       "original": "\"What care I?  I am interested in thy bones, not in bartering with thee.\"",
-      "translation": "\"מה אכפת לי? אני מעוניין בעצמותיך, לא בסחור איתך.\"",
+      "translation": "\"מה אכפת לי? אני מעוניין בעצמותיך, לא בניהול משא ומתן איתך.\"",
       "notes": "",
       "placeholders": []
     },
@@ -35397,7 +35397,7 @@
       "logicFile": 670,
       "messageNumber": 14,
       "original": "Despite his fear, Alexander summons his bravest voice to command the living gate.",
-      "translation": "למרות פחדו, אלכסנדר אוזר את קולו האמיץ ביותר לפקד על השער החי.",
+      "translation": "למרות פחדו, אלכסנדר אוזר את קולו האמיץ ביותר לצוות על השער החי.",
       "notes": "",
       "placeholders": []
     },
@@ -35421,7 +35421,7 @@
       "logicFile": 670,
       "messageNumber": 17,
       "original": "\"No, thank you!  I come to meet the Lord of the Dead with my flesh still intact!\"",
-      "translation": "\"לא, תודה! באתי לפגוש את אדון המתים עם בשרי עדיין שלם!\"",
+      "translation": "\"לא, תודה! באתי לפגוש את מלאך המוות כשבשרי עלי ואני עדיין שלם!\"",
       "notes": "",
       "placeholders": []
     },
@@ -35437,7 +35437,7 @@
       "logicFile": 670,
       "messageNumber": 19,
       "original": "\"I have been told that there is a way for humans to enter Death's realm.  There must be something I can do; some task that will allow me to pass your doors, Gate.\"",
-      "translation": "\"נאמר לי שיש דרך לבני אדם להיכנס לממלכת המוות. חייב להיות משהו שאני יכול לעשות; איזו משימה שתאפשר לי לעבור את שעריך, שער.\"",
+      "translation": "\"נאמר לי שיש דרך לבני אדם להיכנס לממלכת המוות. חייב להיות משהו שאני יכול לעשות; איזו משימה שתאפשר לי לעבור את אותך, שער.\"",
       "notes": "",
       "placeholders": []
     },
@@ -35445,7 +35445,7 @@
       "logicFile": 670,
       "messageNumber": 20,
       "original": "\"Hmmm.  I seem to recall something....  A trick, perhaps...a test.  Hmmm.  Ah, yesss....  'Should a human try to pass, a riddle is Gate's wont to ask.'\"",
-      "translation": "\"המממ. נראה שאני זוכר משהו.... אולי תכסיס... מבחן. המממ. אה, כןןן.... 'אם ינסה אנוש לעבור, חידה השער נוהג לשאול.'\"",
+      "translation": "\"המממ. נראה שאני זוכר משהו.... אולי תכסיס... מבחן. המממ. אה, כן.... 'אם ינסה אנוש לעבור, חידה השער נוהג לשאול.'\"",
       "notes": "",
       "placeholders": []
     },
@@ -35461,7 +35461,7 @@
       "logicFile": 670,
       "messageNumber": 22,
       "original": "\"And if thou wouldst fail to answer Gate, his thirsty jaws will be thy fate?\"",
-      "translation": "\"ואם תיכשל לענות לשער, לסתותיו הצמאות יהיו גורלך?\"",
+      "translation": "\"ואם לא תדע את החידה לפתור - בלועו הצמא תמצא את הסוף השחור!\"",
       "notes": "",
       "placeholders": []
     },
@@ -35485,7 +35485,7 @@
       "logicFile": 670,
       "messageNumber": 25,
       "original": "\"My first is foremost legally.\\nMy second circles outwardly.\\nMy third leads all in victory.\\nMy fourth twice ends a nominee.\\nMy whole is this gate's only key.\"",
-      "translation": "\"הראשון שלי בראש ובראשונה חוקי.\\nהשני שלי מקיף כלפי חוץ.\\nהשלישי שלי מוביל הכל לניצחון.\\nהרביעי שלי פעמיים מסיים מועמד.\\nהשלם שלי הוא המפתח היחיד לשער הזה.\"",
+      "translation": "\"אמונה היא ראשונה בדין.\\nהקשבה תקיף כל מאמין.\\בטחון באל - את הניצחון יזמין.\\nהתמדה תחתום כל משאלה ותקווה.\\nזה המפתח לשער ושמו: ____\"",
       "notes": "",
       "placeholders": []
     },
@@ -35493,7 +35493,7 @@
       "logicFile": 670,
       "messageNumber": 26,
       "original": "The wooden gate does not look particularly conversational at the moment.",
-      "translation": "שער העץ אינו נראה שיחתי במיוחד כרגע.",
+      "translation": "שער העץ אינו נראה במצב שיחתי במיוחד כרגע.",
       "notes": "",
       "placeholders": []
     },
@@ -35541,7 +35541,7 @@
       "logicFile": 670,
       "messageNumber": 32,
       "original": "\"What touch has awakened my sleep?\"",
-      "translation": "\"איזו נגיעה העירה את שנתיי?\"",
+      "translation": "\"איזו נגיעה העירה את שנתי?\"",
       "notes": "",
       "placeholders": []
     },
@@ -35549,7 +35549,7 @@
       "logicFile": 670,
       "messageNumber": 33,
       "original": "\"I smell the blood of a mortal!  Reach out thine hand again, fleshy human, that I might devour it!  It has been centuries since I last ate!\"",
-      "translation": "\"אני מריח את דמו של בן תמותה! הושט שוב את ידך, בן אנוש בשרי, שאוכל לטרוף אותה! עברו מאות שנים מאז שאכלתי לאחרונה!\"",
+      "translation": "\"אני מריח את דמו של בן תמותה! הושט שוב את ידך, בן אנוש בשרי, כדי שאוכל לטרוף אותה! עברו מאות שנים מאז שאכלתי לאחרונה!\"",
       "notes": "",
       "placeholders": []
     },
@@ -35557,7 +35557,7 @@
       "logicFile": 670,
       "messageNumber": 34,
       "original": "Gate is bad enough as it is!  Alexander doesn't even want to think about what he might look like in Beast's mirror!",
-      "translation": "השער גרוע מספיק כפי שהוא! אלכסנדר אפילו לא רוצה לחשוב איך הוא ייראה במראת החיה!",
+      "translation": "השער מכוער מספיק כפי שהוא! אלכסנדר אפילו לא רוצה לחשוב איך הוא ייראה במראת החיה!",
       "notes": "",
       "placeholders": []
     },
@@ -35573,7 +35573,7 @@
       "logicFile": 670,
       "messageNumber": 36,
       "original": "Alexander has the feeling that hacking at Gate would NOT be wise.",
-      "translation": "לאלכסנדר יש הרגשה שקיצוץ בשער לא יהיה חכם.",
+      "translation": "לאלכסנדר יש הרגשה שחיתוך בשער לא יהיה חכם.",
       "notes": "",
       "placeholders": []
     },
@@ -35589,7 +35589,7 @@
       "logicFile": 670,
       "messageNumber": 38,
       "original": "There's nothing in that spell book that will handle a talking--and HUNGRY--gate!",
-      "translation": "אין שום דבר בספר לחשים הזה שיתמודד עם שער מדבר – ורעב!",
+      "translation": "אין שום דבר בספר לחשים שיתמודד עם שער מדבר – ורעב!",
       "notes": "",
       "placeholders": []
     },
@@ -35653,7 +35653,7 @@
       "logicFile": 670,
       "messageNumber": 46,
       "original": "The eerie River Styx flows under and around the path to the gate.",
-      "translation": "נהר סטיקס המפחיד זורם מתחת ומסביב לשביל אל השער.",
+      "translation": "נהר הסטיקס המפחיד זורם מתחת ומסביב לשביל אל השער.",
       "notes": "",
       "placeholders": []
     },
@@ -35669,7 +35669,7 @@
       "logicFile": 670,
       "messageNumber": 48,
       "original": "Unable to think of any other way around the fierce Gate, Alexander decides to brave the River Styx.",
-      "translation": "בחוסר יכולת לחשוב על דרך אחרת לעקוף את השער העז, אלכסנדר מחליט לאזור אומץ ולחצות את נהר סטיקס.",
+      "translation": "בחוסר יכולת לחשוב על דרך אחרת לעקוף את השער המפחיד, אלכסנדר מחליט לאזור אומץ ולחצות את נהר הסטיקס.",
       "notes": "",
       "placeholders": []
     },
@@ -35677,7 +35677,7 @@
       "logicFile": 670,
       "messageNumber": 49,
       "original": "\"You may cheat me of your flesh, human, but you can't cheat Death of your soul!\"",
-      "translation": "\"אתה אולי תרמה אותי מבשרך, בן אנוש, אבל אינך יכול לרמות את המוות מנשמתך!\"",
+      "translation": "\"אתה אולי גוזל ממני את בשרך, בן אנוש, אבל אינך יכול לגזול מהמוות את נישמתך!\"",
       "notes": "",
       "placeholders": []
     },
@@ -35685,7 +35685,7 @@
       "logicFile": 670,
       "messageNumber": 50,
       "original": "The black water of the River Styx numbs Alexander to the bone.  He sinks like a rock!",
-      "translation": "המים השחורים של נהר סטיקס מקפיאים את אלכסנדר עד העצם. הוא שוקע כמו אבן!",
+      "translation": "המים השחורים של נהר הסטיקס מקפיאים את אלכסנדר עד העצם. הוא שוקע כמו אבן!",
       "notes": "",
       "placeholders": []
     },
@@ -35693,7 +35693,7 @@
       "logicFile": 670,
       "messageNumber": 51,
       "original": "Alexander falls from the path into the River Styx.",
-      "translation": "אלכסנדר נופל מהשביל אל נהר סטיקס.",
+      "translation": "אלכסנדר נופל מהשביל אל נהר הסטיקס.",
       "notes": "",
       "placeholders": []
     },
@@ -35701,7 +35701,7 @@
       "logicFile": 670,
       "messageNumber": 52,
       "original": "The black water of the River Styx numbs Alexander to the bone.  He sinks like a rock!",
-      "translation": "המים השחורים של נהר סטיקס מקפיאים את אלכסנדר עד העצם. הוא שוקע כמו אבן!",
+      "translation": "המים השחורים של נהר הסטיקס מקפיאים את אלכסנדר עד העצם. הוא שוקע כמו אבן!",
       "notes": "",
       "placeholders": []
     },
@@ -35709,7 +35709,7 @@
       "logicFile": 670,
       "messageNumber": 53,
       "original": "There's no access to the water from this side of the River Styx.",
-      "translation": "אין גישה למים מצד זה של נהר סטיקס.",
+      "translation": "אין גישה למים מצד זה של נהר הסטיקס.",
       "notes": "",
       "placeholders": []
     },
@@ -35725,7 +35725,7 @@
       "logicFile": 670,
       "messageNumber": 55,
       "original": "Alexander would love to get some River Styx water in that teacup, but there's no access to the water from this side of the River Styx.",
-      "translation": "אלכסנדר ישמח להשיג קצת מי נהר סטיקס בכוס התה הזו, אבל אין גישה למים מצד זה של נהר סטיקס.",
+      "translation": "אלכסנדר ישמח להשיג קצת מי נהר סטיקס בכוס התה הזו, אבל אין גישה למים מצד זה של נהר הסטיקס.",
       "notes": "",
       "placeholders": []
     },
@@ -35733,7 +35733,7 @@
       "logicFile": 670,
       "messageNumber": 56,
       "original": "Alexander doesn't want to experiment with the organic surfaces of the Underworld.  They might not like it!",
-      "translation": "אלכסנדר לא רוצה להתנסות עם המשטחים האורגניים של השאול. ייתכן שהם לא יאהבו את זה!",
+      "translation": "אלכסנדר לא רוצה להתעסק עם משטחים בעלי מראה חי של השאול. ייתכן שהם לא יאהבו את זה!",
       "notes": "",
       "placeholders": []
     },
@@ -35741,7 +35741,7 @@
       "logicFile": 670,
       "messageNumber": 57,
       "original": "Alexander is standing in front of Gate, the guardian of the Lord of the Dead's inner sanctum.  On two sides of the path is the River Styx.  Charon, the ferryman, is gone.  Apparently, Gate is the only way to leave this area, but he doesn't seem very accommodating.",
-      "translation": "אלכסנדר עומד מול השער, שומר הסף של הקודש הקודשים של אדון המתים. משני צידי השביל נמצא נהר סטיקס. כארון, משיט המעבורת, נעלם. ככל הנראה, השער הוא הדרך היחידה לעזוב את האזור הזה, אבל הוא לא נראה מאוד מסביר פנים.",
+      "translation": "אלכסנדר עומד מול השער, שומר הסף של קודש הקודשים של מלאך המוות. משני צידי השביל נמצא נהר הסטיקס. כארון, משיט המעבורת, נעלם. ככל הנראה, השער הוא הדרך היחידה לעזוב את האזור הזה, אבל הוא לא נראה מאוד מסביר פנים.",
       "notes": "",
       "placeholders": []
     },
@@ -35749,7 +35749,7 @@
       "logicFile": 670,
       "messageNumber": 58,
       "original": "Alexander is standing on a path in front of a large gate.  The path is surrounded by the chilly River Styx.  Charon, the ferryman, is gone.  Alexander has a feeling that he's close to his destination; that it must, in fact, lie on the other side of the gate.",
-      "translation": "אלכסנדר עומד על שביל מול שער גדול. השביל מוקף בנהר סטיקס המצמרר. כארון, משיט המעבורת, נעלם. לאלכסנדר יש הרגשה שהוא קרוב ליעדו; שזה חייב, למעשה, להיות בצד השני של השער.",
+      "translation": "אלכסנדר עומד על שביל מול שער גדול. השביל מוקף בנהר הסטיקס המצמרר. כארון, משיט המעבורת, נעלם. לאלכסנדר יש הרגשה שהוא קרוב ליעדו; שזה חייב, למעשה, להיות בצד השני של השער.",
       "notes": "",
       "placeholders": []
     },
@@ -35765,7 +35765,7 @@
       "logicFile": 670,
       "messageNumber": 60,
       "original": "Charon is gone.  There is no way back across the River Styx.",
-      "translation": "כארון נעלם. אין דרך חזרה מעבר לנהר סטיקס.",
+      "translation": "כארון נעלם. אין דרך חזרה מעבר לנהר הסטיקס.",
       "notes": "",
       "placeholders": []
     },
@@ -35797,7 +35797,7 @@
       "logicFile": 670,
       "messageNumber": 64,
       "original": "The organic surfaces of the Underworld seem to ooze with life.  Alexander is not anxious to get any closer to them than he has to!",
-      "translation": "המשטחים האורגניים של השאול נראים שופעים חיים. אלכסנדר לא להוט להתקרב אליהם יותר ממה שהוא חייב!",
+      "translation": "משטחים בעלי מראה חי של השאול נראים שופעי חיים. אלכסנדר לא להוט להתקרב אליהם יותר ממה שהוא חייב!",
       "notes": "",
       "placeholders": []
     },
@@ -35805,7 +35805,7 @@
       "logicFile": 670,
       "messageNumber": 65,
       "original": "The spirits are past any interest in material things.",
-      "translation": "הרוחות מעבר לכל עניין בדברים חומריים.",
+      "translation": "הרוחות מעל לכל עניין חומרי.",
       "notes": "",
       "placeholders": []
     },
@@ -35885,7 +35885,7 @@
       "logicFile": 670,
       "messageNumber": 75,
       "original": "Extending from the walls are outgrowths spouting flickering flames.  The eerie torches dimly light the passages of the Underworld.",
-      "translation": "מהקירות בולטות צמיחות הפולטות להבות מרצדות. הלפידים המצמררים מאירים בעמעום את מעברי השאול.",
+      "translation": "מהקירות בולטים גידולים הפולטים להבות מרצדות. הלפידים המצמררים מאירים בעמעום את מעברי השאול.",
       "notes": "",
       "placeholders": []
     },
@@ -35893,7 +35893,7 @@
       "logicFile": 670,
       "messageNumber": 76,
       "original": "The torches flicker silently in little, lapping tongues of flame.",
-      "translation": "הלפידים מרצדים בדממה בלשונות להבה קטנות ומלטפות.",
+      "translation": "הלפידים מרצדים בדממה בלשונות להבה מלחכות וקטנות.",
       "notes": "",
       "placeholders": []
     },
@@ -35909,7 +35909,7 @@
       "logicFile": 670,
       "messageNumber": 78,
       "original": "Alexander doesn't want to experiment with the organic path beneath his feet.  The path might not like being fooled with, and he's a bit dependent on it at the moment!",
-      "translation": "אלכסנדר לא רוצה להתנסות עם השביל האורגני שמתחת לרגליו. השביל עלול לא לאהוב שמתעסקים איתו, והוא קצת תלוי בו כרגע!",
+      "translation": "אלכסנדר לא רוצה להתעסק עם שביל בעל מגע חי שמתחת לרגליו. השביל עלול לא לאהוב שמתעסקים איתו, והוא קצת תלוי בו כרגע!",
       "notes": "",
       "placeholders": []
     },
@@ -35917,7 +35917,7 @@
       "logicFile": 670,
       "messageNumber": 79,
       "original": "A tortured path has grown up from the depths of the River Styx.  The path leads to a heavy wooden gate.",
-      "translation": "שביל מעונה צמח מעמקי נהר סטיקס. השביל מוביל לשער עץ כבד.",
+      "translation": "שביל מעונה צמח מעמקי נהר הסטיקס. השביל מוביל לשער עץ כבד.",
       "notes": "",
       "placeholders": []
     },
@@ -35941,7 +35941,7 @@
       "logicFile": 671,
       "messageNumber": 1,
       "original": "\"My first is foremost legally.  My second circles outwardly.\\nMy third leads all in victory.  My fourth twice ends a nominee.\\nMy whole is this gate's only key.\"",
-      "translation": "\"הראשון לי הוא החוק, ראש לכל. השני שלי מקיף את הכל.\\nהשלישי מוביל לניצחון, חדור מטרה. הרביעי פעמיים חותם מועמדות. \\nשלמי הוא המפתח היחיד לשער זה.\"",
+      "translation": "\"אמונה היא ראשונה בדין. הקשבה תקיף כל מאמין.\\nבטחון באל - את הניצחון יזמין. התמדה תחתום כל משאלה ותקווה.\\nזה המפתח לשער ושמו: ____\"",
       "notes": "",
       "placeholders": []
     },
@@ -35973,7 +35973,7 @@
       "logicFile": 680,
       "messageNumber": 4,
       "original": "\"And you, 'man of flesh.'  My steed shall take the three of you back to the land of the living.  Tell her where it is you wish to go.\"",
-      "translation": "\"ואתה, 'בן אדם בשר ודם.' סוסי ייקח את שלושתכם בחזרה לארץ החיים. אמור לה לאן ברצונך ללכת.\"",
+      "translation": "\"ואתה, 'בן אדם בשר ודם.' סוסתי תיקח את שלושתכם בחזרה לארץ החיים. אמור לה לאן ברצונך ללכת.\"",
       "notes": "",
       "placeholders": []
     },
@@ -35981,7 +35981,7 @@
       "logicFile": 680,
       "messageNumber": 5,
       "original": "\"Until we meet again, then.  I assure you, we WILL meet again.\"",
-      "translation": "\"עד שניפגש שוב, אם כן. אני מבטיח לך, אנו ניפגש שוב.\"",
+      "translation": "\"עד שניפגש שוב, אם כן. ואני מבטיח לך, אנחנו ניפגש שוב.\"",
       "notes": "",
       "placeholders": []
     },
@@ -36021,7 +36021,7 @@
       "logicFile": 680,
       "messageNumber": 10,
       "original": "Death is not in a very good mood.  Alexander had better speak up, or forever hold his peace!",
-      "translation": "המוות לא במצב רוח טוב במיוחד. אלכסנדר מוטב שידבר עכשיו, או שישתוק לעד!",
+      "translation": "מלאך המוות לא במצב רוח טוב במיוחד. מוטב שאלכסנדר שידבר עכשיו, או שישתוק לעד!",
       "notes": "",
       "placeholders": []
     },
@@ -36037,7 +36037,7 @@
       "logicFile": 680,
       "messageNumber": 12,
       "original": "There's no time for that now!  Alexander stands before Death himself!",
-      "translation": "אין זמן לזה עכשיו! אלכסנדר עומד מול המוות בעצמו!",
+      "translation": "אין זמן לזה עכשיו! אלכסנדר עומד מול מלאך המוות בעצמו!",
       "notes": "",
       "placeholders": []
     },
@@ -36045,7 +36045,7 @@
       "logicFile": 680,
       "messageNumber": 13,
       "original": "Alexander stands in the Hall of the Lord of the Dead!  This is hardly a place for him to fool around with his possessions!",
-      "translation": "אלכסנדר עומד באולם אדון המתים! זה בקושי מקום בשבילו להתעסק עם חפציו!",
+      "translation": "אלכסנדר עומד בהיכל מלאך המוות! זה ממש לא המקום להתעסק עם חפציו!",
       "notes": "",
       "placeholders": []
     },
@@ -36053,7 +36053,7 @@
       "logicFile": 680,
       "messageNumber": 14,
       "original": "Alexander is standing in the hall of the Lord of the Dead.  It is here that the spirits of the newly dead complete their journey and meet Death himself.",
-      "translation": "אלכסנדר עומד באולם אדון המתים. לכאן מגיעות נשמות המתים הטריים להשלים את מסען ולפגוש את המוות בעצמו.",
+      "translation": "אלכסנדר עומד בהיכל מלאך המוות. לכאן מגיעות נשמות המתים הטריות להשלים את מסען ולפגוש את המוות בעצמו.",
       "notes": "",
       "placeholders": []
     },
@@ -36069,7 +36069,7 @@
       "logicFile": 680,
       "messageNumber": 16,
       "original": "Alexander approaches the throne of the Lord of the Dead.",
-      "translation": "אלכסנדר מתקרב לכס המלכות של אדון המתים.",
+      "translation": "אלכסנדר מתקרב לכס המלכות של מלאך המוות.",
       "notes": "",
       "placeholders": []
     },
@@ -36077,7 +36077,7 @@
       "logicFile": 680,
       "messageNumber": 17,
       "original": "The Hall of the Lord of the Dead is hardly a good place for poking around!",
-      "translation": "אולם אדון המתים הוא בקושי מקום טוב להתעסק בו!",
+      "translation": "היכל מלאך המוות הוא ממש לא מקום מתאים להתעסק איתו!",
       "notes": "",
       "placeholders": []
     },
@@ -36085,7 +36085,7 @@
       "logicFile": 680,
       "messageNumber": 18,
       "original": "Alexander must get closer to the Lord of the Dead if he wishes to show him something.",
-      "translation": "אלכסנדר חייב להתקרב לאדון המתים אם הוא רוצה להראות לו משהו.",
+      "translation": "אלכסנדר חייב להתקרב למלאך המוות אם הוא רוצה להראות לו משהו.",
       "notes": "",
       "placeholders": []
     },
@@ -36093,7 +36093,7 @@
       "logicFile": 680,
       "messageNumber": 19,
       "original": "In the center of the great cavern, the Lord of the Dead reigns over the hosts of the dead.  He waves spirits into the Sea of Souls in an endless stream.  What things the spirits tell him are best unheard by mortal ears.",
-      "translation": "במרכז המערה הגדולה, אדון המתים שולט על המוני המתים. הוא מנופף ברוחות לים הנשמות בזרם בלתי פוסק. מה שהרוחות מספרות לו מוטב שאוזני בני תמותה לא ישמעו.",
+      "translation": "במרכז המערה הגדולה, מלאך המוות שולט על המוני המתים. הוא מנופף ברוחות לים הנשמות בזרם בלתי פוסק. מה שהרוחות מספרות לו מוטב שאוזני בני תמותה לא ישמעו.",
       "notes": "",
       "placeholders": []
     },
@@ -36101,7 +36101,7 @@
       "logicFile": 680,
       "messageNumber": 20,
       "original": "Alexander can't talk to the Lord of the Dead from here.",
-      "translation": "אלכסנדר לא יכול לדבר עם אדון המתים מכאן.",
+      "translation": "אלכסנדר לא יכול לדבר עם מלאך המוות מכאן.",
       "notes": "",
       "placeholders": []
     },
@@ -36109,7 +36109,7 @@
       "logicFile": 680,
       "messageNumber": 21,
       "original": "Alexander cannot reach the Lord of the Dead from here.",
-      "translation": "אלכסנדר לא יכול להגיע לאדון המתים מכאן.",
+      "translation": "אלכסנדר לא יכול להגיע אל מלאך המוות מכאן.",
       "notes": "",
       "placeholders": []
     },
@@ -36117,7 +36117,7 @@
       "logicFile": 680,
       "messageNumber": 22,
       "original": "The Lord of the Dead's throne is surrounded by the Sea of Souls.  The living sea swirls with the spirits of those who once walked the mortal realm.  What awaits them?...   Alexander cannot know.",
-      "translation": "כס המלכות של אדון המתים מוקף בים הנשמות. הים החי סוער ברוחות של אלה שפעם הלכו בעולם בני התמותה. מה מצפה להם?... אלכסנדר לא יכול לדעת.",
+      "translation": "כס המלכות של מלאך המוות מוקף בים הנשמות. הים החי סוער ברוחות של אלה שפעם הלכו בעולם בני התמותה. מה מצפה להם?... אלכסנדר לא יכול לדעת.",
       "notes": "",
       "placeholders": []
     },
@@ -36149,7 +36149,7 @@
       "logicFile": 680,
       "messageNumber": 26,
       "original": "The shrouded guards do not appear to be interested in anything of Alexander's.  But now that he's gotten their attention, they escort him to the throne of the Lord of the Dead.",
-      "translation": "השומרים העוטפים לא נראים מעוניינים בשום דבר השייך לאלכסנדר. אך כעת משמשך את תשומת ליבם, הם מלווים אותו לכס המלכות של אדון המתים.",
+      "translation": "השומרים המכוסים לא נראים מעוניינים בשום דבר השייך לאלכסנדר. אך כעת משמשך את תשומת ליבם, הם מלווים אותו לכס המלכות של מלאך המוות.",
       "notes": "",
       "placeholders": []
     },
@@ -36157,7 +36157,7 @@
       "logicFile": 680,
       "messageNumber": 27,
       "original": "The servants of the Lord of the Dead stand silently at the head of the path to his throne.",
-      "translation": "משרתי אדון המתים עומדים בדממה בראש השביל המוביל לכס מלכותו.",
+      "translation": "משרתי מלאך המוות עומדים בדממה בראש השביל המוביל לכס מלכותו.",
       "notes": "",
       "placeholders": []
     },
@@ -36165,7 +36165,7 @@
       "logicFile": 680,
       "messageNumber": 28,
       "original": "\"Excuse me.  I'd like an audience, please.\"",
-      "translation": "\"סליחה. הייתי רוצה פגישה, בבקשה.\"",
+      "translation": "\"במחילה מכם. הייתי רוצה פגישה, בבקשה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -36173,7 +36173,7 @@
       "logicFile": 680,
       "messageNumber": 29,
       "original": "The shrouded guards escort Alexander to the throne of the Lord of the Dead.",
-      "translation": "השומרים העוטפים מלווים את אלכסנדר לכס המלכות של אדון המתים.",
+      "translation": "השומרים המכוסים מלווים את אלכסנדר לכס המלכות של מלאך המוות.",
       "notes": "",
       "placeholders": []
     },
@@ -36181,7 +36181,7 @@
       "logicFile": 680,
       "messageNumber": 30,
       "original": "The servants of the Lord of the Dead don't seem particularly touchable, and Alexander has no desire to engage the black-cloaked figures in a fight.",
-      "translation": "משרתי אדון המתים לא נראים ניתנים למגע במיוחד, ולאלכסנדר אין רצון להיכנס לקרב עם הדמויות עטופות הגלימות השחורות.",
+      "translation": "משרתי מלאך המוות לא נראים ניתנים למגע במיוחד, ולאלכסנדר אין רצון להיכנס לקרב עם הדמויות עטופות הגלימות השחורות.",
       "notes": "",
       "placeholders": []
     },
@@ -36189,7 +36189,7 @@
       "logicFile": 680,
       "messageNumber": 31,
       "original": "Alexander doesn't want to experiment with the organic path beneath his feet.  The path might not like being fooled with, and he's a bit dependent on it at the moment!",
-      "translation": "אלכסנדר לא רוצה להתנסות עם השביל האורגני שמתחת לרגליו. השביל עלול לא לחבב את ההתעסקות, והוא די תלוי בו כרגע!",
+      "translation": "אלכסנדר לא רוצה להתעסק עם השביל בעל מגע חי שתחת לרגליו. השביל עלול לא לחבב את ההתעסקות, והוא די תלוי בו כרגע!",
       "notes": "",
       "placeholders": []
     },
@@ -36197,7 +36197,7 @@
       "logicFile": 680,
       "messageNumber": 32,
       "original": "A narrow path is suspended over the Sea of Souls and leads to the throne of the Lord of the Dead.",
-      "translation": "שביל צר תלוי מעל ים הנשמות ומוביל לכס המלכות של אדון המתים.",
+      "translation": "שביל צר תלוי מעל ים הנשמות ומוביל לכס המלכות של מלאך המוות.",
       "notes": "",
       "placeholders": []
     },
@@ -36229,7 +36229,7 @@
       "logicFile": 680,
       "messageNumber": 36,
       "original": "The spirits of the newly dead end their journey here.  They have an audience with the Lord of the Dead and are then immersed in the Sea of Souls.  What purpose the audience serves, Alexander does not know.",
-      "translation": "רוחות המתים הטריים מסיימות את מסען כאן. הן נפגשות עם אדון המתים ולאחר מכן נטמעות בים הנשמות. איזו מטרה משרתת הפגישה, אלכסנדר אינו יודע.",
+      "translation": "רוחות המתים הטריות מסיימות את מסען כאן. הן נפגשות עם מלאך המוות ולאחר מכן נטמעות בים הנשמות. לאיזו מטרה הן נפגשות עימו, אלכסנדר אינו יודע.",
       "notes": "",
       "placeholders": []
     },
@@ -36261,7 +36261,7 @@
       "logicFile": 680,
       "messageNumber": 40,
       "original": "Extending from the walls are outgrowths spouting flickering flames.  The eerie torches dimly light the passages of the Underworld.",
-      "translation": "מהקירות בולטות יציאות הפולטות להבות מרצדות. הלפידים המצמררים מאירים בעמום את מעברי השאול.",
+      "translation": "מהקירות בולטים לפידים הפולטים להבות מרצדות. הלפידים המצמררים מאירים בעמום את מעברי השאול.",
       "notes": "",
       "placeholders": []
     },
@@ -36269,7 +36269,7 @@
       "logicFile": 680,
       "messageNumber": 41,
       "original": "The torches flicker silently in little, lapping tongues of flame.",
-      "translation": "הלפידים מרצדים בדממה בלשונות להבה קטנות ומלטפות.",
+      "translation": "הלפידים מרצדים בדממה בלשונות להבה מלחכות וקטנות.",
       "notes": "",
       "placeholders": []
     },
@@ -36285,7 +36285,7 @@
       "logicFile": 690,
       "messageNumber": 1,
       "original": "\"Why have you entered my domain still wearing your flesh?\"",
-      "translation": "\"מדוע נכנסת לתחומי עדיין לבוש בבשרך?\"",
+      "translation": "\"מדוע נכנסת לתחומי ואתה עדיין לבוש בבשרך?\"",
       "notes": "",
       "placeholders": []
     },
@@ -36293,7 +36293,7 @@
       "logicFile": 690,
       "messageNumber": 2,
       "original": "\"If you are so anxious for Death, you might have found it easily enough in the land of the living.  But, since you're here, you are most welcome to stay.\"",
-      "translation": "\"אם אתה כה להוט אחר המוות, יכולת למצוא אותו בקלות מספקת בארץ החיים. אך מכיוון שאתה כאן, אתה מוזמן ביותר להישאר.\"",
+      "translation": "\"אם אתה כה להוט אחר המוות, יכולת למצוא אותו בקלות גם בארץ החיים. אך מכיוון שאתה כאן, אתה מוזמן בהחלט להישאר.\"",
       "notes": "",
       "placeholders": []
     },
@@ -36301,7 +36301,7 @@
       "logicFile": 690,
       "messageNumber": 3,
       "original": "\"Kiss my hand, and you will be one with the spirits.  There will be no pain.\"",
-      "translation": "\"נשק את ידי, ותהיה אחד עם הרוחות. לא יהיה כאב.\"",
+      "translation": "\"נשק את ידי, ותתאחד עם הרוחות. לא תרגיש כאב.\"",
       "notes": "",
       "placeholders": []
     },
@@ -36309,7 +36309,7 @@
       "logicFile": 690,
       "messageNumber": 4,
       "original": "\"The will to live is strong, is it not?  Never mind.  I will reach out to YOU.\"",
-      "translation": "\"הרצון לחיות חזק, לא כך? לא משנה. אני אגיע אליך.\"",
+      "translation": "\"הרצון לחיות הוא חזק, לא כך? לא משנה. אני כבר אגיע אליך.\"",
       "notes": "",
       "placeholders": []
     },
@@ -36325,7 +36325,7 @@
       "logicFile": 690,
       "messageNumber": 6,
       "original": "The Lord of the Dead's touch fills Alexander instantly with a numbing cold and blackness.",
-      "translation": "מגעו של שר המוות ממלא את אלכסנדר מייד בקור משתק ובחושך.",
+      "translation": "מגעו של מלאך המוות ממלא את אלכסנדר מייד בקור משתק ובאפלת צלמוות.",
       "notes": "",
       "placeholders": []
     },
@@ -36333,7 +36333,7 @@
       "logicFile": 690,
       "messageNumber": 7,
       "original": "There's no time for that now!  That won't help Alexander convince Death of anything.",
-      "translation": "אין לזה זמן עכשיו! זה לא יעזור לאלכסנדר לשכנע את המוות בכלום.",
+      "translation": "אין לזה זמן עכשיו! זה לא יעזור לאלכסנדר לשכנע את מלאך המוות בכלום.",
       "notes": "",
       "placeholders": []
     },
@@ -36341,7 +36341,7 @@
       "logicFile": 690,
       "messageNumber": 8,
       "original": "The young prince trembles with dread as he stands before the Lord of the Dead.  Despite his fear, he remains determined in his cause and unwavering in his stance.",
-      "translation": "הנסיך הצעיר רועד מפחד כשהוא עומד לפני שר המוות. למרות פחדו, הוא נחוש במטרתו ויציב בעמדתו.",
+      "translation": "הנסיך הצעיר רועד מפחד כשהוא עומד לפני מלאך המוות. למרות פחדו, הוא נחוש במטרתו ויציב בעמדתו.",
       "notes": "",
       "placeholders": []
     },
@@ -36349,7 +36349,7 @@
       "logicFile": 690,
       "messageNumber": 9,
       "original": "Alexander resists the urge to start jabbering incoherently with fear.",
-      "translation": "אלכסנדר מתנגד לדחף להתחיל לפטפט בחוסר קוהרנטיות מרוב פחד.",
+      "translation": "אלכסנדר מרוב פחד כובש את הדחף לדבר ללא היגיון.",
       "notes": "",
       "placeholders": []
     },
@@ -36365,7 +36365,7 @@
       "logicFile": 690,
       "messageNumber": 11,
       "original": "Alexander isn't bad on the flute, but he's hardly Orpheus!  Death is unlikely to be amused at his amateurish playing!",
-      "translation": "אלכסנדר לא רע בחליל, אבל הוא בקושי אורפאוס! המוות כנראה לא ישעשע מנגינתו החובבנית!",
+      "translation": "אלכסנדר לא רע בחליל, אבל הוא ממש לא אורפאוס! לא סביר שהמוות ישתעשע מנגינתו החובבנית!",
       "notes": "",
       "placeholders": []
     },
@@ -36373,7 +36373,7 @@
       "logicFile": 690,
       "messageNumber": 12,
       "original": "The Lord of the Dead might, indeed, miss the sounds of the natural world, but that tin nightingale would probably only make him REALLY upset.",
-      "translation": "שר המוות אולי אכן מתגעגע לצלילי העולם הטבעי, אבל אותה זמיר פח כנראה רק ירגיז אותו באמת.",
+      "translation": "מלאך המוות אולי אכן מתגעגע לצלילי העולם הטבעי, אבל אותה זמיר פח כנראה רק תרגיז אותו.",
       "notes": "",
       "placeholders": []
     },
@@ -36381,7 +36381,7 @@
       "logicFile": 690,
       "messageNumber": 13,
       "original": "That won't save Alexander now!  The Lord of the Dead awaits!",
-      "translation": "זה לא יציל את אלכסנדר עכשיו! שר המוות מחכה!",
+      "translation": "זה לא יציל את אלכסנדר עכשיו! מלאך המוות מחכה!",
       "notes": "",
       "placeholders": []
     },
@@ -36389,7 +36389,7 @@
       "logicFile": 690,
       "messageNumber": 14,
       "original": "With trembling knees, Alexander stands before the Lord of the Dead.  Beyond Death and his throne, Alexander can sense the multitude of spirits in the Sea of Souls.",
-      "translation": "בברכיים רועדות, אלכסנדר עומד לפני שר המוות. מעבר למוות וכסאו, אלכסנדר חש את המון הרוחות בים הנשמות.",
+      "translation": "בברכיים רועדות, אלכסנדר עומד לפני מלאך המוות. מעבר למלאך וכסאו, אלכסנדר חש את המון הרוחות בים הנשמות.",
       "notes": "",
       "placeholders": []
     },
@@ -36397,7 +36397,7 @@
       "logicFile": 690,
       "messageNumber": 15,
       "original": "The souls surrounding the Lord of the Dead's throne cannot help Alexander.  He had better concentrate on Death himself if he wishes to plead his case!",
-      "translation": "הנשמות המקיפות את כסאו של שר המוות אינן יכולות לעזור לאלכסנדר. עדיף לו להתרכז במוות עצמו אם הוא רוצה לטעון את טיעונו!",
+      "translation": "הנשמות המקיפות את כסאו של מלאך המוות אינן יכולות לעזור לאלכסנדר. עדיף לו להתרכז במוות עצמו אם הוא רוצה לטעון את טיעונו!",
       "notes": "",
       "placeholders": []
     },
@@ -36445,7 +36445,7 @@
       "logicFile": 690,
       "messageNumber": 21,
       "original": "The Lord of the Dead is a huge, grotesque figure.  He and his throne are one--grown together over the centuries till he can no longer move.  Chains further bind him, pinning him to his endless, weighty task.  If he was once human, as the Druids claimed, Alexander can see no sign of it in his merciless, fathomless eyes.",
-      "translation": "שר המוות הוא דמות ענקית ומגושמת. הוא וכסאו חד הם – צמחו יחד במשך מאות שנים עד שאינו יכול עוד לזוז. שלשלאות כובלות אותו עוד יותר, מהדקות אותו למשימתו האינסופית והכבדה. אם היה פעם אדם, כפי שטענו הדרואידים, אלכסנדר אינו רואה לכך כל סימן בעיניו חסרות הרחמים וחסרות התחתית.",
+      "translation": "מלאך המוות הוא דמות ענקית ומגושמת. הוא וכסאו חד הם – נדבקו יחד במשך מאות שנים עד שאינו יכול עוד לזוז. שלשלאות כובלות אותו עוד יותר, מהדקות אותו למשימתו האינסופית והכבדה. אם היה פעם אדם, כפי שטענו הדרואידים, אלכסנדר אינו רואה לכך כל סימן בעיניו חסרות הרחמים וחסרות התחתית.",
       "notes": "",
       "placeholders": []
     },
@@ -36485,7 +36485,7 @@
       "logicFile": 690,
       "messageNumber": 26,
       "original": "As though sensing Alexander's desire to touch him, the Lord of the Dead reaches out his hand.",
-      "translation": "כאילו חש ברצונו של אלכסנדר לגעת בו, שר המוות מושיט את ידו.",
+      "translation": "כאילו חש ברצונו של אלכסנדר לגעת בו, מלאך המוות מושיט את ידו.",
       "notes": "",
       "placeholders": []
     },
@@ -36493,7 +36493,7 @@
       "logicFile": 690,
       "messageNumber": 27,
       "original": "As the Lord of the Dead's hand touches his shoulder, Alexander's mind fades to blackness.",
-      "translation": "כאשר ידו של שר המוות נוגעת בכתפו, תודעתו של אלכסנדר נמוגה לחושך.",
+      "translation": "כאשר ידו של מלאך המוות נוגעת בכתפו, תודעתו של אלכסנדר נמוגה לחושך.",
       "notes": "",
       "placeholders": []
     },
@@ -36517,7 +36517,7 @@
       "logicFile": 690,
       "messageNumber": 30,
       "original": "\"If your existence has been all that you say it has, then truth alone shall be my sword.\"",
-      "translation": "\"אם קיומך היה כל מה שאתה אומר, אז האמת לבדה תהיה חרבי.\"",
+      "translation": "\"אם קיומך היה כל מה שסיפרת, אז האמת לבדה תהיה חרבי.\"",
       "notes": "",
       "placeholders": []
     },
@@ -36525,7 +36525,7 @@
       "logicFile": 690,
       "messageNumber": 31,
       "original": "The mirror's surface swirls with darkness for a moment, then fills with images even blacker.",
-      "translation": "פני המראה סוערים בחושך לרגע, ואז מתמלאים בתמונות שחורות עוד יותר.",
+      "translation": "חשכה סמיכה גועשת לרגע על זכוכית המראה, ואז נחשפים בה מראות שחורים מנשוא.",
       "notes": "",
       "placeholders": []
     },
@@ -36533,7 +36533,7 @@
       "logicFile": 690,
       "messageNumber": 32,
       "original": "Reflections of despair, of wailing souls, of shackles colder and more immutable than any forged by man, of a world of thirsts that can never be quenched.",
-      "translation": "השתקפויות של ייאוש, של נשמות מייללות, של כבלים קרים ובלתי ניתנים לשינוי מכל מה שנוצר על ידי אדם, של עולם של צימאון שאינו יכול להירוות לעולם.",
+      "translation": "השתקפויות של ייאוש וזעקת נשמות; של שלשלאות קרות ונצחיות מכל מה שחושל בידי אדם; של עולם רוחש צמא שלעולם לא ירווה.",
       "notes": "",
       "placeholders": []
     },
@@ -36541,7 +36541,7 @@
       "logicFile": 690,
       "messageNumber": 33,
       "original": "Alexander feels the mirror tremble in his grasp and is glad that he cannot see its face, but the Lord of the Dead is transfixed to the mirror, to the screening of his life.",
-      "translation": "אלכסנדר מרגיש את המראה רועדת באחיזתו ושמח שאינו יכול לראות את פניה, אך שר המוות מקובע למראה, להקרנת חייו.",
+      "translation": "אלכסנדר מרגיש את המראה רועדת באחיזתו ושמח שאינו יכול לראות את פניה, אך מלאך המוות מקובע למראה, להשתקפות חייו.",
       "notes": "",
       "placeholders": []
     },
@@ -36549,7 +36549,7 @@
       "logicFile": 690,
       "messageNumber": 34,
       "original": "Things long forgotten are once more uncovered: his enslavement to this throne while still a man; the years of watching misery and horror and growing ever more numb to it; the seep of his own humanity; the slow growth of a new thing altogether which became that which he is now.",
-      "translation": "דברים שנשכחו מזמן נחשפים שוב: עבדותו לכס זה בעודו אדם; השנים שבהן צפה באומללות ובזוועה ונעשה אדיש לכך יותר ויותר; חלחול אנושיותו שלו; הצמיחה האיטית של דבר חדש לחלוטין שהפך למה שהוא עכשיו.",
+      "translation": "זיכרונות שנשכחו נחשפים שוב: השעבוד לכס השאול כשהיה עוד אדם; השנים שבילה בצפייה בכאב ובאימה שהפכו אותו לקהה חושים; האנושיות שחמקה ממנו אט-אט; וצמיחתו של משהו חדש, שהפך אותו למה שהוא עכשיו.",
       "notes": "",
       "placeholders": []
     },
@@ -36557,7 +36557,7 @@
       "logicFile": 690,
       "messageNumber": 35,
       "original": "His is an existence that has no possibility of redemption, no end.",
-      "translation": "קיומו הוא קיום שאין לו כל אפשרות גאולה, אין לו סוף.",
+      "translation": "קיומו הוא קיום שאין לו כל אפשרות גאולה, שאין לו סוף.",
       "notes": "",
       "placeholders": []
     },
@@ -36589,7 +36589,7 @@
       "logicFile": 690,
       "messageNumber": 39,
       "original": "\"Make it stop!\"",
-      "translation": "\"תפסיק את זה!\"",
+      "translation": "\"הפסק את זה!\"",
       "notes": "",
       "placeholders": []
     },
@@ -36597,7 +36597,7 @@
       "logicFile": 690,
       "messageNumber": 40,
       "original": "The mirror of truth cracks from the strain....  And Death sheds a single, gray tear.",
-      "translation": "מראת האמת נסדקת מהמאמץ.... ומוות מזיל דמעה אחת, אפורה.",
+      "translation": "מראת האמת נסדקת מהמאמץ.... ומלאך המוות מזיל דמעה אחת, אפורה.",
       "notes": "",
       "placeholders": []
     },
@@ -36613,7 +36613,7 @@
       "logicFile": 690,
       "messageNumber": 42,
       "original": "\"I have worn this mantle for so long, I had forgotten its dreadful weight.  You shall take the souls and leave, as I agreed.  You have been granted a stay from this inevitable reality.  I almost...envy you.\"",
-      "translation": "\"לבשתי את הגלימה הזו כל כך הרבה זמן, ששכחתי את כובדה הנורא. תיקח את הנשמות ותעזוב, כפי שהסכמתי. ניתנה לך שהות מהמציאות הבלתי נמנעת הזו. אני כמעט... מקנא בך.\"",
+      "translation": "\"לבשתי את הגלימה הזו כל כך הרבה זמן, ששכחתי את כובדה הנורא. קח את הנשמות ועזוב, כפי שהבטחתי. ניתנה לך שהות לברוח מהמציאות הבלתי נמנעת הזו. אני כמעט... מקנא בך.\"",
       "notes": "",
       "placeholders": []
     },
@@ -36621,7 +36621,7 @@
       "logicFile": 690,
       "messageNumber": 43,
       "original": "\"Find the souls he has claimed and bring them to me.\"",
-      "translation": "\"מצא את הנשמות שתבע והבא אותן אליי.\"",
+      "translation": "\"מצא את הנשמות שהוא דרש והבא אותן אליי.\"",
       "notes": "",
       "placeholders": []
     },
@@ -36629,7 +36629,7 @@
       "logicFile": 690,
       "messageNumber": 44,
       "original": "The Lord of the Dead is unlikely to accept something to drink from Alexander.",
-      "translation": "שר המוות כנראה לא יקבל משהו לשתות מאלכסנדר.",
+      "translation": "מלאך המוות כנראה לא יקבל משהו לשתות מאלכסנדר.",
       "notes": "",
       "placeholders": []
     },
@@ -36637,7 +36637,7 @@
       "logicFile": 690,
       "messageNumber": 45,
       "original": "The scythe cannot threaten Death himself!",
-      "translation": "החרמש אינו יכול לאיים על המוות עצמו!",
+      "translation": "החרמש אינו יכול לאיים על מלאך המוות עצמו!",
       "notes": "",
       "placeholders": []
     },
@@ -36645,7 +36645,7 @@
       "logicFile": 690,
       "messageNumber": 46,
       "original": "There are no spells in that book that would counter Death!",
-      "translation": "אין בספר הזה לחשים שיכולים להתמודד עם המוות!",
+      "translation": "אין בספר הזה לחשים שיכולים להתמודד עם מלאך המוות!",
       "notes": "",
       "placeholders": []
     },
@@ -36653,7 +36653,7 @@
       "logicFile": 690,
       "messageNumber": 47,
       "original": "Tickling Death is a bit of a stretch!",
-      "translation": "לדגדג את המוות זה קצת מוגזם!",
+      "translation": "לדגדג את מלאך המוות זה קצת מוגזם!",
       "notes": "",
       "placeholders": []
     },
@@ -36661,7 +36661,7 @@
       "logicFile": 690,
       "messageNumber": 48,
       "original": "The love poem might move Alexander, but it is unlikely to move Death!",
-      "translation": "שיר האהבה אולי ירגש את אלכסנדר, אך סביר שלא ירגש את המוות!",
+      "translation": "שיר האהבה אולי ירגש את אלכסנדר, אך סביר שלא ירגש את מלאך המוות!",
       "notes": "",
       "placeholders": []
     },
@@ -36669,7 +36669,7 @@
       "logicFile": 690,
       "messageNumber": 49,
       "original": "The Lord of the Dead would probably not be interested in a bedtime story.",
-      "translation": "שר המוות כנראה לא יתעניין בסיפור לפני השינה.",
+      "translation": "מלאך המוות כנראה לא יתעניין בסיפור לפני השינה.",
       "notes": "",
       "placeholders": []
     },
@@ -36677,7 +36677,7 @@
       "logicFile": 690,
       "messageNumber": 50,
       "original": "Alexander's heard the expression \"bored to tears,\" but somehow, he doesn't think it would work in Death's case!",
-      "translation": "אלכסנדר שמע את הביטוי \"משועמם עד דמעות\", אבל איכשהו, הוא לא חושב שזה יעבוד במקרה של המוות!",
+      "translation": "אלכסנדר שמע את הביטוי \"משועמם עד דמעות\", אבל איכשהו, הוא לא חושב שזה יעבוד במקרה של מלאך המוות!",
       "notes": "",
       "placeholders": []
     },
@@ -36685,7 +36685,7 @@
       "logicFile": 690,
       "messageNumber": 51,
       "original": "The Lord of the Dead has probably smelled much worse things than that flower of stench.  It is unlikely to produce any useful response.",
-      "translation": "שר המוות כנראה הריח דברים גרועים בהרבה מפרח הסרחון הזה. סביר שלא תהיה לכך תגובה שימושית כלשהי.",
+      "translation": "מלאך המוות כנראה הריח דברים גרועים בהרבה מפרח הסרחון הזה. סביר שלא תהיה לכך תגובה שימושית כלשהי.",
       "notes": "",
       "placeholders": []
     },
@@ -36693,7 +36693,7 @@
       "logicFile": 690,
       "messageNumber": 52,
       "original": "\"I did not come here to die, but to demand my right of challenge!  I respectfully challenge thee, Death, by throwing down this gauntlet!\"",
-      "translation": "\"לא באתי למות כאן, אלא לדרוש את זכות האתגר שלי! אני קורא לך, מוות, בכבוד רב, על ידי השלכת כפפה זו!\"",
+      "translation": "\"לא באתי למות כאן, אלא לדרוש את זכותי לאתגר אותך! אני קורא לך, מלאך המוות, בכבוד רב, על ידי השלכת כפפה זו!\"",
       "notes": "",
       "placeholders": []
     },
@@ -36701,7 +36701,7 @@
       "logicFile": 690,
       "messageNumber": 53,
       "original": "\"Man may pass the portal, and seeks its master Death.  Man may pass where Death has trod, and challenge, like Scheherazade, He who reigns beneath the sod, to spare a mortal's breath.\"",
-      "translation": "\"אדם עשוי לעבור את השער, ומבקש את אדונו מוות. אדם עשוי לעבור היכן שמוות דרך, ולאתגר, כשחרזדה, את מי ששולט תחת העפר, לחוס על נשימת בן תמותה.\"",
+      "translation": "\"אדם יחצה את השער אל המוות ישיר מבט. בנתיב הנשמות יצעד כמו שחרזאדה בעת משפט, יזמין את שליט המוות לדו-קרב, כדי שיחוס על המת וישיב את החייו.\"",
       "notes": "",
       "placeholders": []
     },
@@ -36741,7 +36741,7 @@
       "logicFile": 690,
       "messageNumber": 58,
       "original": "\"A man of flesh is all I need to be, my lord.\"",
-      "translation": "\"איש בשר זה כל מה שאני צריך להיות, אדוני.\"",
+      "translation": "\"למעשה אדם בשר-ודם זה כל מה שאני, אדוני.\"",
       "notes": "",
       "placeholders": []
     },
@@ -36765,7 +36765,7 @@
       "logicFile": 690,
       "messageNumber": 61,
       "original": "\"You would save two human souls AND emerge alive from this realm yourself?  That shall be a difficult challenge indeed.  The tomb does not open its doors lightly.\"",
-      "translation": "\"היית מציל שתי נשמות אנושיות וגם יוצא חי מהממלכה הזו בעצמך? זה יהיה אתגר קשה מאוד אכן. הקבר אינו פותח את שעריו בקלות.\"",
+      "translation": "\"אתה מבקש להציל שתי נשמות אנושיות וגם לצאת חי מהממלכה הזו? אם כן, זה אתגר קשה מאוד. הקבר אינו פותח את שעריו בקלות.\"",
       "notes": "",
       "placeholders": []
     },
@@ -36773,7 +36773,7 @@
       "logicFile": 690,
       "messageNumber": 62,
       "original": "\"Either all three of us leave, or none go.\"",
-      "translation": "\"או ששלושתנו עוזבים, או שאף אחד לא הולך.\"",
+      "translation": "\"או ששלושתנו עוזבים, או שאף אחד לא עוזב.\"",
       "notes": "",
       "placeholders": []
     },
@@ -36789,7 +36789,7 @@
       "logicFile": 690,
       "messageNumber": 64,
       "original": "\"Ahhh.  Yes.  I have it now.  Your challenge is this:\"",
-      "translation": "\"אההה. כן. יש לי את זה עכשיו. האתגר שלך הוא זה:\"",
+      "translation": "\"אההה. כן. יש לי רעיון. האתגר שלך הוא זה:\"",
       "notes": "",
       "placeholders": []
     },
@@ -36805,7 +36805,7 @@
       "logicFile": 690,
       "messageNumber": 66,
       "original": "\"I have seen tragedies that ended empires, injustices that defy reason, love that would light the very stars turn cold and hard.  I have seen torments that cannot possibly be borne and yet must be--for centuries.\"",
-      "translation": "\"ראיתי טרגדיות שסיימו אימפריות, עוולות שמתריסות כנגד ההיגיון, אהבה שיכולה להאיר את הכוכבים עצמם הופכת קרה וקשה. ראיתי ייסורים שאינם יכולים להינשא אך חייבים להינשא – במשך מאות שנים.\"",
+      "translation": "\"ראיתי טרגדיות שסיימו אימפריות, עוולות שמתריסות כנגד ההיגיון, אהבה שיכולה להאיר את הכוכבים עצמם וכיצד הופכת קרה וקשה. ראיתי ייסורים שאי אפשר לתאר אך הם קורח המציאות – במשך מאות שנים.\"",
       "notes": "",
       "placeholders": []
     },
@@ -36813,7 +36813,7 @@
       "logicFile": 690,
       "messageNumber": 67,
       "original": "\"This thing I have never done; I have never shed a tear.  Make me cry, thou 'man of flesh.'  THAT is my challenge.\"",
-      "translation": "\"הדבר הזה מעולם לא עשיתי; מעולם לא הזלתי דמעה. גרם לי לבכות, אתה 'איש בשר'. זהו האתגר שלי.\"",
+      "translation": "\"את הדבר הזה מעולם לא עשיתי - מעולם לא הזלתי דמעה. עזור לי לבכות, אתה 'בשר-ודם'. זהו האתגר שלי בשבילך.\"",
       "notes": "",
       "placeholders": []
     },
@@ -36829,7 +36829,7 @@
       "logicFile": 690,
       "messageNumber": 69,
       "original": "\"Sooner could he turn sea to stone!\"",
-      "translation": "\"מוקדם יותר יוכל להפוך ים לאבן!\"",
+      "translation": "\"קל יותר להפוך ים לאבן!\"",
       "notes": "",
       "placeholders": []
     },
@@ -36845,7 +36845,7 @@
       "logicFile": 690,
       "messageNumber": 71,
       "original": "The Lord of the Dead is unlikely to be moved by the mother ghost's tale of woe.",
-      "translation": "שר המוות כנראה לא יתרגש מסיפור האומללות של רוח האם.",
+      "translation": "מלאך המוות כנראה לא יתרגש מסיפור האומללות של רוח האם.",
       "notes": "",
       "placeholders": []
     },
@@ -37061,7 +37061,7 @@
       "logicFile": 710,
       "messageNumber": 23,
       "original": "Alexander can't open the wall again.  The magic paint is on the other side.  He'll have to leave the castle some other way.",
-      "translation": "אלכסנדר אינו יכול לפתוח את הקיר שוב. צבע הקסם נמצא בצד השני. הוא יצטרך לעזוב את הטירה בדרך אחרת.",
+      "translation": "אלכסנדר אינו יכול לפתוח שוב את הקיר. צבע הקסם נמצא בצד השני. הוא יצטרך לעזוב את הטירה בדרך אחרת.",
       "notes": "",
       "placeholders": []
     },
@@ -37069,7 +37069,7 @@
       "logicFile": 710,
       "messageNumber": 24,
       "original": "The castle basement is cool after the heat of the day.  The arched, domed ceilings add to the sense of spaciousness in the wide corridors.  On the east wall are three dungeon doors.",
-      "translation": "מרתף הטירה קריר לאחר חום היום. התקרות הקמורות והכיפתיות מוסיפות לתחושת המרחב במסדרונות הרחבים. על הקיר המזרחי נמצאות שלוש דלתות צינוק.",
+      "translation": "מרתף הטירה קריר בניגוד לחום היום. התקרות הקמורות מוסיפות לתחושת המרחב במסדרונות הרחבים. על הקיר המזרחי נמצאות שלוש דלתות צינוק.",
       "notes": "",
       "placeholders": []
     },
@@ -37101,7 +37101,7 @@
       "logicFile": 710,
       "messageNumber": 28,
       "original": "\"This is no place to talk, Alexander!  Just trust that I know everything that goes on in this castle!  Now be more careful!  If you get caught again I don't know if I'll be able to get you out!\"",
-      "translation": "\"זה לא מקום לדבר בו, אלכסנדר! פשוט תסמוך עלי שאני יודעת כל מה שקורה בטירה הזו! עכשיו היזהר יותר! אם תיתפס שוב אני לא יודעת אם אוכל להוציא אותך!\"",
+      "translation": "\"זה לא מקום לדבר בו, אלכסנדר! פשוט תסמוך עלי שאני יודע כל מה שקורה בטירה הזו! עכשיו היזהר יותר! אם תיתפס שוב אני לא יודע אם אוכל להוציא אותך!\"",
       "notes": "",
       "placeholders": []
     },
@@ -37109,7 +37109,7 @@
       "logicFile": 710,
       "messageNumber": 29,
       "original": "The magic paint door fades back into the wall.  So much for an easy exit!",
-      "translation": "דלת צבע הקסם מתמזגת בחזרה לתוך הקיר. כך נגמרת לה יציאה קלה!",
+      "translation": "דלת צבע הקסם מתמזגת בחזרה לתוך הקיר. כך נעלמת לה יציאה קלה!",
       "notes": "",
       "placeholders": []
     },
@@ -37125,7 +37125,7 @@
       "logicFile": 710,
       "messageNumber": 31,
       "original": "Uh, oh!  A guard dog!  Alexander's been seen!",
-      "translation": "אוי ואבוי! כלב שמירה! אלכסנדר נראה!",
+      "translation": "אוי ואבוי! כלב שמירה! אלכסנדר מתגלה!",
       "notes": "",
       "placeholders": []
     },
@@ -37189,7 +37189,7 @@
       "logicFile": 710,
       "messageNumber": 39,
       "original": "Alexander hears the sound of music coming from the east.  It sounds somewhat classical, but....",
-      "translation": "אלכסנדר שומע צלילי מוזיקה מגיעים מהמזרח. זה נשמע קלאסי במידה מה, אבל...",
+      "translation": "אלכסנדר שומע צלילי נגינה מגיעים מהמזרח. זה נשמע קלאסי במידת מה, אבל...",
       "notes": "",
       "placeholders": []
     },
@@ -37197,7 +37197,7 @@
       "logicFile": 710,
       "messageNumber": 40,
       "original": "Oh, no!  It's wedding music!",
-      "translation": "הו, לא! זו מוזיקת חתונה!",
+      "translation": "הו, לא! אלו צלילי חתונה!",
       "notes": "",
       "placeholders": []
     },
@@ -37205,7 +37205,7 @@
       "logicFile": 710,
       "messageNumber": 41,
       "original": "Alexander hears the sound of music coming from the east.",
-      "translation": "אלכסנדר שומע צלילי מוזיקה מגיעים מהמזרח.",
+      "translation": "אלכסנדר שומע צלילי נגינה מגיעים מהמזרח.",
       "notes": "",
       "placeholders": []
     },
@@ -37229,7 +37229,7 @@
       "logicFile": 710,
       "messageNumber": 44,
       "original": "Alexander hears a door off the north hall open, then the sound of guard dog footsteps.  The footsteps are headed this way!",
-      "translation": "אלכסנדר שומע דלת מחוץ לאולם הצפוני נפתחת, ואז צליל צעדי כלב שמירה. הצעדים מתקרבים לכאן!",
+      "translation": "אלכסנדר שומע דלת נפתחת מחוץ לאולם הצפוני, ואז פסיעות צעדי כלב שמירה. הצעדים מתקרבים לכאן!",
       "notes": "",
       "placeholders": []
     },
@@ -37309,7 +37309,7 @@
       "logicFile": 710,
       "messageNumber": 54,
       "original": "There's no time for that now!  There are guard dogs about!",
-      "translation": "אין זמן לזה עכשיו! יש כלבי שמירה בסביבה!",
+      "translation": "אין עכשיו זמן לזה! יש כלבי שמירה בסביבה!",
       "notes": "",
       "placeholders": []
     },
@@ -37317,7 +37317,7 @@
       "logicFile": 710,
       "messageNumber": 55,
       "original": "Since the door on the west wall has no visible knob or handle, Alexander decides to try to open it with his voice.  He composes his words carefully....",
-      "translation": "מכיוון שלדלת על הקיר המערבי אין ידית או כפתור גלויים, אלכסנדר מחליט לנסות לפתוח אותה בקולו. הוא מרכיב את מילותיו בקפידה...",
+      "translation": "מכיוון שלדלת על הקיר המערבי אין ידית או כפתור גלויים, אלכסנדר מחליט לנסות לפתוח אותה בקולו. הוא מחשב את מילותיו בקפידה...",
       "notes": "",
       "placeholders": []
     },
@@ -37365,7 +37365,7 @@
       "logicFile": 710,
       "messageNumber": 61,
       "original": "Alexander sees nothing to do there on the wall.",
-      "translation": "אלכסנדר לא רואה שום דבר לעשות שם על הקיר.",
+      "translation": "אלכסנדר לא רואה שום דבר שניתן לעשות שם על הקיר.",
       "notes": "",
       "placeholders": []
     },
@@ -37405,7 +37405,7 @@
       "logicFile": 710,
       "messageNumber": 66,
       "original": "The powerfully-built guard is well-armed and would, moreover, surely give alarm at the first sight of Alexander.",
-      "translation": "השומר בעל המבנה החזק חמוש היטב ויתרה מכך, בטח יזעיק עזרה למראה הראשון של אלכסנדר.",
+      "translation": "השומר בעל המבנה החזק חמוש היטב ויתרה מכך, בטח יזעיק עזרה בהתקלות הראשונה באלכסנדר.",
       "notes": "",
       "placeholders": []
     },
@@ -37453,7 +37453,7 @@
       "logicFile": 710,
       "messageNumber": 72,
       "original": "The spell book doesn't have anything in it that would take care of that guard dog.  A \"Bone of Sleep\" spell would be nice, for example, but it isn't in the book.",
-      "translation": "ספר הכשפים לא מכיל שום דבר שיטפל בכלב השמירה הזה. כשף \"עצם שינה\" היה נחמד, לדוגמה, אבל הוא לא בספר.",
+      "translation": "ספר הכשפים לא מכיל שום דבר שיטפל בכלב השמירה הזה. כישוף \"עצם שינה\" היה נחמד, לדוגמה, אבל הוא לא בספר.",
       "notes": "",
       "placeholders": []
     },
@@ -37477,7 +37477,7 @@
       "logicFile": 710,
       "messageNumber": 75,
       "original": "Why would Alexander want to play the mechanical nightingale for the passing guard and alert his attention?",
-      "translation": "למה שאלכסנדר ירצה לנגן את זמיר הציפור המכני לשומר העובר ובכך להזעיק את תשומת ליבו?",
+      "translation": "למה שאלכסנדר ירצה לנגן את הזמיר המכני לשומר העובר ובכך לעורר את תשומת ליבו?",
       "notes": "",
       "placeholders": []
     },
@@ -37493,7 +37493,7 @@
       "logicFile": 710,
       "messageNumber": 77,
       "original": "The flower of stench, while terribly stinky, is hardly strong enough to overpower that guard.",
-      "translation": "פרח הסרחון, למרות היותו מסריח נורא, בקושי חזק מספיק כדי להכניע את השומר ההוא.",
+      "translation": "פרח הסרחון, למרות היותו מסריח נורא, אינו חזק מספיק כדי להכניע את השומר ההוא.",
       "notes": "",
       "placeholders": []
     },
@@ -37645,7 +37645,7 @@
       "logicFile": 720,
       "messageNumber": 12,
       "original": "Against his better judgement, Alexander decides to open the door.",
-      "translation": "בניגוד לשיקול דעתו הטוב יותר, אלכסנדר מחליט לפתוח את הדלת.",
+      "translation": "בלי לחשוב פעמיים, אלכסנדר מחליט לפתוח את הדלת.",
       "notes": "",
       "placeholders": []
     },
@@ -37653,7 +37653,7 @@
       "logicFile": 720,
       "messageNumber": 13,
       "original": "Somehow, he just knew that wasn't such a good idea.",
-      "translation": "איכשהו, הוא פשוט ידע שזה לא היה רעיון כזה טוב.",
+      "translation": "איכשהו, הוא פשוט ידע שזה לא היה רעיון כל כך טוב.",
       "notes": "",
       "placeholders": []
     },
@@ -37701,7 +37701,7 @@
       "logicFile": 720,
       "messageNumber": 19,
       "original": "\"Er, hello there.  Could you tell me how I might go about getting an audience with the vizier?\"",
-      "translation": "\"אממ, שלום לך. תוכל לומר לי איך אוכל לקבל קהל אצל הווזיר?\"",
+      "translation": "\"אממ, שלום לך. תוכל לומר לי איך אוכל לקבל פגישה עם הווזיר?\"",
       "notes": "",
       "placeholders": []
     },
@@ -37709,7 +37709,7 @@
       "logicFile": 720,
       "messageNumber": 20,
       "original": "The powerfully-built guard is well-armed and would, moreover, surely give alarm at the first sight of Alexander.",
-      "translation": "השומר בעל המבנה החסון חמוש היטב ויתרה מכך, ודאי יזעיק עזרה למראה הראשון של אלכסנדר.",
+      "translation": "השומר בעל המבנה החסון חמוש היטב ויתרה מכך, ודאי יזעיק עזרה בהתקלות הראשונה באלכסנדר.",
       "notes": "",
       "placeholders": []
     },
@@ -37757,7 +37757,7 @@
       "logicFile": 720,
       "messageNumber": 26,
       "original": "The spell book doesn't have anything in it that would take care of that guard dog.  A \"Bone of Sleep\" spell would be nice, for example, but it isn't in the book.",
-      "translation": "ספר הקסמים לא מכיל דבר שייפטר מכלב השמירה הזה. קסם \"עצם שינה\" למשל, היה נחמד, אבל הוא לא בספר.",
+      "translation": "ספר הקסמים לא מכיל דבר שייפטר מכלב השמירה הזה. כישוף \"עצם שינה\" למשל, היה נחמד, אבל הוא לא בספר.",
       "notes": "",
       "placeholders": []
     },
@@ -37789,7 +37789,7 @@
       "logicFile": 720,
       "messageNumber": 30,
       "original": "Why would Alexander want to play the mechanical nightingale for the passing guard and alert his attention?",
-      "translation": "למה שאלכסנדר ירצה לנגן את הזמיר המכני לשומר העובר ולהסב את תשומת ליבו?",
+      "translation": "למה שאלכסנדר ירצה לנגן את הזמיר המכני לשומר העובר ולעורר את תשומת ליבו?",
       "notes": "",
       "placeholders": []
     },
@@ -37845,7 +37845,7 @@
       "logicFile": 720,
       "messageNumber": 37,
       "original": "The castle basement is cool after the heat of the day.  On the north wall is a door bearing a plaque, and in the west corner is a suit of armor.",
-      "translation": "מרתף הטירה קריר אחרי חום היום. בקיר הצפוני יש דלת הנושאת לוחית, ובפינה המערבית יש חליפת שריון.",
+      "translation": "מרתף הטירה קריר בניגוד לחום היום. בקיר הצפוני יש דלת הנושאת לוחית, ובפינה המערבית יש חליפת שריון.",
       "notes": "",
       "placeholders": []
     },
@@ -37893,7 +37893,7 @@
       "logicFile": 720,
       "messageNumber": 43,
       "original": "Remembering what the little boy ghost said, Alexander experiments with the suit of armor.  He pushes down, then pulls up on the knight's right arm.",
-      "translation": "כשאלכסנדר זוכר את מה שאמר רוח הרפאים הקטן, הוא מתנסה עם חליפת השריון. הוא דוחף מטה, ואז מושך מעלה את זרועו הימנית של האביר.",
+      "translation": "כשאלכסנדר זוכר את מה שאמר רוח הרפאים הקטן, הוא מתעסק עם חליפת השריון. הוא דוחף מטה, ואז מושך מעלה את זרועו הימנית של האביר.",
       "notes": "",
       "placeholders": []
     },
@@ -37917,7 +37917,7 @@
       "logicFile": 720,
       "messageNumber": 46,
       "original": "There's no time for the secret passage now!  The wedding music has started!",
-      "translation": "אין זמן למעבר הסודי עכשיו! מוזיקת החתונה החלה!",
+      "translation": "אין זמן למעבר הסודי עכשיו! נגינת החתונה החלה!",
       "notes": "",
       "placeholders": []
     },
@@ -37933,7 +37933,7 @@
       "logicFile": 720,
       "messageNumber": 48,
       "original": "Alexander can't open the secret passage door with that.",
-      "translation": "אלכסנדר לא יכול לפתוח את דלת המעבר הסודי עם זה.",
+      "translation": "אלכסנדר לא יכול לפתוח עם זה את דלת המעבר הסודי.",
       "notes": "",
       "placeholders": []
     },
@@ -38109,7 +38109,7 @@
       "logicFile": 720,
       "messageNumber": 70,
       "original": "Alexander hears the sound of music coming from the east.  It sounds somewhat classical, but....",
-      "translation": "אלכסנדר שומע קול מוזיקה מגיע ממזרח. זה נשמע קלאסי במידה מסוימת, אבל....",
+      "translation": "אלכסנדר שומע קול נגינה מגיע ממזרח. זה נשמע קלאסי במידה מסוימת, אבל....",
       "notes": "",
       "placeholders": []
     },
@@ -38117,7 +38117,7 @@
       "logicFile": 720,
       "messageNumber": 71,
       "original": "\"Oh, no!  It's wedding music!\"",
-      "translation": "\"הו, לא! זו מוזיקת חתונה!\"",
+      "translation": "\"הו, לא! אלו צלילי חתונה!\"",
       "notes": "",
       "placeholders": []
     },
@@ -38125,7 +38125,7 @@
       "logicFile": 720,
       "messageNumber": 72,
       "original": "Alexander hears the sound of music coming from the east.",
-      "translation": "אלכסנדר שומע קול מוזיקה מגיע ממזרח.",
+      "translation": "אלכסנדר שומע קול נגינה מגיע ממזרח.",
       "notes": "",
       "placeholders": []
     },
@@ -38149,7 +38149,7 @@
       "logicFile": 720,
       "messageNumber": 75,
       "original": "Alexander hears the sound of guard dogs coming from behind the guard room door.  Somebody's coming out!",
-      "translation": "אלכסנדר שומע קולות של כלבי שמירה מגיעים ממאחורי דלת חדר השמירה. מישהו יוצא!",
+      "translation": "אלכסנדר שומע קולות של כלבי שמירה מגיעים מאחורי דלת חדר השמירה. מישהו יוצא!",
       "notes": "",
       "placeholders": []
     },
@@ -46221,7 +46221,7 @@
       "logicFile": 840,
       "messageNumber": 51,
       "original": "The castle basement is cool after the heat of the day.  On the east wall is a door, and on the west wall a staircase leads upward.",
-      "translation": "מרתף הטירה קריר לאחר חום היום. על הקיר המזרחי יש דלת, ועל הקיר המערבי גרם מדרגות מוביל למעלה.",
+      "translation": "מרתף הטירה קריר בניגוד לחום היום. על הקיר המזרחי יש דלת, ועל הקיר המערבי גרם מדרגות מוביל למעלה.",
       "notes": "",
       "placeholders": []
     },
@@ -47869,7 +47869,7 @@
       "logicFile": 860,
       "messageNumber": 40,
       "original": "Alexander walks into the hallway to show the guards the mechanical nightingale.",
-      "translation": "אלכסנדר נכנס למסדרון כדי להראות לשומרים את זמיר הציפור המכני.",
+      "translation": "אלכסנדר נכנס למסדרון כדי להראות לשומרים את הזמיר המכני.",
       "notes": "",
       "placeholders": []
     },
@@ -48005,7 +48005,7 @@
       "logicFile": 860,
       "messageNumber": 57,
       "original": "Alexander walks into the hallway to use the mechanical nightingale.",
-      "translation": "אלכסנדר נכנס למסדרון כדי להשתמש בזמיר הציפור המכני.",
+      "translation": "אלכסנדר נכנס למסדרון כדי להשתמש בזמיר המכני.",
       "notes": "",
       "placeholders": []
     },
