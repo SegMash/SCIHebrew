@@ -36997,7 +36997,7 @@
       "logicFile": 710,
       "messageNumber": 15,
       "original": "The wedding music has begun!  Alexander doesn't want to get trapped inside the dungeon now!",
-      "translation": "מוזיקת החתונה החלה! אלכסנדר לא רוצה להילכד בצינוק עכשיו!",
+      "translation": "נגינת החתונה החלה! אלכסנדר לא רוצה להילכד בצינוק עכשיו!",
       "notes": "",
       "placeholders": []
     },
@@ -38229,7 +38229,7 @@
       "logicFile": 730,
       "messageNumber": 2,
       "original": "From the open door comes the clatter of pots and pans, yelled instructions, and other busy kitchen noises.",
-      "translation": "מהדלת הפתוחה בוקע רעש של סירים ומחבתות, הוראות צעוקות, ועוד המולת מטבח עמוסה.",
+      "translation": "מהדלת הפתוחה בוקע רעש של סירים ומחבתות, פקודות הטבח, ועוד המולת מטבח עמוסה.",
       "notes": "",
       "placeholders": []
     },
@@ -38237,7 +38237,7 @@
       "logicFile": 730,
       "messageNumber": 3,
       "original": "\"You!  Girl!  Don't just stand there!  There's a stack of silver almost to the ceiling that needs polishing for the wedding!  Get a move on!\"",
-      "translation": "\"את! בחורה! אל תעמדי שם סתם! יש ערימה של כסף כמעט עד התקרה שצריך להבריק לחתונה! קדימה, לזוז!\"",
+      "translation": "\"את! משרתת! אל תעמדי שם סתם! יש ערימה של כלי כסף כמעט עד התקרה שצריך להבריק לחתונה! קדימה, לזוז!\"",
       "notes": "",
       "placeholders": []
     },
@@ -38285,7 +38285,7 @@
       "logicFile": 730,
       "messageNumber": 9,
       "original": "\"Who, me?  No!  I just stopped by from the village for the wedding and....\"",
-      "translation": "\"מי, אני? לא! רק עצרתי מהכפר לחתונה ו....\"",
+      "translation": "\"מי, אני? לא! רק באתי מהכפר לחתונה ו....\"",
       "notes": "",
       "placeholders": []
     },
@@ -38293,7 +38293,7 @@
       "logicFile": 730,
       "messageNumber": 10,
       "original": "\"Forget it!  Let's take him to the dungeon, Wolf, then go find Captain Saladin.\"",
-      "translation": "\"תשכח מזה! בוא ניקח אותו לצינוק, וולף, ואז נלך למצוא את קפטן סלאדין.\"",
+      "translation": "\"עזוב! בוא ניקח אותו לצינוק, וולף, ואז נלך למצוא את קפטן סלאדין.\"",
       "notes": "",
       "placeholders": []
     },
@@ -38301,7 +38301,7 @@
       "logicFile": 730,
       "messageNumber": 11,
       "original": "\"Right, Bay.  Maybe this will make up for that soup bone incident!\"",
-      "translation": "\"צודק, ביי. אולי זה יפצה על התקרית עם עצם המרק!\"",
+      "translation": "\"צודק, ביי. אולי זה יפצה על התקרית שלך עם עצם המרק!\"",
       "notes": "",
       "placeholders": []
     },
@@ -38437,7 +38437,7 @@
       "logicFile": 730,
       "messageNumber": 28,
       "original": "The wedding music is coming from behind those two large doors!",
-      "translation": "מוזיקת החתונה בוקעת מאחורי שתי הדלתות הגדולות האלה!",
+      "translation": "נגינת החתונה בוקעת מאחורי שתי הדלתות הגדולות האלה!",
       "notes": "",
       "placeholders": []
     },
@@ -38453,7 +38453,7 @@
       "logicFile": 730,
       "messageNumber": 30,
       "original": "The wedding music is coming from behind those two large doors!",
-      "translation": "מוזיקת החתונה בוקעת מאחורי שתי הדלתות הגדולות האלה!",
+      "translation": "נגינת החתונה בוקעת מאחורי שתי הדלתות הגדולות האלה!",
       "notes": "",
       "placeholders": []
     },
@@ -38469,7 +38469,7 @@
       "logicFile": 730,
       "messageNumber": 32,
       "original": "\"I've standing orders to kill you on sight.  I'll give you five seconds to explain what you're doing here.  I warn you; it had better be good!\"",
-      "translation": "\"יש לי הוראות ירי לכל מי שמופיע. אני אתן לך חמש שניות להסביר מה אתה עושה כאן. אני מזהיר אותך; מוטב שזה יהיה טוב!\"",
+      "translation": "\"יש לי הוראה להרוג אותך ברגע שתופיע. אני נותן לך חמש שניות להסביר מה אתה עושה כאן. ואני מזהיר אותך - מוטב שזה יהיה משכנע!\"",
       "notes": "",
       "placeholders": []
     },
@@ -38485,7 +38485,7 @@
       "logicFile": 730,
       "messageNumber": 34,
       "original": "\"Since you are of noble birth, I will give you five seconds to explain your presence here before killing you.  I warn you; it had better be good!\"",
-      "translation": "\"מכיוון שאתה מלידה אצילה, אתן לך חמש שניות להסביר את נוכחותך כאן לפני שאשקול להרוג אותך. אני מזהיר אותך; מוטב שזה יהיה טוב!\"",
+      "translation": "\"מכיוון שאתה ממשפחת אצולה, אתן לך חמש שניות להסביר את נוכחותך כאן לפני שאשקול להרוג אותך. אני מזהיר אותך - מוטב שזה יהיה משכנע!\"",
       "notes": "",
       "placeholders": []
     },
@@ -38493,7 +38493,7 @@
       "logicFile": 730,
       "messageNumber": 35,
       "original": "\"You have not impressed me, foreign one.  The vizier must be right about you.  Now I must follow my orders!\"",
-      "translation": "\"לא הרשמת אותי, זר. הווזיר בטח צודק לגביך. עכשיו אני חייב למלא את פקודותיי!\"",
+      "translation": "\"לא הרשמת אותי, בחור זר. הווזיר בטח צודק לגביך. עכשיו אני חייב למלא את פקודותיי!\"",
       "notes": "",
       "placeholders": []
     },
@@ -38509,7 +38509,7 @@
       "logicFile": 730,
       "messageNumber": 37,
       "original": "\"You give me no excuse to save your life, Prince Alexander.  You were told to stay away from the castle, but you chose not to listen!  I have no choice but to obey the vizier!\"",
-      "translation": "\"אינך נותן לי שום עילה להציל את חייך, הנסיך אלכסנדר. נאמר לך להתרחק מהטירה, אך בחרת לא להקשיב! אין לי ברירה אלא לציית לווזיר!\"",
+      "translation": "\"אינך נותן לי שום סיבה להציל את חייך, הנסיך אלכסנדר. נאמר לך להתרחק מהטירה, אך בחרת לא להקשיב! אין לי ברירה אלא לציית לפקודת הווזיר!\"",
       "notes": "",
       "placeholders": []
     },
@@ -38525,7 +38525,7 @@
       "logicFile": 730,
       "messageNumber": 39,
       "original": "Alexander is standing in the grand hall of the Castle of the Crown.  Brilliantly-colored marble gleams from every surface, and the floor is inlaid with geometric patterns.  The ceiling spans upward to a two-story height.",
-      "translation": "אלכסנדר עומד באולם הגדול של טירת הכתר. שיש בצבעים עזים מבהיק מכל פינה, והרצפה משובצת בדוגמאות גיאומטריות. התקרה מתנשאת לגובה של שתי קומות.",
+      "translation": "אלכסנדר עומד באולם הגדול של טירת הכתר. שיש בצבעים עזים מבהיק מכל פינה, והרצפה משובצת בדוגמאות סימטריות. התקרה מתנשאת לגובה של שתי קומות.",
       "notes": "",
       "placeholders": []
     },
@@ -38677,7 +38677,7 @@
       "logicFile": 730,
       "messageNumber": 58,
       "original": "\"Spare my life, if you value your princess.\"",
-      "translation": "\"חסוך על חיי, אם אתה מעריך את הנסיכה שלך.\"",
+      "translation": "\"חוס על חיי, אם אתה מעריך את הנסיכה שלך.\"",
       "notes": "",
       "placeholders": []
     },
@@ -38685,7 +38685,7 @@
       "logicFile": 730,
       "messageNumber": 59,
       "original": "\"Those are only words, and I know nothing of you except what the vizier tells me.  Why should I believe you?\"",
-      "translation": "\"אלה רק מילים, ואני לא יודע עליך דבר פרט למה שהווזיר אומר לי. למה שאאמין לך?\"",
+      "translation": "\"אלה רק מילים, ואני לא יודע עליך דבר פרט למה שהווזיר אמר לי. למה שאאמין לך?\"",
       "notes": "",
       "placeholders": []
     },
@@ -38717,7 +38717,7 @@
       "logicFile": 730,
       "messageNumber": 63,
       "original": "Saladin would be unlikely to believe Alexander as to the origins of that strand of hair.",
-      "translation": "סלאדין לא סביר שיאמין לאלכסנדר לגבי מקורות קווצת השיער הזו.",
+      "translation": "לא סביר שסלאדין יאמין לאלכסנדר לגבי מקורות קווצת השיער הזו.",
       "notes": "",
       "placeholders": []
     },
@@ -38725,7 +38725,7 @@
       "logicFile": 730,
       "messageNumber": 64,
       "original": "Saladin would be unlikely to believe Alexander as to the origins of that red ribbon.",
-      "translation": "סלאדין לא סביר שיאמין לאלכסנדר לגבי מקורות הסרט האדום הזה.",
+      "translation": "לא סביר שסלאדין יאמין לאלכסנדר לגבי מקורות הסרט האדום הזה.",
       "notes": "",
       "placeholders": []
     },
@@ -38733,7 +38733,7 @@
       "logicFile": 730,
       "messageNumber": 65,
       "original": "\"A jilted lover WOULD not believe it.  But, come.  See for yourself.\"",
-      "translation": "\"מאהב נטוש לא יאמין לזה. אבל, בוא. ראה בעצמך.\"",
+      "translation": "\"מאהב עקשן לא יאמין לזה. אבל, בוא. ראה בעצמך.\"",
       "notes": "",
       "placeholders": []
     },
@@ -38741,7 +38741,7 @@
       "logicFile": 730,
       "messageNumber": 66,
       "original": "\"Wait!  If you love your princess, you'll hear me out!\"",
-      "translation": "\"חכה! אם אתה אוהב את הנסיכה שלך, תקשיב לי!\"",
+      "translation": "\"חכה! אם אתה אוהב את הנסיכה שלך, הקשב לי!\"",
       "notes": "",
       "placeholders": []
     },
@@ -38773,7 +38773,7 @@
       "logicFile": 730,
       "messageNumber": 70,
       "original": "\"<Growl!>  This is treason!  I'll have his throat!  But how do I know this letter is not a forgery?  You could have written this yourself!\"",
-      "translation": "\"<נהמה!> זו בגידה! אני אקח את הגרון שלו! אבל מאיפה לי לדעת שהמכתב הזה אינו מזויף? יכולת לכתוב את זה בעצמך!\"",
+      "translation": "\"<נהמה!> זו בגידה! אני אגדע את ראשו! אבל מאיפה לי לדעת שהמכתב הזה אינו מזויף? יכולת לכתוב את זה בעצמך!\"",
       "notes": "",
       "placeholders": []
     },
@@ -38781,7 +38781,7 @@
       "logicFile": 730,
       "messageNumber": 71,
       "original": "\"But I did not!  Have you no doubts of your own about Alhazred?  Don't you see, all he wants is the Crown!  Cassima is being coerced.  We must stop the wedding!\"",
-      "translation": "\"אבל לא אני! אין לך ספקות משלך לגבי אלחזרד? אתה לא רואה, כל מה שהוא רוצה זה את הכתר! קסימה נאלצת. עלינו לעצור את החתונה!\"",
+      "translation": "\"לא אני כתבתי! האם לך אין ספקות לגבי אלחזרד? אתה לא רואה, שכל מה שהוא רוצה זה רק את הכתר! קסימה נאלצת להתחתן איתו. עלינו לעצור את החתונה!\"",
       "notes": "",
       "placeholders": []
     },
@@ -38805,7 +38805,7 @@
       "logicFile": 730,
       "messageNumber": 74,
       "original": "\"I cannot believe for a moment that she loves that snake.\"",
-      "translation": "\"אני לא יכול להאמין לרגע שהיא אוהבת את הנחש הזה.\"",
+      "translation": "\"אני לא יכול להאמין לרגע אחד שהיא אוהבת את הנחש הזה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -38917,7 +38917,7 @@
       "logicFile": 730,
       "messageNumber": 88,
       "original": "\"No lunch is being served today!  We're busy catering the wedding!\"",
-      "translation": "\"אין ארוחת צהריים היום! אנחנו עסוקים בקייטרינג לחתונה!\"",
+      "translation": "\"אין ארוחת צהריים היום! אנחנו עסוקים בהכנת הבופה לחתונה!\"",
       "notes": "",
       "placeholders": []
     },
@@ -38949,7 +38949,7 @@
       "logicFile": 730,
       "messageNumber": 92,
       "original": "On the north wall is a set of large double doors.  From his experience with castle architecture, Alexander guesses that they lead to the throne room.",
-      "translation": "על הקיר הצפוני יש סט של דלתות כפולות גדולות. מניסיונו בארכיטקטורת טירות, אלכסנדר מנחש שהן מובילות לחדר הכס.",
+      "translation": "על הקיר הצפוני יש זוג דלתות גדולות. מניסיונו בארכיטקטורת טירות, אלכסנדר מנחש שהן מובילות לחדר הכס.",
       "notes": "",
       "placeholders": []
     },
@@ -39093,7 +39093,7 @@
       "logicFile": 730,
       "messageNumber": 110,
       "original": "The chandelier is rather short on sparkling conversation today.",
-      "translation": "הנברשת קצת קצרה בשיחות נוצצות היום.",
+      "translation": "הנברשת קצת קצרה בשיחות מאירות היום.",
       "notes": "",
       "placeholders": []
     },
@@ -39149,7 +39149,7 @@
       "logicFile": 740,
       "messageNumber": 1,
       "original": "The Captain of the Guard leads Alexander into the throne room, where a ceremony seems to be in progress.  Alexander feels his blood run cold at the sight.",
-      "translation": "קפטן המשמר מוביל את אלכסנדר לחדר הכס, שם טקס נראה בעיצומו. אלכסנדר חש שדמו קפא למראה.",
+      "translation": "קפטן המשמר מוביל את אלכסנדר לחדר הכס, שם הטקס נראה בעיצומו. אלכסנדר חש שדמו קופא למראה הטקס.",
       "notes": "",
       "placeholders": []
     },
@@ -39173,7 +39173,7 @@
       "logicFile": 740,
       "messageNumber": 4,
       "original": "\"Do you still claim that the princess is being forced?  Perhaps it's you that's the danger--as the vizier has said.\"",
-      "translation": "\"אתה עדיין טוען שהנסיכה נכפית? אולי אתה הסכנה – כפי שאמר הווזיר.\"",
+      "translation": "\"אתה עדיין טוען שהנסיכה נכפית להתחתן? ואולי בעצם אתה הסכנה – כפי שאמר הווזיר.\"",
       "notes": "",
       "placeholders": []
     },
@@ -39221,7 +39221,7 @@
       "logicFile": 740,
       "messageNumber": 10,
       "original": "\"Treason!  What have you done with the princess?\"",
-      "translation": "\"בגידה! מה עשית לנסיכה?\"",
+      "translation": "\"בוגד! מה עשית לנסיכה?\"",
       "notes": "",
       "placeholders": []
     },
@@ -39277,7 +39277,7 @@
       "logicFile": 740,
       "messageNumber": 17,
       "original": "\"Get your hands off of her, you murderous goat!\"",
-      "translation": "\"הורד ממנה את הידיים, עז רוצח שכמותך!\"",
+      "translation": "\"הורד ממנה את הידיים, חיה רוצחת שכמותך!\"",
       "notes": "",
       "placeholders": []
     },
@@ -39333,7 +39333,7 @@
       "logicFile": 740,
       "messageNumber": 24,
       "original": "\"DRAT IT ALL!  You may have ruined my plans, but you won't get me--OR your precious Cassima!  GET THEM, SHAMIR!  I COMMAND YOU!\"",
-      "translation": "\"ארור הכל! אולי הרסת את תוכניותיי, אבל לא תשיג אותי – או את קסימה היקרה שלכם! תפוס אותם, שאמיר! אני מצווה עליך!\"",
+      "translation": "\"לעזאזל הכל! אולי הרסת את תוכניותיי, אבל לא תשיג אותי – או את קסימה היקרה שלכם! תפוס אותם, שאמיר! אני מצווה עליך!\"",
       "notes": "",
       "placeholders": []
     },
@@ -39373,7 +39373,7 @@
       "logicFile": 740,
       "messageNumber": 29,
       "original": "\"Got you, PRINCE Alexander!\"",
-      "translation": "\"תפסתי אותך, נסיך אלכסנדר!\"",
+      "translation": "\"תפסתי אותך, הנסיך אלכסנדר!\"",
       "notes": "",
       "placeholders": []
     },
@@ -39405,7 +39405,7 @@
       "logicFile": 740,
       "messageNumber": 33,
       "original": "Saladin almost seems reluctant as he stabs Alexander with lethal skill, according to his princess's wishes.",
-      "translation": "סלאדין נראה כמעט בחוסר רצון כשהוא דוקר את אלכסנדר במיומנות קטלנית, לפי משאלות נסיכתו.",
+      "translation": "סלאדין נראה כמי שקפאו שד כשהוא דוקר את אלכסנדר במיומנות קטלנית, לפי בקשת נסיכתו.",
       "notes": "",
       "placeholders": []
     },
@@ -39413,7 +39413,7 @@
       "logicFile": 740,
       "messageNumber": 34,
       "original": "The blade piercing Alexander's heart is barely felt after the greater pain of Cassima's condemning words.",
-      "translation": "להב הדוקר את לבו של אלכסנדר בקושי מורגש לאחר הכאב הגדול יותר של דבריה המרשיעים של קסימה.",
+      "translation": "הלהב הדוקר את לבו של אלכסנדר אינו ממש מורגש לאחר דבריה המכאיבים והדוקרים של קסימה.",
       "notes": "",
       "placeholders": []
     },
@@ -39469,7 +39469,7 @@
       "logicFile": 740,
       "messageNumber": 41,
       "original": "Alexander doesn't have time to experiment with that now!  Cassima is getting married!",
-      "translation": "לאלכסנדר אין זמן להתנסות בכך עכשיו! קסימה מתחתנת!",
+      "translation": "לאלכסנדר אין זמן להתעסק עם זה עכשיו! קסימה מתחתנת!",
       "notes": "",
       "placeholders": []
     },
@@ -39477,7 +39477,7 @@
       "logicFile": 740,
       "messageNumber": 42,
       "original": "Alexander doesn't have time to experiment with that now!  Alhazred is escaping, and who knows where the REAL Cassima might be!",
-      "translation": "לאלכסנדר אין זמן להתנסות בכך עכשיו! אלחזרד בורח, ומי יודע היכן קסימה האמיתית יכולה להיות!",
+      "translation": "לאלכסנדר אין זמן להתעסק עם זה עכשיו! אלחזרד בורח, ומי יודע היכן קסימה האמיתית יכולה להיות!",
       "notes": "",
       "placeholders": []
     },
@@ -39557,7 +39557,7 @@
       "logicFile": 740,
       "messageNumber": 52,
       "original": "Alexander decides to leave the guard dogs to fight the genie and follow the vizier.  Maybe Alhazred has gone after the real Cassima!",
-      "translation": "אלכסנדר מחליט להשאיר את כלבי השמירה להילחם בג'יני ולעקוב אחר הווזיר. אולי אלחזרד הלך בעקבות קסימה האמיתית!",
+      "translation": "אלכסנדר מחליט להשאיר את כלבי השמירה להילחם בג'יני על מנת לעקוב אחר הווזיר. אולי אלחזרד ברח אל קסימה האמיתית!",
       "notes": "",
       "placeholders": []
     },
@@ -39573,7 +39573,7 @@
       "logicFile": 740,
       "messageNumber": 54,
       "original": "That scheming blackguard Alhazred, vizier of this realm, is in the process of marrying Cassima and securing a place as king of the Land of the Green Isles!",
-      "translation": "הנוכל המרושע הזה אלחזרד, וזיר הממלכה הזאת, נמצא בתהליך של נישואין לקסימה ובכך מבטיח לעצמו מקום כמלך ארץ האיים הירוקים!",
+      "translation": "הנוכל המרושע הזה אלחזרד, ווזיר הממלכה הזאת, נמצא בתהליך של נישואין לקסימה ובכך מבטיח לעצמו מקום כמלך ארץ האיים הירוקים!",
       "notes": "",
       "placeholders": []
     },
@@ -39637,7 +39637,7 @@
       "logicFile": 740,
       "messageNumber": 62,
       "original": "Alexander decides to determine the truth of this matter with Cassima.",
-      "translation": "אלכסנדר מחליט לקבוע את האמת בנושא זה עם קסימה.",
+      "translation": "אלכסנדר מחליט לחשוף את האמת בנושא זה עם קסימה.",
       "notes": "",
       "placeholders": []
     },
@@ -39645,7 +39645,7 @@
       "logicFile": 740,
       "messageNumber": 63,
       "original": "Saladin has had enough from Alexander.  If the guard dog is to be further convinced, Alexander will have to prove that Cassima is not wedding the vizier of her own free will!",
-      "translation": "לסלאדין נמאס מאלכסנדר. אם יש לשכנע את כלב השמירה עוד, אלכסנדר יצטרך להוכיח שקסימה אינה מתחתנת עם הווזיר מרצונה החופשי!",
+      "translation": "לסלאדין נמאס מאלכסנדר. אם צריך לשכנע את כלב השמירה, אלכסנדר יצטרך להוכיח שקסימה אינה מתחתנת עם הווזיר מרצונה החופשי!",
       "notes": "",
       "placeholders": []
     },
@@ -39677,7 +39677,7 @@
       "logicFile": 740,
       "messageNumber": 67,
       "original": "\"So YOU say.  I would advise you to prove it--if you can--and quickly!\"",
-      "translation": "\"כך אתה אומר. אני מייעץ לך להוכיח זאת – אם אתה יכול – ובמהירות!\"",
+      "translation": "\"כך אתה אומר. אני מציע לך להוכיח זאת – אם אתה יכול – ובמהירות!\"",
       "notes": "",
       "placeholders": []
     },
@@ -39685,7 +39685,7 @@
       "logicFile": 740,
       "messageNumber": 68,
       "original": "Saladin has his hands full with that genie, and doesn't have time to tell Alexander what to do!",
-      "translation": "ידיו של סלאדין מלאות עם הג'יני הזה, ואין לו זמן להגיד לאלכסנדר מה לעשות!",
+      "translation": "ידיו של סלאדין נאבקות עם הג'יני הזה, ואין לו זמן להגיד לאלכסנדר מה לעשות!",
       "notes": "",
       "placeholders": []
     },
@@ -39693,7 +39693,7 @@
       "logicFile": 740,
       "messageNumber": 69,
       "original": "If Saladin is to be further convinced, it won't be through force!  Alexander will have to prove that Cassima is not wedding the vizier of her own free will!",
-      "translation": "אם יש לשכנע את סלאדין עוד, זה לא יהיה בכוח! אלכסנדר יצטרך להוכיח שקסימה אינה מתחתנת עם הווזיר מרצונה החופשי!",
+      "translation": "אם צריך עוד לשכנע את סלאדין, זה לא יהיה בכוח! אלכסנדר יצטרך להוכיח שקסימה אינה מתחתנת עם הווזיר מרצונה החופשי!",
       "notes": "",
       "placeholders": []
     },
@@ -39701,7 +39701,7 @@
       "logicFile": 740,
       "messageNumber": 70,
       "original": "Alexander can't help the guard dogs in their battle against the genie--the vizier is getting away!",
-      "translation": "אלכסנדר לא יכול לעזור לכלבי השמירה בקרבם נגד הג'יני – הווזיר בורח!",
+      "translation": "אלכסנדר לא יכול לעזור לכלבי השמירה במאבקם נגד הג'יני – הווזיר בורח!",
       "notes": "",
       "placeholders": []
     },
@@ -39733,7 +39733,7 @@
       "logicFile": 740,
       "messageNumber": 74,
       "original": "The guard dogs are engaged in a struggle against Shamir Shamazel, the vizier's genie!",
-      "translation": "כלבי השמירה עוסקים במאבק נגד שאמיר שאמאזל, הג'יני של הווזיר!",
+      "translation": "כלבי השמירה נאבקים נגד שאמיר שאמאזל, הג'יני של הווזיר!",
       "notes": "",
       "placeholders": []
     },
@@ -39765,7 +39765,7 @@
       "logicFile": 740,
       "messageNumber": 78,
       "original": "Alexander can't help the guard dogs in their battle against the genie--the vizier is getting away!",
-      "translation": "אלכסנדר לא יכול לעזור לכלבי השמירה בקרבם נגד הג'יני – הווזיר בורח!",
+      "translation": "אלכסנדר לא יכול לעזור לכלבי השמירה במאבקם נגד הג'יני – הווזיר בורח!",
       "notes": "",
       "placeholders": []
     },
@@ -39781,7 +39781,7 @@
       "logicFile": 740,
       "messageNumber": 80,
       "original": "The king and queen are overcome with grief.  They seem convinced that their only child is dead!",
-      "translation": "המלך והמלכה מוצפים מצער. הם נראים משוכנעים שילדתם היחידה מתה!",
+      "translation": "המלך והמלכה מוכי יגון. הם נראים משוכנעים שביתם היחידה אינה בחיים!",
       "notes": "",
       "placeholders": []
     },
@@ -39837,7 +39837,7 @@
       "logicFile": 743,
       "messageNumber": 3,
       "original": "\"Oh, Alexander, I am so glad!  Between the return of my beloved parents and our new reign, you've made me so happy!\"",
-      "translation": "\"הו, אלכסנדר, אני כל כך שמחה! בין שובם של הורי האהובים ושלטוננו החדש, עשית אותי מאושרת כל כך!\"",
+      "translation": "\"הו, אלכסנדר, אני כל כך שמחה! גם הורי האהובים וחזרו וגם שלטוננו החדש מתחיל, עשית אותי כל כך מאושרת!\"",
       "notes": "",
       "placeholders": []
     },
@@ -39877,7 +39877,7 @@
       "logicFile": 743,
       "messageNumber": 8,
       "original": "\"LONG LIVE THE LAND OF THE GREEN ISLES!\"",
-      "translation": "\"תחי ארץ איי הברקת!\"",
+      "translation": "\"תחי ארץ האיים הירוקים!\"",
       "notes": "",
       "placeholders": []
     },
@@ -39973,7 +39973,7 @@
       "logicFile": 743,
       "messageNumber": 20,
       "original": "\"Alexander, Alhazred hurt this little kingdom nearly to the point of destroying all that we stand for.  But you are true and good, and have proven yourself to all the people.\"",
-      "translation": "\"אלכסנדר, אלהאזרד פגע בממלכה הקטנה הזו כמעט עד כדי הרס כל מה שאנחנו מייצגים. אבל אתה אמיתי וטוב, והוכחת את עצמך לכל העם.\"",
+      "translation": "\"אלכסנדר, אלהאזרד פגע בממלכה הקטנה הזו כמעט עד כדי הרס כל מה שאנחנו מכירים. אבל אתה אמיתי וטוב, והוכחת את עצמך לכל העם.\"",
       "notes": "",
       "placeholders": []
     },
@@ -40005,7 +40005,7 @@
       "logicFile": 743,
       "messageNumber": 24,
       "original": "\"Why, I'm honored....  What do you think, Cassima?\"",
-      "translation": "\"אני מכובד... מה את חושבת, קסימה?\"",
+      "translation": "\"הכבוד הוא לי... מה את חושבת, קסימה?\"",
       "notes": "",
       "placeholders": []
     },
@@ -40029,7 +40029,7 @@
       "logicFile": 743,
       "messageNumber": 27,
       "original": "\"Father?  I believe I am needed here.  Would you be very disappointed if....\"",
-      "translation": "\"אבא? אני מאמינה שזקוקים לי כאן. האם תתאכזב מאוד אם....\"",
+      "translation": "\"אבא? אני מאמין שזקוקים לי כאן. האם תתאכזב מאוד אם....\"",
       "notes": "",
       "placeholders": []
     },
@@ -40037,7 +40037,7 @@
       "logicFile": 743,
       "messageNumber": 28,
       "original": "\"Son, you must follow your destiny.  I DO believe the Land of the Green Isles needs you.  You will be a magnificent king, though dearly missed in Daventry.\"",
-      "translation": "\"בני, עליך ללכת אחר ייעודך. אני באמת מאמין שארץ איי הברקת זקוקה לך. תהיה מלך נהדר, אם כי תחסר לנו מאוד בדבנטרי.\"",
+      "translation": "\"בני, עליך ללכת אחר ייעודך. אני באמת מאמין שארץ האיים הירוקים זקוקה לך. תהיה מלך נהדר, אם כי תחסר לנו מאוד בדבנטרי.\"",
       "notes": "",
       "placeholders": []
     },
@@ -40093,7 +40093,7 @@
       "logicFile": 743,
       "messageNumber": 35,
       "original": "\"I will miss him, and my mother and sister, and Daventry....\"",
-      "translation": "\"אתגעגע אליו, ולאמי ואחותי, ולדבנטרי....\"",
+      "translation": "\"אתגעגע אליו, לאמי ואחותי, ולדבנטרי....\"",
       "notes": "",
       "placeholders": []
     },
@@ -40125,7 +40125,7 @@
       "logicFile": 743,
       "messageNumber": 39,
       "original": "\"Alexander, your union with this woman is sanctioned and recognized in the eyes of the community.\"",
-      "translation": "\"אלכסנדר, איחודך עם אישה זו מקודש ומוכר בעיני הקהילה.\"",
+      "translation": "\"אלכסנדר, איחודך עם אישה זו מקודש ומפורסם ברבים.\"",
       "notes": "",
       "placeholders": []
     },
@@ -40197,7 +40197,7 @@
       "logicFile": 743,
       "messageNumber": 48,
       "original": "\"Then, Alexander and Cassima, I now pronounce you man and wife.  You may kiss the bride.\"",
-      "translation": "\"אם כן, אלכסנדר וקסימה, אני מכריז עליכם כעת כבעל ואישה. אתם יכולים לנשק את הכלה.\"",
+      "translation": "\"אם כן, אלכסנדר וקסימה, אני מכריז עליכם כעת כבעל ואישה. אתה רשאי לנשק את הכלה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -40205,7 +40205,7 @@
       "logicFile": 743,
       "messageNumber": 49,
       "original": "\"Hooray!  Hooray!  Hooray!\"",
-      "translation": "\"הידד! הידד! הידד!\"",
+      "translation": "\"מקודשת! מקודשת! מקודשת!\"",
       "notes": "",
       "placeholders": []
     },
@@ -40221,7 +40221,7 @@
       "logicFile": 743,
       "messageNumber": 51,
       "original": "\"On this historical day of great joy in the Land of the Green Isles, we witness the union of Cassima, beloved princess of this realm, and Alexander, prince of Daventry!\"",
-      "translation": "\"ביום היסטורי זה של שמחה גדולה בארץ איי הברקת, אנו עדים לאיחודם של קסימה, נסיכה אהובה של ממלכה זו, ואלכסנדר, נסיך דבנטרי!\"",
+      "translation": "\"ביום היסטורי זה של שמחה גדולה בארץ האיים הירוקים, אנו עדים לאיחודם של קסימה, נסיכה אהובה של ממלכה זו, ואלכסנדר, נסיך דבנטרי!\"",
       "notes": "",
       "placeholders": []
     },
@@ -40229,7 +40229,7 @@
       "logicFile": 743,
       "messageNumber": 52,
       "original": "\"Your road will be easier now that the islands are no longer feuding.  Already the wounds are starting to heal.\"",
-      "translation": "\"דרככם תהיה קלה יותר עכשיו שהאיים אינם מסוכסכים. כבר הפצעים מתחילים להגליד.\"",
+      "translation": "\"דרככם תהיה קלה יותר עכשיו כשהאיים אינם מסוכסכים. כבר הפצעים מתחילים להגליד.\"",
       "notes": "",
       "placeholders": []
     },
@@ -40237,7 +40237,7 @@
       "logicFile": 743,
       "messageNumber": 53,
       "original": "\"Yes, my love, discovering the island's stolen treasures has done more to bring peace to this land than anything else.  It is now clear that Alhazred had Shamir steal each of the island's most valued treasure, then blamed the thefts on others to cause the islands to hate each other.\"",
-      "translation": "\"כן, אהובי, גילוי אוצרות האיים הגנובים עשה יותר להביא שלום לארץ הזו מכל דבר אחר. עכשיו ברור שאלהאזרד גרם לשמיר לגנוב כל אחד מהאוצרות היקרים ביותר של האיים, ואז האשים את הגניבות באחרים כדי לגרום לאיים לשנוא זה את זה.\"",
+      "translation": "\"כן, אהובי, גילוי אוצרות האיים הגנובים הביא יותר שלום לארץ הזו מכל דבר אחר. עכשיו ברור שאלהאזרד גרם לשמיר לגנוב כל אחד מהאוצרות היקרים ביותר של האיים, ואז האשים את האיים האחרים בגניבות כדי לגרום לאיים לשנוא זה את זה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -40261,7 +40261,7 @@
       "logicFile": 743,
       "messageNumber": 56,
       "original": "\"Congratulations, King Alexander!  When we return home to Daventry, your crew will be glad to hear that their battle at sea was worthwhile--in bringing forth a new monarch!\"",
-      "translation": "\"מזל טוב, המלך אלכסנדר! כשנחזור הביתה לדבנטרי, הצוות שלך ישמח לשמוע שהקרב שלהם בים היה כדאי – בכך שהביא מלך חדש!\"",
+      "translation": "\"מזל טוב, המלך אלכסנדר! כשנחזור הביתה לדבנטרי, הצוות שלך ישמח לשמוע שההפלגה המסוכנת בים הייתה כדאית – בכך שהביאה מלך חדש!\"",
       "notes": "",
       "placeholders": []
     },
@@ -40277,7 +40277,7 @@
       "logicFile": 743,
       "messageNumber": 58,
       "original": "\"And I am as grateful that my crew did not pay for my driven heart!\"",
-      "translation": "\"ואני אסיר תודה לא פחות שצוותי לא שילם על לבי הנחוש!\"",
+      "translation": "\"ואני אסיר תודה לא פחות שצוותי לא שילם בחייו על לבי הנחוש!\"",
       "notes": "",
       "placeholders": []
     },
@@ -46077,7 +46077,7 @@
       "logicFile": 840,
       "messageNumber": 33,
       "original": "The wedding music has begun!  Alexander doesn't want to get trapped in a bedroom now!",
-      "translation": "מוזיקת החתונה החלה! אלכסנדר לא רוצה להילכד בחדר שינה עכשיו!",
+      "translation": "נגינת החתונה החלה! אלכסנדר לא רוצה להילכד בחדר שינה עכשיו!",
       "notes": "",
       "placeholders": []
     },
@@ -46413,7 +46413,7 @@
       "logicFile": 840,
       "messageNumber": 75,
       "original": "Alexander hears the sound of wedding music coming from the top of the stairs.",
-      "translation": "אלכסנדר שומע את צלילי מוזיקת החתונה מגיעים מראש המדרגות.",
+      "translation": "אלכסנדר שומע את צלילי נגינת החתונה מגיעים מראש המדרגות.",
       "notes": "",
       "placeholders": []
     },
