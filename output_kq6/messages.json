@@ -389,7 +389,7 @@
       "logicFile": 0,
       "messageNumber": 48,
       "original": "What was it when I looked at you?\\nWhat power has chained me through and through?\\nAnd binds my heart with links so tight,\\nI cannot live without the sight\\n  of you?",
-      "translation": "מה היה זה כשהבטתי בך?\\nאיזו עוצמה כבלתי בכל?\\nוקושרת את לבי בקשר אמיץ כל כך,\\nאיני יכול לחיות בלי לראות\\nאותך?",
+      "translation": "מה היה זה כשבך הבטתי? \\nאיזה כוח בו נלכדתי? \\nלופת ליבי בכבלים עזים, \\nבלעדי דמותך - חיי נגנזים?",
       "notes": "",
       "placeholders": []
     },
@@ -397,7 +397,7 @@
       "logicFile": 0,
       "messageNumber": 49,
       "original": "What nameless thing has captured me?\\nAnd made me powerless to flee?\\nWhat thing is it without a name,\\nthat brings my mind ever back the same\\n   to thee?",
-      "translation": "איזה דבר חסר שם לכד אותי?\\nוהפך אותי לחסר אונים לברוח?\\nמהו הדבר הזה חסר השם,\\nשמחזיר את מוחי תמיד באותה צורה\\nאליך?",
+      "translation": "איזה דבר חסר כל שם, \\nלכד אותי ולא נושם? \\nמה הדבר שאין לא תואר, \\nהמשיב אליך את המחשבתי בטוהר?",
       "notes": "",
       "placeholders": []
     },
@@ -405,7 +405,7 @@
       "logicFile": 0,
       "messageNumber": 50,
       "original": "The name of 'love' cannot apply,\\nits commonness does not descry,\\nthe haunted, hunted, painful cry\\n   that my heart makes for you.\\n\\nThat ever my soul eternal makes for you.",
-      "translation": "שם ה'אהבה' אינו יכול לחול,\\nשכיחותו אינה מתארת,\\nאת הקריאה הרדופה, הניצודה, הכואבת\\nשלבי משמיע לך.\\nשנשמתי הנצחית משמיעה לך.",
+      "translation": "המושג 'אהבה' כה צר ודל. \\nשכיחותו לא תכיל כלל, \\nאת הזעקה, את הכאב המקולל \\nשליבי זועק אומלל. \\n\\nשנשמתי לנצח באותו גורל.",
       "notes": "",
       "placeholders": []
     },
@@ -589,7 +589,7 @@
       "logicFile": 0,
       "messageNumber": 73,
       "original": "\"Greetings to a brother of the Black Cloak.  I was sorry to hear of great Mordack's death, though he was a bit of a ninny at chess.\"",
-      "translation": "\"ברכות לאח לגלימה השחורה. הצטערתי לשמוע על מותו של מורדאק הגדול, למרות שהיה קצת פתי בשחמט.\"",
+      "translation": "\"ברכות לאח לגלימה השחורה. הצטערתי לשמוע על מותו של מורדאק הגדול, למרות שהיה די שוטה בשחמט.\"",
       "notes": "",
       "placeholders": []
     },
@@ -597,7 +597,7 @@
       "logicFile": 0,
       "messageNumber": 74,
       "original": "\"It seems the plans for that little kingdom of yours are coming along.  I must congratulate you on your handling of the king and queen.  Isolating the islands so that no protest could develop was another brilliant stroke.\"",
-      "translation": "\"נראה שתוכניותיך לממלכה הקטנה שלך מתקדמות. עליי לברך אותך על הטיפול שלך במלך ובמלכה. בידוד האיים כדי שלא תתפתח מחאה היה מהלך מבריק נוסף.\"",
+      "translation": "\"נראה שהתוכניות לממלכה הקטנה שלך מתקדמות. עליי לברך אותך על הטיפול במלך ובמלכה. בידוד האיים כך שלא תוכל להתפתח מחאה היה עוד מהלך מבריק.\"",
       "notes": "",
       "placeholders": []
     },
@@ -605,7 +605,7 @@
       "logicFile": 0,
       "messageNumber": 75,
       "original": "\"It looks like there's not much left to stand in your way.  Do as I recommended with the girl, and you shall have your crown.\"",
-      "translation": "\"נראה שלא נותר הרבה שיעמוד בדרכך. עשה כפי שהמלצתי עם הנערה, ותקבל את כתרך.\"",
+      "translation": "\"נראה שלא נשאר הרבה שיעמוד בדרכך. עשה כפי שהמלצתי עם הנערה, והכתר יהיה שלך.\"",
       "notes": "",
       "placeholders": []
     },
@@ -653,7 +653,7 @@
       "logicFile": 0,
       "messageNumber": 81,
       "original": "Dearest Alexander:  \\n\\nI cannot believe you are here, my friend. Please, please be careful!  Abdul isn't about to let anyone interfere with his plans.  Watch out for Abdul's genie, Alexander, and do not do anything rash.  I am not without resources, and I will prevail if I can only find some small means of defense.  Do nothing to try to get to me.  You must not be endangered again for my sake.\\n\\nGreatly in your family's debt,\\n\\nCassima",
-      "translation": "אלכסנדר היקר:\\nאיני מאמינה שאתה כאן, ידידי. אנא, אנא היזהר! עבדול לא מתכוון לתת לאיש להתערב בתוכניותיו. היזהר מהג'יני של עבדול, אלכסנדר, ואל תעשה דבר פזיז. איני חסרת משאבים, ואני אנצח אם רק אמצא אמצעי הגנה קטן. אל תנסה להגיע אליי. אסור לך להיות בסכנה שוב למעני.\\nבחוב גדול למשפחתך,\\nקסימה",
+      "translation": "אלכסנדר היקר: \\n\\nאני לא  מאמינה שאתה כאן, ידידי! אנא, אנא היזהר! עבדול לא יניח לאיש להפריע לתוכניותיו. היזהר מן הג'יני של עבדול, אלכסנדר, ואל תעשה דבר בפזיזות. אני יודעת להגן על עצמי, ואעמוד על שלי אם רק אמצא דרך הגנה כלשהי. אל תנסה להגיע אליי. אסור שתסתכן שוב בגללי.\\n\\nאני חבה לך ולמשפחתך עד בלי די,\\n\\nקסימה",
       "notes": "",
       "placeholders": []
     },
@@ -2581,7 +2581,7 @@
       "logicFile": 140,
       "messageNumber": 1,
       "original": "\"Sing Sing!  What have you got in your mouth, my pretty?\"",
-      "translation": "\"ציף-ציף! מה יש לך בפה, יפתי?\"",
+      "translation": "\"ציף-ציף! מה יש לך בפה, חמוד שלי?\"",
       "notes": "",
       "placeholders": []
     },
@@ -2637,7 +2637,7 @@
       "logicFile": 140,
       "messageNumber": 8,
       "original": "\"What was it when I looked at you?\\nWhat power has chained me through and \\n  through?\\nAnd binds my heart with links so tight,\\nI cannot live without the sight\\n  of you....\"",
-      "translation": "\"מה היה זה כשהבטתי בך?\\nאיזו עוצמה כבלה אותי שוב \\n ושוב?\\nוקושרת את ליבי באזיקים חזקים כל כך,\\nאיני יכולה לחיות בלי המראה\\n שלך....\"",
+      "translation": "מה היה זה כשבך הבטתי? \\nאיזה כוח בו נלכדתי? \\nלופת ליבי בכבלים עזים, \\nבלעדי דמותך - חיי נגנזים?",
       "notes": "",
       "placeholders": []
     },
@@ -13357,7 +13357,7 @@
       "logicFile": 270,
       "messageNumber": 225,
       "original": "\"I wish I knew what the princess thinks these days. <sigh>  If only I could find Sing Sing, Cassima's pet nightingale, I might be able to send the princess a message.  As it is, I must wait for the end of her seclusion.\"",
-      "translation": "\"הלוואי וידעתי מה הנסיכה חושבת בימים אלה. <אנחה> אילו רק הייתי מוצא את סינג סינג, זמיר המחמד של קסימה, אולי הייתי יכול לשלוח לנסיכה הודעה. כפי שזה, אני חייב לחכות לסיום בידודה.\"",
+      "translation": "\"הלוואי וידעתי מה הנסיכה חושבת בימים אלה. <אנחה> אילו רק הייתי מוצא את ציף-ציף, זמיר המחמד של קסימה, אולי הייתי יכול לשלוח לנסיכה הודעה. כפי שזה, אני חייב לחכות לסיום בידודה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -14605,7 +14605,7 @@
       "logicFile": 280,
       "messageNumber": 109,
       "original": "Rotten Tomato wouldn't appreciate being traded in to a pawn shop!",
-      "translation": "עגבנייה רקובה לא תעריך שיחליפו אותה בחנות משכון!",
+      "translation": "עגבנייה רקובה לא יעריך שיחליפו אותו בחנות משכון!",
       "notes": "",
       "placeholders": []
     },
@@ -15477,7 +15477,7 @@
       "logicFile": 280,
       "messageNumber": 218,
       "original": "Hurling a rotten tomato at the old man might not be a bad idea, but Rotten Tomato probably wouldn't appreciate the gesture!",
-      "translation": "לזרוק עגבנייה רקובה על הזקן אולי לא יהיה רעיון רע, אבל העגבנייה הרקובה כנראה לא תעריך את המחווה!",
+      "translation": "לזרוק עגבנייה רקובה על הזקן אולי לא יהיה רעיון רע, אבל העגבנייה הרקובה כנראה לא יעריך את המחווה!",
       "notes": "",
       "placeholders": []
     },
@@ -20413,7 +20413,7 @@
       "logicFile": 400,
       "messageNumber": 15,
       "original": "Alexander seems to have found the 'path' to the second level of the catacombs again.",
-      "translation": "אלכסנדר נראה שמצא שוב את 'השביל' לקומה השנייה של מערות הקבורה.",
+      "translation": "נראה שאלכסנדר מצא שוב את 'השביל' לקומה השנייה של מערות הקבורה.",
       "notes": "",
       "placeholders": []
     },
@@ -22549,7 +22549,7 @@
       "logicFile": 420,
       "messageNumber": 48,
       "original": "Rotten Tomato would not appreciate being thrown into those gears!",
-      "translation": "עגבנייה רקובה לא תעריך שייזרקו אותה לגלגלים האלה!",
+      "translation": "עגבנייה רקובה לא יעריך שייזרקו אותו לגלגלים האלה!",
       "notes": "",
       "placeholders": []
     },
@@ -26309,7 +26309,7 @@
       "logicFile": 470,
       "messageNumber": 78,
       "original": "Stick-in-the-mud and Bump-on-a-log, exhausted from the battle, immediately doze off into naps.  Rotten Tomato, being equally lazy, decides to join them.",
-      "translation": "מקל-בבוץ וגוש-על-עץ, מותשים מהקרב, נרדמים מיד. עגבנייה רקובה, עצלה באותה מידה, מחליטה להצטרף אליהם.",
+      "translation": "מקל-בבוץ וגוש-על-עץ, מותשים מהקרב, נרדמים מיד. עגבנייה רקובה, עצל באותה מידה, מחליט להצטרף אליהם.",
       "notes": "",
       "placeholders": []
     },
@@ -26725,7 +26725,7 @@
       "logicFile": 470,
       "messageNumber": 130,
       "original": "Rotten Tomato is too far away to give something to, and he's unlikely to move any closer.",
-      "translation": "עגבנייה רקובה רחוקה מדי כדי לתת לה משהו, והיא כנראה לא תתקרב.",
+      "translation": "עגבנייה רקובה רחוק מדי כדי לתת לו משהו, והוא כנראה לא יתקרב.",
       "notes": "",
       "placeholders": []
     },
@@ -26733,7 +26733,7 @@
       "logicFile": 470,
       "messageNumber": 131,
       "original": "Rotten Tomato seems to enjoy the smelly, mucky swamp.  He's napping next to his new partner-in-crime, Stick-in-the-mud.",
-      "translation": "עגבנייה רקובה נהנית מביצה הבוצית והמסריחה. היא מנמנמת ליד שותפה החדש לפשע, מקל-בבוץ.",
+      "translation": "עגבנייה רקובה נהנה מהביצה הבוצית והמסריחה. הוא מנמנם ליד שותפו החדש לפשע, מקל-בבוץ.",
       "notes": "",
       "placeholders": []
     },
@@ -26741,7 +26741,7 @@
       "logicFile": 470,
       "messageNumber": 132,
       "original": "\"How are you finding your new surroundings, Rotten...er...Mr. Tomato?\"",
-      "translation": "\"איך את מוצאת את סביבתך החדשה, רקובה... אה... גברת עגבנייה?\"",
+      "translation": "\"איך אתה מוצא את סביבתך החדשה, רקוב... אה... מר עגבנייה?\"",
       "notes": "",
       "placeholders": []
     },
@@ -26757,7 +26757,7 @@
       "logicFile": 470,
       "messageNumber": 134,
       "original": "Alexander is quite happy to be rid of Rotten Tomato and has no desire to fetch him from the swamp.",
-      "translation": "אלכסנדר שמח להיפטר מעגבנייה רקובה ואין לו שום רצון להביא אותה מהביצה.",
+      "translation": "אלכסנדר שמח להיפטר מעגבנייה רקובה ואין לו שום רצון להביא אותו מהביצה.",
       "notes": "",
       "placeholders": []
     },
@@ -27005,7 +27005,7 @@
       "logicFile": 480,
       "messageNumber": 23,
       "original": "\"Would you be interested in this, Mr. Tomato?\"",
-      "translation": "\"האם תתענייני בזה, גברת עגבנייה?\"",
+      "translation": "\"האם תתעניין בזה, מר עגבנייה?\"",
       "notes": "",
       "placeholders": []
     },
@@ -27053,7 +27053,7 @@
       "logicFile": 480,
       "messageNumber": 29,
       "original": "\"How did you manage to fall off the vine, Mr. Tomato?\"",
-      "translation": "\"איך הצלחת ליפול מהשיח, גברת עגבנייה?\"",
+      "translation": "\"איך הצלחת ליפול מהשיח, מר עגבנייה?\"",
       "notes": "",
       "placeholders": []
     },
@@ -27061,7 +27061,7 @@
       "logicFile": 480,
       "messageNumber": 30,
       "original": "\"Whaddya think?  I'm old.  I'm rotten.  Leave me alone!\"",
-      "translation": "\"מה אתה חושב? אני זקנה. אני רקובה. עזוב אותי!\"",
+      "translation": "\"מה אתה חושב? אני זקן. אני רקוב. עזוב אותי!\"",
       "notes": "",
       "placeholders": []
     },
@@ -27069,7 +27069,7 @@
       "logicFile": 480,
       "messageNumber": 31,
       "original": "\"If you say so.\"",
-      "translation": "\"אם את אומרת.\"",
+      "translation": "\"אם אתה אומר כך.\"",
       "notes": "",
       "placeholders": []
     },
@@ -27101,7 +27101,7 @@
       "logicFile": 480,
       "messageNumber": 35,
       "original": "Rotten Tomato is rather put out with Alexander and won't pay attention to anything he says.",
-      "translation": "עגבנייה רקובה כועסת למדי על אלכסנדר ולא תקדיש תשומת לב לשום דבר שיאמר.",
+      "translation": "עגבנייה רקובה כועס למדי על אלכסנדר ולא יקדיש תשומת לב לשום דבר שיאמר.",
       "notes": "",
       "placeholders": []
     },
@@ -27117,7 +27117,7 @@
       "logicFile": 480,
       "messageNumber": 37,
       "original": "Alexander picks up Rotten Tomato and puts him away.  One never knows when one will need a rotten tomato.",
-      "translation": "אלכסנדר מרים את העגבנייה הרקובה ומניח אותה בצד. לעולם אין לדעת מתי תצטרך עגבנייה רקובה.",
+      "translation": "אלכסנדר מרים את העגבנייה הרקובה ומניח אותו בצד. לעולם אין לדעת מתי יצטרך עגבנייה רקובה.",
       "notes": "",
       "placeholders": []
     },
@@ -31933,7 +31933,7 @@
       "logicFile": 550,
       "messageNumber": 10,
       "original": "Alexander is standing on the beach of a shrouded island.  From here, two paths lead into the island; one to the northwest and one to the northeast.  Weird gnarled trees and rolling mists add to the island's eerie atmosphere.",
-      "translation": "אלכסנדר עומד על חופו של א ערפילי. מכאן, שני שבילים מובילים אל תוך האי; אחד לצפון-מערב ואחד לצפון-מזרח. המרחב מלא בעצים מעוותים ומוזרים וערפילים המוסיפים לאווירה המצמררת של האי.",
+      "translation": "אלכסנדר עומד על חופו של אי ערפילי. מכאן, שני שבילים מובילים אל תוך האי; אחד לצפון-מערב ואחד לצפון-מזרח. המרחב מלא בעצים מעוותים ומוזרים וערפילים המוסיפים לאווירה המצמררת של האי.",
       "notes": "",
       "placeholders": []
     },
@@ -39333,7 +39333,7 @@
       "logicFile": 740,
       "messageNumber": 24,
       "original": "\"DRAT IT ALL!  You may have ruined my plans, but you won't get me--OR your precious Cassima!  GET THEM, SHAMIR!  I COMMAND YOU!\"",
-      "translation": "\"לעזאזל הכל! אולי הרסת את תוכניותיי, אבל לא תשיג אותי – או את קסימה היקרה שלכם! תפוס אותם, שאמיר! אני מצווה עליך!\"",
+      "translation": "\"לעזאזל הכל! אולי הרסת את תוכניותיי, אבל לא תשיג אותי – או את קסימה היקרה שלך! תפוס אותו, שאמיר! אני מצווה עליך!\"",
       "notes": "",
       "placeholders": []
     },
@@ -42381,7 +42381,7 @@
       "logicFile": 780,
       "messageNumber": 72,
       "original": "\"Ugg!  No!  That's nothing like the genie's lamp.  The genie's lamp looks shiny and new.  I'd never be able to make a swap with an old hunter's lamp like that!\"",
-      "translation": "\"אוף! לא! זה בכלל לא דומה למנורת הג'יני. מנורת הג'יני נראית מבריקה וחדשה. לעולם לא אצליח לבצע החלפה עם מנורת צידים ישנה כזו!\"",
+      "translation": "\"אוף! לא! זה בכלל לא דומה למנורת הג'יני. מנורת הג'יני נראית מבריקה וחדשה. לעולם לא אצליח לבצע החלפה עם מנורת ציידים ישנה כזו!\"",
       "notes": "",
       "placeholders": []
     },
@@ -45045,7 +45045,7 @@
       "logicFile": 820,
       "messageNumber": 3,
       "original": "\"What are you doin' down here, Shrew?  We've already got him locked up.  Go back to your post upstairs!\"",
-      "translation": "\"מה אתה עושה פה למטה, חדדן? כבר כלאנו אותו. חזור לעמדה שלך למעלה!\"",
+      "translation": "\"מה אתה עושה פה למטה, טירון? כבר כלאנו אותו. חזור לעמדה שלך למעלה!\"",
       "notes": "",
       "placeholders": []
     },
@@ -45069,7 +45069,7 @@
       "logicFile": 820,
       "messageNumber": 6,
       "original": "Just as Alexander realizes that he has no possible means of escape, he hears the sound of wedding music playing somewhere in the castle.",
-      "translation": "בדיוק כשאלכסנדר מבין שאין לו שום דרך מילוט אפשרית, הוא שומע את צלילי מוזיקת חתונה מתנגנים אי שם בטירה.",
+      "translation": "בדיוק כשאלכסנדר מבין שאין לו שום דרך מילוט אפשרית, הוא שומע את צלילי חתונה מתנגנים אי שם בטירה.",
       "notes": "",
       "placeholders": []
     },
@@ -45077,7 +45077,7 @@
       "logicFile": 820,
       "messageNumber": 7,
       "original": "\"Confound this dungeon!  I'll never be able to stop the wedding now!\"",
-      "translation": "\"ארור הצינוק הזה! לעולם לא אוכל לעצור את החתונה עכשיו!\"",
+      "translation": "\"ארור הצינוק הזה! כעת, לעולם לא אוכל לעצור את החתונה!\"",
       "notes": "",
       "placeholders": []
     },
@@ -45085,7 +45085,7 @@
       "logicFile": 820,
       "messageNumber": 8,
       "original": "'Tis a noble thing to have a means of escape, and 'tis a far, far better thing to never get caught at all!",
-      "translation": "דבר אציל הוא שתהיה דרך מילוט, אך טוב ממנו פי כמה לא להיתפס כלל!",
+      "translation": "דבר נאצל הוא שתהיה דרך מילוט, אך טוב ממנו פי כמה לא להיתפס כלל!",
       "notes": "",
       "placeholders": []
     },
@@ -45157,7 +45157,7 @@
       "logicFile": 820,
       "messageNumber": 17,
       "original": "\"You and your ghosts!  There's nothin' in there, I say!\"",
-      "translation": "\"אתה והרוחות שלך! אין שם כלום, אני אומר!\"",
+      "translation": "\"אתה והרוחות שלך! אין שם כלום, אני אומר לך!\"",
       "notes": "",
       "placeholders": []
     },
@@ -45189,7 +45189,7 @@
       "logicFile": 820,
       "messageNumber": 21,
       "original": "\"Right.  <titter>.  Thanks for savin' us some work, human!\"",
-      "translation": "\"בסדר. <צחקוק>. תודה שחסכת לנו עבודה, אנושי!\"",
+      "translation": "\"בסדר. <צחקוק>. תודה שחסכת לנו עבודה, בן אדם!\"",
       "notes": "",
       "placeholders": []
     },
@@ -45205,7 +45205,7 @@
       "logicFile": 820,
       "messageNumber": 23,
       "original": "\"Right.  We'll get Scratch to guard the hall and watch the door.  HE's not afraid of no ghosts!\"",
-      "translation": "\"בסדר. נבקש משריטה לשמור על המסדרון ולצפות בדלת. הוא לא מפחד משום רוחות!\"",
+      "translation": "\"בסדר. נבקש מגירוד לשמור על המסדרון ולצפות בדלת. הוא לא מפחד משום רוחות!\"",
       "notes": "",
       "placeholders": []
     },
@@ -45237,7 +45237,7 @@
       "logicFile": 820,
       "messageNumber": 27,
       "original": "The guard dogs leave Alexander to his fate, locking the door noisily behind them.",
-      "translation": "כלבי השמירה מניחים לאלכסנדר לגורלו, נועלים את הדלת ברעש מאחוריהם.",
+      "translation": "כלבי השמירה זונחים את אלכסנדר לגורלו, נועלים את הדלת מאחוריהם ברעש.",
       "notes": "",
       "placeholders": []
     },
@@ -45269,7 +45269,7 @@
       "logicFile": 820,
       "messageNumber": 31,
       "original": "\"Never mind!  Quick!  Before the guard dog patrol comes around again!\"",
-      "translation": "\"לא משנה! מהר! לפני שסיור כלבי השמירה יחזור שוב!\"",
+      "translation": "\"לא משנה! מהר! לפני כלבי השמירה המסיירים יחזרו שוב!\"",
       "notes": "",
       "placeholders": []
     },
@@ -45285,7 +45285,7 @@
       "logicFile": 820,
       "messageNumber": 33,
       "original": "\"I think someone must have let our prisoner loose, Rolf.\"",
-      "translation": "\"אני חושב שמישהו בטח שחרר את האסיר שלנו, רולף.\"",
+      "translation": "\"אני חושב שמישהו בטח שחרר את האסיר שלנו, ראלף.\"",
       "notes": "",
       "placeholders": []
     },
@@ -45293,7 +45293,7 @@
       "logicFile": 820,
       "messageNumber": 34,
       "original": "\"Who would be crazy enough to do that, Howel?\"",
-      "translation": "\"מי יהיה מטורף מספיק לעשות את זה, האוול?\"",
+      "translation": "\"מי יהיה מטורף לעשות את זה, האוול?\"",
       "notes": "",
       "placeholders": []
     },
@@ -45317,7 +45317,7 @@
       "logicFile": 820,
       "messageNumber": 37,
       "original": "The guard dogs slam the door and lock it.  Alexander has a feeling there will be no help from Jollo this time!",
-      "translation": "כלבי השמירה טורקים את הדלת ונועלים אותה. לאלכסנדר יש הרגשה שג'ולו לא יוכל לעזור הפעם!",
+      "translation": "כלבי השמירה טורקים את הדלת ונועלים אותה. לאלכסנדר יש הרגשה שג'ולו לא יוכל לעזור יותר!",
       "notes": "",
       "placeholders": []
     },
@@ -45333,7 +45333,7 @@
       "logicFile": 820,
       "messageNumber": 39,
       "original": "\"The vizier will have our heads if he finds out that a prisoner escaped!  How do you suppose he did it, Rolf?\"",
-      "translation": "\"הווזיר יכרות לנו את הראש אם יגלה שאסיר ברח! איך לדעתך הוא עשה את זה, רולף?\"",
+      "translation": "\"הווזיר יכרות לנו את הראש אם יגלה שאסיר ברח! איך לדעתך הוא עשה את זה, ראלף?\"",
       "notes": "",
       "placeholders": []
     },
@@ -45341,7 +45341,7 @@
       "logicFile": 820,
       "messageNumber": 40,
       "original": "\"Well, Howel, I figure he must have had somethin' on him that he used to open the door.  That's why I personally searched him.\"",
-      "translation": "\"ובכן, האוול, אני מניח שהיה עליו משהו שבו השתמש כדי לפתוח את הדלת. בגלל זה חיפשתי אותו אישית.\"",
+      "translation": "\"ובכן, האוול, אני מניח שהיה עליו משהו שבו השתמש כדי לפתוח את הדלת. בגלל זה חיפשתי עליו אישית.\"",
       "notes": "",
       "placeholders": []
     },
@@ -45349,7 +45349,7 @@
       "logicFile": 820,
       "messageNumber": 41,
       "original": "\"You did?  What'd you find?\"",
-      "translation": "\"חיפשת אותו? מה מצאת?\"",
+      "translation": "\"חיפשת עליו? מה מצאת?\"",
       "notes": "",
       "placeholders": []
     },
@@ -45365,7 +45365,7 @@
       "logicFile": 820,
       "messageNumber": 43,
       "original": "\"Hah!  Good work, Rolf!\"",
-      "translation": "\"חח! עבודה טובה, רולף!\"",
+      "translation": "\"חח! עבודה טובה, ראלף!\"",
       "notes": "",
       "placeholders": []
     },
@@ -45373,7 +45373,7 @@
       "logicFile": 820,
       "messageNumber": 44,
       "original": "Alexander is standing in a dim, damp dungeon cell.  The walls and floor are made of gray granite stones.  A cot in the corner is the only furniture.  A gargoyle peers down maliciously from over the dungeon door.",
-      "translation": "אלכסנדר עומד בתא צינוק עמום ולח. הקירות והרצפה עשויים מאבני גרניט אפורות. מיטה בפינה היא הרהיט היחיד. גרגויל מביט בזדון מעל דלת הצינוק.",
+      "translation": "אלכסנדר עומד בתא צינוק אפל ולח. הקירות והרצפה עשויים מאבני גרניט אפורות. המיטה בפינה היא הרהיט היחידי. גרגויל נועץ עיניים בדלת הצינוק.",
       "notes": "",
       "placeholders": []
     },
@@ -45381,7 +45381,7 @@
       "logicFile": 820,
       "messageNumber": 45,
       "original": "Alexander is singularly alone in this dank cell.  Even humming doesn't seem like a good idea.",
-      "translation": "אלכסנדר בודד לחלוטין בתא הלח הזה. אפילו לזמזם לא נראה רעיון טוב.",
+      "translation": "אלכסנדר בודד לחלוטין בתא הלח הזה. בסיטאוציה הזו אפילו לזמזם לא כדאי.",
       "notes": "",
       "placeholders": []
     },
@@ -45485,7 +45485,7 @@
       "logicFile": 820,
       "messageNumber": 58,
       "original": "And quickly makes his escape!",
-      "translation": "ובמהירות נמלט!",
+      "translation": "ונמלט במהירות!",
       "notes": "",
       "placeholders": []
     },
@@ -45501,7 +45501,7 @@
       "logicFile": 820,
       "messageNumber": 60,
       "original": "\"Mother!  Mother come back for me!\"",
-      "translation": "\"אמא! אמא תחזרי בשבילי!\"",
+      "translation": "\"אמא! אמא חזרי בשבילי!\"",
       "notes": "",
       "placeholders": []
     },
@@ -45573,7 +45573,7 @@
       "logicFile": 820,
       "messageNumber": 69,
       "original": "The spirit seems to need consolation, but Alexander's human hands could provide little comfort for the immaterial ghost.",
-      "translation": "הרוח נראית זקוקה לנחמה, אך ידיו האנושיות של אלכסנדר יכלו לספק מעט נחמה לרוח הרפאים הלא חומרית.",
+      "translation": "הרוח נראית זקוקה לנחמה, אך ידיו האנושיות של אלכסנדר לא ממש יכלו לספק נחמה לרוח הרפאים הלא ממשית.",
       "notes": "",
       "placeholders": []
     },
@@ -45581,7 +45581,7 @@
       "logicFile": 820,
       "messageNumber": 70,
       "original": "\"You must be the son of the spirit I met in the Realm of the Dead.  She gave me this handkerchief, and asked me to tell you that she's waiting for you there.\"",
-      "translation": "\"אתה בטח בנה של הרוח שפגשתי בממלכת המתים. היא נתנה לי את הממחטה הזו, וביקשה שאומר לך שהיא מחכה לך שם.\"",
+      "translation": "\"אתה בטח בנה של הרוח שפגשתי בממלכת המתים. היא נתנה לי את הממחטה הזו, וביקשה שאמסור לך שהיא מחכה לך שם.\"",
       "notes": "",
       "placeholders": []
     },
@@ -45589,7 +45589,7 @@
       "logicFile": 820,
       "messageNumber": 71,
       "original": "\"It's Mama's!  It even smells like her!  I can feel her now!  I know where to go!\"",
-      "translation": "\"זו של אמא! אפילו יש לה את הריח שלה! אני יכול להרגיש אותה עכשיו! אני יודע לאן ללכת!\"",
+      "translation": "\"זו הממחטה של אמא! אפילו יש לה את הריח שלה! אני יכול להרגיש אותה עכשיו! אני יודע לאן ללכת!\"",
       "notes": "",
       "placeholders": []
     },
@@ -45605,7 +45605,7 @@
       "logicFile": 820,
       "messageNumber": 73,
       "original": "\"I like to play in secret places.  In the basement, behind the man of steel, is a door.  Nobody except me knows it's there anymore.\"",
-      "translation": "\"אני אוהב לשחק במקומות סודיים. במרתף, מאחורי איש הפלדה, יש דלת. אף אחד חוץ ממני כבר לא יודע שהיא שם.\"",
+      "translation": "\"אני אוהב לשחק במקומות סודיים. במרתף, מאחורי איש הפלדה, יש דלת. אף אחד בטירה הזו חוץ ממני כבר לא יודע שהיא קיימת.\"",
       "notes": "",
       "placeholders": []
     },
@@ -45677,7 +45677,7 @@
       "logicFile": 820,
       "messageNumber": 82,
       "original": "A plain cot is the only furnishing in the stark dungeon cell.",
-      "translation": "מיטה פשוטה היא הרהיט היחיד בתא הצינוק הקודר.",
+      "translation": "המיטה הפשוטה היא הרהיט היחידי בתא הצינוק הקודר.",
       "notes": "",
       "placeholders": []
     },
@@ -45733,7 +45733,7 @@
       "logicFile": 820,
       "messageNumber": 89,
       "original": "A single burning torch dimly lights the dungeon.",
-      "translation": "לפיד בוער בודד מאיר בעמום את הצינוק.",
+      "translation": "לפיד בוער בודד מאיר בעמימות את הצינוק.",
       "notes": "",
       "placeholders": []
     },
@@ -45741,7 +45741,7 @@
       "logicFile": 820,
       "messageNumber": 90,
       "original": "Alexander has no need for the torch.  The castle is well-lit, with the exception of these dank rooms.",
-      "translation": "לאלכסנדר אין צורך בלפיד. הטירה מוארת היטב, למעט החדרים הלחים הללו.",
+      "translation": "לאלכסנדר אין צורך בלפיד. הטירה מוארת היטב, למעט החדרים הטחובים הללו.",
       "notes": "",
       "placeholders": []
     },
@@ -45773,7 +45773,7 @@
       "logicFile": 820,
       "messageNumber": 94,
       "original": "The gargoyle only grins maliciously at Alexander and does not respond.",
-      "translation": "הגרגויל רק מחייך בזדון אל אלכסנדר ואינו מגיב.",
+      "translation": "הגרגויל רק מחייך באופן מכוון אל אלכסנדר ואינו מגיב.",
       "notes": "",
       "placeholders": []
     },
@@ -45781,7 +45781,7 @@
       "logicFile": 820,
       "messageNumber": 95,
       "original": "There's nothing to be done with the gargoyle.  It is only an unpleasant door ornament, and one that Alexander is reluctant to touch.",
-      "translation": "אין מה לעשות עם הגרגויל. הוא רק קישוט דלת לא נעים, ואלכסנדר לא שש לגעת בו.",
+      "translation": "אין מה לעשות עם הגרגויל. הוא רק קישוט לא נעים לדלת, ואלכסנדר לא שש לגעת בו.",
       "notes": "",
       "placeholders": []
     },
@@ -45821,7 +45821,7 @@
       "logicFile": 840,
       "messageNumber": 1,
       "original": "The guard dog would probably be less interested in that than he would be in, for example, Alexander's uninvited presence in the castle.",
-      "translation": "הכלב השומר יהיה כנראה פחות מעוניין בזה מאשר, למשל, בנוכחותו הבלתי קרואה של אלכסנדר בטירה.",
+      "translation": "הכלב השומר יהיה כנראה אפילו פחות מעוניין בזה מאשר, למשל, בנוכחותו הבלתי קרואה של אלכסנדר בטירה.",
       "notes": "",
       "placeholders": []
     },
@@ -45853,7 +45853,7 @@
       "logicFile": 840,
       "messageNumber": 5,
       "original": "The powerfully-built guard is well-armed and would, moreover, surely give alarm at first sight of Alexander.",
-      "translation": "השומר בעל המבנה החסון חמוש היטב, ויותר מכך, לבטח יזעיק עזרה בראותו הראשון של אלכסנדר.",
+      "translation": "השומר בעל המבנה החסון חמוש היטב, ויותר מכך, לבטח יזעיק עזרה במפגש הראשון עם אלכסנדר.",
       "notes": "",
       "placeholders": []
     },
@@ -45869,7 +45869,7 @@
       "logicFile": 840,
       "messageNumber": 7,
       "original": "The small dagger would be of little assistance in overcoming that guard.",
-      "translation": "הפגיון הקטן יעזור מעט מאוד בהתגברות על השומר ההוא.",
+      "translation": "הפגיון הקטן יעזור מעט מאוד בהתגברות על השומר הזה.",
       "notes": "",
       "placeholders": []
     },
@@ -45885,7 +45885,7 @@
       "logicFile": 840,
       "messageNumber": 9,
       "original": "Alexander may have used the scythe on the magical rose bushes, but he is much too polite to hack through the guard in the same manner!",
-      "translation": "אלכסנדר אולי השתמש במגל על שיחי הוורדים הקסומים, אבל הוא מנומס מכדי לחתוך את השומר באותה צורה!",
+      "translation": "אלכסנדר אולי השתמש במגל על שיחי הוורדים הקסומים, אבל הוא עדין מכדי לחתוך את השומר באותה צורה!",
       "notes": "",
       "placeholders": []
     },
@@ -45893,7 +45893,7 @@
       "logicFile": 840,
       "messageNumber": 10,
       "original": "The guard dog is unlikely to believe Alexander as to the origins of that strand of hair.",
-      "translation": "כלב השמירה לא סביר שיאמין לאלכסנדר לגבי מקורות קווצת השיער הזו.",
+      "translation": "לא סביר שכלב השמירה יאמין לאלכסנדר לגבי מקורות קווצת השיער הזו.",
       "notes": "",
       "placeholders": []
     },
@@ -45917,7 +45917,7 @@
       "logicFile": 840,
       "messageNumber": 13,
       "original": "It's doubtful that the guard dog would believe Alexander about that ribbon's origin.",
-      "translation": "מסופק אם כלב השמירה יאמין לאלכסנדר לגבי מקור הסרט הזה.",
+      "translation": "ספק אם כלב השמירה יאמין לאלכסנדר לגבי מקור הסרט הזה.",
       "notes": "",
       "placeholders": []
     },
@@ -45949,7 +45949,7 @@
       "logicFile": 840,
       "messageNumber": 17,
       "original": "The flower of stench, while terribly stinky, is hardly strong enough to overpower that guard.",
-      "translation": "פרח הסירחון, למרות שהוא מסריח נורא, בקושי חזק מספיק כדי להכניע את השומר ההוא.",
+      "translation": "פרח הסירחון, למרות שהוא מסריח נורא, לא חזק מספיק כדי להכניע את השומר הזה.",
       "notes": "",
       "placeholders": []
     },
@@ -45957,7 +45957,7 @@
       "logicFile": 840,
       "messageNumber": 18,
       "original": "The guard dog does not have enough authority to do anything about the information in that letter.",
-      "translation": "לכלב השמירה אין מספיק סמכות לעשות משהו בנוגע למידע במכתב הזה.",
+      "translation": "לכלב השמירה אין מספיק סמכות לעשות משהו בנוגע למידע הכתוב במכתב הזה.",
       "notes": "",
       "placeholders": []
     },
@@ -45973,7 +45973,7 @@
       "logicFile": 840,
       "messageNumber": 20,
       "original": "Alexander doesn't want to share that note with anyone!",
-      "translation": "אלכסנדר לא רוצה לחלוק את הפתק הזה עם אף אחד!",
+      "translation": "אלכסנדר לא רוצה לחלוק את המכתב הזה עם אף אחד!",
       "notes": "",
       "placeholders": []
     },
@@ -45981,7 +45981,7 @@
       "logicFile": 840,
       "messageNumber": 21,
       "original": "The guard dog is unlikely to be impressed by an intruder's credentials.",
-      "translation": "כלב השמירה לא סביר שיתרשם מתעודותיו של פולש.",
+      "translation": "כלב השמירה לא סביר שיתרשם מתעודותיו של הפולש.",
       "notes": "",
       "placeholders": []
     },
@@ -46077,7 +46077,7 @@
       "logicFile": 840,
       "messageNumber": 33,
       "original": "The wedding music has begun!  Alexander doesn't want to get trapped in a bedroom now!",
-      "translation": "נגינת החתונה החלה! אלכסנדר לא רוצה להילכד בחדר שינה עכשיו!",
+      "translation": "תזמורת החתונה החלה לנגן! אלכסנדר לא רוצה להילכד בחדר שינה עכשיו!",
       "notes": "",
       "placeholders": []
     },
@@ -46141,7 +46141,7 @@
       "logicFile": 840,
       "messageNumber": 41,
       "original": "There's a door at the top of the stairs that must lead to an upper floor.",
-      "translation": "יש דלת בראש המדרגות שאמורה להוביל לקומה עליונה.",
+      "translation": "יש דלת בראש גרם המדרגות שאמורה להוביל לקומה עליונה.",
       "notes": "",
       "placeholders": []
     },
@@ -46221,7 +46221,7 @@
       "logicFile": 840,
       "messageNumber": 51,
       "original": "The castle basement is cool after the heat of the day.  On the east wall is a door, and on the west wall a staircase leads upward.",
-      "translation": "מרתף הטירה קריר בניגוד לחום היום. על הקיר המזרחי יש דלת, ועל הקיר המערבי גרם מדרגות מוביל למעלה.",
+      "translation": "מרתף הטירה קריר בניגוד לחום היום. על הקיר המזרחי יש דלת, ועל הקיר המערבי גרם מדרגות המוביל למעלה.",
       "notes": "",
       "placeholders": []
     },
@@ -46253,7 +46253,7 @@
       "logicFile": 840,
       "messageNumber": 55,
       "original": "Alexander hears the sound of a guard's footsteps coming from the north.",
-      "translation": "אלכסנדר שומע קול צעדים של שומר מגיע מצפון.",
+      "translation": "אלכסנדר שומע קול צעדים של שומר המגיע מצפון.",
       "notes": "",
       "placeholders": []
     },
@@ -46269,7 +46269,7 @@
       "logicFile": 840,
       "messageNumber": 57,
       "original": "Uh, oh!  A guard dog!  Alexander's been seen!",
-      "translation": "אוי, לא! כלב שמירה! אלכסנדר נראה!",
+      "translation": "אוי, לא! כלב שמירה! אלכסנדר נחשף!",
       "notes": "",
       "placeholders": []
     },
@@ -46365,7 +46365,7 @@
       "logicFile": 840,
       "messageNumber": 69,
       "original": "Alexander hears a door off the north hall open, then the sound of guard dog footsteps.  The footsteps are headed west.",
-      "translation": "אלכסנדר שומע דלת מחוץ למסדרון הצפוני נפתחת, ואז קול צעדי כלב שמירה. הצעדים נעים מערבה.",
+      "translation": "אלכסנדר שומע דלת נפתחת מחוץ למסדרון הצפוני, ואז קול צעדי כלב שמירה. הצעדים נשמעים נעים מערבה.",
       "notes": "",
       "placeholders": []
     },
@@ -46373,7 +46373,7 @@
       "logicFile": 840,
       "messageNumber": 70,
       "original": "Alexander hears a door off the north hall open, then the sound of guard dog footsteps.  The footsteps are headed this way!",
-      "translation": "אלכסנדר שומע דלת מחוץ למסדרון הצפוני נפתחת, ואז קול צעדי כלב שמירה. הצעדים באים לכאן!",
+      "translation": "אלכסנדר שומע דלת נפתחת מחוץ למסדרון הצפוני, ואז קול צעדי כלב שמירה. הצעדים מתקרבים לכאן!",
       "notes": "",
       "placeholders": []
     },
@@ -46381,7 +46381,7 @@
       "logicFile": 840,
       "messageNumber": 71,
       "original": "Alexander hears the sound of guard dog voices coming from behind the door at the top of the stairs.  One of them must be on his way down!",
-      "translation": "אלכסנדר שומע קולות של כלבי שמירה מגיעים מאחורי הדלת בראש המדרגות. אחד מהם בטח בדרכו למטה!",
+      "translation": "אלכסנדר שומע קולות של כלבי שמירה המגיעים מאחורי הדלת שבראש גרם המדרגות. אחד מהם כנראה בדרכו למטה!",
       "notes": "",
       "placeholders": []
     },
@@ -46397,7 +46397,7 @@
       "logicFile": 840,
       "messageNumber": 73,
       "original": "Alexander hears the sound of music coming from the top of the stairs.  It sounds somewhat classical, but....",
-      "translation": "אלכסנדר שומע צלילי מוזיקה מגיעים מראש המדרגות. זה נשמע קלאסי במקצת, אבל...",
+      "translation": "אלכסנדר שומע צלילי מוזיקה המגיעים מראשגרם  המדרגות. זה נשמע קלאסי במקצת, אבל...",
       "notes": "",
       "placeholders": []
     },
@@ -46405,7 +46405,7 @@
       "logicFile": 840,
       "messageNumber": 74,
       "original": "Oh, no!  It's wedding music!",
-      "translation": "הו, לא! זו מוזיקת חתונה!",
+      "translation": "הו, לא! זו מוזיקה של חתונה!",
       "notes": "",
       "placeholders": []
     },
@@ -46517,7 +46517,7 @@
       "logicFile": 850,
       "messageNumber": 1,
       "original": "\"By Cerebus' collar, but I'll be glad when this weddin' is over!  I'm gettin' mighty tired of this patrol, Bay!  It's wearied me to the bones!\"",
-      "translation": "\"בשם כלב השאול, אשמח כשהחתונה הזאת תיגמר! נמאס לי לגמרי מהסיור הזה, ביי! זה שחק אותי עד לשד עצמותיי!\"",
+      "translation": "\"בשם כלבי השאול, אשמח כשהחתונה הזאת תיגמר! נמאס לי לגמרי מהסיור הזה, שמע חבר! זה שחק אותי עד לשד עצמותיי!\"",
       "notes": "",
       "placeholders": []
     },
@@ -46541,7 +46541,7 @@
       "logicFile": 850,
       "messageNumber": 4,
       "original": "\"I agree.  It seems cruel to lock her up when she's so heartbroken.  Let her out in the fresh air, I say.  It'd do her a world of good.\"",
-      "translation": "\"אני מסכים. זה נראה אכזרי לנעול אותה כשהיא כה שבורת לב. תנו לה לצאת לאוויר הצח, אני אומר. זה יעשה לה עולם שלם של טוב.\"",
+      "translation": "\"אני מסכים. זה נראה אכזרי לנעול אותה כשהיא כה שבורת לב. תנו לה לצאת לאוויר הצח, אני אומר. זה יעשה לה טוב בסך הכל.\"",
       "notes": "",
       "placeholders": []
     },
@@ -46557,7 +46557,7 @@
       "logicFile": 850,
       "messageNumber": 6,
       "original": "\"It's too bad we couldn't find that nightingale of hers.  The vizier says she's been pining for it.\"",
-      "translation": "\"חבל שלא הצלחנו למצוא את זמיר הליל שלה. הווזיר אומר שהיא משתוקקת אליו.\"",
+      "translation": "\"חבל שלא הצלחנו למצוא את הזמיר שלה. הווזיר אומר שהיא משתוקקת אליו.\"",
       "notes": "",
       "placeholders": []
     },
@@ -46573,7 +46573,7 @@
       "logicFile": 850,
       "messageNumber": 8,
       "original": "\"Not only would it cheer up the princess, but the reward the vizier's offered for it would make me pretty happy too, dog-gone it!\"",
-      "translation": "\"זה לא רק יעודד את הנסיכה, אלא גם הפרס שהווזיר הציע עבורו היה משמח אותי מאוד, לכל הרוחות!\"",
+      "translation": "\"לעזאזל, זה לא רק יעודד את הנסיכה, אלא גם הפרס שהווזיר הציע עבורו היה יכול לשמח אותי מאוד!\"",
       "notes": "",
       "placeholders": []
     },
@@ -46581,7 +46581,7 @@
       "logicFile": 850,
       "messageNumber": 9,
       "original": "\"Ah, well.  Our luck will definitely be out if the vizier catches us snappin' our jaws at our post.\"",
-      "translation": "\"אה, נו טוב. המזל שלנו בהחלט יבגוד בנו אם הווזיר יתפוס אותנו מפטפטים בעמדה שלנו.\"",
+      "translation": "\"אה, נו טוב. המזל שלנו בהחלט ייגמר כאן אם הווזיר יתפוס אותנו מפטפטים בעמדה שלנו.\"",
       "notes": "",
       "placeholders": []
     },
@@ -46685,7 +46685,7 @@
       "logicFile": 850,
       "messageNumber": 22,
       "original": "\"Don't just stand there!  Grab 'em, Bay!\"",
-      "translation": "\"אל תעמוד שם סתם! תפוס אותם, ביי!\"",
+      "translation": "\"אל תעמוד שם סתם! תפוס אותו, ביי!\"",
       "notes": "",
       "placeholders": []
     },
@@ -46693,7 +46693,7 @@
       "logicFile": 850,
       "messageNumber": 23,
       "original": "\"<GRRR>  It's that saboteur fellow the vizier warned us about, I'll bet!  I say we run him through right here and now!\"",
-      "translation": "\"<גררר> זה הסַבּוֹטָר הזה שהווזיר הזהיר אותנו מפניו, אני בטוח! אני אומר שנפיל אותו כאן ועכשיו!\"",
+      "translation": "\"<גררר> זה בלגניסט הזה שהווזיר הזהיר אותנו מפניו, אני בטוח! אני אומר שנחסל אותו כאן ועכשיו!\"",
       "notes": "",
       "placeholders": []
     },
@@ -46701,7 +46701,7 @@
       "logicFile": 850,
       "messageNumber": 24,
       "original": "\"No <woof>!  The vizier'll run YOU through if he doesn't get a chance at the prisoner.  Let's put him in the dungeon for safe keepin', then we'll go tell the Captain.\"",
-      "translation": "\"לא <וואף>! הווזיר יפיל אותך אם הוא לא יקבל הזדמנות עם האסיר. בוא נשים אותו בצינוק לשמירה בטוחה, ואז נלך לספר לקפטן.\"",
+      "translation": "\"לא <וואף>! הווזיר יחסל אותך אם הוא לא יקבל הזדמנות לחקור את האסיר. בוא נשים אותו בצינוק לשמירה בטוחה, ואז נלך לספר לקפטן.\"",
       "notes": "",
       "placeholders": []
     },
@@ -46741,7 +46741,7 @@
       "logicFile": 850,
       "messageNumber": 29,
       "original": "The guard dogs spot Alexander on their way down the stairs with the mechanical nightingale.",
-      "translation": "כלבי השמירה מזהים את אלכסנדר בדרכם למטה במדרגות עם זמיר הליל המכני.",
+      "translation": "כלבי השמירה מזהים את אלכסנדר בדרכם למטה במדרגות עם הזמיר המכני.",
       "notes": "",
       "placeholders": []
     },
@@ -46765,7 +46765,7 @@
       "logicFile": 850,
       "messageNumber": 32,
       "original": "Alexander hears the guard patrol coming back up the stairs from their little excursion with the mechanical nightingale.",
-      "translation": "אלכסנדר שומע את סיור השומרים חוזר במעלה המדרגות מגיח מהגיחה הקטנה שלהם עם זמיר הליל המכני.",
+      "translation": "אלכסנדר שומע את סיור השומרים חוזר במעלה המדרגות מגיח מהגיחה הקטנה שלהם עם זמיר המכני.",
       "notes": "",
       "placeholders": []
     },
@@ -46781,7 +46781,7 @@
       "logicFile": 850,
       "messageNumber": 34,
       "original": "Alexander steps into the main hallway while the guards are investigating the nightingale.",
-      "translation": "אלכסנדר נכנס למסדרון הראשי בזמן שהשומרים חוקרים את זמיר הליל.",
+      "translation": "אלכסנדר נכנס למסדרון הראשי בזמן שהשומרים בודקים את הזמיר המכני.",
       "notes": "",
       "placeholders": []
     },
@@ -46829,7 +46829,7 @@
       "logicFile": 850,
       "messageNumber": 40,
       "original": "Although the guards have been cleverly dismissed, Alexander still feels it prudent to be as quiet as possible.",
-      "translation": "אף על פי שהשומרים פוטרו בחוכמה, אלכסנדר עדיין חש שרצוי להיות שקט ככל האפשר.",
+      "translation": "אף על פי שאלכסנדר נפטר מהשומרים בחוכמה, אלכסנדר עדיין חש שרצוי להיות שקט ככל האפשר.",
       "notes": "",
       "placeholders": []
     },
@@ -46869,7 +46869,7 @@
       "logicFile": 850,
       "messageNumber": 45,
       "original": "Alexander sees nothing of particular interest about that area of the marble hall.",
-      "translation": "אלכסנדר אינו רואה דבר מעניין במיוחד באזור זה של אולם השיש.",
+      "translation": "אלכסנדר אינו רואה דבר מעניין במיוחד באזור זה של האולם.",
       "notes": "",
       "placeholders": []
     },
@@ -46909,7 +46909,7 @@
       "logicFile": 850,
       "messageNumber": 50,
       "original": "Alexander winds the mechanical nightingale and places it strategically on the floor of the upstairs hallway.",
-      "translation": "אלכסנדר מותח את זמיר הליל המכני ומניח אותו אסטרטגית על רצפת המסדרון העליון.",
+      "translation": "אלכסנדר מותח את הזמיר המכני ומניח אותו אסטרטגית על רצפת המסדרון העליון.",
       "notes": "",
       "placeholders": []
     },
@@ -46917,7 +46917,7 @@
       "logicFile": 850,
       "messageNumber": 51,
       "original": "Alexander walks into the hallway to use the mechanical nightingale.",
-      "translation": "אלכסנדר נכנס למסדרון כדי להשתמש בזמיר הליל המכני.",
+      "translation": "אלכסנדר נכנס למסדרון כדי להשתמש בזמיר המכני.",
       "notes": "",
       "placeholders": []
     },
@@ -46957,7 +46957,7 @@
       "logicFile": 850,
       "messageNumber": 56,
       "original": "The two guard dogs are speaking in low voices at the end of the hall, as though disturbed about something.  They aren't watching the hallway at the moment.",
-      "translation": "שני כלבי השמירה מדברים בקולות נמוכים בסוף המסדרון, כאילו משהו מפריע להם. הם אינם צופים במסדרון כרגע.",
+      "translation": "שני כלבי השמירה מדברים בקולות נמוכים בסוף המסדרון, כאילו משהו מפריע להם. הם אינם מביטים במסדרון כרגע.",
       "notes": "",
       "placeholders": []
     },
@@ -47045,7 +47045,7 @@
       "logicFile": 850,
       "messageNumber": 67,
       "original": "The spell book doesn't have anything in it that would take care of that guard dog.  A \"Bone of Sleep\" spell would be nice, for example, but it isn't in the book.",
-      "translation": "ספר הכשפים אינו מכיל דבר שיטפל בכלב השמירה הזה. כשף \"עצם שינה\" היה נחמד, למשל, אבל הוא אינו בספר.",
+      "translation": "ספר הכשפים אינו מכיל דבר שיטפל בכלב השמירה הזה. כישוף \"עצם שינה\" היה נחמד, למשל, אבל הוא אינו בספר.",
       "notes": "",
       "placeholders": []
     },
@@ -47077,7 +47077,7 @@
       "logicFile": 850,
       "messageNumber": 71,
       "original": "Remembering the guard dogs' interest in Cassima's nightingale, Alexander has a thought....",
-      "translation": "אלכסנדר נזכר בעניין של כלבי השמירה בזמיר הליל של קסימה, ועולה בדעתו מחשבה....",
+      "translation": "אלכסנדר נזכר בעניין של כלבי השמירה במציאת הזמיר של קסימה, ועולה בדעתו רעיון....",
       "notes": "",
       "placeholders": []
     },
@@ -47125,7 +47125,7 @@
       "logicFile": 850,
       "messageNumber": 77,
       "original": "Alexander doesn't want to share that note with anyone!",
-      "translation": "אלכסנדר אינו רוצה לחלוק את ההערה הזו עם אף אחד!",
+      "translation": "אלכסנדר אינו רוצה לחלוק את המכתב הזו עם אף אחד!",
       "notes": "",
       "placeholders": []
     },
@@ -47221,7 +47221,7 @@
       "logicFile": 850,
       "messageNumber": 89,
       "original": "An empty bedroom.",
-      "translation": "חדר שינה ריק.",
+      "translation": "חדר השינה ריק.",
       "notes": "",
       "placeholders": []
     },
@@ -47357,8 +47357,8 @@
       "logicFile": 850,
       "messageNumber": 106,
       "original": "\"Go away!  I said I didn't want to be disturbed!  <mutter stupid dogs>\"",
-      "translation": "\"לך מפה! אמרתי שאני לא רוצה שיפריעו לי! <ממלמל כלבים טיפשים>\"",
-      "notes": "",
+      "translation": "\"לך מפה! אמרתי שאני לא רוצה שיפריעו לי! <מילמול כלבים טיפשים>\"",
+      "notes": "מי אומר את זה?",
       "placeholders": []
     },
     {
@@ -47413,7 +47413,7 @@
       "logicFile": 850,
       "messageNumber": 113,
       "original": "Alexander can barely make out part of a doorway in the north hallway.",
-      "translation": "אלכסנדר בקושי מצליח להבחין בחלק מפתח דלת במסדרון הצפוני.",
+      "translation": "אלכסנדר מצליח להבחין מעט בחלק מפתח דלת במסדרון הצפוני.",
       "notes": "",
       "placeholders": []
     },
@@ -47453,7 +47453,7 @@
       "logicFile": 850,
       "messageNumber": 118,
       "original": "A marble statue of a guard dog in full regalia adorns the top of a pillar.",
-      "translation": "פסל שיש של כלב שמירה במלוא תלבושתו מעטר את ראשו של עמוד.",
+      "translation": "פסל שיש של כלב שמירה במלוא תלבושתו מעטר את ראשו של העמוד.",
       "notes": "",
       "placeholders": []
     },
@@ -47461,7 +47461,7 @@
       "logicFile": 850,
       "messageNumber": 119,
       "original": "\"Woof!  Back off, rapscallion, before I run ye through with this marble sword!\"",
-      "translation": "\"וואף! תתרחק, רשע, לפני שאפיל אותך עם חרב השיש הזו!\"",
+      "translation": "\"וווף! התרחק, רשע, לפני שאפיל אותך עם חרב השיש הזו!\"",
       "notes": "",
       "placeholders": []
     },
@@ -47517,7 +47517,7 @@
       "logicFile": 850,
       "messageNumber": 126,
       "original": "Large, glazed urns stand like sentinels in the hallway.",
-      "translation": "כדים גדולים ומזוגגים עומדים כשומרים במסדרון.",
+      "translation": "כדי חרס ענקיים ניצבים כזקיפים לאורך המסדרון.",
       "notes": "",
       "placeholders": []
     },
@@ -47557,7 +47557,7 @@
       "logicFile": 860,
       "messageNumber": 1,
       "original": "Uh, oh!  Company!",
-      "translation": "אה, אוי! אורחים!",
+      "translation": "אה, הו! אורחים!",
       "notes": "",
       "placeholders": []
     },
@@ -47565,7 +47565,7 @@
       "logicFile": 860,
       "messageNumber": 2,
       "original": "\"Mite!  Look at this!\"",
-      "translation": "\"קרציה! תראה את זה!\"",
+      "translation": "\"מייט! תראה את זה!\"",
       "notes": "",
       "placeholders": []
     },
@@ -47581,7 +47581,7 @@
       "logicFile": 860,
       "messageNumber": 4,
       "original": "\"Cheeky, isn't he?  Grab 'im, Jowels!\"",
-      "translation": "\"חוצפן, לא? תפוס אותו, צ'יקס!\"",
+      "translation": "\"לא חוצפן?! תפוס אותו, ג'אוולס!\"",
       "notes": "",
       "placeholders": []
     },
@@ -47597,7 +47597,7 @@
       "logicFile": 860,
       "messageNumber": 6,
       "original": "\"Well, let's lock him up and go tell Saladin.  He'll tell us what kind of fish we've caught.\"",
-      "translation": "\"טוב, בואו נכניס אותו לצינוק ונלך לסלדין. הוא יגיד לנו איזה סוג של דג תפסנו.\"",
+      "translation": "\"טוב, בואו נכניס אותו לצינוק ונלך לסאלדין. הוא יגיד לנו איזה סוג של דג תפסנו.\"",
       "notes": "",
       "placeholders": []
     },
@@ -47605,7 +47605,7 @@
       "logicFile": 860,
       "messageNumber": 7,
       "original": "\"Right, Jowels.\"",
-      "translation": "\"צודק, צ'יקס.\"",
+      "translation": "\"צודק, ג'אוולס.\"",
       "notes": "",
       "placeholders": []
     },
@@ -47669,7 +47669,7 @@
       "logicFile": 860,
       "messageNumber": 15,
       "original": "Alexander sees nothing of particular interest about that area of the marble hall.",
-      "translation": "אלכסנדר לא רואה שום דבר מעניין במיוחד באזור הזה של אולם השיש.",
+      "translation": "אלכסנדר לא רואה שום דבר מעניין במיוחד באזור הזה של האולם.",
       "notes": "",
       "placeholders": []
     },
@@ -47821,7 +47821,7 @@
       "logicFile": 860,
       "messageNumber": 34,
       "original": "The guard dogs are unlikely to accept something to drink from Alexander.",
-      "translation": "כלבי השמירה לא סביר שיקבלו משהו לשתות מאלכסנדר.",
+      "translation": "לא סביר שכלבי השמירה יקבלו משהו לשתות מאלכסנדר.",
       "notes": "",
       "placeholders": []
     },
@@ -47829,7 +47829,7 @@
       "logicFile": 860,
       "messageNumber": 35,
       "original": "The guard dogs are unlikely to believe Alexander as to the origins of that strand of hair.",
-      "translation": "כלבי השמירה לא סביר שיאמינו לאלכסנדר לגבי מקור קווצת השיער הזו.",
+      "translation": "לא סביר שכלבי השמירה יאמינו לאלכסנדר לגבי מקור קווצת השיער הזו.",
       "notes": "",
       "placeholders": []
     },
@@ -47853,7 +47853,7 @@
       "logicFile": 860,
       "messageNumber": 38,
       "original": "It's doubtful that the guard dogs would believe Alexander about that ribbon's origin.",
-      "translation": "זה בספק שכלבי השמירה יאמינו לאלכסנדר לגבי מקור הסרט הזה.",
+      "translation": "ספק שכלבי השמירה יאמינו לאלכסנדר לגבי מקור הסרט הזה.",
       "notes": "",
       "placeholders": []
     },
@@ -47877,7 +47877,7 @@
       "logicFile": 860,
       "messageNumber": 41,
       "original": "The guard dogs are unlikely to sit still long enough to listen to the boring book.",
-      "translation": "כלבי השמירה לא סביר שישבו בשקט כדי להקשיב לספר המשעמם.",
+      "translation": "לא סביר שכלבי השמירה ישבו בשקט כדי להקשיב לספר המשעמם.",
       "notes": "",
       "placeholders": []
     },
@@ -47885,7 +47885,7 @@
       "logicFile": 860,
       "messageNumber": 42,
       "original": "The flower of stench, while terribly stinky, is hardly strong enough to overpower those guards.",
-      "translation": "פרח הסירחון, למרות שהוא מסריח נורא, בקושי חזק מספיק כדי להכניע את השומרים האלה.",
+      "translation": "פרח הסירחון, למרות שהוא מסריח נורא, אינו חזק דיו כדי להכניע את השומרים האלה.",
       "notes": "",
       "placeholders": []
     },
@@ -47917,7 +47917,7 @@
       "logicFile": 860,
       "messageNumber": 46,
       "original": "Alexander doesn't want to share that note with anyone!",
-      "translation": "אלכסנדר לא רוצה לחלוק את הפתק הזה עם אף אחד!",
+      "translation": "אלכסנדר לא רוצה לחלוק את המכתב הזה עם אף אחד!",
       "notes": "",
       "placeholders": []
     },
@@ -47925,7 +47925,7 @@
       "logicFile": 860,
       "messageNumber": 47,
       "original": "The guard dogs are unlikely to be impressed by an intruder's credentials.",
-      "translation": "כלבי השמירה לא סביר שיתרשמו מכישוריו של פולש.",
+      "translation": "כלבי השמירה לא סביר שיתרשמו מכישוריו של הפולש.",
       "notes": "",
       "placeholders": []
     },
@@ -48021,7 +48021,7 @@
       "logicFile": 860,
       "messageNumber": 59,
       "original": "Large, glazed urns stand like sentinels in the hallway.",
-      "translation": "כדים גדולים ומזוגגים ניצבים כמו זקיפים במסדרון.",
+      "translation": "כדי חרס ענקיים ניצבים כזקיפים לאורך המסדרון.",
       "notes": "",
       "placeholders": []
     },
@@ -48045,7 +48045,7 @@
       "logicFile": 870,
       "messageNumber": 1,
       "original": "The crying is louder here.",
-      "translation": "הבכי חזק יותר פה.",
+      "translation": "כאן הבכי נשמע חזק יותר.",
       "notes": "",
       "placeholders": []
     },
@@ -48069,7 +48069,7 @@
       "logicFile": 870,
       "messageNumber": 4,
       "original": "\"Good gravy, a strange man!  And by the princess's door, yet!  JOWELS!  COME QUICK!\"",
-      "translation": "\"שמיים! אדם זר! ועוד ליד דלת הנסיכה! ג'ואלס! בוא מהר!\"",
+      "translation": "\"לכל הרוחות! אדם זר! ועוד ליד דלת הנסיכה! ג'וואלס! בוא מהר!\"",
       "notes": "",
       "placeholders": []
     },
@@ -48077,7 +48077,7 @@
       "logicFile": 870,
       "messageNumber": 5,
       "original": "\"I can explain...I think.  I was looking for the kitchen, you see....\"",
-      "translation": "\"אני יכול להסביר... אני חושב. חיפשתי את המטבח, את מבין...\"",
+      "translation": "\"אני יכול להסביר... אני חושב. חיפשתי את המטבח, אתה מבין...\"",
       "notes": "",
       "placeholders": []
     },
@@ -48085,7 +48085,7 @@
       "logicFile": 870,
       "messageNumber": 6,
       "original": "\"Sure, you were!  JOWELS!\"",
-      "translation": "\"בטח, חיפשת! ג'ואלס!\"",
+      "translation": "\"בטח, חיפשת! ג'וואלס!\"",
       "notes": "",
       "placeholders": []
     },
@@ -48149,7 +48149,7 @@
       "logicFile": 870,
       "messageNumber": 14,
       "original": "Alexander is standing in the north upstairs hallway of the Castle of the Crown.  On the north wall is a heavily-padlocked door.  To his left and right, the hallway turns into perpendicular corridors.",
-      "translation": "אלכסנדר עומד במסדרון הצפוני העליון של טירת הכתר. על הקיר הצפוני יש דלת נעולה בכבדות. מימינו ומשמאלו, המסדרון מתפצל למסדרונות ניצבים.",
+      "translation": "אלכסנדר עומד במסדרון הצפוני העליון של טירת הכתר. על הקיר הצפוני יש דלת נעולה היטב. מימינו ומשמאלו, המסדרון מתפצל למסדרונות אנכיים.",
       "notes": "",
       "placeholders": []
     },
@@ -48157,7 +48157,7 @@
       "logicFile": 870,
       "messageNumber": 15,
       "original": "Alexander thinks it prudent to be as quiet as possible in the castle hallways.  There might be other guards around.",
-      "translation": "אלכסנדר חושב שמן הנבון להיות שקט ככל האפשר במסדרונות הטירה. ייתכנו שומרים אחרים בסביבה.",
+      "translation": "אלכסנדר חושב שנכון יהיה להיות שקט ככל האפשר במסדרונות הטירה. ייתכן ויש שומרים נוספים בסביבה.",
       "notes": "",
       "placeholders": []
     },
@@ -48165,7 +48165,7 @@
       "logicFile": 870,
       "messageNumber": 16,
       "original": "Alexander sees nothing of particular interest about that area of the marble hall.",
-      "translation": "אלכסנדר אינו רואה דבר מעניין במיוחד באזור זה של אולם השיש.",
+      "translation": "אלכסנדר אינו רואה דבר מעניין במיוחד באזור זה של האולם.",
       "notes": "",
       "placeholders": []
     },
@@ -48197,7 +48197,7 @@
       "logicFile": 870,
       "messageNumber": 20,
       "original": "On the north wall of the hallway is a thick wooden door.  The doorknob and keyhole are literally buried under a heavy padlock.",
-      "translation": "על הקיר הצפוני של המסדרון נמצאת דלת עץ עבה. הידית וחור המנעול קבורים תחת מנעול כבד.",
+      "translation": "על הקיר הצפוני של המסדרון נמצאת דלת עץ עבה. הידית וחור המנעול מוסתרים תחת מנעול תלייה כבד.",
       "notes": "",
       "placeholders": []
     },
@@ -48261,7 +48261,7 @@
       "logicFile": 870,
       "messageNumber": 28,
       "original": "\"But, what about you?  I can't just leave you locked up like this!\"",
-      "translation": "\"אבל מה איתך? אני לא יכול פשוט להשאיר אותך כלואה ככה!\"",
+      "translation": "\"אבל מה איתך? אני לא יכול פשוט להשאיר אותך כלואה כך!\"",
       "notes": "",
       "placeholders": []
     },
@@ -48277,7 +48277,7 @@
       "logicFile": 870,
       "messageNumber": 30,
       "original": "\"Besides, if I can only get my hands on something to defend myself with, I'm pretty sure I'll get a chance to use it.  The vizier feels safe around me.  No one else can get that close.\"",
-      "translation": "\"חוץ מזה, אם רק אצליח לשים יד על משהו כדי להגן על עצמי, אני די בטוחה שאקבל הזדמנות להשתמש בו. הווזיר מרגיש בטוח לידי. אף אחד אחר לא יכול להתקרב כל כך.\"",
+      "translation": "\"חוץ מזה, אם רק אצליח לשים יד על משהו כדי להגן על עצמי, אני די בטוחה שאקבל הזדמנות להשתמש בו. הווזיר מרגיש בטוח לידי. אף אחד אחר לא יכול להתקרב כל כך לווזיר כמוני.\"",
       "notes": "",
       "placeholders": []
     },
@@ -48293,7 +48293,7 @@
       "logicFile": 870,
       "messageNumber": 32,
       "original": "\"Have you forgotten where we met?  What is Abdul compared to Mordack?  I'll be fine.  Now GO.\"",
-      "translation": "\"שכחת איפה נפגשנו? מהו עבדול לעומת מורדק? אני אהיה בסדר. עכשיו, לכי.\"",
+      "translation": "\"שכחת איפה נפגשנו? מהו עבדול לעומת מורדק? אני אהיה בסדר. עכשיו, לך.\"",
       "notes": "",
       "placeholders": []
     },
@@ -48325,7 +48325,7 @@
       "logicFile": 870,
       "messageNumber": 36,
       "original": "\"ALEXANDER!  Is it really you?  When Sing Sing brought me your ring I could scarcely believe it!  How did you get inside the castle?\"",
-      "translation": "\"אלכסנדר! זה באמת אתה? כשסינג סינג הביא לי את הטבעת שלך בקושי יכולתי להאמין! איך נכנסת לטירה?\"",
+      "translation": "\"אלכסנדר! זה באמת אתה? כשציף-ציף הביא לי את הטבעת שלך בקושי יכולתי להאמין! איך נכנסת לטירה?\"",
       "notes": "",
       "placeholders": []
     },
@@ -48333,7 +48333,7 @@
       "logicFile": 870,
       "messageNumber": 37,
       "original": "\"Never mind that now, princess.  It isn't important.  What can I do to help you?  Do you want me to get you out of there?  There's a padlock on the door, but I think....\"",
-      "translation": "\"עזוב את זה עכשיו, נסיכה. זה לא חשוב. מה אני יכול לעשות כדי לעזור לך? את רוצה שאוציא אותך משם? יש מנעול על הדלת, אבל אני חושב....\"",
+      "translation": "\"עזבי את זה עכשיו, נסיכה. זה לא חשוב. מה אני יכול לעשות כדי לעזור לך? את רוצה שאוציא אותך משם? יש מנעול על הדלת, אבל אני חושב....\"",
       "notes": "",
       "placeholders": []
     },
@@ -48429,7 +48429,7 @@
       "logicFile": 870,
       "messageNumber": 49,
       "original": "\"<Gasp!>  I can't believe it!  I had my suspicions, but this confirms everything!\"",
-      "translation": "\" <נשימת פליאה!> אני לא מאמינה! היו לי חשדות, אבל זה מאשר הכל!\"",
+      "translation": "\" <פליאה!> אני לא מאמינה! היו לי חשדות, אבל זה מאשר הכל!\"",
       "notes": "",
       "placeholders": []
     },
@@ -48445,7 +48445,7 @@
       "logicFile": 870,
       "messageNumber": 51,
       "original": "Cassima has already been upset enough by that letter.",
-      "translation": "קסימה כבר נסערה מספיק מהמכתב הזה.",
+      "translation": "קסימה כבר נסערת מספיק מהמכתב הזה.",
       "notes": "",
       "placeholders": []
     },
@@ -48565,7 +48565,7 @@
       "logicFile": 880,
       "messageNumber": 3,
       "original": "The mechanical song echoes in the corridor.  Alexander hears the sound of boots pounding as the guard dogs come to investigate.",
-      "translation": "השיר המכני מהדהד במסדרון. אלכסנדר שומע קול צעדי מגפיים כשכלבי השמירה מגיעים לחקור.",
+      "translation": "הזמיר המכני מהדהד במסדרון. אלכסנדר שומע קול צעדי מגפיים כשכלבי השמירה מגיעים לבדוק.",
       "notes": "",
       "placeholders": []
     },
@@ -48597,7 +48597,7 @@
       "logicFile": 880,
       "messageNumber": 7,
       "original": "\"What?  You lapdog!  The princess's nightingale isn't some tin thing!\"",
-      "translation": "\"מה? כלבלב! הזמיר של הנסיכה הוא לא איזה פח זבל!\"",
+      "translation": "\"מה? כלב טיפש! הזמיר של הנסיכה הוא לא איזה פח זבל!\"",
       "notes": "",
       "placeholders": []
     },
@@ -48645,7 +48645,7 @@
       "logicFile": 880,
       "messageNumber": 13,
       "original": "\"And then there's that reward money and my missus....\"",
-      "translation": "\"ואז יש את כספי הפרס והגברת שלי...\"",
+      "translation": "\"ואז יש את כספי הפרס ואשתי שתחיה...\"",
       "notes": "",
       "placeholders": []
     },
@@ -48701,7 +48701,7 @@
       "logicFile": 880,
       "messageNumber": 20,
       "original": "\"Aye, <ruff>.  Wish the same could be said of our....\"",
-      "translation": "\"אכן, <נביחה>. הלוואי שאפשר היה לומר את אותו הדבר על שלנו...\"",
+      "translation": "\"אכן, <נביחה>. הלוואי שאפשר היה לומר את אותו הדבר על...\"",
       "notes": "",
       "placeholders": []
     },
@@ -48805,7 +48805,7 @@
       "logicFile": 880,
       "messageNumber": 33,
       "original": "\"<GRRR> Wonder where he's taking her?  The wedding's the other way.\"",
-      "translation": "\"<גְררר> מעניין לאן הוא לוקח אותה? החתונה בדרך השנייה.\"",
+      "translation": "\"<גררר> מעניין לאן הוא לוקח אותה? החתונה בכיוון השני.\"",
       "notes": "",
       "placeholders": []
     },
@@ -48837,7 +48837,7 @@
       "logicFile": 880,
       "messageNumber": 37,
       "original": "From downstairs, Alexander hears the first wafting strains of music.  Hmmm.  It's beautiful music....",
-      "translation": "ממטה, אלכסנדר שומע את צלילי המוזיקה הראשונים עולים. המממ. זו מוזיקה יפה...",
+      "translation": "מלמטה, אלכסנדר שומע את צלילי המוזיקה הראשונים בוקעים. המממ. זאת מנגינה יפה...",
       "notes": "",
       "placeholders": []
     },
@@ -48845,7 +48845,7 @@
       "logicFile": 880,
       "messageNumber": 38,
       "original": "It's wedding music!!!!!",
-      "translation": "זו מוזיקת חתונה!!!!!",
+      "translation": "זו נגינה של חתונה!!!!!",
       "notes": "",
       "placeholders": []
     },
@@ -48853,7 +48853,7 @@
       "logicFile": 880,
       "messageNumber": 39,
       "original": "The music has attracted the guards' attention.  Alexander hears them coming down the hallway.",
-      "translation": "המוזיקה משכה את תשומת לב השומרים. אלכסנדר שומע אותם באים במורד המסדרון.",
+      "translation": "המוזיקה משכה את תשומת לב השומרים. אלכסנדר שומע אותם יורדים במסדרון.",
       "notes": "",
       "placeholders": []
     },
@@ -48877,7 +48877,7 @@
       "logicFile": 880,
       "messageNumber": 42,
       "original": "\"Hey!  It's a man!\"",
-      "translation": "\"היי! זה איש!\"",
+      "translation": "\"היי! זה בן אדם!\"",
       "notes": "",
       "placeholders": []
     },
@@ -48893,7 +48893,7 @@
       "logicFile": 880,
       "messageNumber": 44,
       "original": "\"It WAS me, actually.  Sorry.  But now I really must get down to that wedding.\"",
-      "translation": "\"אני הייתי, למעשה. סליחה. אבל עכשיו אני באמת חייב להגיע לחתונה הזו.\"",
+      "translation": "\"זה הייתי אני, נכון. סליחה. אבל עכשיו אני באמת חייב להגיע לחתונה הזו.\"",
       "notes": "",
       "placeholders": []
     },
@@ -48901,7 +48901,7 @@
       "logicFile": 880,
       "messageNumber": 45,
       "original": "\"<GROWL> You'll be getting downstairs all right--but a little lower than the throne room!  Let's get 'em, Wolf!\"",
-      "translation": "\"<נהמה> אתה תרד למטה, בסדר גמור – אבל קצת יותר נמוך מחדר הכס! בוא נתפוס אותם, וולף!\"",
+      "translation": "\"<נהמה> אתה תרד למטה, בסדר גמור – אבל קצת יותר נמוך מחדר הכס! בוא נתפוס אותו, וולף!\"",
       "notes": "",
       "placeholders": []
     },
@@ -48989,7 +48989,7 @@
       "logicFile": 880,
       "messageNumber": 56,
       "original": "\"Get 'em, Bay!\"",
-      "translation": "\"תפוס אותם, ביי!\"",
+      "translation": "\"תפוס אותו, ביי!\"",
       "notes": "",
       "placeholders": []
     },
@@ -49013,7 +49013,7 @@
       "logicFile": 880,
       "messageNumber": 59,
       "original": "\"Get 'em, Bay!\"",
-      "translation": "\"תפוס אותם, ביי!\"",
+      "translation": "\"תפוס אותו, ביי!\"",
       "notes": "",
       "placeholders": []
     },
@@ -49109,7 +49109,7 @@
       "logicFile": 880,
       "messageNumber": 71,
       "original": "Alexander can't return the portrait to the wall now that he's taken the nail.",
-      "translation": "אלכסנדר לא יכול להחזיר את הדיוקן לקיר עכשיו כשלחץ את המסמר.",
+      "translation": "אלכסנדר לא יכול להחזיר את הדיוקן לקיר עכשיו כששלף את המסמר.",
       "notes": "",
       "placeholders": []
     },
@@ -49149,7 +49149,7 @@
       "logicFile": 880,
       "messageNumber": 76,
       "original": "Alexander can't see into the main hallway from here.",
-      "translation": "אלכסנדר לא יכול לראות למסדרון הראשי מכאן.",
+      "translation": "אלכסנדר לא יכול להשקיף למסדרון הראשי מכאן.",
       "notes": "",
       "placeholders": []
     },
@@ -49261,7 +49261,7 @@
       "logicFile": 880,
       "messageNumber": 90,
       "original": "The curved marble wall yields nothing of interest to Alexander's fingers.",
-      "translation": "קיר השיש המעוגל לא מניב דבר מעניין לאצבעותיו של אלכסנדר.",
+      "translation": "קיר השיש המעוגל לא תורם דבר מעניין לאצבעותיו של אלכסנדר.",
       "notes": "",
       "placeholders": []
     },
@@ -49325,15 +49325,15 @@
       "logicFile": 899,
       "messageNumber": 2,
       "original": "Alexander doesn't know what that potion might do!  He doesn't want to frighten the young girl, and there's no one else here who might be impressed with the results!",
-      "translation": "אלכסנדר לא יודע מה השיקוי הזה עלול לעשות! הוא לא רוצה להבהיל את הילדה הקטנה, ואין כאן איש שיתרשם מהתוצאות!",
-      "notes": "",
+      "translation": "אלכסנדר לא יודע מה השיקוי הזה עלול לעשות! הוא לא רוצה להבהיל את קסימה, ואין כאן איש שיתרשם מהתוצאות!",
+      "notes": "מי זו הילדה הקטנה? קסימה?!",
       "placeholders": []
     },
     {
       "logicFile": 899,
       "messageNumber": 3,
       "original": "The sound of the mechanical nightingale would doubtless bring the guard dogs down on Alexander's head!  That might not be a good idea--at least, not at the present moment!",
-      "translation": "קולו של הזמיר המכאני ללא ספק יזמן את כלבי השמירה היישר לראשו של אלכסנדר! זה אולי לא רעיון טוב – לפחות לא ברגע זה!",
+      "translation": "קולו של הזמיר המכני ללא ספק יזמן את כלבי השמירה היישר לראשו של אלכסנדר! זה אולי לא רעיון טוב – לפחות לא ברגע זה!",
       "notes": "",
       "placeholders": []
     },
@@ -49342,7 +49342,7 @@
       "messageNumber": 4,
       "original": "Alexander doesn't want to be rude and do that while in the presence of the old matron.  Perhaps he should wait until she leaves.",
       "translation": "אלכסנדר לא רוצה להיות חסר נימוס ולעשות זאת בנוכחות הגברת הזקנה. אולי כדאי שיחכה עד שתלך.",
-      "notes": "",
+      "notes": "מי זו הגברת הזקנה?!",
       "placeholders": []
     },
     {
@@ -49365,7 +49365,7 @@
       "logicFile": 899,
       "messageNumber": 7,
       "original": "Alexander doesn't know what that potion might do, and the book shop owner seems a bit timid for a fright!",
-      "translation": "אלכסנדר לא יודע מה השיקוי הזה עלול לעשות, ובעל חנות הספרים נראה קצת מפוחד מכדי להיבהל!",
+      "translation": "אלכסנדר לא יודע מה השיקוי הזה עלול לעשות, ובעל חנות הספרים נראה קצת מפוחד בשביל זעזוע שכזה!",
       "notes": "",
       "placeholders": []
     },
@@ -49381,7 +49381,7 @@
       "logicFile": 899,
       "messageNumber": 9,
       "original": "It wouldn't be polite to do that here!  Perhaps Alexander should wait until he's not taking up the ferryman's time.",
-      "translation": "זה לא יהיה מנומס לעשות זאת כאן! אולי אלכסנדר צריך לחכות עד שלא יבזבז את זמנו של משיט המעבורת.",
+      "translation": "זה לא יהיה מנומס לעשות זאת כאן! אולי אלכסנדר צריך לחכות ולא לבזבז את זמנו של משיט המעבורת.",
       "notes": "",
       "placeholders": []
     },
@@ -49397,7 +49397,7 @@
       "logicFile": 899,
       "messageNumber": 11,
       "original": "The Realm of the Dead is a very dangerous place!  There's no time for that here!",
-      "translation": "ממלכת המתים היא מקום מסוכן מאוד! אין זמן לזה כאן!",
+      "translation": "ממלכת המתים היא מקום מסוכן מאוד! אין כאן זמן לזה!",
       "notes": "",
       "placeholders": []
     },
@@ -49405,7 +49405,7 @@
       "logicFile": 899,
       "messageNumber": 12,
       "original": "Alexander doesn't know what that potion might do!  He doesn't want to frighten the Winged Ones' guards, and there's no one else here who might be impressed with the results!",
-      "translation": "אלכסנדר לא יודע מה השיקוי הזה עלול לעשות! הוא לא רוצה להבהיל את השומרים המכונפים, ואין כאן איש שיתרשם מהתוצאות!",
+      "translation": "אלכסנדר לא יודע מה השיקוי הזה עלול לעשות! הוא לא רוצה להבהיל את השומרים בעלי הכנף, ואין כאן איש שיתרשם מהתוצאות!",
       "notes": "",
       "placeholders": []
     },
@@ -49413,7 +49413,7 @@
       "logicFile": 899,
       "messageNumber": 13,
       "original": "There's no time for that now!  There are guard dogs on patrol just on the other side of that pillar!",
-      "translation": "אין זמן לזה עכשיו! יש כלבי שמירה בסיור ממש מעבר לעמוד הזה!",
+      "translation": "כעת אין זמן לזה! יש כלבי שמירה בסיור ממש מעבר לעמוד הזה!",
       "notes": "",
       "placeholders": []
     },
@@ -49437,7 +49437,7 @@
       "logicFile": 899,
       "messageNumber": 16,
       "original": "This is no time for that!",
-      "translation": "אין זמן לזה עכשיו!",
+      "translation": "כעת אין זמן לזה!",
       "notes": "",
       "placeholders": []
     },
@@ -49445,7 +49445,7 @@
       "logicFile": 899,
       "messageNumber": 17,
       "original": "A trap room is no place to do that!  Alexander should wait until he's somewhere a bit safer.",
-      "translation": "חדר מלכודות הוא לא המקום לעשות את זה! אלכסנדר צריך לחכות עד שיהיה במקום קצת יותר בטוח.",
+      "translation": "חדר המלכודת הוא לא המקום לעשות את זה! אלכסנדר צריך לחכות עד שיהיה במקום קצת יותר בטוח.",
       "notes": "",
       "placeholders": []
     },
@@ -49453,7 +49453,7 @@
       "logicFile": 899,
       "messageNumber": 18,
       "original": "The minotaur's lair is no place to try that!  Alexander can wait until he's somewhere a bit more comfortable!",
-      "translation": "מאורת המינוטאור היא לא המקום לנסות זאת! אלכסנדר יכול לחכות עד שיהיה במקום נוח יותר!",
+      "translation": "מאורת המינוטאור היא לא המקום לנסות זאת! אלכסנדר צריך לחכות עד שיהיה במקום נוח יותר!",
       "notes": "",
       "placeholders": []
     },
@@ -49461,7 +49461,7 @@
       "logicFile": 899,
       "messageNumber": 19,
       "original": "This is no time for that!  Alexander should concentrate on the matter at hand and tend to those funny-looking gnomes!",
-      "translation": "אין זמן לזה עכשיו! אלכסנדר צריך להתרכז במשימה שלפניו ולטפל בגמדים המצחיקים האלה!",
+      "translation": "כעת אין זמן לזה! אלכסנדר צריך להתרכז במשימה שלפניו ולטפל בגמדים המצחיקים האלה!",
       "notes": "",
       "placeholders": []
     },
@@ -49477,7 +49477,7 @@
       "logicFile": 899,
       "messageNumber": 21,
       "original": "The sound of the flute would doubtless bring the guard dogs down on Alexander's head!  Even if it might cheer him up, he's not going to play it here in the castle!",
-      "translation": "קול החליל ללא ספק יזמן את כלבי השמירה היישר לראשו של אלכסנדר! גם אם זה אולי יעודד אותו, הוא לא ינגן בו כאן בטירה!",
+      "translation": "קול החליל ללא ספק יזמן את כלבי השמירה היישר לראשו של אלכסנדר! גם אם זה אולי יעודד אותו, הוא לא יוכל להמשיך לנגן בו כאן בטירה!",
       "notes": "",
       "placeholders": []
     },
@@ -49485,7 +49485,7 @@
       "logicFile": 899,
       "messageNumber": 22,
       "original": "This is no time for that!",
-      "translation": "אין זמן לזה עכשיו!",
+      "translation": "כעת אין זמן לזה!",
       "notes": "",
       "placeholders": []
     },
@@ -49501,7 +49501,7 @@
       "logicFile": 899,
       "messageNumber": 24,
       "original": "There's no time for that now!  Alexander is fighting for his life--and Cassima's!",
-      "translation": "אין זמן לזה עכשיו! אלכסנדר נלחם על חייו – ועל חייה של קסימה!",
+      "translation": "כעת אין זמן לזה! אלכסנדר נלחם על חייו – ועל חייה של קסימה!",
       "notes": "",
       "placeholders": []
     },
@@ -49525,7 +49525,7 @@
       "logicFile": 907,
       "messageNumber": 3,
       "original": "The book is used to cast spells on completed spell ingredients.  That does not look like the complete ingredients for any spell that Alexander can recall.",
-      "translation": "הספר משמש לכישוף מרכיבי לחש מושלמים. זה לא נראה כמו המרכיבים השלמים של שום לחש שאלכסנדר זוכר.",
+      "translation": "הספר משמש להטלת כשפים לפי מתכון מוכן מראש. זה לא נראה כמו אחד המתכונים של שום לחש שאלכסנדר זוכר.",
       "notes": "",
       "placeholders": []
     },
@@ -49533,7 +49533,7 @@
       "logicFile": 907,
       "messageNumber": 4,
       "original": "It wouldn't be worthwhile to try and spice up the book by doing that.",
-      "translation": "לא יהיה כדאי לנסות לתבל את הספר בדרך זו.",
+      "translation": "לא נראה שזה מה שיוסיף עניין לספר.",
       "notes": "",
       "placeholders": []
     },
@@ -49573,7 +49573,7 @@
       "logicFile": 907,
       "messageNumber": 9,
       "original": "Phew!  What an incredibly boring book!  No wonder the book shop owner wanted to get rid of it so badly.",
-      "translation": "אוי! איזה ספר משעמם להחריד! לא פלא שבעל חנות הספרים רצה להיפטר ממנו כל כך.",
+      "translation": "אוי! איזה ספר משעמם להחריד! לא פלא שבעל חנות הספרים רצה כל כך להיפטר ממנו.",
       "notes": "",
       "placeholders": []
     },
@@ -49589,7 +49589,7 @@
       "logicFile": 907,
       "messageNumber": 11,
       "original": "Alexander is carrying a 'rare' book from the bookworm.  The words on the binding are very faint; \"The <something> <something> Riddle Book.\"",
-      "translation": "אלכסנדר נושא ספר 'נדיר' מתולעת הספרים. המילים על הכריכה חיוורות מאוד; \"ספר החידות של ה<משהו> ה<משהו>.\"",
+      "translation": "אלכסנדר נושא ספר 'נדיר' מתולעת הספרים. המילים על הכריכה חיוורות מאוד; \"ספר חידות ה<משהו> <משהו>.\"",
       "notes": "",
       "placeholders": []
     },
@@ -49677,7 +49677,7 @@
       "logicFile": 907,
       "messageNumber": 22,
       "original": "Small speckles of sand stand out against the otherwise gray brick.",
-      "translation": "כתמים קטנים של חול בולטים על רקע הלבנה האפורה בדרך כלל.",
+      "translation": "גרגרי חול קטנים בולטים על רקע הלבנה האפורה.",
       "notes": "",
       "placeholders": []
     },
@@ -49685,7 +49685,7 @@
       "logicFile": 907,
       "messageNumber": 23,
       "original": "The brick feels very heavy and solid in Alexander's hand.",
-      "translation": "הלבנה מרגישה כבדה ומוצקה בידו של אלכסנדר.",
+      "translation": "הלבנה מורגשת כבדה ומוצקה בידו של אלכסנדר.",
       "notes": "",
       "placeholders": []
     },
@@ -49701,7 +49701,7 @@
       "logicFile": 907,
       "messageNumber": 25,
       "original": "The paint has dried on the tip of the brush and leaves no impression behind.",
-      "translation": "הצבע התייבש על קצה המברשת ולא משאיר אחריו רושם.",
+      "translation": "הצבע התייבש על קצה המברשת ולא משאיר אחריו סימן.",
       "notes": "",
       "placeholders": []
     },
@@ -49725,7 +49725,7 @@
       "logicFile": 907,
       "messageNumber": 28,
       "original": "The paint brush bristles have softened to a perfect consistency after much hard use.",
-      "translation": "זיפי המכחול התרככו לעקביות מושלמת לאחר שימוש רב.",
+      "translation": "זיפי המכחול התרככו והגיעו לרמת רכות מושלמת לאחר שימוש רב.",
       "notes": "",
       "placeholders": []
     },
@@ -49765,7 +49765,7 @@
       "logicFile": 907,
       "messageNumber": 33,
       "original": "Why do that to Beauty's clothes?",
-      "translation": "למה לעשות את זה לבגדי היפהפייה?",
+      "translation": "למה לעשות את זה לבגדי היפה?",
       "notes": "",
       "placeholders": []
     },
@@ -49773,7 +49773,7 @@
       "logicFile": 907,
       "messageNumber": 34,
       "original": "Beauty's old clothes are very ragged and heavy.  They consist of a long, thick dress, and a headpiece which covers the hair and most of the face.",
-      "translation": "בגדיה הישנים של היפהפייה קרועים וכבדים מאוד. הם כוללים שמלה ארוכה ועבה, וכיסוי ראש המכסה את השיער ואת רוב הפנים.",
+      "translation": "בגדיה הישנים של היפה קרועים וכבדים מאוד. הם כוללים שמלה ארוכה ועבה, וכיסוי ראש המכסה את השיער ואת רוב הפנים.",
       "notes": "",
       "placeholders": []
     },
@@ -49781,7 +49781,7 @@
       "logicFile": 907,
       "messageNumber": 35,
       "original": "A long strand of Beauty's blond hair is caught in the mantle.",
-      "translation": "קווצת שיער בלונדיני ארוכה של היפהפייה נתפסה במעטה.",
+      "translation": "קווצת שיער בהירה וארוכה של היפה נתפסה בבגד.",
       "notes": "",
       "placeholders": []
     },
@@ -49789,7 +49789,7 @@
       "logicFile": 907,
       "messageNumber": 36,
       "original": "Alexander searches through Beauty's clothes but finds nothing.",
-      "translation": "אלכסנדר מחפש בבגדי היפהפייה אך לא מוצא דבר.",
+      "translation": "אלכסנדר מחפש בבגדי היפה אך לא מוצא דבר.",
       "notes": "",
       "placeholders": []
     },
@@ -49797,7 +49797,7 @@
       "logicFile": 907,
       "messageNumber": 37,
       "original": "Alexander searches through Beauty's clothes and finds a long strand of blond hair.",
-      "translation": "אלכסנדר מחפש בבגדי היפהפייה ומוצא קווצת שיער בלונדיני ארוכה.",
+      "translation": "אלכסנדר מחפש בבגדי היפה ומוצא קווצת שיער בהירה וארוכה.",
       "notes": "",
       "placeholders": []
     },
@@ -49813,7 +49813,7 @@
       "logicFile": 907,
       "messageNumber": 39,
       "original": "Alexander has a pitch black lump of coal that he found on the Isle of the Mists.",
-      "translation": "לאלכסנדר יש גוש פחם שחור כפחם שמצא באי הערפילים.",
+      "translation": "לאלכסנדר יש גוש פחם שחור משחור שמצא באי הערפילים.",
       "notes": "",
       "placeholders": []
     },
@@ -49837,7 +49837,7 @@
       "logicFile": 907,
       "messageNumber": 42,
       "original": "Alexander is carrying a copper coin of Daventry.  King Graham graces the front of the coin.",
-      "translation": "אלכסנדר נושא מטבע נחושת מדבנטרי. המלך גראהם מתנוסס בחזית המטבע.",
+      "translation": "אלכסנדר נושא מטבע נחושת מדבנטרי. דיוקן המלך גראהם מתנוסס בחזית המטבע.",
       "notes": "",
       "placeholders": []
     },
@@ -49845,7 +49845,7 @@
       "logicFile": 907,
       "messageNumber": 43,
       "original": "Ah, if only Alexander's father could speak now and give his advice!",
-      "translation": "הו, לו רק אביו של אלכסנדר יכול היה לדבר עכשיו ולתת את עצתו!",
+      "translation": "הו, לו רק אביו של אלכסנדר יכול היה לדבר עכשיו ולתת לו את עצתו!",
       "notes": "",
       "placeholders": []
     },
@@ -49853,7 +49853,7 @@
       "logicFile": 907,
       "messageNumber": 44,
       "original": "Alexander rubs his fingers over the indentation of King Graham's face on the copper coin, and thinks fondly of home.",
-      "translation": "אלכסנדר משפשף את אצבעותיו על שקע פניו של המלך גראהם על מטבע הנחושת, וחושב בחיבה על הבית.",
+      "translation": "אלכסנדר משפשף את אצבעותיו על תבליט פניו של המלך גראהם על מטבע הנחושת, ונזכר בגעגועים בביתו.",
       "notes": "",
       "placeholders": []
     },
@@ -49869,7 +49869,7 @@
       "logicFile": 907,
       "messageNumber": 46,
       "original": "The two coins from the skeleton in the catacombs are extremely old and corroded.",
-      "translation": "שני המטבעות מהשלד במערות הקבורה ישנים וחלודים במיוחד.",
+      "translation": "שני המטבעות השלד ממערות הקבורה ישנים וחלודים במיוחד.",
       "notes": "",
       "placeholders": []
     },
@@ -49965,7 +49965,7 @@
       "logicFile": 907,
       "messageNumber": 58,
       "original": "The little bottle contains some sort of potion and bears a label saying, \"DRINK ME.\"  That's rather forward of it!",
-      "translation": "הבקבוקון הקטן מכיל איזה שיקוי ונושא תווית האומרת, \"שתי אותי.\" זה די בוטה מצידו!",
+      "translation": "הבקבוקון הקטן מכיל איזה שיקוי ונושא תווית האומרת, \"שתה אותי.\" זה די מלחיץ!",
       "notes": "",
       "placeholders": []
     },
@@ -50053,7 +50053,7 @@
       "logicFile": 907,
       "messageNumber": 69,
       "original": "The little flute is carved from a single piece of wood and has tiny finger holes in the shaft.",
-      "translation": "החליל הקטן מגולף מחתיכת עץ אחת ויש בו חורי אצבע זעירים במוט.",
+      "translation": "החליל הקטן מגולף מחתיכת עץ אחת ויש בו עליו חורי אצבע זעירים.",
       "notes": "",
       "placeholders": []
     },
@@ -50061,7 +50061,7 @@
       "logicFile": 907,
       "messageNumber": 70,
       "original": "The flute feels light and comfortable in Alexander's hands.",
-      "translation": "החליל מרגיש קל ונוח בידיו של אלכסנדר.",
+      "translation": "החליל מורגש קל ונוח בידיו של אלכסנדר.",
       "notes": "",
       "placeholders": []
     },
@@ -50085,7 +50085,7 @@
       "logicFile": 907,
       "messageNumber": 73,
       "original": "\"Flesh may cross the portal,\\n and seek its master Death.\\n Flesh may go where Death has trod,\\n and challenge, like Scheherazade,\\n He Who Reins Beneath The Sod,\\n to spare a mortal's breath.\"",
-      "translation": "\"בשר עשוי לחצות את השער,\\n ולבקש את אדונו המוות.\\n בשר עשוי ללכת היכן שדרך המוות,\\n ולאתגר, כעליזה,\\n את מי ששולט תחת העפר,\\n לחוס על נשימת בן תמותה.\"",
+      "translation": "\"בשר ודם רשאי לעבור,\\n ולדרוש את אדון השאול.\\n במקום בו המוות צועד,\\n שם ירהיב הוא עוז ויכול,\\n כמו שחרזאדה – יקרא לתיגר,\\n על שוכן העפר והשכול,\\nלחוס על חיי בן-תמותה,\\nולא לתת לו ליפול.\"",
       "notes": "",
       "placeholders": []
     },
@@ -50109,7 +50109,7 @@
       "logicFile": 907,
       "messageNumber": 76,
       "original": "That would have no effect on the ghostly ticket.",
-      "translation": "לזה לא תהיה השפעה על הכרטיס הרוחני.",
+      "translation": "לא תהיה לזה השפעה על הכרטיס השמימי.",
       "notes": "",
       "placeholders": []
     },
@@ -50117,7 +50117,7 @@
       "logicFile": 907,
       "messageNumber": 77,
       "original": "The ghostly ticket reads, \"Admit One.\"",
-      "translation": "על הכרטיס הרוחני כתוב, \"כניסה לאחד.\"",
+      "translation": "על הכרטיס השמימי כתוב, \"כניסה לאחד.\"",
       "notes": "",
       "placeholders": []
     },
@@ -50173,7 +50173,7 @@
       "logicFile": 907,
       "messageNumber": 84,
       "original": "A bit of the wallflowers' shyness seems to have rubbed off on the hole-in-the-wall, for he remains mute.",
-      "translation": "קצת מהביישנות של פרחי הקיר נראה שנדבקה לחור שבקיר, שכן הוא נשאר אילם.",
+      "translation": "נראה שנדבקה לחור שבקיר קצת מהביישנות של פרחי הקיר, שכן הוא נשאר אילם.",
       "notes": "",
       "placeholders": []
     },
@@ -50245,7 +50245,7 @@
       "logicFile": 907,
       "messageNumber": 93,
       "original": "There is no reason to use that on the puddle of green water.",
-      "translation": "אין סיבה להשתמש בזה על שלולית המים הירוקים.",
+      "translation": "אין סיבה להשתמש בזה על שלולית המים הצלולים והתכולים.",
       "notes": "",
       "placeholders": []
     },
@@ -50253,7 +50253,7 @@
       "logicFile": 907,
       "messageNumber": 94,
       "original": "All that remains of the iceberg lettuce is a rapidly evaporating puddle of green water.",
-      "translation": "כל מה שנותר מחסת הקרח הוא שלולית מים ירוקים המתאדה במהירות.",
+      "translation": "כל מה שנותר מחסת הקרח הוא שלולית מים צלולים ותכולים המתאדה במהירות.",
       "notes": "",
       "placeholders": []
     },
@@ -50261,7 +50261,7 @@
       "logicFile": 907,
       "messageNumber": 95,
       "original": "The melted iceberg lettuce feels like a puddle of green water.",
-      "translation": "חסת הקרח המומסת מרגישה כמו שלולית מים ירוקים.",
+      "translation": "חסת הקרח המומסת נראית כמו שלולית מים צלולים ותכולים.",
       "notes": "",
       "placeholders": []
     },
@@ -50277,7 +50277,7 @@
       "logicFile": 907,
       "messageNumber": 97,
       "original": "Alexander is carrying an old, battered hunter's lamp.",
-      "translation": "אלכסנדר נושא מנורת צידים ישנה וחבוטה.",
+      "translation": "אלכסנדר נושא מנורת ציידים ישנה וחבוטה.",
       "notes": "",
       "placeholders": []
     },
@@ -50381,7 +50381,7 @@
       "logicFile": 907,
       "messageNumber": 110,
       "original": "Alexander pours the contents of the Oracle's vial into the hunter's lamp.  The vial, now empty of its sacred fluid, disintegrates.",
-      "translation": "אלכסנדר שופך את תוכן בקבוקון האורקל למנורת הצידים. הבקבוקון, כעת ריק מנוזליו הקדושים, מתפורר.",
+      "translation": "אלכסנדר שופך את תוכן בקבוקון האורקל למנורת הציידים. הבקבוקון, כעת ריק מנוזליו הקדושים, מתפורר.",
       "notes": "",
       "placeholders": []
     },
@@ -50389,7 +50389,7 @@
       "logicFile": 907,
       "messageNumber": 111,
       "original": "Alexander pours the contents of the Oracle's vial into the hunter's lamp with the baby's tears.  The vial, now empty of its sacred fluid, disintegrates.",
-      "translation": "אלכסנדר שופך את תוכן בקבוקון האורקל למנורת הצידים עם דמעות התינוקות. הבקבוקון, כעת ריק מנוזליו הקדושים, מתפורר.",
+      "translation": "אלכסנדר שופך את תוכן בקבוקון האורקל למנורת הציידים עם דמעות התינוקות. הבקבוקון, כעת ריק מנוזליו הקדושים, מתפורר.",
       "notes": "",
       "placeholders": []
     },
@@ -50429,7 +50429,7 @@
       "logicFile": 907,
       "messageNumber": 116,
       "original": "The old hunter's lamp is already as \"enchanted\" as it's ever going to get!",
-      "translation": "מנורת הצידים הישנה כבר \"מכושפת\" ככל שתהיה אי פעם!",
+      "translation": "מנורת הציידים הישנה כבר \"מכושפת\" יותר מכפי שתהיה אי פעם!",
       "notes": "",
       "placeholders": []
     },
@@ -50437,7 +50437,7 @@
       "logicFile": 907,
       "messageNumber": 117,
       "original": "Spells must be cast over completely prepared spell ingredients.  The lamp ingredients are not yet ready for enchantment.",
-      "translation": "לחשים יש להטיל על מרכיבי לחש מוכנים לגמרי. מרכיבי המנורה עדיין לא מוכנים לכישוף.",
+      "translation": "לחשים יש להטיל על מרכיבי לחש המוכנים מראש על פי המתכון. מרכיבי המנורה עדיין לא מוכנים לכישוף.",
       "notes": "",
       "placeholders": []
     },
@@ -50445,7 +50445,7 @@
       "logicFile": 907,
       "messageNumber": 118,
       "original": "Why would Alexander want to use the spell book on the hunter's lamp?",
-      "translation": "למה שאלכסנדר ירצה להשתמש בספר הלחשים על מנורת הצידים?",
+      "translation": "למה שאלכסנדר ירצה להשתמש בספר הלחשים על מנורת הציידים?",
       "notes": "",
       "placeholders": []
     },
@@ -50477,7 +50477,7 @@
       "logicFile": 907,
       "messageNumber": 122,
       "original": "Alexander has traded the hunter's lamp for a red, oriental-style lamp made out of decorated paper.",
-      "translation": "אלכסנדר החליף את מנורת הצידים במנורה אדומה בסגנון מזרחי העשויה מנייר מעוטר.",
+      "translation": "אלכסנדר החליף את מנורת הציידים במנורה אדומה בסגנון מזרחי העשויה מנייר מעוטר.",
       "notes": "",
       "placeholders": []
     },
@@ -50533,7 +50533,7 @@
       "logicFile": 907,
       "messageNumber": 129,
       "original": "Alexander has traded for a new lamp similar to the hunter's lamp.  However, this one's spout is not hollow, but is made from a piece of solid metal.",
-      "translation": "אלכסנדר החליף מנורה חדשה הדומה למנורת הצידים. אולם, פיה של זו אינה חלולה, אלא עשויה מחתיכת מתכת מוצקה.",
+      "translation": "אלכסנדר החליף מנורה חדשה הדומה למנורת הציידים. אולם, פיה של זו אינה חלולה, אלא עשויה מחתיכת מתכת מוצקה.",
       "notes": "",
       "placeholders": []
     },
@@ -50541,7 +50541,7 @@
       "logicFile": 907,
       "messageNumber": 130,
       "original": "The \"Make Rain Spell\" calls for a teapot.  That lamp has a lid and handle, but its spout is plugged.  It's not quite enough like a teapot.",
-      "translation": "\"לחש יצירת הגשם\" דורש קומקום. למנורה הזו יש מכסה וידית, אך פיה סתום. היא לא דומה מספיק לקומקום.",
+      "translation": "\"לחש יצירת הגשם\" דורש קומקום. למנורה הזו יש מכסה וידית, אך פיה סתום. ולכן היא לא דומה מספיק לקומקום.",
       "notes": "",
       "placeholders": []
     },
@@ -50549,7 +50549,7 @@
       "logicFile": 907,
       "messageNumber": 131,
       "original": "Alexander's new lamp is long and narrow.  It's open at either end, like a lantern, and is fashioned of flowered blue paper.",
-      "translation": "המנורה החדשה של אלכסנדר ארוכה וצרה. היא פתוחה בשני הקצוות, כמו עששית, ועשויה מנייר כחול פרחוני.",
+      "translation": "המנורה החדשה של אלכסנדר ארוכה וצרה. היא פתוחה משני הקצוות, כמו עששית, ועשויה בין השאר מנייר כחול פרחוני.",
       "notes": "",
       "placeholders": []
     },
@@ -50605,7 +50605,7 @@
       "logicFile": 907,
       "messageNumber": 138,
       "original": "\"Greetings to a brother of the Black Cloak.  I was sorry to hear of great Mordack's death, though he was a bit of a ninny at chess.\"",
-      "translation": "\"ברכות לאח לגלימה השחורה. הצטערתי לשמוע על מותו של מורדאק הגדול, אף על פי שהיה קצת שוטה בשחמט.\"",
+      "translation": "\"ברכות לאח לגלימה השחורה. הצטערתי לשמוע על מותו של מורדאק הגדול, למרות שהיה די שוטה בשחמט.\"",
       "notes": "",
       "placeholders": []
     },
@@ -50613,7 +50613,7 @@
       "logicFile": 907,
       "messageNumber": 139,
       "original": "\"It seems the plans for that little kingdom of yours are coming along.  I must congratulate you on your handling of the king and queen.  Isolating the islands so that no protest could develop was another brilliant stroke.\"",
-      "translation": "\"נראה שהתוכניות לממלכה הקטנה שלך מתקדמות. עלי לברך אותך על הטיפול שלך במלך ובמלכה. בידוד האיים כך שלא תוכל להתפתח מחאה היה מהלך מבריק נוסף.\"",
+      "translation": "\"נראה שהתוכניות לממלכה הקטנה שלך מתקדמות. עליי לברך אותך על הטיפול במלך ובמלכה. בידוד האיים כך שלא תוכל להתפתח מחאה היה עוד מהלך מבריק.\"",
       "notes": "",
       "placeholders": []
     },
@@ -50621,7 +50621,7 @@
       "logicFile": 907,
       "messageNumber": 140,
       "original": "\"It looks like there's not much left to stand in your way.  Do as I recommended with the girl, and you shall have your crown.\"",
-      "translation": "\"נראה שלא נשאר הרבה שיעמוד בדרכך. עשה כפי שהמלצתי עם הנערה, ותקבל את כתרך.\"",
+      "translation": "\"נראה שלא נשאר הרבה שיעמוד בדרכך. עשה כפי שהמלצתי עם הנערה, והכתר יהיה שלך.\"",
       "notes": "",
       "placeholders": []
     },
@@ -50629,7 +50629,7 @@
       "logicFile": 907,
       "messageNumber": 141,
       "original": "\"Alhazred, you shall pay!\"",
-      "translation": "\"אלחזרד, אתה תשלם!\"",
+      "translation": "\"אל-האזרד, אתה תשלם על זה!\"",
       "notes": "",
       "placeholders": []
     },
@@ -50645,7 +50645,7 @@
       "logicFile": 907,
       "messageNumber": 143,
       "original": "Alexander has a love poem from a book in the book shop.",
-      "translation": "לאלכסנדר יש שיר אהבה מספר בחנות הספרים.",
+      "translation": "לאלכסנדר יש שיר אהבה הלקוח מספר בחנות הספרים.",
       "notes": "",
       "placeholders": []
     },
@@ -50653,7 +50653,7 @@
       "logicFile": 907,
       "messageNumber": 144,
       "original": "The poem's written words speak plainly enough.",
-      "translation": "מילות השיר הכתובות מדברות בבירור מספיק.",
+      "translation": "מילות השיר הכתובות מדברות די בבירור.",
       "notes": "",
       "placeholders": []
     },
@@ -50669,7 +50669,7 @@
       "logicFile": 907,
       "messageNumber": 146,
       "original": "What was it when I looked at you?\\nWhat power has chained me through and through?\\nAnd binds my heart with links so tight,\\nI cannot live without the sight\\n  of you?",
-      "translation": "מה היה זה כשראיתי אותך?\\nאיזו כוח כבל אותי לגמרי?\\nוקושר את ליבי בקשרים כה חזקים,\\nשאיני יכול לחיות בלי המראה\\nשלך?",
+      "translation": "מה היה זה כשבך הבטתי? \\nאיזה כוח בו נלכדתי? \\nלופת ליבי בכבלים עזים, \\nבלעדי דמותך - חיי נגנזים?",
       "notes": "",
       "placeholders": []
     },
@@ -50677,7 +50677,7 @@
       "logicFile": 907,
       "messageNumber": 147,
       "original": "What nameless thing has captured me?\\nAnd made me powerless to flee?\\nWhat thing is it without a name,\\nthat brings my mind ever back the same\\n   to thee?",
-      "translation": "איזה דבר חסר שם לכד אותי?\\nוהפך אותי לחסר כוח לברוח?\\nאיזה דבר הוא זה בלי שם,\\nשמחזיר את רוחי תמיד באותו אופן\\nאליך?",
+      "translation": "איזה דבר חסר כל שם, \\nלכד אותי ולא נושם? \\nמה הדבר שאין לא תואר, \\nהמשיב אליך את המחשבתי בטוהר?",
       "notes": "",
       "placeholders": []
     },
@@ -50685,7 +50685,7 @@
       "logicFile": 907,
       "messageNumber": 148,
       "original": "The name of 'love' cannot apply,\\nits commonness does not descry,\\nthe haunted, hunted, painful cry\\n   that my heart makes for you.\\n\\nThat ever my soul eternal makes for you.",
-      "translation": "שם ה'אהבה' אינו יכול לחול,\\nשכיחותו אינה מתארת,\\nאת הבכי הנרדף, הניצוד, הכואב\\n שליבי משמיע לך.\\n\\nשנשמתי הנצחית תמיד משמיעה לך.",
+      "translation": "המושג 'אהבה' כה צר ודל. \\nשכיחותו לא תכיל כלל, \\nאת הזעקה, את הכאב המקולל \\nשליבי זועק אומלל. \\n\\nשנשמתי לנצח באותו גורל.",
       "notes": "",
       "placeholders": []
     },
@@ -50741,7 +50741,7 @@
       "logicFile": 907,
       "messageNumber": 155,
       "original": "The glass bottle is full of milk.  How strange for a plant to produce not only milk, but a container to go with it!",
-      "translation": "בקבוק הזכוכית מלא בחלב. כמה מוזר שצמח ייצר לא רק חלב, אלא גם כלי קיבול שילווה אותו!",
+      "translation": "בקבוק הזכוכית מלא בחלב. כמה מוזר שצמח ייצר לא רק חלב, אלא גם כלי קיבול שיכיל אותו!",
       "notes": "",
       "placeholders": []
     },
@@ -50757,7 +50757,7 @@
       "logicFile": 907,
       "messageNumber": 157,
       "original": "Why use that on the mint?",
-      "translation": "למה להשתמש בזה על הנענע?",
+      "translation": "למה להשתמש בזה על סוכריית הנענע?",
       "notes": "",
       "placeholders": []
     },
@@ -50765,7 +50765,7 @@
       "logicFile": 907,
       "messageNumber": 158,
       "original": "The small green mint looks very tasty.",
-      "translation": "הנענע הירוקה הקטנה נראית טעימה מאוד.",
+      "translation": "סוכריית הנענע הירוקה הקטנה נראית טעימה מאוד.",
       "notes": "",
       "placeholders": []
     },
@@ -50773,7 +50773,7 @@
       "logicFile": 907,
       "messageNumber": 159,
       "original": "The mint might melt if Alexander held it too tightly.",
-      "translation": "הנענע עלולה להימס אם אלכסנדר יחזיק אותה חזק מדי.",
+      "translation": "סוכריית הנענע עלולה להינמס אם אלכסנדר יחזיק אותה חזק מדי.",
       "notes": "",
       "placeholders": []
     },
@@ -50789,7 +50789,7 @@
       "logicFile": 907,
       "messageNumber": 161,
       "original": "Beast's mirror consists of a piece of glass set into a decorative frame.  The glass is unusually clear and the image particularly true.",
-      "translation": "מראת החיה מורכבת מחתיכת זכוכית המשובצת במסגרת דקורטיבית. הזכוכית שקופה באופן יוצא דופן והתמונה אמיתית במיוחד.",
+      "translation": "מראת החיה מורכבת מחתיכת זכוכית המשובצת במסגרת דקורטיבית. הזכוכית נקייה באופן יוצא דופן והתמונה אמיתית במיוחד.",
       "notes": "",
       "placeholders": []
     },
@@ -50861,7 +50861,7 @@
       "logicFile": 907,
       "messageNumber": 170,
       "original": "Contrary to what Alexander may wish, the note tells him no more than what is written on the page.",
-      "translation": "בניגוד למה שאלכסנדר אולי ירצה, הפתק אינו מספר לו יותר ממה שכתוב על העמוד.",
+      "translation": "בניגוד למה שאלכסנדר אולי ירצה, המכתב אינו מספר לו יותר ממה שכתוב על הדף.",
       "notes": "",
       "placeholders": []
     },
@@ -50869,7 +50869,7 @@
       "logicFile": 907,
       "messageNumber": 171,
       "original": "Alexander reads Cassima's note again, searching for any sign of her true feelings for him....",
-      "translation": "אלכסנדר קורא שוב את פתקה של קסימה, מחפש כל סימן לרגשותיה האמיתיים כלפיו....",
+      "translation": "אלכסנדר קורא שוב את מכתבה של קסימה, מחפש כל סימן לרגשותיה האמיתיים כלפיו....",
       "notes": "",
       "placeholders": []
     },
@@ -50877,7 +50877,7 @@
       "logicFile": 907,
       "messageNumber": 172,
       "original": "Dearest Alexander:  \\n\\nI cannot believe you are here, my friend! Please, please be careful!  Abdul isn't about to let anyone interfere with his plans.  Watch out for Abdul's genie, Alexander, and do not do anything rash.  I am not without resources, and I will prevail if I can only find some small means of defense.  Do nothing to try to get to me.  You must not be endangered again for my sake.\\n\\nGreatly in your family's debt,\\n\\nCassima",
-      "translation": "אלכסנדר היקר: \\n\\nאני לא מאמינה שאתה כאן, ידידי! בבקשה, בבקשה היזהר! עבדול לא מתכוון לתת לאף אחד להפריע לתוכניותיו. היזהר מהג'יני של עבדול, אלכסנדר, ואל תעשה שום דבר פזיז. אני לא חסרת משאבים, ואני אנצח אם רק אמצא איזו דרך קטנה להתגונן. אל תנסה להגיע אליי. אסור לך להסתכן שוב למעני.\\n\\nחבה חוב גדול למשפחתך,\\n\\nקסימה",
+      "translation": "אלכסנדר היקר: \\n\\nאני לא  מאמינה שאתה כאן, ידידי! אנא, אנא היזהר! עבדול לא יניח לאיש להפריע לתוכניותיו. היזהר מן הג'יני של עבדול, אלכסנדר, ואל תעשה דבר בפזיזות. אני יודעת להגן על עצמי, ואעמוד על שלי אם רק אמצא דרך הגנה כלשהי. אל תנסה להגיע אליי. אסור שתסתכן שוב בגללי.\\n\\nאני חבה לך ולמשפחתך עד בלי די,\\n\\nקסימה",
       "notes": "",
       "placeholders": []
     },
@@ -50901,7 +50901,7 @@
       "logicFile": 907,
       "messageNumber": 175,
       "original": "Alexander turns the pearl slowly in his hand and sees its opaque white hue melt into iridescent colors.",
-      "translation": "אלכסנדר מסובב את הפנינה באיטיות בידו ורואה את גוון הלבן האטום שלה נמס לצבעים קשתניים.",
+      "translation": "אלכסנדר מגלגל את הפנינה באיטיות בידו ורואה את הגוון הלבן האטום שלה משתנה לצבעים ססגוניים.",
       "notes": "",
       "placeholders": []
     },
@@ -50981,7 +50981,7 @@
       "logicFile": 907,
       "messageNumber": 185,
       "original": "Alexander examines the red ribbon and finds a strand of long, black hair.",
-      "translation": "אלכסנדר בוחן את הסרט האדום ומוצא קווצת שיער שחורה ארוכה.",
+      "translation": "אלכסנדר בוחן את הסרט האדום ומוצא קווצת שיער שחורה וארוכה.",
       "notes": "",
       "placeholders": []
     },
@@ -50989,7 +50989,7 @@
       "logicFile": 907,
       "messageNumber": 186,
       "original": "The red ribbon feels soft and luxurious between Alexander's caressing fingers.",
-      "translation": "הסרט האדום מרגיש רך ויוקרתי בין אצבעותיו המלטפות של אלכסנדר.",
+      "translation": "הסרט האדום מורגש רך ויוקרתי בין אצבעותיו המלטפות של אלכסנדר.",
       "notes": "",
       "placeholders": []
     },
@@ -51013,7 +51013,7 @@
       "logicFile": 907,
       "messageNumber": 189,
       "original": "Alexander can't break Beast's spell!  The ring needs to be given to a maiden.",
-      "translation": "אלכסנדר לא יכול לשבור את הכישוף של החיה! יש לתת את הטבעת עלמה.",
+      "translation": "אלכסנדר לא יכול לשבור את הכישוף של החיה! יש לתת את הטבעת לעלמה.",
       "notes": "",
       "placeholders": []
     },
@@ -51029,7 +51029,7 @@
       "logicFile": 907,
       "messageNumber": 191,
       "original": "Alexander's ring is made of the purest gold and has the insignia of the royal family of Daventry on its face.",
-      "translation": "טבעתו של אלכסנדר עשויה מהזהב הטהור ביותר ונושאת את סמל המשפחה המלכותית של דבנטרי על פניה.",
+      "translation": "טבעתו של אלכסנדר עשויה מהזהב הטהור ביותר ונושאת את סמל המשפחה המלכותי של דבנטרי על פניה.",
       "notes": "",
       "placeholders": []
     },
@@ -51085,7 +51085,7 @@
       "logicFile": 907,
       "messageNumber": 198,
       "original": "The old, rotten tomato gives Alexander a mean look and grumbles sourly.",
-      "translation": "העגבנייה הישנה והרקובה מפנה לאלכסנדר מבט זועף ומתלוננת במרמור.",
+      "translation": "העגבנייה הישנה והרקובה מפנה לאלכסנדר מבט זועף ומתלונן במרמור.",
       "notes": "",
       "placeholders": []
     },
@@ -51141,7 +51141,7 @@
       "logicFile": 907,
       "messageNumber": 205,
       "original": "\"Hands off, you!\"",
-      "translation": "\"ידיים למעלה, אתה!\"",
+      "translation": "\"אתה, ידיים למעלה!\"",
       "notes": "",
       "placeholders": []
     },
@@ -51189,7 +51189,7 @@
       "logicFile": 907,
       "messageNumber": 211,
       "original": "The scythe feels heavy in Alexander's hands.",
-      "translation": "החרמש מרגיש כבד בידיו של אלכסנדר.",
+      "translation": "החרמש מורגש כבד בידיו של אלכסנדר.",
       "notes": "",
       "placeholders": []
     },
@@ -51205,7 +51205,7 @@
       "logicFile": 907,
       "messageNumber": 213,
       "original": "The otherwise plain, wooden shield is embellished with a silver cross.",
-      "translation": "המגן העץ הפשוט מעוטר בצלב כסף.",
+      "translation": "מגן העץ הפשוט מעוטר בצלב כסף.",
       "notes": "",
       "placeholders": []
     },
@@ -51237,8 +51237,8 @@
       "logicFile": 907,
       "messageNumber": 217,
       "original": "The skeleton key feels a bit bony.",
-      "translation": "מפתח השלד מרגיש מעט גרמי.",
-      "notes": "",
+      "translation": "מפתח השלד מרגיש מעט מפרקי.",
+      "notes": "צריך להתייעץ איך לקרוא למפתח הזה. שלד או מאסטר!",
       "placeholders": []
     },
     {
@@ -51301,7 +51301,7 @@
       "logicFile": 907,
       "messageNumber": 225,
       "original": "The teacup contains swamp ooze.",
-      "translation": "ספל התה מכיל רפש ביצות.",
+      "translation": "ספל התה מכיל בוץ של ביצה.",
       "notes": "",
       "placeholders": []
     },
@@ -51309,7 +51309,7 @@
       "logicFile": 907,
       "messageNumber": 226,
       "original": "The teacup contains water from the River Styx.",
-      "translation": "ספל התה מכיל מים מהנהר סטיקס.",
+      "translation": "ספל התה מכיל מים מנהר סטיקס.",
       "notes": "",
       "placeholders": []
     },
@@ -51317,7 +51317,7 @@
       "logicFile": 907,
       "messageNumber": 227,
       "original": "The teacup contains swamp ooze and water from the River Styx.",
-      "translation": "ספל התה מכיל רפש ביצות ומים מהנהר סטיקס.",
+      "translation": "ספל התה מכיל בוץ של ביצה ומים מנהר סטיקס.",
       "notes": "",
       "placeholders": []
     },
@@ -51365,7 +51365,7 @@
       "logicFile": 907,
       "messageNumber": 233,
       "original": "Casting spells is done over prepared spell ingredients.  That doesn't look like the completed ingredients to any spell that Alexander can recall.",
-      "translation": "הטלת לחשים נעשית על מרכיבי לחש מוכנים. זה לא נראה כמו המרכיבים השלמים של שום לחש שאלכסנדר זוכר.",
+      "translation": "הטלת לחשים נעשית על מרכיבי לחש מוכנים. זה לא נראה כמו מתכון של איזה לחש שאלכסנדר זוכר.",
       "notes": "",
       "placeholders": []
     },
@@ -51437,7 +51437,7 @@
       "logicFile": 907,
       "messageNumber": 242,
       "original": "To paint something, Alexander must first choose a location where he wants to paint.  The paint can then be used on that location.",
-      "translation": "כדי לצבוע משהו, אלכסנדר חייב קודם לבחור מקום שבו הוא רוצה לצבוע. את הצבע ניתן אז להשתמש במקום זה.",
+      "translation": "כדי לצבוע משהו, אלכסנדר חייב קודם לבחור מקום שבו הוא רוצה לצבוע. ואז ניתן להשתמש בצבע במקום זה.",
       "notes": "",
       "placeholders": []
     },
@@ -51493,7 +51493,7 @@
       "logicFile": 907,
       "messageNumber": 249,
       "original": "The pawn shop's tinder box is slightly battered but in reasonably good shape.  The tinder box contains a candle as well as some flint and tinder.",
-      "translation": "קופסת ההצתה של חנות המשכון חבוטה מעט אך במצב טוב למדי. קופסת ההצתה מכילה נר וגם צור ואבק שריפה.",
+      "translation": "קופסת ההצתה של חנות המשכון חבוטה מעט אך במצב טוב למדי. קופסת ההצתה מכילה נר, אבן צור ואבק שריפה.",
       "notes": "",
       "placeholders": []
     },
@@ -51509,7 +51509,7 @@
       "logicFile": 907,
       "messageNumber": 251,
       "original": "The oak embers have burnt into ash.  There is no way to relight them.",
-      "translation": "גחלי העץ אלון נשרפו לאפר. אין דרך להדליק אותם מחדש.",
+      "translation": "גחלי עץ האלון נשרפו לאפר. אין דרך להדליק אותם מחדש.",
       "notes": "",
       "placeholders": []
     },
@@ -51525,7 +51525,7 @@
       "logicFile": 907,
       "messageNumber": 253,
       "original": "The mechanical nightingale is made of tin painted dreary shades of brown to match the coloring of a real nightingale.  A small key emerges from its back.",
-      "translation": "הזמיר המכני עשוי מפח צבוע בגוונים עגומים של חום כדי להתאים לצבעיו של זמיר אמיתי. מפתח קטן מבצבץ מגבו.",
+      "translation": "הזמיר המכני עשוי מפח צבוע בגוונים דהויים של חום כדי להתאים לצבעיו של זמיר אמיתי. מפתח קטן מבצבץ מגבו.",
       "notes": "",
       "placeholders": []
     },
@@ -51549,7 +51549,7 @@
       "logicFile": 907,
       "messageNumber": 256,
       "original": "The small vial contains the Oracle's sacred water.  The water has a crystalline appearance.",
-      "translation": "הבקבוקון הקטן מכיל את מי הקודש של האורקל. למים מראה גבישי.",
+      "translation": "הבקבוקון הקטן מכיל את מי הקודש של האורקל. המים צלולים כבדולח.",
       "notes": "",
       "placeholders": []
     },
@@ -51669,7 +51669,7 @@
       "logicFile": 907,
       "messageNumber": 271,
       "original": "The strand of hair from the red ribbon is the color of midnight.  Alexander can only hope that it belongs to his true love.",
-      "translation": "קווצת השיער מהסרט האדום בצבע חצות. אלכסנדר יכול רק לקוות שהיא שייכת לאהבת חייו.",
+      "translation": "קווצת השיער מהסרט האדום בצבע הלילה. אלכסנדר יכול רק לקוות שהיא שייכת לאהבת חייו.",
       "notes": "",
       "placeholders": []
     },
@@ -51709,7 +51709,7 @@
       "logicFile": 907,
       "messageNumber": 276,
       "original": "Alexander has a single strand of Beauty's golden hair.",
-      "translation": "לאלכסנדר יש קווצת שיער זהובה אחת של היפהפייה.",
+      "translation": "לאלכסנדר יש קווצת שיער זהובה אחת של היפה.",
       "notes": "",
       "placeholders": []
     },
@@ -51717,7 +51717,7 @@
       "logicFile": 907,
       "messageNumber": 277,
       "original": "The strand of golden hair feels fine and glossy.",
-      "translation": "קווצת השיער הזהובה מרגישה עדינה ומבריקה.",
+      "translation": "קווצת השיער הזהובה מורגשת עדינה ומבריקה.",
       "notes": "",
       "placeholders": []
     },
@@ -51725,7 +51725,7 @@
       "logicFile": 907,
       "messageNumber": 278,
       "original": "Reattaching that strand of hair to the mantle of Beauty's clothes would be rather pointless.",
-      "translation": "הדבקת קווצת השיער הזו בחזרה למעטה בגדי היפהפייה תהיה די חסרת טעם.",
+      "translation": "הדבקת קווצת השיער הזו בחזרה לכיסוי ראש היפה תהיה די חסרת טעם.",
       "notes": "",
       "placeholders": []
     },
@@ -51829,7 +51829,7 @@
       "logicFile": 907,
       "messageNumber": 291,
       "original": "Alexander examines the skull and feels a sense of his own mortality.",
-      "translation": "אלכסנדר בוחן את הגולגולת וחש תחושה של קיומו המתכלה.",
+      "translation": "אלכסנדר בוחן את הגולגולת וחווה תחושה של היותו בן תמותה.",
       "notes": "",
       "placeholders": []
     },
@@ -51893,7 +51893,7 @@
       "logicFile": 907,
       "messageNumber": 299,
       "original": "Alexander cracks the spoiled egg and dumps it into the skull containing the embers.",
-      "translation": "אלכסנדר שובר את הביצה המקולקלת ושופך אותה לתוך הגולגולת המכילה את הגחלים.",
+      "translation": "אלכסנדר שובר את הביצה המקולקלת ושופך אותה אל תוך הגולגולת המכילה את הגחלים.",
       "notes": "",
       "placeholders": []
     },
@@ -51901,7 +51901,7 @@
       "logicFile": 907,
       "messageNumber": 300,
       "original": "The spoiled egg hisses as it makes contact with the hot embers!  Zounds, the steam!  Phew, the smell of sulfur!",
-      "translation": "הביצה המקולקלת משמיעה קול שישוף במגע עם הגחלים הלוהטות! הוי, האדים! פויה, ריח הגופרית!",
+      "translation": "הביצה המקולקלת תוססת במגעה עם הגחלים הלוהטות! הו, איזה קיטור! פוי, ריח של גופרית!",
       "notes": "",
       "placeholders": []
     },
@@ -51941,7 +51941,7 @@
       "logicFile": 907,
       "messageNumber": 305,
       "original": "The book can only be used to cast spells over prepared spell ingredients.  The ingredients in the skull are incomplete.",
-      "translation": "הספר יכול לשמש רק להטלת כישופים על מרכיבי כישוף מוכנים. המרכיבים בגולגולת אינם שלמים.",
+      "translation": "הספר יכול לשמש רק להטלת כישופים על מרכיבי כישוף מוכנים להטלה. המרכיבים בגולגולת עדיין אינם לפי המתכון.",
       "notes": "",
       "placeholders": []
     },
@@ -52037,7 +52037,7 @@
       "logicFile": 907,
       "messageNumber": 317,
       "original": "Alexander rubs the lamp, but nothing happens.  The genie must be out at the moment.",
-      "translation": "אלכסנדר משפשף את המנורה, אך דבר לא קורה. הג'יני כנראה יצא כרגע.",
+      "translation": "אלכסנדר משפשף את המנורה, אך דבר לא קורה. הג'יני ככל הנראה יצא כרגע.",
       "notes": "",
       "placeholders": []
     },
@@ -52045,7 +52045,7 @@
       "logicFile": 907,
       "messageNumber": 318,
       "original": "This is the only page of inventory.",
-      "translation": "זהו עמוד המלאי היחיד.",
+      "translation": "זהו מסך המלאי היחיד.",
       "notes": "",
       "placeholders": []
     },
@@ -52085,7 +52085,7 @@
       "logicFile": 907,
       "messageNumber": 323,
       "original": "Alexander shakes the bottle and imagines he hears a faint swishing sound, but decides he is mistaken.",
-      "translation": "אלכסנדר מנער את הבקבוק ומדמה שהוא שומע צליל שקשוק קל, אך מחליט שהוא טועה.",
+      "translation": "אלכסנדר מנער את הבקבוק ומדמה שהוא שומע צליל שקשוק קל, אך מחליט שהוא הוזה.",
       "notes": "",
       "placeholders": []
     },
