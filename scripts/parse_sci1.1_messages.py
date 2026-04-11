@@ -10,13 +10,14 @@ import sys
 import subprocess
 
 
-def parse_all_msg_files(input_dir, output_dir):
+def parse_all_msg_files(input_dir, output_dir, name_filter=None):
     """
     Scans a directory for all .msg files and processes each with parse_msg.py.
 
     Args:
         input_dir (str): The directory to scan for .msg files.
         output_dir (str): The output directory for processed files.
+        name_filter (str, optional): If provided, only process .msg files whose name contains this string.
     """
     # ensure output directory exists
     if not os.path.exists(output_dir):
@@ -27,13 +28,16 @@ def parse_all_msg_files(input_dir, output_dir):
     for root, dirs, files in os.walk(input_dir):
         for file in files:
             if file.lower().endswith('.msg'):
-                msg_files.append(os.path.join(root, file))
+                if name_filter is None or name_filter in file:
+                    msg_files.append(os.path.join(root, file))
     
     if not msg_files:
-        print(f"No .msg files found in '{input_dir}'")
+        filter_note = f" matching '{name_filter}'" if name_filter else ""
+        print(f"No .msg files found in '{input_dir}'{filter_note}")
         return
 
-    print(f"Found {len(msg_files)} .msg file(s) in '{input_dir}'")
+    filter_note = f" matching '{name_filter}'" if name_filter else ""
+    print(f"Found {len(msg_files)} .msg file(s) in '{input_dir}'{filter_note}")
     
     # process each .msg file
     processed = 0
@@ -97,18 +101,20 @@ def parse_all_msg_files(input_dir, output_dir):
 
 if __name__ == "__main__":
     # validate command line
-    if len(sys.argv) != 3:
-        print("Usage: python parse_sci1.1_messages.py <input-dir> <output-dir>")
+    if len(sys.argv) < 3 or len(sys.argv) > 4:
+        print("Usage: python parse_sci1.1_messages.py <input-dir> <output-dir> [name-filter]")
         print("   -> input-dir: directory containing .msg files")
         print("   -> output-dir: directory for output files")
+        print("   -> name-filter: (optional) only process .msg files whose name contains this string")
         sys.exit(1)
 
     input_directory = sys.argv[1]
     output_directory = sys.argv[2]
+    name_filter = sys.argv[3] if len(sys.argv) == 4 else None
 
     # validate input directory exists
     if not os.path.isdir(input_directory):
         print(f"Error: Input directory '{input_directory}' does not exist.")
         sys.exit(1)
 
-    parse_all_msg_files(input_directory, output_directory)
+    parse_all_msg_files(input_directory, output_directory, name_filter)

@@ -1,9 +1,9 @@
 @echo off
 setlocal enabledelayedexpansion
 python.exe .\scripts\json_to_hebrew_kq6.py .\output_kq6\messages.json .\output_kq6
-python .\scripts\parse_sci1.1_messages.py .\SCICompanion-3.2.4.0\kq6_resources .\output_kq6
+python .\scripts\parse_sci1.1_messages.py .\SCICompanion-3.2.4.0\kq6_resources .\output_kq6 916
 REM Process all *_messages.csv files in output_kq6 directory
-for %%f in (.\output_kq6\*_messages.csv) do (
+for %%f in (.\output_kq6\916_messages.csv) do (
     REM Extract filename without extension
     set "filename=%%~nf"
     
