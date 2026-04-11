@@ -1,6 +1,5 @@
 @echo off
 setlocal enabledelayedexpansion
-
 python .\scripts\parse_sci1.1_messages.py .\SCICompanion-3.2.4.0\kq6_resources .\output_kq6
 REM Process all *_messages.csv files in output_kq6 directory
 for %%f in (.\output_kq6\*_messages.csv) do (
@@ -20,3 +19,5 @@ REM Copy all files from games_assets\kq6 to kq6_work
 copy .\games_assets\kq6\* .\kq6_work\
 powershell -Command "(Get-FileHash -Algorithm MD5 'games_assets\kq6\0.fon').Hash.ToLower()"
 endlocal
+
+REM C:\Users\SEGEVMA\source\repos\scummvm\dists\msvc\Debugx86\scummvm.exe --md5 --md5-path=kq6_work\PATCHES\100.p56 --md5-engine=sci  

@@ -18,6 +18,11 @@ messages: output_kq6/*_messages_hebrew.txt
 quick build script: translate_kq6.cmd
 
 
+### ISSUES
+### SCI1.1
+I found when export a pic from SCICompanion - the byte 0x26 comes in wrong place. After export it - insert 22 nulls before the fifth byte 0x26.
+
+
 ## Development Guide
 
 Translate SCI game procedure:
