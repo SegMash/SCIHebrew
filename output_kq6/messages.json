@@ -10813,7 +10813,7 @@
       "logicFile": 260,
       "messageNumber": 20,
       "original": "\"Excuse me.  My name is Alexander.  The owner of the book shop in the village told me you might be able to help me.  I hear you used to run this ferry for the islands.  I'd like to talk to you, if you have a moment.\"",
-      "translation": "\"סלח לי. שמי אלכסנדר. בעל חנות הספרים בכפר אמר לי שאולי תוכל לעזור לי. שמעתי שנהגת להפעיל את המעבורת הזו בין האיים. הייתי רוצה לדבר איתך, אם יש לך רגע.\"",
+      "translation": "\"סלח לי. שמי אלכסנדר. בעל חנות הספרים בכפר אמר שאולי תוכל לעזור לי. שמעתי שנהגת להפעיל את המעבורת הזו בין האיים. הייתי רוצה לדבר איתך, אם יש לך רגע.\"",
       "notes": "",
       "placeholders": []
     },
@@ -12829,7 +12829,7 @@
       "logicFile": 270,
       "messageNumber": 159,
       "original": "\"Then, too, the Land of the Green Isles is said to exist on the boundaries of this world and the next.  Even darker places are reputed to be closer here than anywhere else in the world.\"",
-      "translation": "\"ואז, גם אומרים שארץ האיים הירוקים קיימת על גבולות העולם הזה והעולם הבא. אפילו מקומות אפלים יותר מפורסמים בהיותם קרובים יותר לכאן מאשר לכל מקום אחר בעולם.\"",
+      "translation": "\"ואז, גם אומרים שארץ האיים הירוקים קיימת על גבולות העולם הזה והעולם הבא. אפילו מקומות אפלים מאד מפורסמים בהיותם קרובים יותר לכאן מאשר לכל מקום אחר בעולם.\"",
       "notes": "",
       "placeholders": []
     },
@@ -12861,7 +12861,7 @@
       "logicFile": 270,
       "messageNumber": 163,
       "original": "\"Ideally, a young man seeking such knowledge would travel to their shores and learn about them first-hand.  Meeting the leaders of each place would be helpful, naturally.\"",
-      "translation": "\"באופן אידיאלי, צעיר המחפש ידע כזה יטייל לחופיהם וילמד עליהם ממקור ראשון. באופן טבעי, פגישה עם מנהיגי כל מקום תהיה מועילה.\"",
+      "translation": "\"באופן אידיאלי, צעיר המבקש ללמוד על האיים יטייל לחופיהם וילמד עליהם ממקור ראשון. בדרך כלל, פגישה עם מנהיגי כל מקום תהיה מועילה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -12869,7 +12869,7 @@
       "logicFile": 270,
       "messageNumber": 164,
       "original": "\"Unfortunately, the ferry no longer runs between the islands.  There has been much political unrest, and it has been too dangerous to travel for years.\"",
-      "translation": "\"למרבה הצער, המעבורת כבר לא שטה בין האיים. היה הרבה אי-שקט פוליטי, והיה מסוכן מדי לנסוע במשך שנים.\"",
+      "translation": "\"למרבה הצער, המעבורת כבר לא שטה בין האיים. מזה זמן רב סורר אי-שקט פוליטי, וכבר כמה שנים שמסוכן מדי להפליג בין האיים.\"",
       "notes": "",
       "placeholders": []
     },
@@ -12901,7 +12901,7 @@
       "logicFile": 270,
       "messageNumber": 168,
       "original": "\"Ah, but advice is free, Alexander.  Making use of it costs much more.\"",
-      "translation": "\"אה, העצה היא בחינם, אלכסנדר. רק שהשימוש בה עולה הרבה.\"",
+      "translation": "\"אה, אבל העצה היא בחינם, אלכסנדר. רק שהשימוש בה עולה הרבה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -14141,7 +14141,7 @@
       "logicFile": 280,
       "messageNumber": 51,
       "original": "\"It is said that one need only desire to be on an island depicted on the map to find oneself there.\"",
-      "translation": "\"אומרים שאדם צריך רק לרצות להיות על אי המצויר במפה כדי למצוא את עצמו שם.\"",
+      "translation": "\"אומרים שאדם צריך רק לרצות להיות על האי המצויר במפה כדי למצוא את עצמו שם.\"",
       "notes": "",
       "placeholders": []
     },
@@ -14205,7 +14205,7 @@
       "logicFile": 280,
       "messageNumber": 59,
       "original": "\"A man my age can only thank the heavens for continued strength, young sire.\"",
-      "translation": "\"אדם בגילי יכול רק להודות לאל על כוחו המתמשך, אדון צעיר.\"",
+      "translation": "\"אדם בגילי יכול רק להודות לאל כל עוד כוחי במותניי, אדון צעיר.\"",
       "notes": "",
       "placeholders": []
     },
@@ -15133,7 +15133,7 @@
       "logicFile": 280,
       "messageNumber": 175,
       "original": "\"If you find anything else of great value in your travels, you can return for your ring.  I would hate to see it melted down for the gold.\"",
-      "translation": "\"אם תמצא משהו אחר בעל ערך רב במסעותיך, תוכל לחזור לקבל את טבעתך. הייתי שונא לראות אותה מותכת לזהב.\"",
+      "translation": "\"אם תמצא משהו אחר בעל ערך רב במסעותיך, תוכל לחזור ולקבל את טבעתך. הייתי שונא לראות אותה מותכת לזהב.\"",
       "notes": "",
       "placeholders": []
     },
@@ -16925,7 +16925,7 @@
       "logicFile": 290,
       "messageNumber": 24,
       "original": "\"Me?  I'm out of a job--the job my ancestors have held for generations.  I'm the only one trained to avoid the reef and the rocks, but that knowledge does me no good now.\"",
-      "translation": "\"אני? אני מובטל - מהעבודה שאבותיי החזיקו במשך דורות. אני היחיד שמיומן להימנע מהשונית והסלעים, אבל המיומנות הזו לא מועילה לי עכשיו.\"",
+      "translation": "\"אני? אני מובטל - מהעבודה שאבותיי החזיקו במשך דורות. אני היחיד שמיומן להימנע מהשוניות והסלעים, אבל המיומנות הזו לא מועילה לי עכשיו.\"",
       "notes": "",
       "placeholders": []
     },
@@ -16957,7 +16957,7 @@
       "logicFile": 290,
       "messageNumber": 28,
       "original": "\"Ah!  Such a beautiful child!  And so pure of heart!  Why, a contrary thought has never crossed her mind.\"",
-      "translation": "\"אה! ילדה כזו יפה! וטהורת לב כל כך! מפני שמעולם לא חלפה בראשה שמחשבה לא טובה.\"",
+      "translation": "\"אה! ילדה כזו יפה! וטהורת לב כל כך! מפני שמעולם לא חלפה בראשה מחשבה לא טובה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -50677,7 +50677,7 @@
       "logicFile": 907,
       "messageNumber": 147,
       "original": "What nameless thing has captured me?\\nAnd made me powerless to flee?\\nWhat thing is it without a name,\\nthat brings my mind ever back the same\\n   to thee?",
-      "translation": "איזה דבר חסר כל שם, \\nלכד אותי ולא נושם? \\nמה הדבר שאין לו תואר, \\nהמשיב אליך את המחשבתי בטוהר?",
+      "translation": "איזה דבר חסר כל שם, \\nלכד אותי ולא נושם? \\nמה הדבר שאין לו תואר, \\nהמשיב אלייך את המחשבתי בטוהר?",
       "notes": "",
       "placeholders": []
     },

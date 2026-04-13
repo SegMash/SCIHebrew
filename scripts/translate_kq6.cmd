@@ -21,7 +21,7 @@ for %%f in (.\output_kq6\*_messages.csv) do (
 
 REM Copy all files from games_assets\kq6 to kq6_work
 copy .\games_assets\kq6\* .\kq6_work\
-powershell -Command "(Get-FileHash -Algorithm MD5 'games_assets\kq6\0.fon').Hash.ToLower()"
+REM powershell -Command "(Get-FileHash -Algorithm MD5 'games_assets\kq6\0.fon').Hash.ToLower()"
 endlocal
-
+echo Running scummvm to verify MD5 hash of 0.fon...
 C:\Users\SEGEVMA\source\repos\scummvm\dists\msvc\Debugx86\scummvm.exe --md5 --md5-path=kq6_work\0.fon --md5-engine=sci
