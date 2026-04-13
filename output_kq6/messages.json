@@ -909,7 +909,7 @@
       "logicFile": 0,
       "messageNumber": 113,
       "original": "Alexander prepares to enchant the hunter's lamp with the \"Make Rain Spell\" incantation.",
-      "translation": "אלכסנדר מתכונן לכשף את מנורת הציד בלחש \"כישוף יצירת גשם\".",
+      "translation": "אלכסנדר מתכונן לכשף את מנורת הציד בלחש \"סערה בכוס תה\".",
       "notes": "",
       "placeholders": []
     },
@@ -3157,7 +3157,7 @@
       "logicFile": 160,
       "messageNumber": 3,
       "original": "\"<Grrr>Lord Alhazred....  With all due respect, you are not quite king yet.  And this IS a wedding ceremony, not an execution.\"",
-      "translation": "\"<גררר> אדון אלחאזרד.... עם כל הכבוד, אתה עדיין לא מלך. וזו אכן טקס חתונה, לא הוצאה להורג.\"",
+      "translation": "\"<גררר> אדון אלחאזרד.... עם כל הכבוד, אתה עדיין לא מלך. וזה אכן טקס חתונה, לא הוצאה להורג.\"",
       "notes": "",
       "placeholders": []
     },
@@ -6749,7 +6749,7 @@
       "logicFile": 210,
       "messageNumber": 113,
       "original": "No words of love, only friendly concern.  \"Friend!\"  Is the maiden merely shy, or does she regard him only as a brother?",
-      "translation": "אין כאן מילות אהבה, רק דאגה ידידותית. \"ידידי!\" האם העלמה רק ביישנית, או שמא היא רואה בו לא יותר מאח?",
+      "translation": "אין כאן מילות אהבה, רק דאגה ידידותית. \"ידיד!\" האם העלמה רק ביישנית, או שמא היא רואה בו לא יותר מידיד?",
       "notes": "",
       "placeholders": []
     },
@@ -6789,7 +6789,7 @@
       "logicFile": 210,
       "messageNumber": 118,
       "original": "\"If only it could be so <sigh>.\"",
-      "translation": "\"הלוואי וזה היה כך <sigh>.\"",
+      "translation": "\"הלוואי וזה היה כך <אנחה>.\"",
       "notes": "",
       "placeholders": []
     },
@@ -13429,7 +13429,7 @@
       "logicFile": 270,
       "messageNumber": 234,
       "original": "\"Still, she has always instinctively distrusted him.  Cassima has a good head on her shoulders.  I'd be surprised if she's truly fallen for his words of love.\"",
-      "translation": "\"ובכל זאת, היא תמיד חשה כלפיו באינסטיטנקט חוסר אמון. לקסימה ראש טוב על הכתפיים. אתפלא אם היא באמת נפלה למילות האהבה שלו.\"",
+      "translation": "\"ובכל זאת, היא תמיד חשה כלפיו באינסטינקט חוסר אמון. לקסימה ראש טוב על הכתפיים. אתפלא אם היא באמת נפלה למילות האהבה שלו.\"",
       "notes": "",
       "placeholders": []
     },
@@ -13557,7 +13557,7 @@
       "logicFile": 270,
       "messageNumber": 250,
       "original": "\"But I couldn't tell you what to look for.  I caught a glimpse of it only once.  I would know it if I saw it again, but to say....  I cannot.\"",
-      "translation": "\"אבל אני לא יכולת לומר לך מה לחפש. ראיתי אותה לרגע רק פעם אחת. הייתי מזהה אותה אם הייתי רואה אותה שוב, אבל לומר... אני לא יכול.\"",
+      "translation": "\"אבל אני לא יכול לומר לך מה לחפש. ראיתי אותה לרגע רק פעם אחת. הייתי מזהה אותה אם הייתי רואה אותה שוב, אבל לומר... אני לא יכול.\"",
       "notes": "",
       "placeholders": []
     },
@@ -18165,7 +18165,7 @@
       "logicFile": 340,
       "messageNumber": 10,
       "original": "Unable to resist the power of the enchanted smell, Night Mare approaches Alexander.  Her eyes appear glassy and sightless.  In her hypnotized state, she is unaware of the human so close to her flank or of anything at all except that marvelous smell!",
-      "translation": "חוסר יכולת להתנגד לכוח הריח המכושף, סוסת הלילה מתקרבת לאלכסנדר. מבטה נראה זגוגי ועיוור. במצבה המהופנט, היא אינה מודעת לאדם הקרוב כל כך לצידה או לשום דבר אחר מלבד הריח המופלא הזה!",
+      "translation": "עם חוסר יכולת להתנגד לכוח הריח המכושף, סוסת הלילה מתקרבת לאלכסנדר. מבטה נראה זגוגי ועיוור. במצבה המהופנט, היא אינה מודעת לאדם הקרוב כל כך לצידה או לשום דבר אחר מלבד הריח המופלא הזה!",
       "notes": "",
       "placeholders": []
     },
@@ -18253,7 +18253,7 @@
       "logicFile": 340,
       "messageNumber": 21,
       "original": "\"We only escort you to your death!  May the Fates make it quick so that you do not have to scream long!\"",
-      "translation": "\"אנחנו רק מלווים אותך אל מותך! מי ייתן והגורל יעשה זאת מהר כדי שלא תצטרך לכאוב זמן רב!\"",
+      "translation": "\"אנחנו רק מלווים אותך אל מותך! מי ייתן והגורל יעשה זאת מהר כדי שלא תצטרך לסבול זמן רב!\"",
       "notes": "",
       "placeholders": []
     },
@@ -19181,7 +19181,7 @@
       "logicFile": 350,
       "messageNumber": 1,
       "original": "\"Look!  An intruder!\"",
-      "translation": "\"תראו! פורץ!\"",
+      "translation": "\"תראה! פורץ!\"",
       "notes": "",
       "placeholders": []
     },
@@ -22861,7 +22861,7 @@
       "logicFile": 440,
       "messageNumber": 6,
       "original": "\"I ask you to release your captive or suffer the consequences!\"",
-      "translation": "\"אני דורש שתשחרר את שבוייתך או שתסבול מההשלכות!\"",
+      "translation": "\"אני דורש שתשחרר את שבוייתך או שתישא בתוצאות!\"",
       "notes": "",
       "placeholders": []
     },
@@ -25909,7 +25909,7 @@
       "logicFile": 470,
       "messageNumber": 28,
       "original": "\"He's right, you know.  But he COULD be a little nicer about telling you.  He's not a very pleasant stick-in-the-mud.\"",
-      "translation": "\"הוא צודק, אתה יודע. אבל הוא יכול היה להיות קצת יותר נחמד כשהוא אומר לך זאת. הוא לא נחמד כל כך.\"",
+      "translation": "\"הוא צודק, אתה יודע. אבל הוא יכל היה להיות קצת יותר נחמד כשהוא אמר לך זאת. הוא לא נחמד כל כך.\"",
       "notes": "",
       "placeholders": []
     },
@@ -28373,7 +28373,7 @@
       "logicFile": 490,
       "messageNumber": 9,
       "original": "\"Which of us should get to carry the coal and which the egg?  Remember, WHITE is the color of deserving truth and virtue.\"",
-      "translation": "\"איזו מאיתנו צריכה לשאת את הפחם ואיזו את הביצה? זכור, לבן הוא צבע שמייצג האמת ומידות טובות.\"",
+      "translation": "\"איזו מאיתנו צריכה לשאת את הפחם ואיזו את הביצה? זכור, לבן הוא צבע שמייצג את האמת ומידות טובות.\"",
       "notes": "",
       "placeholders": []
     },
@@ -28389,7 +28389,7 @@
       "logicFile": 490,
       "messageNumber": 11,
       "original": "\"I'm sorry, Your Majesties.  I am partial to both red AND white, but I'm afraid that I don't know how to solve your problem.  One of you will just have to be gracious and allow the other the lump of coal.\"",
-      "translation": "\"אני מצטער, הוד מלכותכן. אני מחבב גם אדום וגם לבן, אבל אני חושש שאיני יודע כיצד לפתור את בעייתכן. אחת מכן פשוט תצטרך להיות אדיבה ולאפשר לשנייה את גוש הפחם.\"",
+      "translation": "\"אני מצטער, הוד מלכותכן. אני מחבב גם אדום וגם לבן, אבל אני חושש שאיני יודע כיצד לפתור את בעייתכן. אחת מכן פשוט תצטרך להיות אדיבה ולאפשר לשנייה לשאת את גוש הפחם.\"",
       "notes": "",
       "placeholders": []
     },
@@ -29533,7 +29533,7 @@
       "logicFile": 500,
       "messageNumber": 45,
       "original": "\"Know it I DO!!  Where are you going TO!!!!\"",
-      "translation": "\"יודע זאת אני!! לאן אתה הולך !!!!\"",
+      "translation": "\"יודע זאת אני!! לאן שאתה הולך !!!!\"",
       "notes": "",
       "placeholders": []
     },
@@ -30253,7 +30253,7 @@
       "logicFile": 510,
       "messageNumber": 72,
       "original": "His stone bow is tightly drawn and fitted with a single stone arrow.",
-      "translation": "קשת האבן שלו מתוח בחוזקה ומשולב בו חץ אבן יחיד.",
+      "translation": "קשת האבן שלו מתוחה בחוזקה ומשולב בו חץ אבן יחיד.",
       "notes": "",
       "placeholders": []
     },
@@ -31261,7 +31261,7 @@
       "logicFile": 540,
       "messageNumber": 4,
       "original": "\"Er....  I suppose it is simply my nature to break through enchanted traps.\"",
-      "translation": "\"אה... אני מניח שזו פשוט דרכי, לפרוץ דרך מלכודות מכושפות.\"",
+      "translation": "\"אה... אני מניח שזה פשוט דרכי, לפרוץ דרך מלכודות מכושפות.\"",
       "notes": "",
       "placeholders": []
     },
@@ -31365,7 +31365,7 @@
       "logicFile": 540,
       "messageNumber": 17,
       "original": "\"You see, I need only find a maiden to join me here; to share my castle, my life...willingly.  Take another look at me.  You can't help but admire the hag's terrible cruelty and cunning.\"",
-      "translation": "\"אתה מבין, אני רק צריך למצוא עלמה שתצטרף אלי כאן; לחלוק את טירתי, את חיי... מרצונה החופשי. תסתכל עלי שוב. אי אפשר שלא להעריץ את אכזריותה ותחבולנותה הנוראיות של המכשפה.\"",
+      "translation": "\"אתה מבין, אני רק צריך למצוא עלמה שתצטרף אלי כאן; לחלוק את טירתי, את חיי... מרצונה החופשי. תסתכל עלי שוב. אי אפשר שלא להעריץ את אכזריותה ותחבולנותה הנוראית של המכשפה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -31869,7 +31869,7 @@
       "logicFile": 550,
       "messageNumber": 2,
       "original": "\"Great gods!  Did you see that?  That man just appeared from nowhere!\"",
-      "translation": "\"אלילים יקרים! ראיתם את זה? האיש הזה פשוט הופיע משום מקום!\"",
+      "translation": "\"אלים אדירים! ראיתם את זה? האיש הזה פשוט הופיע משום מקום!\"",
       "notes": "האם הוא פונה באמת לאלילים?",
       "placeholders": []
     },
@@ -31893,7 +31893,7 @@
       "logicFile": 550,
       "messageNumber": 5,
       "original": "\"Not again!  Look, I'll leave.  It's no problem....\"",
-      "translation": "\"לא שוב! תראו, אני אלך. זה לא בעיה...\"",
+      "translation": "\"לא שוב! תראו, אני אעזוב. זו לא בעיה...\"",
       "notes": "",
       "placeholders": []
     },
@@ -31901,7 +31901,7 @@
       "logicFile": 550,
       "messageNumber": 6,
       "original": "\"I think not.  Let's go.\"",
-      "translation": "\" אני לא חושב. בואו נלך.\"",
+      "translation": "\"אני לא חושב. בואו נלך.\"",
       "notes": "לבדוק אם נכון",
       "placeholders": []
     },
@@ -32733,7 +32733,7 @@
       "logicFile": 580,
       "messageNumber": 37,
       "original": "\"It is said that he tamed the Lord of the Dead's horse, a black-winged, demon-hearted beast named Night Mare.  Night Mare sometimes flies to the human world to feed on certain noxious plants.  Those unfortunate enough to see her are glad to escape with their very souls intact!\"",
-      "translation": "\"אומרים שהוא אילף את סוסה של מלאך המוות, סוסה שחורת כנף בעלת לב דמוני בשם אימה. אימה עפה לעיתים לעולם בני האדם כדי לזלול צמחים ארסיים מסוימים. אלה חסרי המזל שרואים אותה שמחים להימלט כשנשמתם שלמה!\"",
+      "translation": "\"אומרים שהוא אילף את סוסתו של מלאך המוות, סוסה שחורת כנף בעלת לב דמוני בשם אימה. אימה עפה לעיתים לעולם בני האדם כדי לזלול צמחים ארסיים מסוימים. אלה חסרי המזל שרואים אותה שמחים להימלט כל עוד נשמתם באפם!\"",
       "notes": "",
       "placeholders": []
     },
@@ -32757,7 +32757,7 @@
       "logicFile": 580,
       "messageNumber": 40,
       "original": "\"Ah, that is a blacker matter still!  To the Druids, he is Samhain, Lord of Coldness and Despair.  Samhain was once a man like you or I, but he insulted the gods and was sentenced to rule the Underworld.  Immortal he is, and mateless; robbed of sleep, robbed of movement, robbed of companionship.\"",
-      "translation": "\"אה, זה עניין אפל עוד יותר! לדרואידים הוא סאמהיין, אדון הקור והייאוש. סאמהיין היה פעם אדם כמוך או כמוני, אך הוא העליב את האלים ונידון לשלוט בשאול. בן אלמוות הוא, וללא זיווג; נשללה ממנו שינה, נשללה ממנו תנועה, נשללה ממנו חברות.\"",
+      "translation": "\"אה, זה עניין אפל עוד יותר! לדרואידים הוא מוכר כסאמהיין, אדון הקור והייאוש. סאמהיין היה פעם אדם כמוך או כמוני, אך הוא העליב את האלים ונידון לשלוט בשאול. בן אלמוות הוא, וללא זיווג; נשללה ממנו שינה, נשללה ממנו תנועה, נשללו ממנו חיי חברה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -34277,7 +34277,7 @@
       "logicFile": 640,
       "messageNumber": 41,
       "original": "Alexander finishes his tune and the skeletons resume their posts.  Despite their frolic, they don't seem any friendlier!",
-      "translation": "אלכסנדר מסיים את מנגינתו והשלדים חוזרים לעמדותיהם. למרות ההשתוללות, הם לא נראים ידידותיים יותר!",
+      "translation": "אלכסנדר מסיים את נגינתו והשלדים חוזרים לעמדותיהם. למרות ההשתוללות, הם לא נראים ידידותיים יותר!",
       "notes": "",
       "placeholders": []
     },
@@ -35445,7 +35445,7 @@
       "logicFile": 670,
       "messageNumber": 20,
       "original": "\"Hmmm.  I seem to recall something....  A trick, perhaps...a test.  Hmmm.  Ah, yesss....  'Should a human try to pass, a riddle is Gate's wont to ask.'\"",
-      "translation": "\"המממ. נראה שאני זוכר משהו.... אולי תכסיס... מבחן. המממ. אה, כן.... 'אם ינסה אנוש לעבור, חידה השער נוהג לשאול.'\"",
+      "translation": "\"המממ. נראה שאני זוכר משהו.... אולי תכסיס... מבחן. המממ. אה, כן.... 'אם בן אנוש ינסה פה לפסוע, חידת השער תבוא אותו לבלוע.'\"",
       "notes": "",
       "placeholders": []
     },
@@ -35957,7 +35957,7 @@
       "logicFile": 680,
       "messageNumber": 2,
       "original": "\"King Caliphim and Queen Allaria, I presume.  Your hero has won you a few more years of mortality.  May your souls be more prepared for their rest when you return.\"",
-      "translation": "\"המלך קליפים והמלכה אלאריה, אני מניח. הגיבור שלכם זיכה אתכם בעוד כמה שנים של חיי בני תמותה. מי ייתן ונשמותיכם תהיינה מוכנות יותר למנוחתן בבואכם שוב.\"",
+      "translation": "\"המלך קליפים והמלכה אלאריה, אני מניח. הגיבור שלכם זיכה אתכם בעוד כמה שנים של חיי בני תמותה. מי ייתן ונשמותיכן תהיינה מוכנות יותר למנוחתן בבואכן שוב.\"",
       "notes": "",
       "placeholders": []
     },
@@ -36581,7 +36581,7 @@
       "logicFile": 690,
       "messageNumber": 38,
       "original": "\"Take it away!\"",
-      "translation": "\"קח את זה!\"",
+      "translation": "\"קח את זה ממני!\"",
       "notes": "",
       "placeholders": []
     },
@@ -36621,7 +36621,7 @@
       "logicFile": 690,
       "messageNumber": 43,
       "original": "\"Find the souls he has claimed and bring them to me.\"",
-      "translation": "\"מצאו את הנשמות שהוא דרש והבאו אותן אליי.\"",
+      "translation": "\"מצאו את הנשמות שהוא דרש והביאו אותן אליי.\"",
       "notes": "",
       "placeholders": []
     },
@@ -38485,7 +38485,7 @@
       "logicFile": 730,
       "messageNumber": 34,
       "original": "\"Since you are of noble birth, I will give you five seconds to explain your presence here before killing you.  I warn you; it had better be good!\"",
-      "translation": "\"מכיוון שאתה ממשפחת אצולה, אתן לך חמש שניות להסביר את נוכחותך כאן לפני שאשקול להרוג אותך. אני מזהיר אותך - מוטב שזה יהיה משכנע!\"",
+      "translation": "\"מכיוון שאתה ממשפחת אצולה, אתן לך חמש שניות להסביר את נוכחותך כאן לפני שאהרוג אותך. אני מזהיר אותך - מוטב שזה יהיה משכנע!\"",
       "notes": "",
       "placeholders": []
     },
@@ -39837,7 +39837,7 @@
       "logicFile": 743,
       "messageNumber": 3,
       "original": "\"Oh, Alexander, I am so glad!  Between the return of my beloved parents and our new reign, you've made me so happy!\"",
-      "translation": "\"הו, אלכסנדר, אני כל כך שמחה! גם הורי האהובים וחזרו וגם שלטוננו החדש מתחיל, עשית אותי כל כך מאושרת!\"",
+      "translation": "\"הו, אלכסנדר, אני כל כך שמחה! גם הורי האהובים חזרו וגם שלטוננו החדש מתחיל, עשית אותי כל כך מאושרת!\"",
       "notes": "",
       "placeholders": []
     },
@@ -39885,7 +39885,7 @@
       "logicFile": 743,
       "messageNumber": 9,
       "original": "\"Hooray!  Hooray!  Hooray!\"",
-      "translation": "\"מקודשת! מקודשת! מקודשת!\"",
+      "translation": "\"הידד! הידד! הידד!\"",
       "notes": "",
       "placeholders": []
     },
@@ -40061,7 +40061,7 @@
       "logicFile": 743,
       "messageNumber": 31,
       "original": "\"Don't worry, Mother.  With Shamir's powers we'll be able to visit often!  I'm not about to forget my family.\"",
-      "translation": "\"אל תדאגי, אמא. עם כוחותיו של שמיר נוכל לבקר לעיתים קרובות! אני לא מתכוון לשכוח את משפחתי.\"",
+      "translation": "\"אל תדאגי, אמא. עם כוחותיו של שאמיר נוכל לבקר לעיתים קרובות! אני לא מתכוון לשכוח את משפחתי.\"",
       "notes": "",
       "placeholders": []
     },
@@ -40149,7 +40149,7 @@
       "logicFile": 743,
       "messageNumber": 42,
       "original": "\"I will.  Alexander's mother and I recognize his marriage to Princess Cassima with glad hearts and sanction this union.\"",
-      "translation": "\"אני. אמו של אלכסנדר ואני מכירים בנישואיו לנסיכה קסימה בלב שמח ומקדשים את האיחוד הזה.\"",
+      "translation": "\"אני. אמו של אלכסנדר ואני מכירים בנישואיו לנסיכה קסימה בלב שלם ומקדשים את האיחוד הזה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -40229,7 +40229,7 @@
       "logicFile": 743,
       "messageNumber": 52,
       "original": "\"Your road will be easier now that the islands are no longer feuding.  Already the wounds are starting to heal.\"",
-      "translation": "\"דרככם תהיה קלה יותר עכשיו כשהאיים אינם מסוכסכים. כבר הפצעים מתחילים להגליד.\"",
+      "translation": "\"דרככם תהיה קלה יותר עכשיו כשהאיים אינם מסוכסכים. הפצעים כבר מתחילים להגליד.\"",
       "notes": "",
       "placeholders": []
     },
@@ -40237,7 +40237,7 @@
       "logicFile": 743,
       "messageNumber": 53,
       "original": "\"Yes, my love, discovering the island's stolen treasures has done more to bring peace to this land than anything else.  It is now clear that Alhazred had Shamir steal each of the island's most valued treasure, then blamed the thefts on others to cause the islands to hate each other.\"",
-      "translation": "\"כן, אהובי, גילוי אוצרות האיים הגנובים הביא יותר שלום לארץ הזו מכל דבר אחר. עכשיו ברור שאלחאזרד גרם לשמיר לגנוב כל אחד מהאוצרות היקרים ביותר של האיים, ואז האשים את האיים האחרים בגניבות כדי לגרום לאיים לשנוא זה את זה.\"",
+      "translation": "\"כן, אהובי, גילוי אוצרות האיים הגנובים הביא יותר שלום לארץ הזו מכל דבר אחר. עכשיו ברור שאלחאזרד גרם לשאמיר לגנוב כל אחד מהאוצרות היקרים ביותר של האיים, ואז האשים את האיים האחרים בגניבות כדי לגרום לאיים לשנוא זה את זה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -41053,7 +41053,7 @@
       "logicFile": 750,
       "messageNumber": 97,
       "original": "\"Hah!  You can barely lift that sword, my 'prince!'  Better to lay it down now.  I promise to dispatch you with little pain.\"",
-      "translation": "\"הא! אתה בקושי יכול להרים את החרב הזו, 'נסיכי'! עדיף להניח אותה עכשיו. אני מבטיח לחסל אותך עם מעט כאב.\"",
+      "translation": "\"הא! אתה בקושי יכול להרים את החרב הזו, 'נסיכי'! עדיף לך להניח אותה עכשיו. אני מבטיח לחסל אותך עם מעט כאב.\"",
       "notes": "",
       "placeholders": []
     },
@@ -42461,7 +42461,7 @@
       "logicFile": 780,
       "messageNumber": 82,
       "original": "\"Hee, hee!  Go ahead and do as you've planned, and let me worry about swapping the lamp.  If I accomplish the trickery, I'll manage to get the lamp to you somehow, never fear!\"",
-      "translation": "\"הי הי! קדימה, עשה כפי שתכננת, ותן לי לדאוג להחלפת המנורה. אם אצליח בתחבולה, אצליח להעביר לך את המנורה איכשהו, אל חשש!\"",
+      "translation": "\"הי הי! קדימה, עשה כפי שתכננת, ותן לי לדאוג להחלפת המנורה. אם אצליח בתחבולה, אעביר לך את המנורה איכשהו, אל חשש!\"",
       "notes": "",
       "placeholders": []
     },
@@ -44229,7 +44229,7 @@
       "logicFile": 800,
       "messageNumber": 50,
       "original": "\"Shhh.  Just a moment more, and then you MUST go.  Let us not waste this time with words.  Please, let me just look at you, dear Alexander.\"",
-      "translation": "\"ששש. רק עוד רגע, ואז אתה חייב ללכת. בוא לא נבזבז את הזמן הזה במילים. בבקשה, תן לי רק להביט בך, אלכסנדר היקר.\"",
+      "translation": "\"ששש. רק עוד רגע, ואז אתה חייב ללכת. בוא לא נבזבז את הזמן הזה בדיבורים. בבקשה, תן לי רק להביט בך, אלכסנדר היקר.\"",
       "notes": "",
       "placeholders": []
     },
@@ -44437,7 +44437,7 @@
       "logicFile": 800,
       "messageNumber": 76,
       "original": "\"Why, it's perfect!  This is just the sort of thing I've been looking for!  Thank you, Alexander.  I'll keep it close and use it if I must.\"",
-      "translation": "\"יופי, זה מושלם! זה בדיוק הדבר שחיפשתי! תודה לך, אלכסנדר. אשמור אותו קרוב ואשתמש בו אם אצטרך.\"",
+      "translation": "\"יופי, זה מושלם! זה בדיוק הדבר שחיפשתי! תודה לך, אלכסנדר. אשמור אותו צמוד אלי ואשתמש בו אם אצטרך.\"",
       "notes": "",
       "placeholders": []
     },
@@ -44557,7 +44557,7 @@
       "logicFile": 800,
       "messageNumber": 91,
       "original": "\"Ain't none of my business, sir, but news like that is upsettin' the other dogs.  Ain't no guard in the castle who would willingly keep the princess anywhere she don't want to be.\"",
-      "translation": "\"זה לא ענייני, אדוני, אבל חדשות כאלה מטרידות את שאר הכלבים. אין שומר בטירה שישמור מרצונו את הנסיכה במקום שהיא לא רוצה להיות בו.\"",
+      "translation": "\"זה לא ענייני, אדוני, אבל חדשות כאלה מטרידות את שאר הכלבים. אין שומר בטירה שישמור מרצונו על הנסיכה במקום שהיא לא רוצה להיות בו.\"",
       "notes": "",
       "placeholders": []
     },
@@ -44629,7 +44629,7 @@
       "logicFile": 800,
       "messageNumber": 100,
       "original": "\"Enough!  It is not our place to question the practices of our liege--no matter how strange.  The wedding will be starting soon.  Report to the throne room when you hear the music start.\"",
-      "translation": "\"די! זה לא מקומנו לשאול על מנהגי אדוננו - מוזרים ככל שיהיו. החתונה תתחיל בקרוב. דווחו לחדר הכס כשתשמעו את המוזיקה מתחילה.\"",
+      "translation": "\"די! זה לא תפקידנו לשאול על מנהגי אדוננו - מוזרים ככל שיהיו. החתונה תתחיל בקרוב. דווחו לחדר הכס כשתשמעו את המוזיקה מתחילה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -44885,7 +44885,7 @@
       "logicFile": 810,
       "messageNumber": 11,
       "original": "\"Dear Shadrack.  Salutations from the Society of the Black Cloak, etc., etc.  My long preparations are about to come to fruition.\"",
-      "translation": "\"שאדראק יקר. ברכות מכת הגלימה השחורה, וכו', וכו'. ההכנות הארוכות שלי עומדות להגיע לשיאן.\"",
+      "translation": "\"שאדראק יקר. ברכות מכת הגלימה השחורה, וכו', וכו'. ההכנות הארוכות שלי עומדות להגיע לסיומן.\"",
       "notes": "",
       "placeholders": []
     },
@@ -44909,7 +44909,7 @@
       "logicFile": 810,
       "messageNumber": 14,
       "original": "\"The princess has proven infuriatingly stubborn, as you know.  She's becoming quite a dangerous little thorn in my side.\"",
-      "translation": "\"הנסיכה הוכיחה עצמה כעקשנית ומעצבנת, כידוע לך. היא הופכת לקוץ קטן ומסוכן למדי בצד שלי.\"",
+      "translation": "\"הנסיכה הוכיחה עצמה כעקשנית ומעצבנת, כידוע לך. היא הופכת לקוץ קטן ומסוכן למדי בשבילי.\"",
       "notes": "",
       "placeholders": []
     },
