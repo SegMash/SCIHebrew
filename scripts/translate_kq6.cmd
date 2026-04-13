@@ -13,6 +13,9 @@ for %%f in (.\output_kq6\*_messages.csv) do (
     echo Processing module !prefix!...
     python scripts\map_files.py .\output_kq6\!prefix!_messages_english.txt .\output_kq6\!prefix!_messages_hebrew.txt .\output_kq6\mapping_!prefix!.txt
     python .\scripts\replace_in_csv.py .\output_kq6\!prefix!_messages.csv .\output_kq6\mapping_!prefix!.txt .\output_kq6\
+    if "!prefix!"=="165" (
+        python .\scripts\fix_kq6_165_messages.py .\output_kq6\165_messages.csv
+    )
     python .\scripts\create_msg.py .\output_kq6\!prefix!_messages.csv .\games_assets\kq6\!prefix!.msg
 )
 
@@ -21,4 +24,4 @@ copy .\games_assets\kq6\* .\kq6_work\
 powershell -Command "(Get-FileHash -Algorithm MD5 'games_assets\kq6\0.fon').Hash.ToLower()"
 endlocal
 
-REM C:\Users\SEGEVMA\source\repos\scummvm\dists\msvc\Debugx86\scummvm.exe --md5 --md5-path=kq6_work\PATCHES\100.p56 --md5-engine=sci  
+C:\Users\SEGEVMA\source\repos\scummvm\dists\msvc\Debugx86\scummvm.exe --md5 --md5-path=kq6_work\0.fon --md5-engine=sci
