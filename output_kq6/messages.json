@@ -2997,7 +2997,7 @@
       "logicFile": 150,
       "messageNumber": 1,
       "original": "\"Lord Alhazred, a visitor to see you.  Prince Alexander of Daventry.\"",
-      "translation": "\"לורד אלחאזרד, מבקר בא לראותך. הנסיך אלכסנדר מדבנטרי.\"",
+      "translation": "\"לורד אלהאזרד, מבקר בא לראותך. הנסיך אלכסנדר מדבנטרי.\"",
       "notes": "",
       "placeholders": []
     },
@@ -3157,7 +3157,7 @@
       "logicFile": 160,
       "messageNumber": 3,
       "original": "\"<Grrr>Lord Alhazred....  With all due respect, you are not quite king yet.  And this IS a wedding ceremony, not an execution.\"",
-      "translation": "\"<גררר> אדון אלחאזרד.... עם כל הכבוד, אתה עדיין לא מלך. וזה אכן טקס חתונה, לא הוצאה להורג.\"",
+      "translation": "\"<גררר> אדון אלהאזרד.... עם כל הכבוד, אתה עדיין לא מלך. וזה אכן טקס חתונה, לא הוצאה להורג.\"",
       "notes": "",
       "placeholders": []
     },
@@ -3229,7 +3229,7 @@
       "logicFile": 160,
       "messageNumber": 12,
       "original": "Before Alexander's very eyes, Cassima is being wed to that blackguard, Alhazred!",
-      "translation": "לנגד עיניו של אלכסנדר, קסימה נישאת למנוול הזה, אלחאזרד!",
+      "translation": "לנגד עיניו של אלכסנדר, קסימה נישאת למנוול הזה, אלהאזרד!",
       "notes": "",
       "placeholders": []
     },
@@ -3525,7 +3525,7 @@
       "logicFile": 160,
       "messageNumber": 49,
       "original": "Alhazred is interested only in ridding himself of the youthful, and threatening, Alexander.",
-      "translation": "אלחאזרד מעוניין רק להיפטר מאלכסנדר הצעיר והמאיים.",
+      "translation": "אלהאזרד מעוניין רק להיפטר מאלכסנדר הצעיר והמאיים.",
       "notes": "",
       "placeholders": []
     },
@@ -3557,7 +3557,7 @@
       "logicFile": 160,
       "messageNumber": 53,
       "original": "Alexander does, indeed, feel like throttling the murdering Alhazred.  But Saladin would undoubtedly kill Alexander long before he reached the vizier.",
-      "translation": "אלכסנדר אכן מרגיש כמו לחנוק את אלחאזרד הרוצח. אבל סלאדין ללא ספק יהרוג את אלכסנדר הרבה לפני שיגיע לווזיר.",
+      "translation": "אלכסנדר אכן מרגיש כמו לחנוק את אלהאזרד הרוצח. אבל סלאדין ללא ספק יהרוג את אלכסנדר הרבה לפני שיגיע לווזיר.",
       "notes": "",
       "placeholders": []
     },
@@ -3573,7 +3573,7 @@
       "logicFile": 160,
       "messageNumber": 55,
       "original": "Alhazred would hardly agree to drink Alexander's potion right now.",
-      "translation": "אלחאזרד בקושי יסכים לשתות את שיקויו של אלכסנדר עכשיו.",
+      "translation": "אלהאזרד בקושי יסכים לשתות את שיקויו של אלכסנדר עכשיו.",
       "notes": "",
       "placeholders": []
     },
@@ -3581,7 +3581,7 @@
       "logicFile": 160,
       "messageNumber": 56,
       "original": "Alhazred is not interested in Alexander's pitifully inadequate spell book, and there's no spell in there for murdering blackguards!",
-      "translation": "אלחאזרד לא מעוניין בספר הלחשים העלוב והלא מספק של אלכסנדר, ואין שם לחש לרצח מנוולים!",
+      "translation": "אלהאזרד לא מעוניין בספר הלחשים העלוב והלא מספק של אלכסנדר, ואין שם לחש לרצח מנוולים!",
       "notes": "",
       "placeholders": []
     },
@@ -3597,7 +3597,7 @@
       "logicFile": 160,
       "messageNumber": 58,
       "original": "\"I have this lamp, Alhazred....\"",
-      "translation": "\"יש לי את המנורה הזו, אלחאזרד....\"",
+      "translation": "\"יש לי את המנורה הזו, אלהאזרד....\"",
       "notes": "",
       "placeholders": []
     },
@@ -3613,7 +3613,7 @@
       "logicFile": 160,
       "messageNumber": 60,
       "original": "\"Never mind, Alhazred!  That lamp means nothing--it is a fake!\"",
-      "translation": "\"לא חשוב, אלחאזרד! המנורה הזו לא אומרת כלום - זו זיוף!\"",
+      "translation": "\"לא חשוב, אלהאזרד! המנורה הזו לא אומרת כלום - זו זיוף!\"",
       "notes": "",
       "placeholders": []
     },
@@ -3645,7 +3645,7 @@
       "logicFile": 160,
       "messageNumber": 64,
       "original": "The old priest does not appear to be too upset by this interruption to his ceremony!  Perhaps he also dislikes Alhazred.",
-      "translation": "הכומר הזקן לא נראה מוטרד יתר על המידה מההפרעה הזו לטקס שלו! אולי גם הוא לא אוהב את אלחאזרד.",
+      "translation": "הכומר הזקן לא נראה מוטרד יתר על המידה מההפרעה הזו לטקס שלו! אולי גם הוא לא אוהב את אלהאזרד.",
       "notes": "",
       "placeholders": []
     },
@@ -4621,7 +4621,7 @@
       "logicFile": 200,
       "messageNumber": 8,
       "original": "\"Alhazred's treachery must be handled carefully, Alexander.  Allaria and I must go gather our allies and form a plan.\"",
-      "translation": "\"בבגידתו של אלחאזרד יש לטפל בזהירות, אלכסנדר. אלריה ואני חייבים ללכת לאסוף את בעלי בריתנו ולגבש תוכנית.\"",
+      "translation": "\"בבגידתו של אלהאזרד יש לטפל בזהירות, אלכסנדר. אלריה ואני חייבים ללכת לאסוף את בעלי בריתנו ולגבש תוכנית.\"",
       "notes": "",
       "placeholders": []
     },
@@ -8901,7 +8901,7 @@
       "logicFile": 240,
       "messageNumber": 43,
       "original": "It's a proclamation.  It reads:\\n\"Citizens Rejoice!\\nAnnouncing the royal wedding and coronation of Vizier Abdul Alhazred and Princess Cassima.  For reasons of security, the wedding will not be open to the public.  Long live the new king and queen of the Land of the Green Isles!\"",
-      "translation": "זו הכרזה. כתוב בה:\\n\"אזרחים, שמחו!\\nאנו שמחים להודיע על החתונה המלכותית והכתרתו של הווזיר עבדול אלחאזרד והנסיכה קסימה. מטעמי ביטחון, החתונה לא תהיה פתוחה לציבור. יחי המלך והמלכה החדשים של ארץ האיים הירוקים!\"",
+      "translation": "זו הכרזה. כתוב בה:\\n\"אזרחים, שמחו!\\nאנו שמחים להודיע על החתונה המלכותית והכתרתו של הווזיר עבדול אלהאזרד והנסיכה קסימה. מטעמי ביטחון, החתונה לא תהיה פתוחה לציבור. יחי המלך והמלכה החדשים של ארץ האיים הירוקים!\"",
       "notes": "",
       "placeholders": []
     },
@@ -13365,7 +13365,7 @@
       "logicFile": 270,
       "messageNumber": 226,
       "original": "\"The vizier?  Hmph.  Now there's a dangerous subject.  His name is Abdul Alhazred.  He came to the kingdom fifteen years ago.  The king was fascinated by his knowledge and his fine-sounding ideas.\"",
-      "translation": "\"הווזיר? הממ. עכשיו זה נושא מסוכן. שמו הוא עבדול אלחאזרד. הוא הגיע לממלכה לפני חמש עשרה שנה. המלך הוקסם מידענותו ומרעיונותיו הנשמעים היטב.\"",
+      "translation": "\"הווזיר? הממ. עכשיו זה נושא מסוכן. שמו הוא עבדול אלהאזרד. הוא הגיע לממלכה לפני חמש עשרה שנה. המלך הוקסם מידענותו ומרעיונותיו הנשמעים היטב.\"",
       "notes": "",
       "placeholders": []
     },
@@ -13373,7 +13373,7 @@
       "logicFile": 270,
       "messageNumber": 227,
       "original": "\"It didn't take long for Alhazred to convince the king to trust him with the 'minor problems' of daily government.  You see, Caliphim had a wife and a new daughter he wanted to spend time with.  Alhazred became vizier.\"",
-      "translation": "\"לא לקח לאלחאזרד זמן רב לשכנע את המלך לבטוח בו ב'בעיות הקטנות' של השלטון היומיומי. אתה מבין, לקליפים הייתה אישה ובת חדשה שהוא רצה לבלות איתן את הזמן. כך אלחאזרד הפך לווזיר.\"",
+      "translation": "\"לא לקח לאלהאזרד זמן רב לשכנע את המלך לבטוח בו ב'בעיות הקטנות' של השלטון היומיומי. אתה מבין, לקליפים הייתה אישה ובת חדשה שהוא רצה לבלות איתן את הזמן. כך אלהאזרד הפך לווזיר.\"",
       "notes": "",
       "placeholders": []
     },
@@ -13453,7 +13453,7 @@
       "logicFile": 270,
       "messageNumber": 237,
       "original": "\"Alexander, this is serious!  Alhazred will never let you get close to Cassima now!  He's doubled the castle guard, probably to make sure you keep out!\"",
-      "translation": "\"אלכסנדר, זה רציני! אלחאזרד לעולם לא ייתן לך להתקרב לקסימה עכשיו! הוא הכפיל את השמירה על הטירה, כנראה כדי לוודא שתישאר בחוץ!\"",
+      "translation": "\"אלכסנדר, זה רציני! אלהאזרד לעולם לא ייתן לך להתקרב לקסימה עכשיו! הוא הכפיל את השמירה על הטירה, כנראה כדי לוודא שתישאר בחוץ!\"",
       "notes": "",
       "placeholders": []
     },
@@ -13461,7 +13461,7 @@
       "logicFile": 270,
       "messageNumber": 238,
       "original": "\"Gadzooks!  It's too bad there isn't some way to convince Alhazred that you've left the islands--or even died!  If he thought you were 'out of the way,' you MIGHT be able to get close enough to....\"",
-      "translation": "\"אוי ואבוי! חבל שאין דרך כלשהי לשכנע את אלחאזרד שעזבת את האיים - או אפילו מתת! אם הוא יחשוב שאתה 'מחוץ לתחום', אולי תוכל להתקרב מספיק כדי...\"",
+      "translation": "\"אוי ואבוי! חבל שאין דרך כלשהי לשכנע את אלהאזרד שעזבת את האיים - או אפילו מתת! אם הוא יחשוב שאתה 'מחוץ לתחום', אולי תוכל להתקרב מספיק כדי...\"",
       "notes": "",
       "placeholders": []
     },
@@ -13477,7 +13477,7 @@
       "logicFile": 270,
       "messageNumber": 240,
       "original": "\"The genie's name is Shamir Shamazel.  Alhazred brought Shamir with him when he came to this kingdom.  Shamir probably won't directly threaten you, but that doesn't mean he isn't dangerous.  He can be a terrible trickster and an ingenious spy.\"",
-      "translation": "\"שם הג'יני הוא שאמיר שאמאזל. אלחאזרד הביא את שאמיר איתו כשהגיע לממלכה הזו. שאמיר כנראה לא יאיים עליך ישירות, אבל זה לא אומר שהוא לא מסוכן. הוא יכול להיות תעלולן איום ומרגל גאון.\"",
+      "translation": "\"שם הג'יני הוא שאמיר שאמאזל. אלהאזרד הביא את שאמיר איתו כשהגיע לממלכה הזו. שאמיר כנראה לא יאיים עליך ישירות, אבל זה לא אומר שהוא לא מסוכן. הוא יכול להיות תעלולן איום ומרגל גאון.\"",
       "notes": "",
       "placeholders": []
     },
@@ -13485,7 +13485,7 @@
       "logicFile": 270,
       "messageNumber": 241,
       "original": "\"<sigh> It's too bad we can't get our hands on Shamir's lamp!  If we had that lamp, Alhazred and all our other problems would be solved.  Wouldn't that be a fine thing!\"",
-      "translation": "\"<אנחה> חבל שאיננו יכולים לשים את ידינו על המנורת של שאמיר! אילו הייתה לנו המנורה הזו, אלחאזרד וכל שאר בעיותינו היו נפתרות. כמה נפלא זה היה יכול להיות!\"",
+      "translation": "\"<אנחה> חבל שאיננו יכולים לשים את ידינו על המנורת של שאמיר! אילו הייתה לנו המנורה הזו, אלהאזרד וכל שאר בעיותינו היו נפתרות. כמה נפלא זה היה יכול להיות!\"",
       "notes": "",
       "placeholders": []
     },
@@ -13501,7 +13501,7 @@
       "logicFile": 270,
       "messageNumber": 243,
       "original": "\"Oh, Shamir isn't necessarily evil.  Genies never are, you know.  They only reflect their owner's heart--for good or ill.  Alhazred is hardly a shining example for an impressionable genie.\"",
-      "translation": "\"הו, שאמיר אינו בהכרח רשע. ג'ינים אף פעם אינם כאלה, אתה יודע. הם רק משקפים את ליבו של בעליהם - לטוב או לרע. הג'יני של אלחאזרד הוא דוגמה מאלפת לג'יני קל דעת.\"",
+      "translation": "\"הו, שאמיר אינו בהכרח רשע. ג'ינים אף פעם אינם כאלה, אתה יודע. הם רק משקפים את ליבו של בעליהם - לטוב או לרע. הג'יני של אלהאזרד הוא דוגמה מאלפת לג'יני קל דעת.\"",
       "notes": "",
       "placeholders": []
     },
@@ -13517,7 +13517,7 @@
       "logicFile": 270,
       "messageNumber": 245,
       "original": "\"What?  Prince Alex, I was only dreaming!  The lamp is heavily guarded.  It would be easier to steal Alhazred's own trousers while he's wearing them than it would be to get that lamp!\"",
-      "translation": "\"מה? הנסיך אלכס, רק חלמתי! המנורה שמורה היטב. יהיה קל יותר לגנוב את מכנסיו של אלחאזרד בזמן שהוא לובש אותם מאשר להשיג את המנורה הזו!\"",
+      "translation": "\"מה? הנסיך אלכס, רק חלמתי! המנורה שמורה היטב. יהיה קל יותר לגנוב את מכנסיו של אלהאזרד בזמן שהוא לובש אותם מאשר להשיג את המנורה הזו!\"",
       "notes": "",
       "placeholders": []
     },
@@ -16805,7 +16805,7 @@
       "logicFile": 290,
       "messageNumber": 9,
       "original": "\"Hmph.  It just ain't safe to sail these days, what with the islands feuding and all.  Vizier Alhazred ordered the ferry closed 'til things settle down.  Me, I don't think she'll ever see water again <sigh>.\"",
-      "translation": "\"הממ. פשוט לא בטוח להפליג בימים אלה, עם האיים המתקוטטים וכל זה. הווזיר אלחאזרד הורה לסגור את המעבורת 'עד שהדברים יירגעו'. אני, אני לא חושב שהיא אי פעם תראה עוד מים <אנחה>.\"",
+      "translation": "\"הממ. פשוט לא בטוח להפליג בימים אלה, עם האיים המתקוטטים וכל זה. הווזיר אלהאזרד הורה לסגור את המעבורת 'עד שהדברים יירגעו'. אני, אני לא חושב שהיא אי פעם תראה עוד מים <אנחה>.\"",
       "notes": "",
       "placeholders": []
     },
@@ -17029,7 +17029,7 @@
       "logicFile": 290,
       "messageNumber": 37,
       "original": "\"The island's currents keep us pretty isolated.  I can only recall three visitors in my lifetime.  When I was a boy a wanderer came, Alhazred himself arrived many years ago, and now you.  We have almost no contact with the outside world, but we're content with our little kingdom.  At least, we always were in the past.\"",
-      "translation": "\"זרמי האי משאירים אותנו מבודדים למדי. אני זוכר רק שלושה מבקרים בחיי. כשהייתי ילד הגיע נווד, אלחאזרד עצמו הגיע לפני שנים רבות, ועכשיו אתה. כמעט אין לנו קשר עם העולם החיצון, אבל אנחנו מרוצים מהממלכה הקטנה שלנו. לפחות, בעבר תמיד היינו מרוצים.\"",
+      "translation": "\"זרמי האי משאירים אותנו מבודדים למדי. אני זוכר רק שלושה מבקרים בחיי. כשהייתי ילד הגיע נווד, אלהאזרד עצמו הגיע לפני שנים רבות, ועכשיו אתה. כמעט אין לנו קשר עם העולם החיצון, אבל אנחנו מרוצים מהממלכה הקטנה שלנו. לפחות, בעבר תמיד היינו מרוצים.\"",
       "notes": "",
       "placeholders": []
     },
@@ -19549,7 +19549,7 @@
       "logicFile": 370,
       "messageNumber": 5,
       "original": "\"We have just been ordered by Vizier Alhazred himself to 'dispose' of any strangers that might land on our fair Isle.  But the prophecy would have a different fate befall you.\"",
-      "translation": "\"זה עתה קיבלנו הוראה מהווזיר אלחאזרד בעצמו 'להיפטר' מכל זר שעלול לנחות באי היפה שלנו. אבל הנבואה מייעדת לך גורל אחר.\"",
+      "translation": "\"זה עתה קיבלנו הוראה מהווזיר אלהאזרד בעצמו 'להיפטר' מכל זר שעלול לנחות באי היפה שלנו. אבל הנבואה מייעדת לך גורל אחר.\"",
       "notes": "",
       "placeholders": []
     },
@@ -19573,7 +19573,7 @@
       "logicFile": 370,
       "messageNumber": 8,
       "original": "\"A dilemma then--whom shall I obey in regards to your fate?  The Oracle or the Crown?  But since Alhazred did not dictate HOW I was to dispose of intruders, and since you cannot possibly survive the catacombs, your imprisonment there should serve both purposes quite admirably.\"",
-      "translation": "\"הדילמה אם כן - למי אציית בעניין גורלך? לאורקל או לכתר? אך מאחר שאלחאזרד לא קבע איך עליי להיפטר מפולשים, ומאחר שאינך יכול לשרוד את מערות הקבורה, כליאתך שם תשרת את שתי המטרות באופן ראוי להערכה.\"",
+      "translation": "\"הדילמה אם כן - למי אציית בעניין גורלך? לאורקל או לכתר? אך מאחר שאלהאזרד לא קבע איך עליי להיפטר מפולשים, ומאחר שאינך יכול לשרוד את מערות הקבורה, כליאתך שם תשרת את שתי המטרות באופן ראוי להערכה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -19693,7 +19693,7 @@
       "logicFile": 370,
       "messageNumber": 23,
       "original": "\"I have no love for Alhazred, but he is my liege, and if Princess Cassima trusts him and wishes to wed him....\"",
-      "translation": "\"אין לי אהבה לאלחאזרד, אבל הוא אדוני, ואם הנסיכה קסימה בוטחת בו ורוצה להינשא לו...\"",
+      "translation": "\"אין לי אהבה לאלהאזרד, אבל הוא אדוני, ואם הנסיכה קסימה בוטחת בו ורוצה להינשא לו...\"",
       "notes": "",
       "placeholders": []
     },
@@ -32661,7 +32661,7 @@
       "logicFile": 580,
       "messageNumber": 28,
       "original": "\"Besides, Vizier Alhazred sent a message that we were to watch out for a highly-dangerous foreign assassin.  I assume you ARE the one he meant.\"",
-      "translation": "\"חוץ מזה, הווזיר אלחאזרד שלח הודעה שעלינו להיזהר ממתנקש זר מסוכן ביותר. אני מניח שאתה הוא זה שהתכוון אליו.\"",
+      "translation": "\"חוץ מזה, הווזיר אלהאזרד שלח הודעה שעלינו להיזהר ממתנקש זר מסוכן ביותר. אני מניח שאתה הוא זה שהתכוון אליו.\"",
       "notes": "",
       "placeholders": []
     },
@@ -33109,7 +33109,7 @@
       "logicFile": 600,
       "messageNumber": 13,
       "original": "\"I know that she is alive and safely back in her kingdom after being rescued from Mordack.  But I'm afraid I have not personally seen her.  Alhazred is keeping her in her room in mourning for you.\"",
-      "translation": "\"אני יודע שהיא במקום בטוח ושחזרה לממלכתה לאחר שחולצה ממורדק. אבל אני חושש שלא ראיתי אותה אישית. אלחאזרד מחזיק אותה בחדרה באבל עליכם.\"",
+      "translation": "\"אני יודע שהיא במקום בטוח ושחזרה לממלכתה לאחר שחולצה ממורדק. אבל אני חושש שלא ראיתי אותה אישית. אלהאזרד מחזיק אותה בחדרה באבל עליכם.\"",
       "notes": "",
       "placeholders": []
     },
@@ -38781,7 +38781,7 @@
       "logicFile": 730,
       "messageNumber": 71,
       "original": "\"But I did not!  Have you no doubts of your own about Alhazred?  Don't you see, all he wants is the Crown!  Cassima is being coerced.  We must stop the wedding!\"",
-      "translation": "\"בוודאי שלא כתבתי! האם לך אין ספקות לגבי אלחאזרד? אתה לא רואה, שכל מה שהוא רוצה זה רק את הכתר! קסימה נאלצת להתחתן איתו. עלינו לעצור את החתונה!\"",
+      "translation": "\"בוודאי שלא כתבתי! האם לך אין ספקות לגבי אלהאזרד? אתה לא רואה, שכל מה שהוא רוצה זה רק את הכתר! קסימה נאלצת להתחתן איתו. עלינו לעצור את החתונה!\"",
       "notes": "",
       "placeholders": []
     },
@@ -38837,7 +38837,7 @@
       "logicFile": 730,
       "messageNumber": 78,
       "original": "\"Vizier Alhazred said you were a danger to the princess!  Even if she believes you to be a friend, I have no reason to doubt that the vizier is right about you.\"",
-      "translation": "\"הווזיר אלחאזרד אמר שאתה סכנה לנסיכה! גם אם היא מאמינה שאתה ידיד, אין לי סיבה לפקפק בכך שהווזיר צודק לגביך.\"",
+      "translation": "\"הווזיר אלהאזרד אמר שאתה סכנה לנסיכה! גם אם היא מאמינה שאתה ידיד, אין לי סיבה לפקפק בכך שהווזיר צודק לגביך.\"",
       "notes": "",
       "placeholders": []
     },
@@ -39157,7 +39157,7 @@
       "logicFile": 740,
       "messageNumber": 2,
       "original": "\"I, Cassima, declare Abdul Alhazred as my lawful and beloved husband, and KING of this realm....\"",
-      "translation": "\"אני, קסימה, מכריזה על עבדול אלחאזרד כבעלי החוקי והאהוב, ומלך הממלכה הזאת...\"",
+      "translation": "\"אני, קסימה, מכריזה על עבדול אלהאזרד כבעלי החוקי והאהוב, ומלך הממלכה הזאת...\"",
       "notes": "",
       "placeholders": []
     },
@@ -39477,7 +39477,7 @@
       "logicFile": 740,
       "messageNumber": 42,
       "original": "Alexander doesn't have time to experiment with that now!  Alhazred is escaping, and who knows where the REAL Cassima might be!",
-      "translation": "לאלכסנדר אין זמן להתעסק עם זה עכשיו! אלחאזרד בורח, ומי יודע היכן קסימה האמיתית יכולה להיות!",
+      "translation": "לאלכסנדר אין זמן להתעסק עם זה עכשיו! אלהאזרד בורח, ומי יודע היכן קסימה האמיתית יכולה להיות!",
       "notes": "",
       "placeholders": []
     },
@@ -39485,7 +39485,7 @@
       "logicFile": 740,
       "messageNumber": 43,
       "original": "Alexander is standing in a magnificent throne room--finer than any he's ever seen.  Unfortunately, he's not in the mood to enjoy it because, at this very moment, Cassima is about to marry Alhazred!",
-      "translation": "אלכסנדר עומד בחדר כס מפואר - יפה מכל מה שראה אי פעם. למרבה הצער, אין לו מצב רוח ליהנות מכך כי, ברגע זה ממש, קסימה עומדת להינשא לאלחאזרד!",
+      "translation": "אלכסנדר עומד בחדר כס מפואר - יפה מכל מה שראה אי פעם. למרבה הצער, אין לו מצב רוח ליהנות מכך כי, ברגע זה ממש, קסימה עומדת להינשא לאלהאזרד!",
       "notes": "",
       "placeholders": []
     },
@@ -39557,7 +39557,7 @@
       "logicFile": 740,
       "messageNumber": 52,
       "original": "Alexander decides to leave the guard dogs to fight the genie and follow the vizier.  Maybe Alhazred has gone after the real Cassima!",
-      "translation": "אלכסנדר מחליט להשאיר את כלבי השמירה להילחם בג'יני על מנת לעקוב אחר הווזיר. אולי אלחאזרד ברח אל קסימה האמיתית!",
+      "translation": "אלכסנדר מחליט להשאיר את כלבי השמירה להילחם בג'יני על מנת לעקוב אחר הווזיר. אולי אלהאזרד ברח אל קסימה האמיתית!",
       "notes": "",
       "placeholders": []
     },
@@ -39573,7 +39573,7 @@
       "logicFile": 740,
       "messageNumber": 54,
       "original": "That scheming blackguard Alhazred, vizier of this realm, is in the process of marrying Cassima and securing a place as king of the Land of the Green Isles!",
-      "translation": "הנוכל המרושע הזה אלחאזרד, ווזיר הממלכה הזאת, נמצא בתהליך של נישואין לקסימה ובכך מבטיח לעצמו מקום כמלך ארץ האיים הירוקים!",
+      "translation": "הנוכל המרושע הזה אלהאזרד, ווזיר הממלכה הזאת, נמצא בתהליך של נישואין לקסימה ובכך מבטיח לעצמו מקום כמלך ארץ האיים הירוקים!",
       "notes": "",
       "placeholders": []
     },
@@ -39597,7 +39597,7 @@
       "logicFile": 740,
       "messageNumber": 57,
       "original": "Alexander doesn't have time to deal with the genie now!  Alhazred has left the throne room and may be on his way to the real Cassima!",
-      "translation": "לאלכסנדר אין זמן להתמודד עם הג'יני עכשיו! אלחאזרד עזב את חדר הכס ואולי בדרכו לקסימה האמיתית!",
+      "translation": "לאלכסנדר אין זמן להתמודד עם הג'יני עכשיו! אלהאזרד עזב את חדר הכס ואולי בדרכו לקסימה האמיתית!",
       "notes": "",
       "placeholders": []
     },
@@ -39621,7 +39621,7 @@
       "logicFile": 740,
       "messageNumber": 60,
       "original": "Alexander can't believe his eyes as he looks at Cassima.  Could she possibly mean to wed Alhazred?  Is she out of her mind?",
-      "translation": "אלכסנדר לא מאמין למראה עיניו כשהוא מסתכל על קסימה. האם היא באמת מתכוונת להינשא לאלחאזרד? האם היא יצאה מדעתה?",
+      "translation": "אלכסנדר לא מאמין למראה עיניו כשהוא מסתכל על קסימה. האם היא באמת מתכוונת להינשא לאלהאזרד? האם היא יצאה מדעתה?",
       "notes": "",
       "placeholders": []
     },
@@ -39925,7 +39925,7 @@
       "logicFile": 743,
       "messageNumber": 14,
       "original": "\"Alexander, I welcome you into our family with open arms!  I placed trust in Alhazred because I so badly wanted a son and a husband for my beloved daughter.  I was wrong.  But you are true and good, Alexander, and have proven yourself to all my people.\"",
-      "translation": "\"אלכסנדר, אני מקבל אותך למשפחתנו בזרועות פתוחות! נתתי אמון באלחאזרד כי כל כך רציתי בן ובעל לביתי האהובה. טעיתי. אבל אתה אמיתי וטוב, אלכסנדר, והוכחת את עצמך לכל עמי.\"",
+      "translation": "\"אלכסנדר, אני מקבל אותך למשפחתנו בזרועות פתוחות! נתתי אמון באלהאזרד כי כל כך רציתי בן ובעל לביתי האהובה. טעיתי. אבל אתה אמיתי וטוב, אלכסנדר, והוכחת את עצמך לכל עמי.\"",
       "notes": "",
       "placeholders": []
     },
@@ -39941,7 +39941,7 @@
       "logicFile": 743,
       "messageNumber": 16,
       "original": "\"Allaria and I have been through much.  Even though we have returned to our kingdom, I do not think we are able to reign again.  Will you two consider the Crown?  I know as king and queen you can heal this small kingdom from all the damage that Alhazred has inflicted upon it.\"",
-      "translation": "\"אלאריה ואני עברנו רבות. למרות שחזרנו לממלכתנו, איני חושב שנוכל למלוך שוב. האם תשקלו את הכתר? אני יודע שכמלך ומלכה תוכלו לרפא את הממלכה הקטנה הזו מכל הנזק שאלחאזרד גרם לה.\"",
+      "translation": "\"אלאריה ואני עברנו רבות. למרות שחזרנו לממלכתנו, איני חושב שנוכל למלוך שוב. האם תשקלו את הכתר? אני יודע שכמלך ומלכה תוכלו לרפא את הממלכה הקטנה הזו מכל הנזק שאלהאזרד גרם לה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -39973,7 +39973,7 @@
       "logicFile": 743,
       "messageNumber": 20,
       "original": "\"Alexander, Alhazred hurt this little kingdom nearly to the point of destroying all that we stand for.  But you are true and good, and have proven yourself to all the people.\"",
-      "translation": "\"אלכסנדר, אלחאזרד פגע בממלכה הקטנה הזו כמעט עד כדי הרס כל מה שאנחנו מכירים. אבל אתה אמיתי וטוב, והוכחת את עצמך לכל העם.\"",
+      "translation": "\"אלכסנדר, אלהאזרד פגע בממלכה הקטנה הזו כמעט עד כדי הרס כל מה שאנחנו מכירים. אבל אתה אמיתי וטוב, והוכחת את עצמך לכל העם.\"",
       "notes": "",
       "placeholders": []
     },
@@ -39989,7 +39989,7 @@
       "logicFile": 743,
       "messageNumber": 22,
       "original": "\"King Caliphim and Queen Allaria are gone and can never be restored.  Alhazred has, thankfully, been banished.  But we are leaderless.  I believe you two can heal this small kingdom from all the damage that Alhazred has inflicted upon it.\"",
-      "translation": "\"המלך קליפים והמלכה אלאריה אינם, ולא ניתן להשיבם. אלחאזרד, למרבה המזל, הוגלה. אבל אנחנו חסרי מנהיג. אני מאמין ששניכם יכולים לרפא את הממלכה הקטנה הזו מכל הנזק שאלחאזרד גרם לה.\"",
+      "translation": "\"המלך קליפים והמלכה אלאריה אינם, ולא ניתן להשיבם. אלהאזרד, למרבה המזל, הוגלה. אבל אנחנו חסרי מנהיג. אני מאמין ששניכם יכולים לרפא את הממלכה הקטנה הזו מכל הנזק שאלהאזרד גרם לה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -40237,7 +40237,7 @@
       "logicFile": 743,
       "messageNumber": 53,
       "original": "\"Yes, my love, discovering the island's stolen treasures has done more to bring peace to this land than anything else.  It is now clear that Alhazred had Shamir steal each of the island's most valued treasure, then blamed the thefts on others to cause the islands to hate each other.\"",
-      "translation": "\"כן, אהובי, גילוי אוצרות האיים הגנובים הביא יותר שלום לארץ הזו מכל דבר אחר. עכשיו ברור שאלחאזרד גרם לשאמיר לגנוב כל אחד מהאוצרות היקרים ביותר של האיים, ואז האשים את האיים האחרים בגניבות כדי לגרום לאיים לשנוא זה את זה.\"",
+      "translation": "\"כן, אהובי, גילוי אוצרות האיים הגנובים הביא יותר שלום לארץ הזו מכל דבר אחר. עכשיו ברור שאלהאזרד גרם לשאמיר לגנוב כל אחד מהאוצרות היקרים ביותר של האיים, ואז האשים את האיים האחרים בגניבות כדי לגרום לאיים לשנוא זה את זה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -40253,7 +40253,7 @@
       "logicFile": 743,
       "messageNumber": 55,
       "original": "\"Yes, Alexander.  We will have to try to discover how Alhazred managed to make them hate each other so that we can undo what he has done.\"",
-      "translation": "\"כן, אלכסנדר. נצטרך לנסות לגלות כיצד אלחאזרד הצליח לגרום להם לשנוא זה את זה כדי שנוכל לבטל את מה שעשה.\"",
+      "translation": "\"כן, אלכסנדר. נצטרך לנסות לגלות כיצד אלהאזרד הצליח לגרום להם לשנוא זה את זה כדי שנוכל לבטל את מה שעשה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -40285,7 +40285,7 @@
       "logicFile": 750,
       "messageNumber": 1,
       "original": "\"Alexander!  Be careful, Alhazred has a sword!\"",
-      "translation": "\"אלכסנדר! היזהר, לאלחאזרד יש חרב!\"",
+      "translation": "\"אלכסנדר! היזהר, לאלהאזרד יש חרב!\"",
       "notes": "",
       "placeholders": []
     },
@@ -40437,7 +40437,7 @@
       "logicFile": 750,
       "messageNumber": 20,
       "original": "Alhazred finishes off Alexander with one swipe of his sword.",
-      "translation": "אלחאזרד מסיים את אלכסנדר במכת חרב אחת.",
+      "translation": "אלהאזרד מסיים את אלכסנדר במכת חרב אחת.",
       "notes": "",
       "placeholders": []
     },
@@ -40581,7 +40581,7 @@
       "logicFile": 750,
       "messageNumber": 38,
       "original": "Alhazred's genie, Shamir Shamazel, looks like he's winding up for a huge dazzle spell--and he's aiming it at Alexander!",
-      "translation": "השד של אלחאזרד, שאמיר שאמאזל, נראה כאילו הוא מתכונן לכישוף מסנוור מאד - והוא מכוון אותו אל אלכסנדר!",
+      "translation": "השד של אלהאזרד, שאמיר שאמאזל, נראה כאילו הוא מתכונן לכישוף מסנוור מאד - והוא מכוון אותו אל אלכסנדר!",
       "notes": "",
       "placeholders": []
     },
@@ -40757,7 +40757,7 @@
       "logicFile": 750,
       "messageNumber": 60,
       "original": "\"So shall it be, Alhazred!  I'm ready!\"",
-      "translation": "\"קדימה, אלחאזרד! אני מוכן!\"",
+      "translation": "\"קדימה, אלהאזרד! אני מוכן!\"",
       "notes": "",
       "placeholders": []
     },
@@ -40805,7 +40805,7 @@
       "logicFile": 750,
       "messageNumber": 66,
       "original": "\"So shall it be, Alhazred!  I don't need the genie to deal with a coward like you!\"",
-      "translation": "\"כך יהיה, אלחאזרד! אני לא צריך את השד כדי להתמודד עם פחדן כמוך!\"",
+      "translation": "\"כך יהיה, אלהאזרד! אני לא צריך את השד כדי להתמודד עם פחדן כמוך!\"",
       "notes": "",
       "placeholders": []
     },
@@ -40821,7 +40821,7 @@
       "logicFile": 750,
       "messageNumber": 68,
       "original": "That would never stop Alhazred's sword!",
-      "translation": "זה לעולם לא יעצור את חרבו של אלחאזרד!",
+      "translation": "זה לעולם לא יעצור את חרבו של אלהאזרד!",
       "notes": "",
       "placeholders": []
     },
@@ -40829,7 +40829,7 @@
       "logicFile": 750,
       "messageNumber": 69,
       "original": "Alhazred looks confident that his genie will be able to take care of the handsome young interloper once and for all!",
-      "translation": "אלחאזרד נראה בטוח שהשד שלו יוכל לטפל בפולש הצעיר פעם אחת ולתמיד!",
+      "translation": "אלהאזרד נראה בטוח שהשד שלו יוכל לטפל בפולש הצעיר פעם אחת ולתמיד!",
       "notes": "",
       "placeholders": []
     },
@@ -40837,7 +40837,7 @@
       "logicFile": 750,
       "messageNumber": 70,
       "original": "Alhazred handles his sword deftly.  He looks quite enraged, and more than ready to avenge himself on the interloping prince who has ruined his dreams of glory!",
-      "translation": "אלחאזרד שולט בחרבו בזריזות. הוא נראה כועס מאד, ובכושר רב לנקום בנסיך הפולש שהרס את חלומות המלוכה שלו!",
+      "translation": "אלהאזרד שולט בחרבו בזריזות. הוא נראה כועס מאד, ובכושר רב לנקום בנסיך הפולש שהרס את חלומות המלוכה שלו!",
       "notes": "",
       "placeholders": []
     },
@@ -40845,7 +40845,7 @@
       "logicFile": 750,
       "messageNumber": 71,
       "original": "Alhazred, blind with rage at the princess's audacity, has turned his back on Alexander and is now attacking Cassima!",
-      "translation": "אלחאזרד, בהלם מוחלט על חוצפתה של הנסיכה, הפנה את גבו לאלכסנדר וכעת הוא תוקף את קסימה!",
+      "translation": "אלהאזרד, בהלם מוחלט על חוצפתה של הנסיכה, הפנה את גבו לאלכסנדר וכעת הוא תוקף את קסימה!",
       "notes": "",
       "placeholders": []
     },
@@ -40909,7 +40909,7 @@
       "logicFile": 750,
       "messageNumber": 79,
       "original": "Alexander's bare hands would have little chance against Alhazred's sword.",
-      "translation": "בידיו החשופות של אלכסנדר לא היה לו ממש סיכוי נגד חרבו של אלחאזרד.",
+      "translation": "בידיו החשופות של אלכסנדר לא היה לו ממש סיכוי נגד חרבו של אלהאזרד.",
       "notes": "",
       "placeholders": []
     },
@@ -40941,7 +40941,7 @@
       "logicFile": 750,
       "messageNumber": 83,
       "original": "That clumsy scythe would be no match for Alhazred's sword!",
-      "translation": "החרמש המגושם הזה לא יהיה כוחות לחרבו של אלחאזרד!",
+      "translation": "החרמש המגושם הזה לא יהיה כוחות לחרבו של אלהאזרד!",
       "notes": "",
       "placeholders": []
     },
@@ -40957,7 +40957,7 @@
       "logicFile": 750,
       "messageNumber": 85,
       "original": "\"Leave her alone, Alhazred!  You are through harming her--and this kingdom!\"",
-      "translation": "\"תניח לה, אלחאזרד! אתה סיימת לפגוע בה - ובממלכה הזו!\"",
+      "translation": "\"תניח לה, אלהאזרד! אתה סיימת לפגוע בה - ובממלכה הזו!\"",
       "notes": "",
       "placeholders": []
     },
@@ -41101,7 +41101,7 @@
       "logicFile": 750,
       "messageNumber": 103,
       "original": "Cassima thrusts the small dagger into Alhazred's shoulder with all her might!",
-      "translation": "קסימה דוחפת את הפגיון הקטן לכתפו של אלחאזרד בכל כוחה!",
+      "translation": "קסימה דוחפת את הפגיון הקטן לכתפו של אלהאזרד בכל כוחה!",
       "notes": "",
       "placeholders": []
     },
@@ -41197,7 +41197,7 @@
       "logicFile": 750,
       "messageNumber": 115,
       "original": "Alexander would gladly give Cassima all he owned, but he'll have to get past Alhazred first!",
-      "translation": "אלכסנדר ישמח לתת לקסימה את כל רכושו, אבל הוא יצטרך לעבור את אלחאזרד קודם!",
+      "translation": "אלכסנדר ישמח לתת לקסימה את כל רכושו, אבל הוא יצטרך לעבור את אלהאזרד קודם!",
       "notes": "",
       "placeholders": []
     },
@@ -41205,7 +41205,7 @@
       "logicFile": 750,
       "messageNumber": 116,
       "original": "So this is where Alhazred stashed the real Cassima during the wedding ceremony!  She struggles against her bonds, but, thankfully, doesn't seem to be harmed.",
-      "translation": "אז כאן אלחאזרד החביא את קסימה האמיתית במהלך טקס החתונה! היא נאבקת בכבליה, אבל, למרבה המזל, לא נראה שהיא נפגעה.",
+      "translation": "אז כאן אלהאזרד החביא את קסימה האמיתית במהלך טקס החתונה! היא נאבקת בכבליה, אבל, למרבה המזל, לא נראה שהיא נפגעה.",
       "notes": "",
       "placeholders": []
     },
@@ -41261,7 +41261,7 @@
       "logicFile": 750,
       "messageNumber": 123,
       "original": "Alhazred still stands between Alexander and Cassima.  Alexander cannot reach the princess unless he deals with the vizier first!",
-      "translation": "אלחאזרד עדיין עומד בין אלכסנדר לקסימה. אלכסנדר לא יכול להגיע לנסיכה אלא אם כן הוא מטפל בווזיר קודם!",
+      "translation": "אלהאזרד עדיין עומד בין אלכסנדר לקסימה. אלכסנדר לא יכול להגיע לנסיכה אלא אם כן הוא מטפל בווזיר קודם!",
       "notes": "",
       "placeholders": []
     },
@@ -41421,7 +41421,7 @@
       "logicFile": 770,
       "messageNumber": 12,
       "original": "\"A.A.?  That must stand for Abdul Alhazred!\"",
-      "translation": "\"ע. א.? אלו בטח ראשי תיבות של עבדול אלחאזרד!\"",
+      "translation": "\"ע. א.? אלו בטח ראשי תיבות של עבדול אלהאזרד!\"",
       "notes": "",
       "placeholders": []
     },
@@ -41701,7 +41701,7 @@
       "logicFile": 770,
       "messageNumber": 47,
       "original": "Those trunks probably contain the kingdom's treasure--once guarded so well and used so wisely by King Caliphim, now in the hands of that blackguard, Alhazred!",
-      "translation": "התיבות הללו כנראה מכילות את אוצרות הממלכה - פעם נשמרו כל כך טוב ושימשו בחוכמה על ידי המלך קאליפים, עכשיו בידיו של הנבל הזה, אלחאזרד!",
+      "translation": "התיבות הללו כנראה מכילות את אוצרות הממלכה - פעם נשמרו כל כך טוב ושימשו בחוכמה על ידי המלך קאליפים, עכשיו בידיו של הנבל הזה, אלהאזרד!",
       "notes": "",
       "placeholders": []
     },
@@ -41989,7 +41989,7 @@
       "logicFile": 780,
       "messageNumber": 23,
       "original": "\"As far as I know, she's still in her bedroom upstairs.  You'd never make it up there, though.  The guard dogs are everywhere, and they're very loyal to the Crown.  Unfortunately, right now 'the Crown' means Alhazred.\"",
-      "translation": "\"למיטב ידיעתי, היא עדיין בחדר השינה שלה למעלה. אבל לעולם לא תצליח להגיע לשם. כלבי השמירה נמצאים בכל מקום, והם נאמנים מאוד לכתר. למרבה הצער, כרגע 'הכתר' משמעו אלחאזרד.\"",
+      "translation": "\"למיטב ידיעתי, היא עדיין בחדר השינה שלה למעלה. אבל לעולם לא תצליח להגיע לשם. כלבי השמירה נמצאים בכל מקום, והם נאמנים מאוד לכתר. למרבה הצער, כרגע 'הכתר' משמעו אלהאזרד.\"",
       "notes": "",
       "placeholders": []
     },
@@ -42029,7 +42029,7 @@
       "logicFile": 780,
       "messageNumber": 28,
       "original": "\"Really?  Oh, my friend, I'm so happy for that!  Thank heaven she hasn't lost her senses and actually fallen for that black-hearted Alhazred!  Did you say that she is well?\"",
-      "translation": "\"באמת? הו, ידידי, אני כל כך שמח על כך! תודה לאל שהיא לא איבדה את שכלה ובאמת התאהבה באלחאזרד שחור-הלב הזה! אמרת שהיא בסדר?\"",
+      "translation": "\"באמת? הו, ידידי, אני כל כך שמח על כך! תודה לאל שהיא לא איבדה את שכלה ובאמת התאהבה באלהאזרד שחור-הלב הזה! אמרת שהיא בסדר?\"",
       "notes": "",
       "placeholders": []
     },
@@ -42045,7 +42045,7 @@
       "logicFile": 780,
       "messageNumber": 30,
       "original": "\"Stop the wedding?  You'd never even make it to the ceremony, Alexander.  The guard dogs are everywhere, and they're very loyal to the Crown.  Unfortunately, right now, 'the Crown' means Alhazred.\"",
-      "translation": "\"לעצור את החתונה? לעולם לא תגיע אפילו לטקס, אלכסנדר. כלבי השמירה נמצאים בכל מקום, והם נאמנים מאוד לכתר. למרבה הצער, כרגע, 'הכתר' משמעו אלחאזרד.\"",
+      "translation": "\"לעצור את החתונה? לעולם לא תגיע אפילו לטקס, אלכסנדר. כלבי השמירה נמצאים בכל מקום, והם נאמנים מאוד לכתר. למרבה הצער, כרגע, 'הכתר' משמעו אלהאזרד.\"",
       "notes": "",
       "placeholders": []
     },
@@ -42085,7 +42085,7 @@
       "logicFile": 780,
       "messageNumber": 35,
       "original": "\"Alhazred brought the genie with him when he came to this kingdom.  It is seldom that the genie will take human life himself.  Usually, he is more of a trickster and spy, but that doesn't mean he isn't dangerous.\"",
-      "translation": "\"אלחאזרד הביא את הג'יני איתו כשבא לממלכה הזו. לעיתים נדירות הג'יני נוטל חיים בעצמו. בדרך כלל, הוא יותר קוסם ומרגל, אבל זה לא אומר שהוא לא מסוכן.\"",
+      "translation": "\"אלהאזרד הביא את הג'יני איתו כשבא לממלכה הזו. לעיתים נדירות הג'יני נוטל חיים בעצמו. בדרך כלל, הוא יותר קוסם ומרגל, אבל זה לא אומר שהוא לא מסוכן.\"",
       "notes": "",
       "placeholders": []
     },
@@ -42093,7 +42093,7 @@
       "logicFile": 780,
       "messageNumber": 36,
       "original": "\"In fact, he is quite powerful.  If, for example, we could get the genie's lamp, then you could master the genie.  Alhazred and all our other problems would be solved.\"",
-      "translation": "\"למעשה, הוא די חזק. אם, לדוגמה, נוכל להשיג את מנורת הג'יני, אז תוכל לשלוט בג'יני. אלחאזרד וכל שאר הצרות שלנו ייפתרו.\"",
+      "translation": "\"למעשה, הוא די חזק. אם, לדוגמה, נוכל להשיג את מנורת הג'יני, אז תוכל לשלוט בג'יני. אלהאזרד וכל שאר הצרות שלנו ייפתרו.\"",
       "notes": "",
       "placeholders": []
     },
@@ -42317,7 +42317,7 @@
       "logicFile": 780,
       "messageNumber": 64,
       "original": "\"She seems fine at the moment, but she does NOT want to marry Alhazred!\"",
-      "translation": "\"היא נראית בסדר כרגע, אבל היא ממש לא רוצה להתחתן עם אלחאזרד!\"",
+      "translation": "\"היא נראית בסדר כרגע, אבל היא ממש לא רוצה להתחתן עם אלהאזרד!\"",
       "notes": "",
       "placeholders": []
     },
@@ -43029,7 +43029,7 @@
       "logicFile": 781,
       "messageNumber": 29,
       "original": "The letter is addressed to Abdul Alhazred from the Wizard Shadrack.  It reads:",
-      "translation": "המכתב ממוען לעבדול אלחאזרד מהקוסם שדראק. כתוב כך:",
+      "translation": "המכתב ממוען לעבדול אלהאזרד מהקוסם שדראק. כתוב כך:",
       "notes": "",
       "placeholders": []
     },
@@ -43669,7 +43669,7 @@
       "logicFile": 790,
       "messageNumber": 1,
       "original": "It's Alhazred!  He's getting away!",
-      "translation": "זה אלחאזרד! הוא בורח!",
+      "translation": "זה אלהאזרד! הוא בורח!",
       "notes": "",
       "placeholders": []
     },
@@ -43725,7 +43725,7 @@
       "logicFile": 790,
       "messageNumber": 8,
       "original": "This is no time for playing around with objects!  Cassima is in real danger--Alhazred is probably headed for her right now!",
-      "translation": "זה לא הזמן להתעסק עם חפצים! קסימה בסכנה אמיתית - אלחאזרד כנראה בדרכו אליה ממש עכשיו!",
+      "translation": "זה לא הזמן להתעסק עם חפצים! קסימה בסכנה אמיתית - אלהאזרד כנראה בדרכו אליה ממש עכשיו!",
       "notes": "",
       "placeholders": []
     },
@@ -43733,7 +43733,7 @@
       "logicFile": 790,
       "messageNumber": 9,
       "original": "Alexander is standing in a beautiful round tower.  Stairs lead upward, spiraling towards the top of the tower...and Alhazred!",
-      "translation": "אלכסנדר עומד במגדל עגול ויפהפה. מדרגות מובילות כלפי מעלה, מסתלסלות אל קצה המגדל... ואלחאזרד!",
+      "translation": "אלכסנדר עומד במגדל עגול ויפהפה. מדרגות מובילות כלפי מעלה, מסתלסלות אל קצה המגדל... ואלהאזרד!",
       "notes": "",
       "placeholders": []
     },
@@ -43741,7 +43741,7 @@
       "logicFile": 790,
       "messageNumber": 10,
       "original": "\"Alhazred, you coward, come back here!\"",
-      "translation": "\"אלחאזרד, פחדן, חזור לכאן!\"",
+      "translation": "\"אלהאזרד, פחדן, חזור לכאן!\"",
       "notes": "",
       "placeholders": []
     },
@@ -43757,7 +43757,7 @@
       "logicFile": 790,
       "messageNumber": 12,
       "original": "Alexander can't even think about exploring at a time like this!  Alhazred is getting away!",
-      "translation": "אלכסנדר לא יכול אפילו לחשוב על בדיקות בזמן כזה! אלחאזרד בורח!",
+      "translation": "אלכסנדר לא יכול אפילו לחשוב על בדיקות בזמן כזה! אלהאזרד בורח!",
       "notes": "",
       "placeholders": []
     },
@@ -44061,7 +44061,7 @@
       "logicFile": 800,
       "messageNumber": 29,
       "original": "\"Alhazred...he is not what he appears.\"",
-      "translation": "\"אלחאזרד... הוא לא מה שהוא נראה.\"",
+      "translation": "\"אלהאזרד... הוא לא מה שהוא נראה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -44085,7 +44085,7 @@
       "logicFile": 800,
       "messageNumber": 32,
       "original": "\"The kingdom IS in trouble, but the real threat at the moment is to YOUR safety, Princess.  Alhazred has such plans....  You don't WANT to wed Alhazred, do you?\"",
-      "translation": "\"הממלכה אכן בסכנה, אבל האיום האמיתי כרגע הוא על שלומך, נסיכה. לאלחאזרד יש תוכניות כאלה.... את לא רוצה להינשא לאלחאזרד, נכון?\"",
+      "translation": "\"הממלכה אכן בסכנה, אבל האיום האמיתי כרגע הוא על שלומך, נסיכה. לאלהאזרד יש תוכניות כאלה.... את לא רוצה להינשא לאלהאזרד, נכון?\"",
       "notes": "",
       "placeholders": []
     },
@@ -44125,7 +44125,7 @@
       "logicFile": 800,
       "messageNumber": 37,
       "original": "\"Alhazred.  Do you WANT to wed him, Cassima?\"",
-      "translation": "\"אלחאזרד. את רוצה להינשא לו, קסימה?\"",
+      "translation": "\"אלהאזרד. את רוצה להינשא לו, קסימה?\"",
       "notes": "",
       "placeholders": []
     },
@@ -44181,7 +44181,7 @@
       "logicFile": 800,
       "messageNumber": 44,
       "original": "\"We'll stay nearby if you want, only come away from Alhazred's power.  We'll find refuge on one of the islands.  They're all still true to you, you know.\"",
-      "translation": "\"נישאר קרובים אם תרצי, רק התנתקי מכוחו של אלחאזרד. נמצא מקלט באחד מהאיים. כולם עדיין נאמנים לך, את יודעת.\"",
+      "translation": "\"נישאר קרובים אם תרצי, רק התנתקי מכוחו של אלהאזרד. נמצא מקלט באחד מהאיים. כולם עדיין נאמנים לך, את יודעת.\"",
       "notes": "",
       "placeholders": []
     },
@@ -44485,7 +44485,7 @@
       "logicFile": 800,
       "messageNumber": 82,
       "original": "\"<Gasp!>  I can't believe it!  I had my suspicions, but this confirms everything!  Alexander, YOU must keep the letter.  You might have a chance to show it to someone who can help you stop Alhazred.  Just be careful, please.\"",
-      "translation": "\"<נשימה עמוקה!> אני לא מאמינה לזה! היו לי חשדות, אבל זה מאשר הכל! אלכסנדר, אתה חייב לשמור את המכתב. אולי תהיה לך הזדמנות להראות אותו למישהו שיוכל לעזור לך לעצור את אלחאזרד. רק היזהר, בבקשה.\"",
+      "translation": "\"<נשימה עמוקה!> אני לא מאמינה לזה! היו לי חשדות, אבל זה מאשר הכל! אלכסנדר, אתה חייב לשמור את המכתב. אולי תהיה לך הזדמנות להראות אותו למישהו שיוכל לעזור לך לעצור את אלהאזרד. רק היזהר, בבקשה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -44565,7 +44565,7 @@
       "logicFile": 800,
       "messageNumber": 92,
       "original": "\"<Growl>.  Alhazred claims that a foreign intruder is here to assassinate her.  That's why she's got to be kept under lock and key, right up until the wedding.\"",
-      "translation": "\"<נהמה>. אלחאזרד טוען שפולש זר נמצא כאן כדי להתנקש בה. לכן היא חייבת להישאר נעולה, ממש עד לחתונה.\"",
+      "translation": "\"<נהמה>. אלהאזרד טוען שפולש זר נמצא כאן כדי להתנקש בה. לכן היא חייבת להישאר נעולה, ממש עד לחתונה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -44581,7 +44581,7 @@
       "logicFile": 800,
       "messageNumber": 94,
       "original": "\"Alhazred has been in charge for months what with the king's death and Cassima's mourning.  Tonight the wedding will seal it, and there's nothing we can do about it.\"",
-      "translation": "\"אלחאזרד ממונה כבר מספר חודשים מאז מות המלך ואבלה של קסימה. הלילה החתונה תחתום את זה, ואין דבר שנוכל לעשות העניין.\"",
+      "translation": "\"אלהאזרד ממונה כבר מספר חודשים מאז מות המלך ואבלה של קסימה. הלילה החתונה תחתום את זה, ואין דבר שנוכל לעשות העניין.\"",
       "notes": "",
       "placeholders": []
     },
@@ -44925,7 +44925,7 @@
       "logicFile": 810,
       "messageNumber": 16,
       "original": "\"Well, on to it now.  I'd send her to you but, as you know, I had no luck in doing so with Mordack.  I close in triumph--KING Abdul Alhazred.\"",
-      "translation": "\"ובכן, כעת לעניין. הייתי שולח אותה אליך, אבל כידוע לך, לא היה לי מזל בכך עם מורדאק. ניצחוני קרוב מתמיד - המלך עבדול אלחאזרד.\"",
+      "translation": "\"ובכן, כעת לעניין. הייתי שולח אותה אליך, אבל כידוע לך, לא היה לי מזל בכך עם מורדאק. ניצחוני קרוב מתמיד - המלך עבדול אלהאזרד.\"",
       "notes": "",
       "placeholders": []
     },
@@ -49373,7 +49373,7 @@
       "logicFile": 899,
       "messageNumber": 8,
       "original": "This is no time for that!  Cassima is in real danger--Alhazred is probably headed for her right now!",
-      "translation": "אין זמן לזה עכשיו! קסימה בסכנה אמיתית - אלחאזרד כנראה בדרכו אליה ממש ברגעים אלה!",
+      "translation": "אין זמן לזה עכשיו! קסימה בסכנה אמיתית - אלהאזרד כנראה בדרכו אליה ממש ברגעים אלה!",
       "notes": "",
       "placeholders": []
     },
@@ -50597,7 +50597,7 @@
       "logicFile": 907,
       "messageNumber": 137,
       "original": "Alexander opens the letter.  It is addressed to Alhazred from the Wizard Shadrack.  It reads:",
-      "translation": "אלכסנדר פותח את המכתב. הוא ממוען לאלחאזרד מהקוסם שאדרק. הוא קורא:",
+      "translation": "אלכסנדר פותח את המכתב. הוא ממוען לאלהאזרד מהקוסם שאדרק. הוא קורא:",
       "notes": "",
       "placeholders": []
     },
