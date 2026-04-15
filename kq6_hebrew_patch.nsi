@@ -231,7 +231,8 @@ Section "King's Quest VI Hebrew Patch" SecMain
   !insertmacro BackupAndInstall "916.scr"
   !insertmacro BackupAndInstall "917.scr"
 
-  ; Write marker file so re-installation into this directory is blocked
+  ; AVI files
+  !insertmacro BackupAndInstall "TOON.AVI"
   FileOpen $0 "$INSTDIR\hebrew_patch_installed.dat" w
   FileWrite $0 "KQ6 Hebrew Patch installed"
   FileClose $0
@@ -376,7 +377,8 @@ Section "Uninstall"
   !insertmacro UninstallFile "916.scr"
   !insertmacro UninstallFile "917.scr"
 
-  ; Remove backup directory and all remaining files
+  ; AVI files
+  !insertmacro UninstallFile "TOON.AVI"
   RMDir /r "$INSTDIR\hebrew_patch_backup"
 
   ; Remove marker file
