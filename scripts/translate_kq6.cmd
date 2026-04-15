@@ -23,5 +23,13 @@ REM Copy all files from games_assets\kq6 to kq6_work
 copy .\games_assets\kq6\* .\kq6_work\
 REM powershell -Command "(Get-FileHash -Algorithm MD5 'games_assets\kq6\0.fon').Hash.ToLower()"
 endlocal
+
+makensis.exe .\kq6_hebrew_patch.nsi
+
 echo Running scummvm to verify MD5 hash of 0.fon...
 C:\Users\SEGEVMA\source\repos\scummvm\dists\msvc\Debugx86\scummvm.exe --md5 --md5-path=kq6_work\0.fon --md5-engine=sci
+
+
+REM ffmpeg -i .\kq6_gog\TOON.AVI .\frames_kq6\frame_%04d.png
+REM python scripts\encode_avi_raw.py .\games_assets\kq6\opening_frames kq6_work\TOON_no_sound.AVI 8
+REM ffmpeg -i .\kq6_work\TOON_no_sound.AVI -i kq6_gog\TOON.AVI -map 0:v -map 1:a -c copy kq6_work\TOON.AVI

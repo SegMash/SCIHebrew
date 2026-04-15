@@ -23,29 +23,29 @@
 שבור לב ונחוש, המלך גראהם חבש שוב את כובע ההרפתקן שלו במסע להציל את משפחתו מאחיזתו של הקוסם הנורא. לאחר שנסע רחוק, ונבחן קשות, המלך גראהם סיכל את תוכניותיו של מורדאק והציל את כל משפחתו.
 במהלך המסע, גראהם גם שחרר נסיכה חטופה, קסימה, משביה בטירתו של מורדאק ושלח אותה בחזרה לביתה בארץ האיים הירוקים. אבל לא לפני שהנסיך אלכסנדר נכבש בקסמה...
 מסע המלך 6: היום יורש, מחר פורש\n\n"מסע המלך 6" הוא סיפור מסעו של הנסיך אלכסנדר לחזר אחר הנסיכה קסימה מארץ האיים הירוקים. סיפור אהבה אמיתי ואתגרים אמיצים זה מוגש בגאווה להנאתכם על ידי רוברטה וויליאמס וצוות "מסע המלך".
-נכתב ועיצוב על ידי:\n רוברטה וויליאמס\n ג'יין ג'נסן
-הופק על ידי:\n רוברט וו. לינדסלי\n וויליאם ד. סקרווין
-בימוי על ידי:\n רוברטה וויליאמס\n וויליאם ד. סקרווין\n ג'יין ג'נסן
-מעצב אמנותי:\n וויליאם ד. סקרווין
-מלחין:\n כריס בריימן
-טקסט ודיאלוג:\n ג'יין ג'נסן
-אמנים בכירים:\n מייקל האצ'יסון\n ג'ון שרודס
-צוות אמנים:\n ראסל טרולאב\n דיאנה יהאלקי
-מתכנת בכיר:\n רוברט וו. לינדסלי
-צוות מתכנתים:\n רנדי מקניל\n רוברט ל. מלורי\n ויקטור סדאוסקאס
-אבטחת איכות צוות:\n רובין בראדלי
-מדריך נכתב על ידי:\n ג'יין ג'נסן
-מדריך מאויר על ידי:\n ג'ון שרודס
-מדריך עוצב על ידי:\n מארק אמפי
-אמנים נוספים:\n דרלו גאמס\n טים לוקס\n ריק מורגן\n ג'ניפר שונץ\n סינדי ווקר\n קארין א. יאנג
-קריקטורת פתיחה על ידי:\n קרונוס:\n סטנלי לוי ואלברט קו
-צילום:\n רוד פונג\n בוב בלו
-מוזיקה ואפקטים קוליים:\n דן קלר\n אורפיאוס הנלי\n ריק ספורג'ן
-תכנות נוסף:\n דאג אולדפילד\n קרלוס אסקובר
-צוות תצורה:\n שרון סימונס\n דייב קלינגמן\n רוג'ר א. קלנדנינג ג'וניור\n טינה דיארדורף\n דאג ווילר\n לין ס. דייטון\n מת'יו גנסי\n מייקל ד. ג'ונס\n שרון סמית'\n דיאנה מוליגן
-שירות לקוחות:\n ג'ון קאניי
-תודות מיוחדות:\n תמי דרגן\n רבקה סבסטיאן\n מארק סייברט\n אוניברסיטת פרזנו סטייט\n בוחני בטא של KQVI
-פיתוח מערכת:\n אד קריצ'לו\n דן פוי\n ג'יי. מארק הוד\n בריאן ק. יואז\n קן קוך\n טרי מקהנרי\n מרטין פיטרס\n לארי סקוט\n כריס סמית'\n מארק וילדן
+Written & Designed by:\n   Roberta Williams\n   Jane Jensen
+Produced by:\n   Robert W. Lindsley\n   William D. Skirvin
+Directed by:\n   Roberta Williams\n   William D. Skirvin\n   Jane Jensen
+Art Designer:\n   William D. Skirvin
+Composer:\n   Chris Braymen
+Text & Dialogue:\n   Jane Jensen
+Senior Artists:\n   Michael Hutchison\n   John Shroades
+Team Artists:\n   Russell Truelove\n   Deanna Yhalkee
+Senior Programmer:\n   Robert W. Lindsley
+Team Programmers:\n   Randy MacNeill\n   Robert L. Mallory\n   Victor Sadauskas
+Team Quality Assurance:\n   Robin Bradley
+Guidebook Written by:\n   Jane Jensen
+Guidebook Illustrated by:\n   John Shroades
+Guidebook Designed by:\n   Mark Empey
+Additional Artists:\n   Darlou Gams\n   Tim Loucks\n   Rick Morgan\n   Jennifer Shontz\n   Cindy Walker\n   Karin A. Young
+Opening Cartoon by:\n   Kronos:\n   Stanley Lui & Albert Co
+Cinematography:\n   Rod Fung\n   Bob Ballew
+Music & Sound Effects:\n   Dan Kehler\n   Orpheus Hanley\n   Rick Spurgeon
+Additional Programming:\n   Doug Oldfield\n   Carlos Escobar
+Configuration Team:\n   Sharon Simmons\n   Dave Clingman\n   Roger A. Clendenning Jr.\n   Tina Deardorff\n   Doug Wheeler\n   Lynne S. Dayton\n   Matthew Genesi\n   Michael D. Jones\n   Sharon Smith\n   Diana Mulligan
+Customer Service:\n   John Cunney
+Special Thanks:\n   Tammy Dargan\n   Rebecca Sebastian\n   Mark Seibert \n   Fresno State University\n   KQVI beta testers
+System Development:\n   Ed Critchlow\n   Dan Foy\n   J. Mark Hood\n   Brian K. Hughes\n   Ken Koch\n   Terry McHenry\n   Martin Peters\n   Larry Scott\n   Chris Smith\n   Mark Wilden
 "מסע המלך 6" שונה במקצת מכל "מסע מלך" אחר שאולי שיחקתם - ואולי אפילו מכל משחק הרפתקאות ששיחקתם אי פעם!
 אנו גאים בעיצוב המשחק הזה, אך תצטרכו להיות דרוכים כדי לעמוד בקצב! "מסך הטיפים" הזה יעניק לכם כמה הצעות מיוחדות להצלחה בשליטה במשחק זה.
 אין רמזים או פתרונות חידות בקטע זה - רק טיפים למשחק - אז אל תחששו להמשיך לקרוא. אנו מבטיחים לא לקלקל דבר.

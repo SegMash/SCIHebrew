@@ -1,20 +1,20 @@
-נכתב ועוצב על ידי
-רוברטה וויליאמס\nג'יין ג'נסן
-הופק על ידי
-וויליאם ד. סקירבין
-בימוי
-רוברטה וויליאמס\nוויליאם ד. סקירבין\nג'יין ג'נסן
-מעצב אמנותי
-וויליאם ד. סקירבין
-מלחין
-כריס בריימן
-אמנים בכירים
-מייקל האצ'ינסון\nג'ון שרודס
-צוות אמנים
-ראסל טרולאב\nדיאן יאלקי
-מתכנת בכיר
-רוברט וו. לינדסלי
-צוות מתכנתים
-רנדי מקנייל\nרוברט ל. מאלורי\nויקטור סדאוסקאס
-צוות אבטחת איכות
-רובין בראדלי
+Written & Designed by
+Roberta Williams\nJane Jensen
+Produced by
+William D. Skirvin
+Directed by
+Roberta Williams\nWilliam D. Skirvin\nJane Jensen
+Art Designer
+William D. Skirvin
+Composer
+Chris Braymen
+Senior Artists
+Michael Hutchison\nJohn Shroades
+Team Artists
+Russell Truelove\nDeanne Yhalkee
+Senior Programmer
+Robert W. Lindsley
+Team Programmers
+Randy MacNeill\nRobert L. Mallory\nVictor Sadauskas
+Team Quality Assurance
+Robin Bradley

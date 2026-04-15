@@ -1317,240 +1317,240 @@
       "logicFile": 94,
       "messageNumber": 2,
       "original": "Written & Designed by",
-      "translation": "נכתב ועוצב על ידי",
-      "notes": "",
+      "translation": "Written & Designed by",
+      "notes": "נכתב ועוצב על ידי",
       "placeholders": []
     },
     {
       "logicFile": 94,
       "messageNumber": 3,
       "original": "Roberta Williams\\nJane Jensen",
-      "translation": "רוברטה וויליאמס\\nג'יין ג'נסן",
-      "notes": "",
+      "translation": "Roberta Williams\\nJane Jensen",
+      "notes": "רוברטה וויליאמס\\nג'יין ג'נסן",
       "placeholders": []
     },
     {
       "logicFile": 94,
       "messageNumber": 4,
       "original": "Produced by",
-      "translation": "הופק על ידי",
-      "notes": "",
+      "translation": "Produced by",
+      "notes": "הופק על ידי",
       "placeholders": []
     },
     {
       "logicFile": 94,
       "messageNumber": 5,
       "original": "Robert W. Lindsley\\nWilliam D. Skirvin",
-      "translation": "רוברט וו. לינדסלי\\nוויליאם ד. סקירבין",
-      "notes": "",
+      "translation": "Robert W. Lindsley\\nWilliam D. Skirvin",
+      "notes": "רוברט וו. לינדסלי\\nוויליאם ד. סקירבין",
       "placeholders": []
     },
     {
       "logicFile": 94,
       "messageNumber": 6,
       "original": "Directed by",
-      "translation": "בימוי",
-      "notes": "",
+      "translation": "Directed by",
+      "notes": "בימוי",
       "placeholders": []
     },
     {
       "logicFile": 94,
       "messageNumber": 7,
       "original": "Roberta Williams\\nWilliam D. Skirvin\\nJane Jensen",
-      "translation": "רוברטה וויליאמס\\nוויליאם ד. סקירבין\\nג'יין ג'נסן",
-      "notes": "",
+      "translation": "Roberta Williams\\nWilliam D. Skirvin\\nJane Jensen",
+      "notes": "רוברטה וויליאמס\\nוויליאם ד. סקירבין\\nג'יין ג'נסן",
       "placeholders": []
     },
     {
       "logicFile": 94,
       "messageNumber": 8,
       "original": "Art Designer",
-      "translation": "מעצב אמנותי",
-      "notes": "",
+      "translation": "Art Designer",
+      "notes": "מעצב אמנותי",
       "placeholders": []
     },
     {
       "logicFile": 94,
       "messageNumber": 9,
       "original": "William D. Skirvin",
-      "translation": "וויליאם ד. סקירבין",
-      "notes": "",
+      "translation": "William D. Skirvin",
+      "notes": "וויליאם ד. סקירבין",
       "placeholders": []
     },
     {
       "logicFile": 94,
       "messageNumber": 10,
       "original": "Composer",
-      "translation": "מלחין",
-      "notes": "",
+      "translation": "Composer",
+      "notes": "מלחין",
       "placeholders": []
     },
     {
       "logicFile": 94,
       "messageNumber": 11,
       "original": "Chris Braymen",
-      "translation": "כריס בריימן",
-      "notes": "",
+      "translation": "Chris Braymen",
+      "notes": "כריס בריימן",
       "placeholders": []
     },
     {
       "logicFile": 94,
       "messageNumber": 12,
       "original": "Text & Dialogue",
-      "translation": "טקסט ודיאלוג",
-      "notes": "",
+      "translation": "Text & Dialogue",
+      "notes": "טקסט ודיאלוג",
       "placeholders": []
     },
     {
       "logicFile": 94,
       "messageNumber": 13,
       "original": "Jane Jensen",
-      "translation": "ג'יין ג'נסן",
-      "notes": "",
+      "translation": "Jane Jensen",
+      "notes": "ג'יין ג'נסן",
       "placeholders": []
     },
     {
       "logicFile": 94,
       "messageNumber": 14,
       "original": "Senior Artists",
-      "translation": "אמנים בכירים",
-      "notes": "",
+      "translation": "Senior Artists",
+      "notes": "אמנים בכירים",
       "placeholders": []
     },
     {
       "logicFile": 94,
       "messageNumber": 15,
       "original": "Michael Hutchison\\nJohn Shroades",
-      "translation": "מייקל האצ'ינסון\\nג'ון שרודס",
-      "notes": "",
+      "translation": "Michael Hutchison\\nJohn Shroades",
+      "notes": "מייקל האצ'ינסון\\nג'ון שרודס",
       "placeholders": []
     },
     {
       "logicFile": 94,
       "messageNumber": 16,
       "original": "Team Artists",
-      "translation": "צוות אמנים",
-      "notes": "",
+      "translation": "Team Artists",
+      "notes": "צוות אמנים",
       "placeholders": []
     },
     {
       "logicFile": 94,
       "messageNumber": 17,
       "original": "Russell Truelove\\nDeanna Yhalkee",
-      "translation": "ראסל טרולאב\\nדיאנה יהאלקי",
-      "notes": "",
+      "translation": "Russell Truelove\\nDeanna Yhalkee",
+      "notes": "ראסל טרולאב\\nדיאנה יהאלקי",
       "placeholders": []
     },
     {
       "logicFile": 94,
       "messageNumber": 18,
       "original": "Senior Programmer",
-      "translation": "מתכנת בכיר",
-      "notes": "",
+      "translation": "Senior Programmer",
+      "notes": "מתכנת בכיר",
       "placeholders": []
     },
     {
       "logicFile": 94,
       "messageNumber": 19,
       "original": "Robert W. Lindsley",
-      "translation": "רוברט וו. לינדסלי",
-      "notes": "",
+      "translation": "Robert W. Lindsley",
+      "notes": "רוברט וו. לינדסלי",
       "placeholders": []
     },
     {
       "logicFile": 94,
       "messageNumber": 20,
       "original": "Team Programmers",
-      "translation": "צוות מתכנתים",
-      "notes": "",
+      "translation": "Team Programmers",
+      "notes": "צוות מתכנתים",
       "placeholders": []
     },
     {
       "logicFile": 94,
       "messageNumber": 21,
       "original": "Randy MacNeill\\nRobert L. Mallory\\nVictor Sadauskas",
-      "translation": "רנדי מקנייל\\nרוברט ל. מאלורי\\nויקטור סדאוסקאס",
-      "notes": "",
+      "translation": "Randy MacNeill\\nRobert L. Mallory\\nVictor Sadauskas",
+      "notes": "רנדי מקנייל\\nרוברט ל. מאלורי\\nויקטור סדאוסקאס",
       "placeholders": []
     },
     {
       "logicFile": 94,
       "messageNumber": 22,
       "original": "Team Quality Assurance",
-      "translation": "צוות אבטחת איכות",
-      "notes": "",
+      "translation": "Team Quality Assurance",
+      "notes": "צוות אבטחת איכות",
       "placeholders": []
     },
     {
       "logicFile": 94,
       "messageNumber": 23,
       "original": "Robin Bradley",
-      "translation": "רובין בראדלי",
-      "notes": "",
+      "translation": "Robin Bradley",
+      "notes": "רובין בראדלי",
       "placeholders": []
     },
     {
       "logicFile": 94,
       "messageNumber": 24,
       "original": "Guidebook Written by",
-      "translation": "המדריך נכתב על ידי",
-      "notes": "",
+      "translation": "Guidebook Written by",
+      "notes": "המדריך נכתב על ידי",
       "placeholders": []
     },
     {
       "logicFile": 94,
       "messageNumber": 25,
       "original": "Jane Jensen",
-      "translation": "ג'יין ג'נסן",
-      "notes": "",
+      "translation": "Jane Jensen",
+      "notes": "ג'יין ג'נסן",
       "placeholders": []
     },
     {
       "logicFile": 94,
       "messageNumber": 26,
       "original": "Guidebook Illustrated by",
-      "translation": "המדריך אוירו על ידי",
-      "notes": "",
+      "translation": "Guidebook Illustrated by",
+      "notes": "המדריך אוירו על ידי",
       "placeholders": []
     },
     {
       "logicFile": 94,
       "messageNumber": 27,
       "original": "John Shroades",
-      "translation": "ג'ון שרודס",
-      "notes": "",
+      "translation": "John Shroades",
+      "notes": "ג'ון שרודס",
       "placeholders": []
     },
     {
       "logicFile": 94,
       "messageNumber": 28,
       "original": "Guidebook Designed by",
-      "translation": "המדריך עוצב על ידי",
-      "notes": "",
+      "translation": "Guidebook Designed by",
+      "notes": "המדריך עוצב על ידי",
       "placeholders": []
     },
     {
       "logicFile": 94,
       "messageNumber": 29,
       "original": "Mark Empey",
-      "translation": "מארק אמפיי",
-      "notes": "",
+      "translation": "Mark Empey",
+      "notes": "מארק אמפיי",
       "placeholders": []
     },
     {
       "logicFile": 94,
       "messageNumber": 30,
       "original": "Additional Artists",
-      "translation": "אמנים נוספים",
-      "notes": "",
+      "translation": "Additional Artists",
+      "notes": "אמנים נוספים",
       "placeholders": []
     },
     {
       "logicFile": 94,
       "messageNumber": 31,
       "original": "Darlou Gams\\nTim Loucks\\nRick Morgan\\nJennifer Shontz\\nCindy Walker\\nKarin A. Young",
-      "translation": "דרלו גאמס\\nטים לוקס\\nריק מורגן\\nג'ניפר שונץ\\nסינדי ווקר\\nקארין א. יאנג",
-      "notes": "",
+      "translation": "Darlou Gams\\nTim Loucks\\nRick Morgan\\nJennifer Shontz\\nCindy Walker\\nKarin A. Young",
+      "notes": "דרלו גאמס\\nטים לוקס\\nריק מורגן\\nג'ניפר שונץ\\nסינדי ווקר\\nקארין א. יאנג",
       "placeholders": []
     },
     {
@@ -1717,160 +1717,160 @@
       "logicFile": 95,
       "messageNumber": 1,
       "original": "Written & Designed by",
-      "translation": "נכתב ועוצב על ידי",
-      "notes": "",
+      "translation": "Written & Designed by",
+      "notes": "נכתב ועוצב על ידי",
       "placeholders": []
     },
     {
       "logicFile": 95,
       "messageNumber": 2,
       "original": "Roberta Williams\\nJane Jensen",
-      "translation": "רוברטה וויליאמס\\nג'יין ג'נסן",
-      "notes": "",
+      "translation": "Roberta Williams\\nJane Jensen",
+      "notes": "רוברטה וויליאמס\\nג'יין ג'נסן",
       "placeholders": []
     },
     {
       "logicFile": 95,
       "messageNumber": 3,
       "original": "Produced by",
-      "translation": "הופק על ידי",
-      "notes": "",
+      "translation": "Produced by",
+      "notes": "הופק על ידי",
       "placeholders": []
     },
     {
       "logicFile": 95,
       "messageNumber": 4,
       "original": "William D. Skirvin",
-      "translation": "וויליאם ד. סקירבין",
-      "notes": "",
+      "translation": "William D. Skirvin",
+      "notes": "וויליאם ד. סקירבין",
       "placeholders": []
     },
     {
       "logicFile": 95,
       "messageNumber": 5,
       "original": "Directed by",
-      "translation": "בימוי",
-      "notes": "",
+      "translation": "Directed by",
+      "notes": "בימוי",
       "placeholders": []
     },
     {
       "logicFile": 95,
       "messageNumber": 6,
       "original": "Roberta Williams\\nWilliam D. Skirvin\\nJane Jensen",
-      "translation": "רוברטה וויליאמס\\nוויליאם ד. סקירבין\\nג'יין ג'נסן",
-      "notes": "",
+      "translation": "Roberta Williams\\nWilliam D. Skirvin\\nJane Jensen",
+      "notes": "רוברטה וויליאמס\\nוויליאם ד. סקירבין\\nג'יין ג'נסן",
       "placeholders": []
     },
     {
       "logicFile": 95,
       "messageNumber": 7,
       "original": "Art Designer",
-      "translation": "מעצב אמנותי",
-      "notes": "",
+      "translation": "Art Designer",
+      "notes": "מעצב אמנותי",
       "placeholders": []
     },
     {
       "logicFile": 95,
       "messageNumber": 8,
       "original": "William D. Skirvin",
-      "translation": "וויליאם ד. סקירבין",
-      "notes": "",
+      "translation": "William D. Skirvin",
+      "notes": "וויליאם ד. סקירבין",
       "placeholders": []
     },
     {
       "logicFile": 95,
       "messageNumber": 9,
       "original": "Composer",
-      "translation": "מלחין",
-      "notes": "",
+      "translation": "Composer",
+      "notes": "מלחין",
       "placeholders": []
     },
     {
       "logicFile": 95,
       "messageNumber": 10,
       "original": "Chris Braymen",
-      "translation": "כריס בריימן",
-      "notes": "",
+      "translation": "Chris Braymen",
+      "notes": "כריס בריימן",
       "placeholders": []
     },
     {
       "logicFile": 95,
       "messageNumber": 11,
       "original": "Senior Artists",
-      "translation": "אמנים בכירים",
-      "notes": "",
+      "translation": "Senior Artists",
+      "notes": "אמנים בכירים",
       "placeholders": []
     },
     {
       "logicFile": 95,
       "messageNumber": 12,
       "original": "Michael Hutchison\\nJohn Shroades",
-      "translation": "מייקל האצ'ינסון\\nג'ון שרודס",
-      "notes": "",
+      "translation": "Michael Hutchison\\nJohn Shroades",
+      "notes": "מייקל האצ'ינסון\\nג'ון שרודס",
       "placeholders": []
     },
     {
       "logicFile": 95,
       "messageNumber": 13,
       "original": "Team Artists",
-      "translation": "צוות אמנים",
-      "notes": "",
+      "translation": "Team Artists",
+      "notes": "צוות אמנים",
       "placeholders": []
     },
     {
       "logicFile": 95,
       "messageNumber": 14,
       "original": "Russell Truelove\\nDeanne Yhalkee",
-      "translation": "ראסל טרולאב\\nדיאן יאלקי",
-      "notes": "",
+      "translation": "Russell Truelove\\nDeanne Yhalkee",
+      "notes": "ראסל טרולאב\\nדיאן יאלקי",
       "placeholders": []
     },
     {
       "logicFile": 95,
       "messageNumber": 15,
       "original": "Senior Programmer",
-      "translation": "מתכנת בכיר",
-      "notes": "",
+      "translation": "Senior Programmer",
+      "notes": "מתכנת בכיר",
       "placeholders": []
     },
     {
       "logicFile": 95,
       "messageNumber": 16,
       "original": "Robert W. Lindsley",
-      "translation": "רוברט וו. לינדסלי",
-      "notes": "",
+      "translation": "Robert W. Lindsley",
+      "notes": "רוברט וו. לינדסלי",
       "placeholders": []
     },
     {
       "logicFile": 95,
       "messageNumber": 17,
       "original": "Team Programmers",
-      "translation": "צוות מתכנתים",
-      "notes": "",
+      "translation": "Team Programmers",
+      "notes": "צוות מתכנתים",
       "placeholders": []
     },
     {
       "logicFile": 95,
       "messageNumber": 18,
       "original": "Randy MacNeill\\nRobert L. Mallory\\nVictor Sadauskas",
-      "translation": "רנדי מקנייל\\nרוברט ל. מאלורי\\nויקטור סדאוסקאס",
-      "notes": "",
+      "translation": "Randy MacNeill\\nRobert L. Mallory\\nVictor Sadauskas",
+      "notes": "רנדי מקנייל\\nרוברט ל. מאלורי\\nויקטור סדאוסקאס",
       "placeholders": []
     },
     {
       "logicFile": 95,
       "messageNumber": 19,
       "original": "Team Quality Assurance",
-      "translation": "צוות אבטחת איכות",
-      "notes": "",
+      "translation": "Team Quality Assurance",
+      "notes": "צוות אבטחת איכות",
       "placeholders": []
     },
     {
       "logicFile": 95,
       "messageNumber": 20,
       "original": "Robin Bradley",
-      "translation": "רובין בראדלי",
-      "notes": "",
+      "translation": "Robin Bradley",
+      "notes": "רובין בראדלי",
       "placeholders": []
     },
     {
@@ -1925,7 +1925,7 @@
       "logicFile": 105,
       "messageNumber": 3,
       "original": "\"Alexander!  Here you are!  You're still not thinking about Cassima, are you?\"",
-      "translation": "\"אלכסנדר! הנה אתה! אתה עדיין לא חושב על קסימה, נכון?\"",
+      "translation": "\"אלכסנדר! הנה אתה! אתה עדיין חושב על קסימה, נכון?\"",
       "notes": "",
       "placeholders": []
     },
@@ -1957,7 +1957,7 @@
       "logicFile": 105,
       "messageNumber": 7,
       "original": "\"Have you discovered anything about the Land of the Green Isles?\"",
-      "translation": "\"גילית משהו על ארץ איי הירוק?\"",
+      "translation": "\"גילית משהו על ארץ האיים הירוקים?\"",
       "notes": "",
       "placeholders": []
     },
@@ -2125,7 +2125,7 @@
       "logicFile": 105,
       "messageNumber": 28,
       "original": "\"Alexander!  Here you are!  You're still not thinking about Cassima, are you?\"",
-      "translation": "\"אלכסנדר! הנה אתה! אתה עדיין לא חושב על קסימה, נכון?\"",
+      "translation": "\"אלכסנדר! הנה אתה! אתה עדיין חושב על קסימה, נכון?\"",
       "notes": "",
       "placeholders": []
     },
@@ -2157,7 +2157,7 @@
       "logicFile": 105,
       "messageNumber": 32,
       "original": "\"Have you discovered anything about the Land of the Green Isles?\"",
-      "translation": "\"גילית משהו על ארץ איי הירוק?\"",
+      "translation": "\"גילית משהו על ארץ האיים הירוקים?\"",
       "notes": "",
       "placeholders": []
     },
@@ -4589,7 +4589,7 @@
       "logicFile": 200,
       "messageNumber": 4,
       "original": "He can only hope and pray that the life boats survived the currents, and that his men made their way safely back to Daventry.",
-      "translation": "הוא יכול רק לקוות ולהתפלל שסירות ההצלה שרדו את הזרמים, ושהגברים עשו את דרכם בבטחה חזרה לדבנטרי.",
+      "translation": "הוא יכול רק לקוות ולהתפלל שסירות ההצלה שרדו את הזרמים, ושהחברים עשו את דרכם בבטחה חזרה לדבנטרי.",
       "notes": "",
       "placeholders": []
     },
@@ -52301,184 +52301,184 @@
       "logicFile": 908,
       "messageNumber": 26,
       "original": "Written & Designed by:\\n   Roberta Williams\\n   Jane Jensen",
-      "translation": "נכתב ועיצוב על ידי:\\n רוברטה וויליאמס\\n ג'יין ג'נסן",
-      "notes": "",
+      "translation": "Written & Designed by:\\n   Roberta Williams\\n   Jane Jensen",
+      "notes": "נכתב ועיצוב על ידי:\\n רוברטה וויליאמס\\n ג'יין ג'נסן",
       "placeholders": []
     },
     {
       "logicFile": 908,
       "messageNumber": 27,
       "original": "Produced by:\\n   Robert W. Lindsley\\n   William D. Skirvin",
-      "translation": "הופק על ידי:\\n רוברט וו. לינדסלי\\n וויליאם ד. סקרווין",
-      "notes": "",
+      "translation": "Produced by:\\n   Robert W. Lindsley\\n   William D. Skirvin",
+      "notes": "הופק על ידי:\\n רוברט וו. לינדסלי\\n וויליאם ד. סקרווין",
       "placeholders": []
     },
     {
       "logicFile": 908,
       "messageNumber": 28,
       "original": "Directed by:\\n   Roberta Williams\\n   William D. Skirvin\\n   Jane Jensen",
-      "translation": "בימוי על ידי:\\n רוברטה וויליאמס\\n וויליאם ד. סקרווין\\n ג'יין ג'נסן",
-      "notes": "",
+      "translation": "Directed by:\\n   Roberta Williams\\n   William D. Skirvin\\n   Jane Jensen",
+      "notes": "בימוי על ידי:\\n רוברטה וויליאמס\\n וויליאם ד. סקרווין\\n ג'יין ג'נסן",
       "placeholders": []
     },
     {
       "logicFile": 908,
       "messageNumber": 29,
       "original": "Art Designer:\\n   William D. Skirvin",
-      "translation": "מעצב אמנותי:\\n וויליאם ד. סקרווין",
-      "notes": "",
+      "translation": "Art Designer:\\n   William D. Skirvin",
+      "notes": "מעצב אמנותי:\\n וויליאם ד. סקרווין",
       "placeholders": []
     },
     {
       "logicFile": 908,
       "messageNumber": 30,
       "original": "Composer:\\n   Chris Braymen",
-      "translation": "מלחין:\\n כריס בריימן",
-      "notes": "",
+      "translation": "Composer:\\n   Chris Braymen",
+      "notes": "מלחין:\\n כריס בריימן",
       "placeholders": []
     },
     {
       "logicFile": 908,
       "messageNumber": 31,
       "original": "Text & Dialogue:\\n   Jane Jensen",
-      "translation": "טקסט ודיאלוג:\\n ג'יין ג'נסן",
-      "notes": "",
+      "translation": "Text & Dialogue:\\n   Jane Jensen",
+      "notes": "טקסט ודיאלוג:\\n ג'יין ג'נסן",
       "placeholders": []
     },
     {
       "logicFile": 908,
       "messageNumber": 32,
       "original": "Senior Artists:\\n   Michael Hutchison\\n   John Shroades",
-      "translation": "אמנים בכירים:\\n מייקל האצ'יסון\\n ג'ון שרודס",
-      "notes": "",
+      "translation": "Senior Artists:\\n   Michael Hutchison\\n   John Shroades",
+      "notes": "אמנים בכירים:\\n מייקל האצ'יסון\\n ג'ון שרודס",
       "placeholders": []
     },
     {
       "logicFile": 908,
       "messageNumber": 33,
       "original": "Team Artists:\\n   Russell Truelove\\n   Deanna Yhalkee",
-      "translation": "צוות אמנים:\\n ראסל טרולאב\\n דיאנה יהאלקי",
-      "notes": "",
+      "translation": "Team Artists:\\n   Russell Truelove\\n   Deanna Yhalkee",
+      "notes": "צוות אמנים:\\n ראסל טרולאב\\n דיאנה יהאלקי",
       "placeholders": []
     },
     {
       "logicFile": 908,
       "messageNumber": 34,
       "original": "Senior Programmer:\\n   Robert W. Lindsley",
-      "translation": "מתכנת בכיר:\\n רוברט וו. לינדסלי",
-      "notes": "",
+      "translation": "Senior Programmer:\\n   Robert W. Lindsley",
+      "notes": "מתכנת בכיר:\\n רוברט וו. לינדסלי",
       "placeholders": []
     },
     {
       "logicFile": 908,
       "messageNumber": 35,
       "original": "Team Programmers:\\n   Randy MacNeill\\n   Robert L. Mallory\\n   Victor Sadauskas",
-      "translation": "צוות מתכנתים:\\n רנדי מקניל\\n רוברט ל. מלורי\\n ויקטור סדאוסקאס",
-      "notes": "",
+      "translation": "Team Programmers:\\n   Randy MacNeill\\n   Robert L. Mallory\\n   Victor Sadauskas",
+      "notes": "צוות מתכנתים:\\n רנדי מקניל\\n רוברט ל. מלורי\\n ויקטור סדאוסקאס",
       "placeholders": []
     },
     {
       "logicFile": 908,
       "messageNumber": 36,
       "original": "Team Quality Assurance:\\n   Robin Bradley",
-      "translation": "אבטחת איכות צוות:\\n רובין בראדלי",
-      "notes": "",
+      "translation": "Team Quality Assurance:\\n   Robin Bradley",
+      "notes": "אבטחת איכות צוות:\\n רובין בראדלי",
       "placeholders": []
     },
     {
       "logicFile": 908,
       "messageNumber": 37,
       "original": "Guidebook Written by:\\n   Jane Jensen",
-      "translation": "מדריך נכתב על ידי:\\n ג'יין ג'נסן",
-      "notes": "",
+      "translation": "Guidebook Written by:\\n   Jane Jensen",
+      "notes": "מדריך נכתב על ידי:\\n ג'יין ג'נסן",
       "placeholders": []
     },
     {
       "logicFile": 908,
       "messageNumber": 38,
       "original": "Guidebook Illustrated by:\\n   John Shroades",
-      "translation": "מדריך מאויר על ידי:\\n ג'ון שרודס",
-      "notes": "",
+      "translation": "Guidebook Illustrated by:\\n   John Shroades",
+      "notes": "מדריך מאויר על ידי:\\n ג'ון שרודס",
       "placeholders": []
     },
     {
       "logicFile": 908,
       "messageNumber": 39,
       "original": "Guidebook Designed by:\\n   Mark Empey",
-      "translation": "מדריך עוצב על ידי:\\n מארק אמפי",
-      "notes": "",
+      "translation": "Guidebook Designed by:\\n   Mark Empey",
+      "notes": "מדריך עוצב על ידי:\\n מארק אמפי",
       "placeholders": []
     },
     {
       "logicFile": 908,
       "messageNumber": 40,
       "original": "Additional Artists:\\n   Darlou Gams\\n   Tim Loucks\\n   Rick Morgan\\n   Jennifer Shontz\\n   Cindy Walker\\n   Karin A. Young",
-      "translation": "אמנים נוספים:\\n דרלו גאמס\\n טים לוקס\\n ריק מורגן\\n ג'ניפר שונץ\\n סינדי ווקר\\n קארין א. יאנג",
-      "notes": "",
+      "translation": "Additional Artists:\\n   Darlou Gams\\n   Tim Loucks\\n   Rick Morgan\\n   Jennifer Shontz\\n   Cindy Walker\\n   Karin A. Young",
+      "notes": "אמנים נוספים:\\n דרלו גאמס\\n טים לוקס\\n ריק מורגן\\n ג'ניפר שונץ\\n סינדי ווקר\\n קארין א. יאנג",
       "placeholders": []
     },
     {
       "logicFile": 908,
       "messageNumber": 41,
       "original": "Opening Cartoon by:\\n   Kronos:\\n   Stanley Lui & Albert Co",
-      "translation": "קריקטורת פתיחה על ידי:\\n קרונוס:\\n סטנלי לוי ואלברט קו",
-      "notes": "",
+      "translation": "Opening Cartoon by:\\n   Kronos:\\n   Stanley Lui & Albert Co",
+      "notes": "קריקטורת פתיחה על ידי:\\n קרונוס:\\n סטנלי לוי ואלברט קו",
       "placeholders": []
     },
     {
       "logicFile": 908,
       "messageNumber": 42,
       "original": "Cinematography:\\n   Rod Fung\\n   Bob Ballew",
-      "translation": "צילום:\\n רוד פונג\\n בוב בלו",
-      "notes": "",
+      "translation": "Cinematography:\\n   Rod Fung\\n   Bob Ballew",
+      "notes": "צילום:\\n רוד פונג\\n בוב בלו",
       "placeholders": []
     },
     {
       "logicFile": 908,
       "messageNumber": 43,
       "original": "Music & Sound Effects:\\n   Dan Kehler\\n   Orpheus Hanley\\n   Rick Spurgeon",
-      "translation": "מוזיקה ואפקטים קוליים:\\n דן קלר\\n אורפיאוס הנלי\\n ריק ספורג'ן",
-      "notes": "",
+      "translation": "Music & Sound Effects:\\n   Dan Kehler\\n   Orpheus Hanley\\n   Rick Spurgeon",
+      "notes": "מוזיקה ואפקטים קוליים:\\n דן קלר\\n אורפיאוס הנלי\\n ריק ספורג'ן",
       "placeholders": []
     },
     {
       "logicFile": 908,
       "messageNumber": 44,
       "original": "Additional Programming:\\n   Doug Oldfield\\n   Carlos Escobar",
-      "translation": "תכנות נוסף:\\n דאג אולדפילד\\n קרלוס אסקובר",
-      "notes": "",
+      "translation": "Additional Programming:\\n   Doug Oldfield\\n   Carlos Escobar",
+      "notes": "תכנות נוסף:\\n דאג אולדפילד\\n קרלוס אסקובר",
       "placeholders": []
     },
     {
       "logicFile": 908,
       "messageNumber": 45,
       "original": "Configuration Team:\\n   Sharon Simmons\\n   Dave Clingman\\n   Roger A. Clendenning Jr.\\n   Tina Deardorff\\n   Doug Wheeler\\n   Lynne S. Dayton\\n   Matthew Genesi\\n   Michael D. Jones\\n   Sharon Smith\\n   Diana Mulligan",
-      "translation": "צוות תצורה:\\n שרון סימונס\\n דייב קלינגמן\\n רוג'ר א. קלנדנינג ג'וניור\\n טינה דיארדורף\\n דאג ווילר\\n לין ס. דייטון\\n מת'יו גנסי\\n מייקל ד. ג'ונס\\n שרון סמית'\\n דיאנה מוליגן",
-      "notes": "",
+      "translation": "Configuration Team:\\n   Sharon Simmons\\n   Dave Clingman\\n   Roger A. Clendenning Jr.\\n   Tina Deardorff\\n   Doug Wheeler\\n   Lynne S. Dayton\\n   Matthew Genesi\\n   Michael D. Jones\\n   Sharon Smith\\n   Diana Mulligan",
+      "notes": "צוות תצורה:\\n שרון סימונס\\n דייב קלינגמן\\n רוג'ר א. קלנדנינג ג'וניור\\n טינה דיארדורף\\n דאג ווילר\\n לין ס. דייטון\\n מת'יו גנסי\\n מייקל ד. ג'ונס\\n שרון סמית'\\n דיאנה מוליגן",
       "placeholders": []
     },
     {
       "logicFile": 908,
       "messageNumber": 46,
       "original": "Customer Service:\\n   John Cunney",
-      "translation": "שירות לקוחות:\\n ג'ון קאניי",
-      "notes": "",
+      "translation": "Customer Service:\\n   John Cunney",
+      "notes": "שירות לקוחות:\\n ג'ון קאניי",
       "placeholders": []
     },
     {
       "logicFile": 908,
       "messageNumber": 47,
       "original": "Special Thanks:\\n   Tammy Dargan\\n   Rebecca Sebastian\\n   Mark Seibert \\n   Fresno State University\\n   KQVI beta testers",
-      "translation": "תודות מיוחדות:\\n תמי דרגן\\n רבקה סבסטיאן\\n מארק סייברט\\n אוניברסיטת פרזנו סטייט\\n בוחני בטא של KQVI",
-      "notes": "",
+      "translation": "Special Thanks:\\n   Tammy Dargan\\n   Rebecca Sebastian\\n   Mark Seibert \\n   Fresno State University\\n   KQVI beta testers",
+      "notes": "תודות מיוחדות:\\n תמי דרגן\\n רבקה סבסטיאן\\n מארק סייברט\\n אוניברסיטת פרזנו סטייט\\n בוחני בטא של KQVI",
       "placeholders": []
     },
     {
       "logicFile": 908,
       "messageNumber": 48,
       "original": "System Development:\\n   Ed Critchlow\\n   Dan Foy\\n   J. Mark Hood\\n   Brian K. Hughes\\n   Ken Koch\\n   Terry McHenry\\n   Martin Peters\\n   Larry Scott\\n   Chris Smith\\n   Mark Wilden",
-      "translation": "פיתוח מערכת:\\n אד קריצ'לו\\n דן פוי\\n ג'יי. מארק הוד\\n בריאן ק. יואז\\n קן קוך\\n טרי מקהנרי\\n מרטין פיטרס\\n לארי סקוט\\n כריס סמית'\\n מארק וילדן",
-      "notes": "",
+      "translation": "System Development:\\n   Ed Critchlow\\n   Dan Foy\\n   J. Mark Hood\\n   Brian K. Hughes\\n   Ken Koch\\n   Terry McHenry\\n   Martin Peters\\n   Larry Scott\\n   Chris Smith\\n   Mark Wilden",
+      "notes": "פיתוח מערכת:\\n אד קריצ'לו\\n דן פוי\\n ג'יי. מארק הוד\\n בריאן ק. יואז\\n קן קוך\\n טרי מקהנרי\\n מרטין פיטרס\\n לארי סקוט\\n כריס סמית'\\n מארק וילדן",
       "placeholders": []
     },
     {

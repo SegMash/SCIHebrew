@@ -1,34 +1,34 @@
 תודה ששיחקתם
-נכתב ועוצב על ידי
-רוברטה וויליאמס\nג'יין ג'נסן
-הופק על ידי
-רוברט וו. לינדסלי\nוויליאם ד. סקירבין
-בימוי
-רוברטה וויליאמס\nוויליאם ד. סקירבין\nג'יין ג'נסן
-מעצב אמנותי
-וויליאם ד. סקירבין
-מלחין
-כריס בריימן
-טקסט ודיאלוג
-ג'יין ג'נסן
-אמנים בכירים
-מייקל האצ'ינסון\nג'ון שרודס
-צוות אמנים
-ראסל טרולאב\nדיאנה יהאלקי
-מתכנת בכיר
-רוברט וו. לינדסלי
-צוות מתכנתים
-רנדי מקנייל\nרוברט ל. מאלורי\nויקטור סדאוסקאס
-צוות אבטחת איכות
-רובין בראדלי
-המדריך נכתב על ידי
-ג'יין ג'נסן
-המדריך אוירו על ידי
-ג'ון שרודס
-המדריך עוצב על ידי
-מארק אמפיי
-אמנים נוספים
-דרלו גאמס\nטים לוקס\nריק מורגן\nג'ניפר שונץ\nסינדי ווקר\nקארין א. יאנג
+Written & Designed by
+Roberta Williams\nJane Jensen
+Produced by
+Robert W. Lindsley\nWilliam D. Skirvin
+Directed by
+Roberta Williams\nWilliam D. Skirvin\nJane Jensen
+Art Designer
+William D. Skirvin
+Composer
+Chris Braymen
+Text & Dialogue
+Jane Jensen
+Senior Artists
+Michael Hutchison\nJohn Shroades
+Team Artists
+Russell Truelove\nDeanna Yhalkee
+Senior Programmer
+Robert W. Lindsley
+Team Programmers
+Randy MacNeill\nRobert L. Mallory\nVictor Sadauskas
+Team Quality Assurance
+Robin Bradley
+Guidebook Written by
+Jane Jensen
+Guidebook Illustrated by
+John Shroades
+Guidebook Designed by
+Mark Empey
+Additional Artists
+Darlou Gams\nTim Loucks\nRick Morgan\nJennifer Shontz\nCindy Walker\nKarin A. Young
 צברתם מתוך נקודות. השלמתם בערך אחוז מהחידות במסלול הראשי של מסע המלך 6.
 אנו מקווים שתשחקו שוב!
 ברכות על ביצועיכם המצוינים! אם אתם רוצים לעבור "מעבר" לציון האולטימטיבי, אנו ממליצים לכם לנסות את הכניסה האחרת, "הקלה יותר" לטירה. אתם יכולים לעשות זאת בקלות על ידי שחזור לנקודה ממש לפני סופת הגשם של הדרואיד. אל תחזרו לראות את הדרואידים - במקום זאת, פנו אל הטירה. אתגרי חידה חדשים ממתינים לכם!

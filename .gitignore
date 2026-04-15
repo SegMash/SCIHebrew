@@ -226,3 +226,5 @@ output_qfg1/split
 patch_qfg1/bin/text.*
 qfg1_gog
 kq6_gog
+frames_kq6
+games_assets/kq6/opening_frames
