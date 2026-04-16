@@ -20,3 +20,6 @@ REM Copy all files from games_assets\kq7 to kq7_work
 copy .\games_assets\kq7\* .\kq7_work\PATCHES\
 
 endlocal
+# TODO - finish logic file 30
+#  Check: This is very deep. It almost looks like a hinge. (1100)
+#  2000
