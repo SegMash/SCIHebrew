@@ -1,6 +1,6 @@
 @echo off
 setlocal enabledelayedexpansion
-
+python.exe .\scripts\json_to_hebrew_kq6.py .\output_kq7\messages.json .\output_kq7
 python .\scripts\parse_sci1.1_messages.py .\SCICompanion-3.2.4.0\kq7_resources .\output_kq7
 REM Process all *_messages.csv files in output_kq7 directory
 for %%f in (.\output_kq7\*_messages.csv) do (
@@ -20,6 +20,9 @@ REM Copy all files from games_assets\kq7 to kq7_work
 copy .\games_assets\kq7\* .\kq7_work\PATCHES\
 
 endlocal
-# TODO - finish logic file 30
-#  Check: This is very deep. It almost looks like a hinge. (1100)
-#  2000
+REM TODO - finish logic file 30
+REM  Check: This is very deep. It almost looks like a hinge. (1100)
+REM  2000
+REM Translate chapter titles
+REM Translate replacment store sign
+REM Translate screen of death

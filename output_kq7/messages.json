@@ -2870,7 +2870,7 @@
       "messageNumber": 20,
       "original": "\"Hmm. A princess fair? With golden hair?\"",
       "translation": "\"הממ. נסיכה יפה? עם שיער זהוב?\"",
-      "notes": "",
+      "notes": "חרוז בבקשה",
       "placeholders": []
     },
     {
@@ -3085,7 +3085,7 @@
       "logicFile": 1100,
       "messageNumber": 47,
       "original": "\"Oh joy! Oh joy! Oh happy me! I can see! I can see! Thanks to you, I'm not afraid. Now I'm free to deal and trade.\"",
-      "translation": "\"הו איזה אושר! ואיזו שימחה! אני רואה! אני רואה! בזכותך, אני חופשי ומאושר. וסוף סוף אני יכול לעסוק במסחר.\"",
+      "translation": "\"הו איזה אושר! ואיזו שמחה! אני רואה! אני רואה! בזכותך, אני חופשי ומאושר. וסוף סוף אני יכול לעסוק במסחר.\"",
       "notes": "",
       "placeholders": []
     },
@@ -5565,7 +5565,7 @@
       "logicFile": 2450,
       "messageNumber": 30,
       "original": "\"Up above this kingdom is a dark land called Ooga Booga. Our kingdoms were never crazy about each other, but we had a civil relationship. Now, because of HER, the Ooga Boogites attack any troll that shows his face above ground. Missy, once you're human, will you go above and investigate? I have a gut feeling that our kingdom is in terrible trouble.\"",
-      "translation": "\"מעל הממלכה הזו נמצאת ארץ אפלה בשם אוגה בוגה. הממלכות שלנו מעולם לא השתגעו זו על זו, אבל הייתה לנו מערכת יחסים מנהלתית-אזרחית. עכשיו, בגללה, האוגה בוגים תוקפים כל טרול שמראה את פניו מעל פני האדמה. ילדונת, ברגע שתהיי אנושית, תוכלי לעלות למעלה למעלה ולחקור? יש לי תחושה עמוקה שהממלכה שלנו בצרה צרורה.\"",
+      "translation": "\"מעל הממלכה הזו נמצאת ארץ אפלה בשם אוגה בוגה. הממלכות שלנו מעולם לא השתגעו זו על זו, אבל הייתה לנו מערכת יחסים מנהלתית-אזרחית. עכשיו, בגללה, האוגה בוגים תוקפים כל טרול שמראה את פניו מעל פני האדמה. ילדונת, ברגע שתהיי אנושית, תוכלי לעלות למעלה ולחקור? יש לי תחושה עמוקה שהממלכה שלנו בצרה צרורה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -8013,23 +8013,23 @@
       "logicFile": 3250,
       "messageNumber": 2,
       "original": "\"Hello, kindest of humans. Do you desire some sacred nectar?\"",
-      "translation": "\"שלום, אדיב מכל בני האדם. האם חשקך בנקטר מקודש?\"",
-      "notes": "",
+      "translation": "\"שלום רב לך, האדיב בבני האדם. האם חשקה נפשך בנקטר מקודש?\"",
+      "notes": "זכר או נקבה?",
       "placeholders": []
     },
     {
       "logicFile": 3250,
       "messageNumber": 3,
       "original": "\"I do indeed! Can you get me some?\"",
-      "translation": "\"אכן כן! תוכל להשיג לי קצת?\"",
-      "notes": "",
+      "translation": "\"אכן כן! תוכלי להשיג לי קצת?\"",
+      "notes": "בנקבה?",
       "placeholders": []
     },
     {
       "logicFile": 3250,
       "messageNumber": 4,
       "original": "\"Certainly. Do you have a vessel to hold the nectar?\"",
-      "translation": "\"בטח. יש לך כלי להחזיק בו את הנקטר?\"",
+      "translation": "\"בטח. האם יש לך כלי להחזיק בו את הנקטר?\"",
       "notes": "",
       "placeholders": []
     },
@@ -8037,7 +8037,7 @@
       "logicFile": 3250,
       "messageNumber": 5,
       "original": "\"Oh, the pot is full of water.  Let me dump it out first.\"",
-      "translation": "\"הו, העציץ מלא מים. תן לי לשפוך אותם קודם.\"",
+      "translation": "\"הו, העציץ מלא מים. תן לי קודם לשפוך אותם.\"",
       "notes": "",
       "placeholders": []
     },
@@ -8197,8 +8197,8 @@
       "logicFile": 3300,
       "messageNumber": 8,
       "original": "\"I didn't tell you to give up YOUR lunch, did I? Heh heh! Go away!\"",
-      "translation": "\"לא אמרתי לך לוותר על ארוחת הצהריים שלך, נכון? חה חה! לך מפה!\"",
-      "notes": "",
+      "translation": "\"לא אמרתי לך כבר לוותר על ארוחת הצהריים שלך, נכון? חה חה! לך מפה!\"",
+      "notes": "לך או לכי?",
       "placeholders": []
     },
     {
@@ -8221,7 +8221,7 @@
       "logicFile": 3300,
       "messageNumber": 11,
       "original": "\"Just cool off for a while, my many-legged friend.\"",
-      "translation": "\"פשוט תירגע קצת, ידידי המרובה רגליים.\"",
+      "translation": "\"פשוט תירגע קצת, ידידי מרובה הרגליים.\"",
       "notes": "",
       "placeholders": []
     },
