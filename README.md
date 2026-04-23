@@ -122,7 +122,7 @@ git config --global --unset http.proxy; git config --global --unset https.proxy
     git checkout master
     git pull upstream master
 ### Keep your fork in sync:
-    git push origin master  
+    git push origin master
 
 ## Create feature branch for new work:
     git checkout -b <kq?-hebrew-translation>
@@ -137,7 +137,7 @@ git config --global --unset http.proxy; git config --global --unset https.proxy
     git commit -m "SCI: Add detection for the Hebrew fanmade translation of KQ<?>"
 
 #### Get the hash code:
-    git log (dd2939020b322ae15ff1dd99a24f8b50aa68dd10)
+    git log (58e122bf69c2c614e77ddb333a53eea7261258d2)
     git push origin <kq?-hebrew-translation>
 <I>Now you can create your PR from github interface</I>
 ## In case of mess with commits , to create pull request as properly:
@@ -148,6 +148,18 @@ git config --global --unset http.proxy; git config --global --unset https.proxy
     git push --force-with-lease origin master
 
 
+## Split commits after PR created
+First revert the commits
+For example to revert last 3 commmits:
+    git reset HEAD~3
+    git add <file1>
+    git commit -m "First commit message"
+    git add <file2>
+    git commit -m "Second commit message"
+    ... etc
+    # Force push to update the remote branch
+    git push origin kq6-hebrew-translation --force
+    
 ## Fix after comments
     git checkout <kq?-hebrew-translation>
 

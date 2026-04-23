@@ -215,6 +215,7 @@ Section "King's Quest VI Hebrew Patch" SecMain
   !insertmacro BackupAndInstall "713.v56"
   !insertmacro BackupAndInstall "901.v56"
   !insertmacro BackupAndInstall "947.v56"
+  !insertmacro BackupAndInstall "948.v56"
 
   ; p56 files
   !insertmacro BackupAndInstall "100.p56"
@@ -362,6 +363,7 @@ Section "Uninstall"
   !insertmacro UninstallFile "713.v56"
   !insertmacro UninstallFile "901.v56"
   !insertmacro UninstallFile "947.v56"
+  !insertmacro UninstallFile "948.v56"
 
   ; p56 files
   !insertmacro UninstallFile "100.p56"
