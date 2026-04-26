@@ -7173,7 +7173,7 @@
       "logicFile": 3200,
       "messageNumber": 8,
       "original": "\"The only known portal to the Vulcanix Underground lies west, beyond the Wood of the Were folk...My thoughts are unclear, my lady, but I recall hearing of a merchant in the town of Falderal who sells a salve that can get you through the Were woods.\"",
-      "translation": "\"השער היחיד הידוע לתת-הקרקע הוולקנית שוכן במערב, מעבר ליער הצללים... מחשבותיי מעורפלות, גבירתי, אבל אני זוכר ששמעתי על סוחר בעיירה פלדרל שמוכר משחה שיכולה להעביר אותך דרך יער הצללים.\"",
+      "translation": "\"השער היחיד הידוע לתת-הקרקע הוולקנית שוכן במערב, מעבר ליער צללי הזאבים... מחשבותיי מעורפלות, גבירתי, אבל אני זוכר ששמעתי על סוחר בעיירה פלדרל שמוכר משחה שיכולה להעביר אותך דרך יער צללי הזאבים.\"",
       "notes": "",
       "placeholders": []
     },
@@ -7253,7 +7253,7 @@
       "logicFile": 3200,
       "messageNumber": 18,
       "original": "\"Be warned. To the far west is the Wood of the Were Folk. Do not enter them, for the Were Folk are never friendly, and always hungry.\"",
-      "translation": "\"היזהרי. במערב הרחוק נמצא יער הצללים. אל תיכנסי לשם, כי צללי הזאבים לעולם אינם ידידותיים, ותמיד רעבים.\"",
+      "translation": "\"היזהרי. במערב הרחוק נמצא יער צללי הזאבים. אל תיכנסי לשם, כי צללי הזאבים לעולם אינם ידידותיים, ותמיד רעבים.\"",
       "notes": "",
       "placeholders": []
     },
@@ -10877,7 +10877,7 @@
       "logicFile": 4400,
       "messageNumber": 10,
       "original": "\"Here's the body of Benjamin Crabby\\nwho in life was incredibly grabby.\\nDon't stand on his grave,\\nfor his corpse can't behave--\\nOld Benjie might pop up and nab ye.\"",
-      "translation": "\"פה הגוף של בנימין חמדן\\nשחי חיים די חרמנים.\\nאל תעמוד על קברו,\\nכי הוא לא יודע את מקומו--\\nבן-הזקן יקפוץ ויגרוף אותך בסוף.\"",
+      "translation": "\"פה נח בנימין קראבי המסוכן\\nשבחייו לא היה עוד כזה גזלן.\\nאל תעמוד בפתח הקבר,\\nכי גופתו לא יודעת חוק וסדר\\nהוא עלול אותך לחטוף כמו שטן.\"",
       "notes": "",
       "placeholders": []
     },
@@ -10885,7 +10885,7 @@
       "logicFile": 4400,
       "messageNumber": 11,
       "original": "\"Here's the body of Benjamin Crabby\\nwho in life was incredibly grabby.\\nDon't stand on his grave,\\nfor his corpse can't behave--\\nold Benjie might pop up and nab ye.\"",
-      "translation": "\"פה הגוף של בנימין חמדן\\nשחי חיים די חרמנים.\\nאל תעמוד על קברו,\\nכי הוא לא יודע את מקומו--\\nבן-הזקן יקפוץ ויגרוף אותך בסוף.\"",
+      "translation": "\"פה נח בנימין קראבי המסוכן\\nשבחייו לא היה עוד כזה גזלן.\\nאל תעמוד בפתח הקבר,\\nכי גופתו לא יודעת חוק וסדר\\nהוא עלול אותך לחטוף כמו שטן.\"",
       "notes": "",
       "placeholders": []
     },
@@ -10909,7 +10909,7 @@
       "logicFile": 4400,
       "messageNumber": 14,
       "original": "\"Here lies Miss Marigold Gossum\\nWho grew a carnivorous blossom.\\nShe fell into the weed\\nand it ate her with greed\\none day when she tripped on a possum.\"",
-      "translation": "\"פה שוכבת מיס מריגולד פרחונית\\nשגידלה צמח טורף ותאב.\\nהיא נפלה לעשב\\nוהוא אכל אותה בחשק\\nיום אחד כשמעדה על אופוסום.\"",
+      "translation": "\"כאן נחה מריגולד, גוסום\\nשגידלה פרח טרף עצום.\\nיום אחד באמצע הגיזום\\nהיא נפלה לצמחייה\\nונאכלה בתוך שניה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -10917,7 +10917,7 @@
       "logicFile": 4400,
       "messageNumber": 15,
       "original": "\"Here lies Miss Marigold Gossum\\nWho grew a carnivorous blossom.\\nShe fell into the weed\\nand it ate her with greed\\none night when she tripped on a possum.\"",
-      "translation": "\"פה שוכבת מיס מריגולד פרחונית\\nשגידלה צמח טורף ותאב.\\nהיא נפלה לעשב\\nוהוא אכל אותה בחשק\\nלילה אחד כשמעדה על אופוסום.\"",
+      "translation": "\"כאן נחה מריגולד, גוסום\\nשגידלה פרח טרף עצום.\\nיום אחד באמצע הגיזום\\nהיא נפלה לצמחייה\\nונאכלה בתוך שניה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -10925,7 +10925,7 @@
       "logicFile": 4400,
       "messageNumber": 16,
       "original": "\"Count Cranky, a nasty old goat,\\nslipped and got himself drowned in the moat.\\nHis family cheered,\\nhis squire dissappeared,\\nand even his dog seemed to gloat.\"",
-      "translation": "\"הרוזן עצבני, זקן עז רעה,\\nהחליק וטבע בתוך התעלה.\\nמשפחתו הריעה,\\nנושא כליו נעלם,\\nואפילו כלבו שמח.\"",
+      "translation": "\"הרוזן קרנקי תיש נבזה וזקן\\nהחליק לתעלה וטבע בה, מסכן.\\nמשפחתו צהלה,\\nנושא כליו נעלם באפלה,\\nואפילו כלבו חזר בשאלה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -10933,7 +10933,7 @@
       "logicFile": 4400,
       "messageNumber": 17,
       "original": "\"Count Cranky, a nasty old goat,\\nslipped and got himself drowned in the moat.\\nHis family cheered,\\nhis squire dissappeared,\\nand even his dog seemed to gloat.\"",
-      "translation": "\"הרוזן עצבני, זקן עז רעה,\\nהחליק וטבע בתוך התעלה.\\nמשפחתו הריעה,\\nנושא כליו נעלם,\\nואפילו כלבו שמח.\"",
+      "translation": "\"הרוזן קרנקי תיש נבזה וזקן\\nהחליק לתעלה וטבע בה, מסכן.\\nמשפחתו צהלה,\\nנושא כליו נעלם באפלה,\\nואפילו כלבו חזר בשאלה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -10941,7 +10941,7 @@
       "logicFile": 4400,
       "messageNumber": 18,
       "original": "\"The mad lady Madeleine Faire\\ngrew convinced that she was a spring hare.\\nOn hands and on knees\\nshe'd bounce through the trees\\n'til the day she ran into a bear.\"",
-      "translation": "\"הגברת המשוגעת מדלן יפה\\nהשתכנעה שהיא ארנבת קלה.\\nעל ארבע, בזינוקים קלים,\\nהיא קפצה בין העצים\\nעד היום שבו נתקלה בדוב.\"",
+      "translation": "\"מדלן פייר המשוגעת בלי צל של ספק\\nחשבה שהיא ארנבת שאוהבת לזנק.\\nעל ברכיים וידיים,\\nקפצה אל השמיים\\nעד שדב חבט בה וחתך אותה לשניים.\"",
       "notes": "",
       "placeholders": []
     },
@@ -10949,7 +10949,7 @@
       "logicFile": 4400,
       "messageNumber": 19,
       "original": "\"The mad lady Madeleine Faire\\ngrew convinced that she was a spring hare.\\nOn hands and on knees,\\nshe's bounce through the trees,\\n'til the day she ran into a bear.\"",
-      "translation": "\"הגברת המשוגעת מדלן יפה\\nהשתכנעה שהיא ארנבת קלה.\\nעל ארבע, בזינוקים קלים,\\nהיא קפצה בין העצים\\nעד היום שבו נתקלה בדוב.\"",
+      "translation": "\"מדלן פייר המשוגעת בלי צל של ספק\\nחשבה שהיא ארנבת שאוהבת לזנק.\\nעל ברכיים וידיים,\\nקפצה אל השמיים\\nעד שדב חבט בה וחתך אותה לשניים.\"",
       "notes": "",
       "placeholders": []
     },
@@ -10957,7 +10957,7 @@
       "logicFile": 4400,
       "messageNumber": 20,
       "original": "\"The daredevil Morrigan Weg\\nsmoked his pipe on a gunpowder keg.\\nThey found his head on the bridge,\\nand his arm near the ridge,\\nbut no one could find his left leg.\"",
-      "translation": "\"הפזיז מוריגן ווג\\nעישן מקטרת על חבית אבק שריפה.\\nראשו נמצא על הגשר,\\nזרועו ליד הרכס,\\nאך רגלו השמאלית מעולם לא נמצאה.\"",
+      "translation": "\"מוריגן ווג היה בחור עם הרבה אומץ\\nיום אחד עישן על חבית נפץ.\\nאת ראשו על הגשר מצאו,\\nאת ידו על הצוק זיהו,\\nאך את רגלו השמאלית - מעולם לא ראו.\"",
       "notes": "",
       "placeholders": []
     },
@@ -10965,7 +10965,7 @@
       "logicFile": 4400,
       "messageNumber": 21,
       "original": "\"The daredevil Morrigan Weg\\nsmoked his pipe on a gunpowder keg.\\nThey found his head on the bridge,\\nhis arm near the ridge,\\nbut no one could find his left leg.\"",
-      "translation": "\"הפזיז מוריגן ווג\\nעישן מקטרת על חבית אבק שריפה.\\nראשו נמצא על הגשר,\\nזרועו ליד הרכס,\\nאך רגלו השמאלית מעולם לא נמצאה.\"",
+      "translation": "\"מוריגן ווג היה בחור עם הרבה אומץ\\nיום אחד עישן על חבית נפץ.\\nאת ראשו על הגשר מצאו,\\nאת ידו על הצוק זיהו,\\nאך את רגלו השמאלית - מעולם לא ראו.\"",
       "notes": "",
       "placeholders": []
     },
@@ -10973,7 +10973,7 @@
       "logicFile": 4400,
       "messageNumber": 22,
       "original": "\"A mystic named Musefar White\\nhad a bed made of nails sharp and bright.\\nHe was taking a nap\\nwhen into his lap\\njumped an elephant. Yech, what a sight!\"",
-      "translation": "\"מיסטיקן בשם מוספר לבן\\nהיה לו מיטה מציפורניים חדות ומבריקות.\\nהוא תפס תנומה\\nכשעל ברכיו\\nקפץ פיל. יאק, איזה מראה!\"",
+      "translation": "\"מיסטיקן ושמו וייט מוזפאר\\nמיטת מסמרים ישן ונחר.\\nהוא תפס לו תנומה\\nכשפיל בתנופה\\nקפץ על גופו ועשאו מחורר!\"",
       "notes": "",
       "placeholders": []
     },
@@ -10981,7 +10981,7 @@
       "logicFile": 4400,
       "messageNumber": 23,
       "original": "\"A mystic named Musefar White\\nhad a bed made of nails sharp and bright.\\nHe was taking a nap \\nwhen into his lap\\njumped an elephant. Yech, what a sight!\"",
-      "translation": "\"מיסטיקן בשם מוספר לבן\\nהיה לו מיטה מציפורניים חדות ומבריקות.\\nהוא תפס תנומה \\nכשעל ברכיו\\nקפץ פיל. יאק, איזה מראה!\"",
+      "translation": "\"מיסטיקן ושמו וייט מוזפאר\\nמיטת מסמרים ישן ונחר.\\nהוא תפס לו תנומה\\nכשפיל בתנופה\\nקפץ על גופו ועשאו מחורר!\"",
       "notes": "",
       "placeholders": []
     },
@@ -10989,7 +10989,7 @@
       "logicFile": 4400,
       "messageNumber": 24,
       "original": "\"A monk known as Brother Bob Tweet\\ngave up eating all grains and all meat.\\nHe next gave up fruit\\nand veggies to boot\\nand he died a mere beanstalk with feet.\"",
-      "translation": "\"נזיר בשם האח בוב ציוץ\\nויתר על אכילת כל הדגנים וכל הבשר.\\nלאחר מכן ויתר על פירות\\nוגם ירקות\\nומת כגבעול שעועית בלבד עם רגליים.\"",
+      "translation": "\"הנזיר הנודע האח בוב טוויט\\nויתר על בשר - כן כך הוא החליט\\nהפסיק עם פירות\\nושאר ירקות\\nומת כמו גבעול ללא שום תכלית.\"",
       "notes": "",
       "placeholders": []
     },
@@ -10997,7 +10997,7 @@
       "logicFile": 4400,
       "messageNumber": 25,
       "original": "\"A monk known as Brother Bob Tweet\\ngave up eating all grains and all meat.\\nHe next gave up fruit\\nand veggies to boot\\nand died a mere beanstalk with feet.\"",
-      "translation": "\"נזיר בשם האח בוב ציוץ\\nויתר על אכילת כל הדגנים וכל הבשר.\\nלאחר מכן ויתר על פירות\\nוגם ירקות\\nומת כגבעול שעועית בלבד עם רגליים.\"",
+      "translation": "\"הנזיר הנודע האח בוב טוויט\\nויתר על בשר - כן כך הוא החליט\\nהפסיק עם פירות\\nושאר ירקות\\nומת כמו גבעול ללא שום תכלית.\"",
       "notes": "",
       "placeholders": []
     },
@@ -11005,7 +11005,7 @@
       "logicFile": 4400,
       "messageNumber": 26,
       "original": "\"There now. Everyone will think you're the lady Tsepish. You look downright scary, my dear.\"",
-      "translation": "\"אז זהו. כולם יחשבו שאת הגברת צפיש. את נראית ממש מפחידה, יקירתי.\"",
+      "translation": "\"הנה לך. כעת, כולם יחשבו שאת הגברת צפיש. את נראית ממש מפחידה, יקירתי.\"",
       "notes": "",
       "placeholders": []
     },
@@ -11013,7 +11013,7 @@
       "logicFile": 4400,
       "messageNumber": 27,
       "original": "\"Hmm, no inscription.\"",
-      "translation": "\"הממ, אין כתובת.\"",
+      "translation": "\"הממם, אין כתובת.\"",
       "notes": "",
       "placeholders": []
     },
@@ -11053,7 +11053,7 @@
       "logicFile": 4450,
       "messageNumber": 2,
       "original": "\"Barf!\"",
-      "translation": "\"הקאה!\"",
+      "translation": "\"בארף!\"",
       "notes": "",
       "placeholders": []
     },
@@ -11061,7 +11061,7 @@
       "logicFile": 4450,
       "messageNumber": 3,
       "original": "\"Well! That's the biggest floor rat I've ever seen...and I happen to know its name is ROSELLA!\"",
-      "translation": "\"נו! זוהי חולדת הרצפה הגדולה ביותר שראיתי מימיי... ואני במקרה יודע ששמה הוא רוזלה!\"",
+      "translation": "\"ובכן! זוהי חולדת הרצפה הגדולה ביותר שראיתי מימיי... ובמקרה אני גם יודעת ששמה הוא רוזלה!\"",
       "notes": "",
       "placeholders": []
     },
@@ -11077,7 +11077,7 @@
       "logicFile": 4450,
       "messageNumber": 5,
       "original": "\"Oh! Poor babeums! What's wong, kissy boy?\"",
-      "translation": "\"הו! מותק מסכן שלי! מה לא בסדר, נסיך קטן שלי?\"",
+      "translation": "\"הו! מתוקי מסכן שלי! מה לא בסדר, נסיך קטן שלי?\"",
       "notes": "",
       "placeholders": []
     },
@@ -11085,7 +11085,7 @@
       "logicFile": 4450,
       "messageNumber": 6,
       "original": "\"Would Cuddles feel better if we went out and found him someone to bite? Would him?\"",
-      "translation": "\"האם למתוק שלי יהיה טוב יותר אם נצא ונמצא לו מישהו לנשוך? האם?\"",
+      "translation": "\"מה אתה אומר מתוק שלי? נצא ונמצא לך מישהו שתוכל לנשוך?\"",
       "notes": "",
       "placeholders": []
     },
@@ -11133,7 +11133,7 @@
       "logicFile": 4450,
       "messageNumber": 12,
       "original": "\"It must be plugged into a socket in the Volcano Control Room in the Underground, so that it may regain its power. It is useless until then. After the device is activated, it can be used to stop any living threat to Etheria. I don't know exactly what it will do. We'll find out soon enough, if we are fortunate.\"",
-      "translation": "\"יש לחבר אותו לשקע בחדר הבקרה של הר הגעש בתת הקרקע, כדי שיחזיר לעצמו את כוחו. הוא חסר תועלת עד אז. לאחר הפעלת המכשיר, ניתן יהיה להשתמש בו כדי לעצור כל איום חי על אתריה. איני יודע בדיוק מה הוא יעשה. נגלה זאת די בקרוב, אם יתמזל מזלנו.\"",
+      "translation": "\"כדי להטעין אותו יש לחבר אותו לשקע בחדר הבקרה של הר הגעש בתת הקרקע. ללא טעינה הוא חסר תועלת. לאחר הפעלת המכשיר, ניתן יהיה להשתמש בו כדי לעצור כל איום ממשי על אתריה. איני יודע בדיוק מה הוא עושה. נגלה זאת די בקרוב, אם יתמזל מזלנו.\"",
       "notes": "",
       "placeholders": []
     },
@@ -11165,7 +11165,7 @@
       "logicFile": 4450,
       "messageNumber": 16,
       "original": "\"You humans don't have the best survival instincts, do you.\"",
-      "translation": "\"לכם בני האדם אין את אינסטינקטי ההישרדות הטובים ביותר, נכון.\"",
+      "translation": "\"לכם בני האדם אין את חוש ההישרדות הטוב ביותר, נכון.\"",
       "notes": "",
       "placeholders": []
     },
@@ -11173,7 +11173,7 @@
       "logicFile": 4450,
       "messageNumber": 17,
       "original": "\"It's too bad there won't be anyone left to admire my beauty...Cuddles! What do you have in your mouth? Let me see!\"",
-      "translation": "\"חבל שלא יישאר אף אחד כדי להעריץ את יופיי... ג'ינג'י! מה יש לך בפה? תן לי לראות!\"",
+      "translation": "\"חבל שלא יישאר כאן אף אחד כדי להעריץ את יופיי... מתוקי! מה יש לך בפה? תן לי לראות!\"",
       "notes": "",
       "placeholders": []
     },
@@ -11189,7 +11189,7 @@
       "logicFile": 4450,
       "messageNumber": 19,
       "original": "\"What is it, Cuddles? What did you find, my precious one?\"",
-      "translation": "\"מה זה, ג'ינג'י? מה מצאת, יקר שלי?\"",
+      "translation": "\"מה זה, מתוקי? מה מצאת, אוצר שלי?\"",
       "notes": "",
       "placeholders": []
     },
@@ -11197,7 +11197,7 @@
       "logicFile": 4450,
       "messageNumber": 20,
       "original": "\"Aha! You found a nasty little bug!\"",
-      "translation": "\"אחא! מצאת חרק קטן ומגעיל!\"",
+      "translation": "\"אהה! מצאת חרק קטן ומגעיל!\"",
       "notes": "",
       "placeholders": []
     },
@@ -11205,7 +11205,7 @@
       "logicFile": 4450,
       "messageNumber": 21,
       "original": "\"Eeeow! Wicked faerie cooties!\"",
-      "translation": "\"איו! כינים מרושעות של פיות!\"",
+      "translation": "\"אווו! כינים מרושעות של פיות!\"",
       "notes": "",
       "placeholders": []
     },
@@ -11229,7 +11229,7 @@
       "logicFile": 4450,
       "messageNumber": 24,
       "original": "\"Hmmph. No one's probably seen her REAL face in years.\"",
-      "translation": "\"הממפף. כנראה שאף אחד לא ראה את הפרצוף האמיתי שלה כבר שנים.\"",
+      "translation": "\"המממם. כנראה שאף אחד לא ראה את הפרצוף האמיתי שלה כבר שנים.\"",
       "notes": "",
       "placeholders": []
     },
@@ -11253,7 +11253,7 @@
       "logicFile": 4450,
       "messageNumber": 27,
       "original": "\"Hee hee hee! She must have spent HOURS trying to figure out how it works! good one, your majesty!\"",
-      "translation": "\"הי הי הי! בטח בילתה שעות בניסיון להבין איך זה עובד! יופי של דבר, הוד מלכותך!\"",
+      "translation": "\"הי הי הי! היא בטח בילתה שעות בניסיון להבין איך זה עובד! יופי של דבר, הוד מלכותך!\"",
       "notes": "",
       "placeholders": []
     },
@@ -11317,7 +11317,7 @@
       "logicFile": 4550,
       "messageNumber": 2,
       "original": "\"Mmm!\"",
-      "translation": "\"המממ!\"",
+      "translation": "\"המממם!\"",
       "notes": "",
       "placeholders": []
     },
@@ -11325,7 +11325,7 @@
       "logicFile": 4550,
       "messageNumber": 3,
       "original": "\"Mmm!\"",
-      "translation": "\"המממ!\"",
+      "translation": "\"המממם!\"",
       "notes": "",
       "placeholders": []
     },
@@ -11341,7 +11341,7 @@
       "logicFile": 4550,
       "messageNumber": 5,
       "original": "\"STOP! We must talk, Princess.\"",
-      "translation": "\"עצור! עלינו לדבר, נסיכה.\"",
+      "translation": "\"עצרי! עלינו לדבר, נסיכה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -11349,7 +11349,7 @@
       "logicFile": 4550,
       "messageNumber": 6,
       "original": "\"Before us is the home of Malicia. We must be cautious, or we will never reach the Vulcanix Underground.\"",
-      "translation": "\"לפנינו ביתה של מלישיה. עלינו לנקוט זהירות, אחרת לעולם לא נגיע לתת הקרקע הוולקנית.\"",
+      "translation": "\"לפנינו ביתה של מלישיה. עלינו לנקוט משנה זהירות, אחרת לעולם לא נגיע לתת הקרקע הוולקנית.\"",
       "notes": "",
       "placeholders": []
     },
@@ -11357,7 +11357,7 @@
       "logicFile": 4550,
       "messageNumber": 7,
       "original": "\"King Otar, what are we to do? We can't enter the Underground at all now that the elevator's collapsed. How can we stop the volcano?\"",
-      "translation": "\"המלך אוטאר, מה עלינו לעשות? אנחנו לא יכולים להיכנס לתת הקרקע בכלל עכשיו כשהמעלית קרסה. איך נוכל לעצור את הר הגעש?\"",
+      "translation": "\"המלך אוטאר, מה עלינו לעשות? אנחנו לא יכולים להיכנס לתת הקרקע עכשיו שהמעלית קרסה. איך נוכל לעצור את הר הגעש?\"",
       "notes": "",
       "placeholders": []
     },
@@ -11365,7 +11365,7 @@
       "logicFile": 4550,
       "messageNumber": 8,
       "original": "\"I have heard of a secret entrance in the town of Falderal, although I know not exactly where. But now you must gather up your courage, for we have to find a way into Malicia's house. She stole from me a device that could possible destroy her, and save us all. We must recover it.\"",
-      "translation": "\"שמעתי על כניסה סודית בעיר פלדרל, אם כי איני יודע היכן בדיוק. אך כעת עליך לאזור אומץ, שכן עלינו למצוא דרך להיכנס לביתה של מלישיה. היא גנבה ממני מכשיר שיכול אולי להשמיד אותה, ולהציל את כולנו. עלינו להשיב אותו.\"",
+      "translation": "\"שמעתי על כניסה סודית בעיר פלדרל, אם כי איני יודע היכן בדיוק. אך כעת עליך לאזור אומץ, שכן עלינו למצוא דרך להיכנס לביתה של מלישיה. היא גנבה ממני מכשיר שיכול אולי להביס אותה, ולהציל את כולנו. עלינו לקחת אותו בחזרה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -11429,7 +11429,7 @@
       "logicFile": 4550,
       "messageNumber": 16,
       "original": "\"I didn't think I'd ever see your succulent self again. Most people never come out of that bad old Ooga Booga land. Why don't you come on over here and tell me about it?\"",
-      "translation": "\"לא חשבתי שאראה שוב את עצמך עסיסית שכזו. רוב האנשים אף פעם לא יוצאים מארץ אוגה בוגה הרעה הזו. למה שלא תתקרבי לכאן ותספרי לי על זה?\"",
+      "translation": "\"לא חשבתי שאראה שוב את דמותך חיונית שכזו. רוב האנשים לעולם לא יוצאים מארץ האוגה בוגה הרעה הזו. למה שלא תתקרבי לכאן ותספרי לי על זה?\"",
       "notes": "",
       "placeholders": []
     },
@@ -11453,7 +11453,7 @@
       "logicFile": 4550,
       "messageNumber": 19,
       "original": "\"Don't...think...I've ever run so...fast...in my life!\"",
-      "translation": "\"לא...חושב...שאי פעם רצתי כל כך...מהר...בחיים שלי!\"",
+      "translation": "\"אני לא...חושבת...שאי פעם רצתי כל כך...מהר...!\"",
       "notes": "",
       "placeholders": []
     },
@@ -11461,7 +11461,7 @@
       "logicFile": 4550,
       "messageNumber": 20,
       "original": "\"Noble Attis, He was true to his word.\"",
-      "translation": "\"אטיס האציל, הוא היה נאמן למילה שלו.\"",
+      "translation": "\"אטיס האציל, הוא עמד במילה שלו.\"",
       "notes": "",
       "placeholders": []
     },
@@ -11493,7 +11493,7 @@
       "logicFile": 4550,
       "messageNumber": 24,
       "original": "\"Thank you, your majesty. Oh, I can't believe how that defoliant STINKS!\"",
-      "translation": "\"תודה לך, הוד מעלתך. אוי, אני לא מאמינה כמה הדפוליאנט הזה מ ס ר י ח!\"",
+      "translation": "\"תודה לך, הוד מעלתך. אוי, אני לא מאמינה כמה החומר הזה מסריח!\"",
       "notes": "",
       "placeholders": []
     },
@@ -11533,7 +11533,7 @@
       "logicFile": 4550,
       "messageNumber": 29,
       "original": "\"Um, hello. My name is Rosella. Who are you?\"",
-      "translation": "\"אממ, שלום. שמי רוזלה. מי אתם?\"",
+      "translation": "\"אממם, שלום. שמי רוזלה. מי אתם?\"",
       "notes": "",
       "placeholders": []
     },
@@ -11565,7 +11565,7 @@
       "logicFile": 4550,
       "messageNumber": 33,
       "original": "\"You know, I've never seen a plant with teeth before!\"",
-      "translation": "\"אתם יודעים, מעולם לא ראיתי צמח עם שיניים קודם!\"",
+      "translation": "\"אתם יודעים, מעולם לא ראיתי קודם לכם צמח עם שיניים!\"",
       "notes": "",
       "placeholders": []
     },
@@ -11573,7 +11573,7 @@
       "logicFile": 4550,
       "messageNumber": 34,
       "original": "\"Those aren't teeth, candy cane. They're little pointy flower buds. Why don't you come here and take a look?\"",
-      "translation": "\"אלה לא שיניים, מקל סוכריה. אלה ניצני פרחים קטנים ומחודדים. למה שלא תבואי לכאן ותסתכלי?\"",
+      "translation": "\"אלה לא שיניים, מקל סוכריה. אלה ניצני פרחים קטנים ומחודדים. למה שלא תבואי הנה ותסתכלי?\"",
       "notes": "",
       "placeholders": []
     },
@@ -11589,7 +11589,7 @@
       "logicFile": 4550,
       "messageNumber": 36,
       "original": "\"Why would you want to do that, angel food? On one side of the swamp is Ooga Booga, and everyone knows those folks are no fun. On the other side is the Wood of the Were folk. They'd eat a tender lil' thing like you in a second!\"",
-      "translation": "\"למה שתצטרכי לעשות את זה, עוגת ספוג? בצד אחד של הביצה יש את אוגה בוגה, וכולם יודעים שהאנשים האלה לא כיף. בצד השני יש את יער אנשי הזאב. הם יאכלו דבר קטן ועדין כמוך בשנייה!\"",
+      "translation": "\"למה שתרצי לעשות את זה, עוגת ספוג? בצד אחד של הביצה יש את האוגה בוגה, וכולם יודעים שהאנשים האלה לא נחמדים. בצד השני יש את יער צללי הזאבים. והם יאכלו דבר קטן ועדין כמוך בשנייה!\"",
       "notes": "",
       "placeholders": []
     },
@@ -11613,7 +11613,7 @@
       "logicFile": 4550,
       "messageNumber": 39,
       "original": "\"Would you know any way to get through the Wood of the Were folk, noble plants?\"",
-      "translation": "\"האם אתם מכירים דרך כלשהי לעבור דרך יער אנשי הזאב, צמחים אצילים?\"",
+      "translation": "\"האם אתם מכירים דרך כלשהי לעבור דרך יער צללי הזאבים, צמחים אצילים?\"",
       "notes": "",
       "placeholders": []
     },
@@ -11629,7 +11629,7 @@
       "logicFile": 4550,
       "messageNumber": 41,
       "original": "\"Noble plant! I LIKE that!\"",
-      "translation": "\"צמח אציל! את זה אני אוהב!\"",
+      "translation": "\"צמח אציל! זה מתחיל להיות מעניין!\"",
       "notes": "",
       "placeholders": []
     },
@@ -11637,7 +11637,7 @@
       "logicFile": 4550,
       "messageNumber": 42,
       "original": "\"Be quiet, you monocots! Of course there's a way, little sweetmeat. Just come on over here and I'll whisper it in your ear.\"",
-      "translation": "\"שקט, מונוקוטים! בטח שיש דרך, ממתק קטן. רק בואי לכאן ואלחש לך את זה באוזן.\"",
+      "translation": "\"שקט, עשבים שוטים! בטח שיש דרך, ממתק קטן. רק בואי לכאן ואלחש לך את זה באוזן.\"",
       "notes": "",
       "placeholders": []
     },
@@ -11653,7 +11653,7 @@
       "logicFile": 4550,
       "messageNumber": 44,
       "original": "\"Were folk hate silver, honey!\"",
-      "translation": "\"אנשי זאב שונאים כסף, מותק!\"",
+      "translation": "\"צללי הזאבים שונאים כסף, מותק!\"",
       "notes": "",
       "placeholders": []
     },
@@ -11661,7 +11661,7 @@
       "logicFile": 4550,
       "messageNumber": 45,
       "original": "\"Hate it? It scares the spores out of 'em!\"",
-      "translation": "\"שונאים את זה? זה מפחיד להם את הנבגים!\"",
+      "translation": "\"שונאים את זה? זה מוציא אותם מדעתם!\"",
       "notes": "",
       "placeholders": []
     },
@@ -11669,7 +11669,7 @@
       "logicFile": 4550,
       "messageNumber": 46,
       "original": "\"And so it does, cream bun. I just happen to have a big ol' chunk of silver tucked away in my pod. Come here and I'll let you have it.\"",
-      "translation": "\"וכך זה אכן, לחמניית שמנת. במקרה יש לי חתיכת כסף גדולה מוחבאת בתרמיל שלי. בואי לכאן ואתן לך אותה.\"",
+      "translation": "\"אכן כן, לחמניית שמנת. במקרה יש לי חתיכת כסף גדולה מוחבאת בתרמיל שלי. בואי לכאן ואתן לך אותה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -11709,7 +11709,7 @@
       "logicFile": 4550,
       "messageNumber": 51,
       "original": "\"What's a nice lady like you doing in a swamp like this?\"",
-      "translation": "\"מה עושה גברת נחמדה כמוך בביצה כזו?\"",
+      "translation": "\"מה עושה גברת נחמדה כמוך בביצה הזו?\"",
       "notes": "",
       "placeholders": []
     },
@@ -11757,7 +11757,7 @@
       "logicFile": 4550,
       "messageNumber": 57,
       "original": "\"Tell me, good, um, plant, who lives in the house over yonder?\"",
-      "translation": "\"תגיד לי, טוב, אממ, צמח, מי גר בבית ההוא?\"",
+      "translation": "\"תגידו לי, טוב, אממ, צמחים, מי גר בבית ההוא ששם?\"",
       "notes": "",
       "placeholders": []
     },
@@ -11765,7 +11765,7 @@
       "logicFile": 4550,
       "messageNumber": 58,
       "original": "\"Why, that would be the Lady Malicia. I'd stay away from her if I were you, lamb chop.\"",
-      "translation": "\"הו, זו תהיה ליידי מלישיה. הייתי נשאר רחוק ממנה אם הייתי במקומך, צלע טלה.\"",
+      "translation": "\"הו, שם מתגוררת ליידי מלישיה. היינו שומרים ממנה מרחק אם היינו במקומך, צלע טלה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -11773,7 +11773,7 @@
       "logicFile": 4550,
       "messageNumber": 59,
       "original": "\"Yeah. She never shares.\"",
-      "translation": "\"כן. היא אף פעם לא משתפת.\"",
+      "translation": "\"כן. היא אף פעם לא חולקת איתנו בשללה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -11781,7 +11781,7 @@
       "logicFile": 4550,
       "messageNumber": 60,
       "original": "\"There are no plants like you in Daventry, that's for sure.\"",
-      "translation": "\"אין צמחים כמוכם בדבנטרי, זה בטוח.\"",
+      "translation": "\"אין כאלה צמחים כמוכם בדבנטרי, זה בטוח.\"",
       "notes": "",
       "placeholders": []
     },
@@ -11805,7 +11805,7 @@
       "logicFile": 4550,
       "messageNumber": 63,
       "original": "\"Lots of JUICY people?\"",
-      "translation": "\"הרבה אנשים ע ס י ס י ם?\"",
+      "translation": "\"הרבה אנשים ע ס י ס יי ם?\"",
       "notes": "",
       "placeholders": []
     },
@@ -11813,7 +11813,7 @@
       "logicFile": 4550,
       "messageNumber": 64,
       "original": "\"You know, I'm beginning to question your motives.\"",
-      "translation": "\"אתה יודע, אני מתחיל לתהות לגבי המניעים שלכם.\"",
+      "translation": "\"אתם יודעים, אני מתחילה לתהות לגבי המניעים שלכם.\"",
       "notes": "",
       "placeholders": []
     },
@@ -11845,7 +11845,7 @@
       "logicFile": 4550,
       "messageNumber": 68,
       "original": "\"Aren't you meat-eating magnolias worried about the volcano? You don't look flame resistant to me!\"",
-      "translation": "\"האם אתם, מגנוליות אוכלות בשר, לא מודאגים מהר הגעש? אתם לא נראים עמידים לאש בעיניי!\"",
+      "translation": "\"האם אתם, צמחים אוכלי בשר, לא מודאגים מהר הגעש? אתם לא נראים לי עמידים לאש!\"",
       "notes": "",
       "placeholders": []
     },
@@ -11877,7 +11877,7 @@
       "logicFile": 4550,
       "messageNumber": 72,
       "original": "\"I KNOW you want to eat me for dinner. Why don't you just admit it?\"",
-      "translation": "\"אני יודע שאתם רוצים לאכול אותי לארוחת ערב. למה אתם פשוט לא מודים בזה?\"",
+      "translation": "\"אני יודעת שאתם רוצים לאכול אותי לארוחת ערב. למה אתם פשוט לא מודים בזה?\"",
       "notes": "",
       "placeholders": []
     },
@@ -12037,7 +12037,7 @@
       "logicFile": 4650,
       "messageNumber": 1,
       "original": "\"There you are, you wretched little vandal!\"",
-      "translation": "\"הנה אתה, ונדל קטן וארור שכמוך!\"",
+      "translation": "\"הנה אתה, ונדליסט קטן וארור שכמוך!\"",
       "notes": "",
       "placeholders": []
     },
@@ -13293,7 +13293,7 @@
       "logicFile": 5050,
       "messageNumber": 54,
       "original": "\"I must turn down your generous offer, sir. You see, I must trade this statuette for a magic salve that will allow me to cross the Wood of the Were folk and find my daughter.\"",
-      "translation": "\"אני חייבת לסרב להצעתך הנדיבה, אדוני. את מבינה, אני חייבת להחליף את הפסלון הזה במשחה קסומה שתאפשר לי לחצות את יער אנשי הזאב ולמצוא את בתי.\"",
+      "translation": "\"אני חייבת לסרב להצעתך הנדיבה, אדוני. את מבינה, אני חייבת להחליף את הפסלון הזה במשחה קסומה שתאפשר לי לחצות את יער צללי הזאבים ולמצוא את בתי.\"",
       "notes": "",
       "placeholders": []
     },
@@ -13349,7 +13349,7 @@
       "logicFile": 5050,
       "messageNumber": 61,
       "original": "\"I must turn down your generous offer, sir. You see, I must trade this statuette for a magic salve that will allow me to cross the Wood of the Were folk and find my lost daughter.\"",
-      "translation": "\"אני חייבת לסרב להצעתך הנדיבה, אדוני. את מבינה, אני חייבת להחליף את הפסלון הזה במשחה קסומה שתאפשר לי לחצות את יער אנשי הזאב ולמצוא את בתי האבודה.\"",
+      "translation": "\"אני חייבת לסרב להצעתך הנדיבה, אדוני. את מבינה, אני חייבת להחליף את הפסלון הזה במשחה קסומה שתאפשר לי לחצות את יער צללי הזאבים ולמצוא את בתי האבודה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -13701,7 +13701,7 @@
       "logicFile": 5200,
       "messageNumber": 6,
       "original": "\"Oh no! It's STUCK!\"",
-      "translation": "\"אוי לא! זה תָּקוּעַ!\"",
+      "translation": "\"אוי לא! זה תקוע!\"",
       "notes": "",
       "placeholders": []
     },
@@ -14829,7 +14829,7 @@
       "logicFile": 5300,
       "messageNumber": 126,
       "original": "\"But my lady, the Vulcanix Underground lies wesst of the forest, beyond the Wood of the Were folk. No one has ever entered that wood and lived. Not unless they had my special ssalve, that iss...I will ssell it to you, but I will take only one very sspecial item for it. A magic statuette; a lovely depiction of a nymph gazing into a pond.\"",
-      "translation": "\"אבל גבירתי, מעמקי הוולקניקס שוכנים ממערב ליער, מעבר ליער אנשי הזאב. איש מעולם לא נכנס ליער ההוא וחזר חי. לא אלא אם כן היה לו את המשחה המיוחדת שלי, כמובן... אמכור לך אותה, אבל אקח רק פריט מיוחד אחד עבורה. פסלון קסום; תיאור יפהפה של נימפה מביטה לאגם.\"",
+      "translation": "\"אבל גבירתי, מעמקי הוולקניקס שוכנים ממערב ליער, מעבר ליער צללי הזאבים. איש מעולם לא נכנס ליער ההוא וחזר חי. לא אלא אם כן היה לו את המשחה המיוחדת שלי, כמובן... אמכור לך אותה, אבל אקח רק פריט מיוחד אחד עבורה. פסלון קסום; תיאור יפהפה של נימפה מביטה לאגם.\"",
       "notes": "",
       "placeholders": []
     },
@@ -14901,7 +14901,7 @@
       "logicFile": 5300,
       "messageNumber": 135,
       "original": "\"Sir, I was told of a merchant who sells an item which can get me through the Wood of the Were folk. Would that be you?\"",
-      "translation": "\"אדוני, נאמר לי על סוחר שמוכר פריט שיכול להעביר אותי ביער אנשי הזאב. האם זה אתה?\"",
+      "translation": "\"אדוני, נאמר לי על סוחר שמוכר פריט שיכול להעביר אותי ביער צללי הזאבים. האם זה אתה?\"",
       "notes": "",
       "placeholders": []
     },

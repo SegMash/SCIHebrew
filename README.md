@@ -148,10 +148,13 @@ git config --global --unset http.proxy; git config --global --unset https.proxy
     git push --force-with-lease origin master
 
 
-## Split commits after PR created
+## Split/Revert commits after PR created
 First revert the commits
 For example to revert last 3 commmits:
-    git reset HEAD~3
+    git log
+    (See how many commits after the master)
+    git reset HEAD~<num of commits>
+    example: git reset HEAD~3
     git add <file1>
     git commit -m "First commit message"
     git add <file2>
@@ -159,7 +162,7 @@ For example to revert last 3 commmits:
     ... etc
     # Force push to update the remote branch
     git push origin kq6-hebrew-translation --force
-    
+
 ## Fix after comments
     git checkout <kq?-hebrew-translation>
 

@@ -26,6 +26,10 @@ endlocal
 
 makensis.exe .\kq6_hebrew_patch.nsi
 
+echo Creating zip package for Android / alternative install...
+powershell -Command "Get-ChildItem -Path '.\games_assets\kq6' -File | Compress-Archive -DestinationPath '.\kq6_hebrew_patch.zip' -Force"
+echo Zip created: kq6_hebrew_patch.zip
+
 echo Running scummvm to verify MD5 hash of 0.fon...
 C:\Users\SEGEVMA\source\repos\scummvm\dists\msvc\Debugx86\scummvm.exe --md5 --md5-path=kq6_work\0.fon --md5-engine=sci
 
