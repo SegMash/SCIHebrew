@@ -17,18 +17,24 @@ for %%f in (.\output_kq7\*_messages.csv) do (
 )
 
 REM Copy all files from games_assets\kq7 to kq7_work
-copy .\games_assets\kq7\* .\kq7_work\PATCHES\
+REM TODO - when finished make sure all files are in assets dir - and uncomment the next time !!!!!!!!!!!!!!!!!!!!!!!!!
+REM copy .\games_assets\kq7\* .\kq7_work\PATCHES\
 
 endlocal
 REM TODO - finish logic file 30
 REM  Check: This is very deep. It almost looks like a hinge. (1100)
 REM Translate chapter titles - Done.
 REM Translate replacment store sign (המסך של העכבר המחליף) - מוזרים ונדירים - Done
-REM Translate screen of death
+REM Translate screen of death- Done!
 REM Translate "Bowl with Green Water" to "קערה עם מים ירוקים" (or something better)  - 24.SRC - to check!
-REM Translate the dirty board . Before and After!
-REM Translate board
-REM זה תק  ו ע
-REM לתרגם שלט של ד"ר קדבר Dot is Out
+REM Translate the dirty board . Before and After! - Gal Shemesh
+REM Translate board- Done!
+REM זה תק  ו ע - Done.
+REM לתרגם שלט של ד"ר קדבר Dot is Out - 4107
+REM לתרגם קופסת חלקי חילוף - 4211
 REM כתוביות לסרטון בסוף
 REM כתוביות לסרטון ההתחלה?
+REM translate view 985 - Bookmark options
+REM translate view 940 - chapter progress
+REM translate view 970 - You have already 10 games...
+REM translate view 972 - warning before delete
