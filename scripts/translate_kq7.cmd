@@ -34,7 +34,7 @@ REM לתרגם שלט של ד"ר קדבר Dot is Out - 4107
 REM לתרגם קופסת חלקי חילוף - 4211
 REM כתוביות לסרטון בסוף
 REM כתוביות לסרטון ההתחלה?
-REM translate view 985 - Bookmark options
+REM translate view 9850 - Bookmark options - Done!
 REM translate view 940 - chapter progress
 REM translate view 970 - You have already 10 games...
 REM translate view 972 - warning before delete
