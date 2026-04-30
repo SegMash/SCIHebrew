@@ -35,6 +35,29 @@ REM לתרגם קופסת חלקי חילוף - 4211
 REM כתוביות לסרטון בסוף
 REM כתוביות לסרטון ההתחלה?
 REM translate view 9850 - Bookmark options - Done!
-REM translate view 940 - chapter progress
-REM translate view 970 - You have already 10 games...
+REM translate view 940 - chapter progress - Done!!!! 25.help, 25.scr 940.v56
+REM translate Load game view 980. 3 buttons. Load, Delete, Cancel - Done!
+REM translate view 971 - You have already 10 games... - Done!
 REM translate view 972 - warning before delete
+REM tranllate "You game has been saved" - 983.v56 - Done!
+REM Start buttons: Watch Intro, Start new game, Continue, Quit - 930.v56 - Done!
+
+REM exmple to export view: python scripts/extract_v56.py .\kq7_work\PATCHES\940.v56 -o kq7_images\940 
+REM example to import view: python.exe .\scripts\import_v56.py .\kq7_work\PATCHES\940.v56 .\kq7_images\940 -o .\kq7_work\PATCHES\940.v56
+REM example of copy region:
+
+
+REM simple flow to remove english from view:
+REM 1. extract view to images
+REM 2. drop the image to AI (nano banana in google AI studio) ask to remove words.
+REM 3. download the image and resize like the original image.
+REM 4. Open the english and the AI images with GIMP
+REM 5. translate AI image to use the plaette (256) of the english one.
+REM 6. Copy rect from AI to english.
+REM 7. Use brash with smooth to blend the edges of the rect.
+REM 8. Add hebrew text with GIMP text tool, add shadow. For pressed button - duplicate and reduce the shadow
+REM 9. Paint background color
+REM 10. Export to new png.
+REM 11. Import back to view.
+
+
