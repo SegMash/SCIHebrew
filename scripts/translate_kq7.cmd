@@ -38,9 +38,15 @@ REM translate view 9850 - Bookmark options - Done!
 REM translate view 940 - chapter progress - Done!!!! 25.help, 25.scr 940.v56
 REM translate Load game view 980. 3 buttons. Load, Delete, Cancel - Done!
 REM translate view 971 - You have already 10 games... - Done!
-REM translate view 972 - warning before delete
+REM translate view 972 - warning before delete - Done!
 REM tranllate "You game has been saved" - 983.v56 - Done!
 REM Start buttons: Watch Intro, Start new game, Continue, Quit - 930.v56 - Done!
+
+REM Translate View 984 (Exit/Ride buttons)
+REM Translate view 985 - choose chapter.
+REM Improve the texture of v982 (use AI)
+
+REM Translate intro video!!!! (add subtitles)
 
 REM exmple to export view: python scripts/extract_v56.py .\kq7_work\PATCHES\940.v56 -o kq7_images\940 
 REM example to import view: python.exe .\scripts\import_v56.py .\kq7_work\PATCHES\940.v56 .\kq7_images\940 -o .\kq7_work\PATCHES\940.v56

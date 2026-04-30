@@ -1581,7 +1581,7 @@
       "logicFile": 800,
       "messageNumber": 26,
       "original": "Turquoise Piece",
-      "translation": "גוש טורקיז",
+      "translation": "אבן  טורקיז",
       "notes": "חתיכה של מה?!",
       "placeholders": []
     },
@@ -1597,7 +1597,7 @@
       "logicFile": 800,
       "messageNumber": 28,
       "original": "Turquoise Piece",
-      "translation": "גוש בצבע טורקיז",
+      "translation": "אבן טורקיז",
       "notes": "",
       "placeholders": []
     },
@@ -1605,7 +1605,7 @@
       "logicFile": 800,
       "messageNumber": 29,
       "original": "Puzzle",
-      "translation": "חידה",
+      "translation": "פאזל",
       "notes": "",
       "placeholders": []
     },
@@ -1797,7 +1797,7 @@
       "logicFile": 800,
       "messageNumber": 53,
       "original": "Turquoise Shape",
-      "translation": "גוש מסותת בצבע טורקיז",
+      "translation": "אבן טורקיז מסותתת",
       "notes": "",
       "placeholders": []
     },
@@ -2693,7 +2693,7 @@
       "logicFile": 1000,
       "messageNumber": 2,
       "original": "\"Isn't that cute?\"",
-      "translation": "\"זה לא חמוד?\"",
+      "translation": "\"האם זה לא חמוד?\"",
       "notes": "",
       "placeholders": []
     },
@@ -2725,7 +2725,7 @@
       "logicFile": 1100,
       "messageNumber": 2,
       "original": "\"Of all the rude, incosiderate--\"",
-      "translation": "\"מכל הדברים הגסים, חסרי ההתחשבות--\"",
+      "translation": "\"איזה חוסר נימוס, וחוסר התחשבות--\"",
       "notes": "",
       "placeholders": []
     },
@@ -2757,7 +2757,7 @@
       "logicFile": 1100,
       "messageNumber": 6,
       "original": "\"Who can that be? I cannot see!\"",
-      "translation": "\"מי זה יכול להיות? אני לא רואה!\"",
+      "translation": "\"מי זה יכול להיות? אני לא יכול לראות!\"",
       "notes": "",
       "placeholders": []
     },
@@ -2765,7 +2765,7 @@
       "logicFile": 1100,
       "messageNumber": 7,
       "original": "\"This is all I have to say! Go away! Go away!\"",
-      "translation": "\"זה כל מה שיש לי להגיד! לכי מפה! לכי מפה!\"",
+      "translation": "\"זה כל מה שיש לי לזמר! לכי מפה! לכי מהר!\"",
       "notes": "לכו? אולי לכי?",
       "placeholders": []
     },
@@ -2941,7 +2941,7 @@
       "logicFile": 1100,
       "messageNumber": 29,
       "original": "\"Leave me be! I cannot see!\"",
-      "translation": "\"הניחי לי! אני לא רואה!\"",
+      "translation": "\"הניחי לי! אני קצר רואי!\"",
       "notes": "",
       "placeholders": []
     },
@@ -3093,7 +3093,7 @@
       "logicFile": 1100,
       "messageNumber": 48,
       "original": "\"Oh my, a stunning turquoise shape. Will you accept a shriveled grape?\"",
-      "translation": "\"הו אלוהים, צורת טורקיז מהממת. האם תקבלי אוכמנית מצומקת?\"",
+      "translation": "\"הו אלוהים, אבן טורקיז מהממת. האם תקבלי אוכמנית מצומקת?\"",
       "notes": "",
       "placeholders": []
     },
@@ -3117,7 +3117,7 @@
       "logicFile": 1100,
       "messageNumber": 51,
       "original": "\"Oh my, a stunning turquoise shape. Will you accept a shriveled grape?\"",
-      "translation": "\"הו אלוהים, צורת טורקיז מהממת. האם תקבלי אוכמנית מצומקת?\"",
+      "translation": "\"הו אלוהים, אבן טורקיז מהממת. האם תקבלי אוכמנית מצומקת?\"",
       "notes": "",
       "placeholders": []
     },
@@ -3133,7 +3133,7 @@
       "logicFile": 1100,
       "messageNumber": 53,
       "original": "\"Oh my, a stunning turquoise shape. Will you accept a shriveled grape?\"",
-      "translation": "\"הו אלוהים, צורת טורקיז מהממת. האם תקבלי אוכמנית מצומקת?\"",
+      "translation": "\"הו אלוהים, אבן טורקיז מהממת. האם תקבלי אוכמנית מצומקת?\"",
       "notes": "",
       "placeholders": []
     },
@@ -3349,7 +3349,7 @@
       "logicFile": 1100,
       "messageNumber": 80,
       "original": "\"Oh my, a stunning turquoise shape. Will you accept a shriveled grape?\"",
-      "translation": "\"הו אלוהים, צורת טורקיז מהממת. האם תקבלי אוכמנית מצומקת?\"",
+      "translation": "\"הו אלוהים, אבן טורקיז מהממת. האם תקבלי אוכמנית מצומקת?\"",
       "notes": "",
       "placeholders": []
     },
@@ -4037,7 +4037,7 @@
       "logicFile": 1250,
       "messageNumber": 15,
       "original": "\"Mmm. Fresh.\"",
-      "translation": "\"מממ. טרי.\"",
+      "translation": "\"מממם. מים מתוקים.\"",
       "notes": "",
       "placeholders": []
     },
@@ -4349,7 +4349,7 @@
       "logicFile": 1500,
       "messageNumber": 26,
       "original": "\"Aah. I thought my thirst would torture me forever. How can I thank you?\"",
-      "translation": "\"אהה. חשבתי שהצמא שלי יענה אותי לנצח. איך אוכל להודות לך?\"",
+      "translation": "\"אהה. חשבתי שהצמא יענה אותי לנצח. איך אוכל להודות לך?\"",
       "notes": "",
       "placeholders": []
     },
