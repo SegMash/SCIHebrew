@@ -3413,7 +3413,7 @@
       "logicFile": 1100,
       "messageNumber": 88,
       "original": "\"No, I don't want the mask.\"",
-      "translation": "\"לא, אני לא רוצה את המסכה.\"",
+      "translation": "\"הו איזו מסכה סינית נחמדה - התרצי לוחית זיכרוןמאובקת  בעדה?\"",
       "notes": "",
       "placeholders": []
     },
@@ -3605,7 +3605,7 @@
       "logicFile": 1100,
       "messageNumber": 112,
       "original": "\"Aha! A large dismembered foot! Let me get a bag of soot.\"",
-      "translation": "\"אהה! כף רגל גדולה ומנותקת! תני להביא שקית של לשלשת.\"",
+      "translation": "\"אהה! כף רגל גדולה ומנותקת! תני לי להביא שקית של לשלשת.\"",
       "notes": "",
       "placeholders": []
     },
@@ -4613,7 +4613,7 @@
       "logicFile": 2050,
       "messageNumber": 20,
       "original": "\"I just can't let you do dat, sugar lips. How about a smooch instead?\"",
-      "translation": "\"אני פשוט לא יכול לתת לך לעשות את זה, שפתיים מתוקות. מה דעתך על נשיקה במקום?\"",
+      "translation": "\"אני פשוט לא יכול לתת לך לגעת בזה, שפתיים מתוקות. מה דעתך על נשיקה במקום?\"",
       "notes": "",
       "placeholders": []
     },
@@ -4949,7 +4949,7 @@
       "logicFile": 2200,
       "messageNumber": 2,
       "original": "\"Well, y-yes, I think so...but Lady Malicia, is it really necessary? Won't the Realm of Eldritch be harmed, my lady? The Bountiful Woods are right below Etheria, and the land of Ooga Booga...\"",
-      "translation": "\"ובכן, כ-כן, אני חושב שכן... אבל ליידי מלישיה, האם זה באמת נחוץ? האם ממלכת אלדריץ' לא תיפגע, גבירתי? יערות השפע נמצאים ממש מתחת לאתריה, וארץ אוגה בוגה...\"",
+      "translation": "\"ובכן, כ-כן, אני חושב שכן... אבל גברת מלישיה, האם זה באמת נחוץ? האם ממלכת אלדריץ' לא תיפגע, גבירתי? יערות השפע נמצאים ממש מתחת לאת'ריה, וארץ אוגה בוגה...\"",
       "notes": "",
       "placeholders": []
     },
@@ -4957,7 +4957,7 @@
       "logicFile": 2200,
       "messageNumber": 3,
       "original": "\"Oh, a village here, a township there, who's going to miss them? Even if all of Eldritch is covered in slag, at least the blight of Etheria will be GONE!\"",
-      "translation": "\"הו, כפר פה, עיירה שם, מי יתגעגע אליהם? גם אם כל אלדריץ' תתכסה באפר, לפחות הנגע של אתריה יעלם לגמרי!\"",
+      "translation": "\"הו, כפר פה, עיירה שם, מי יתגעגע אליהם? גם אם כל אלדריץ' תתכסה באפר, לפחות הנגע של את'ריה יעלם לגמרי!\"",
       "notes": "",
       "placeholders": []
     },
@@ -5117,7 +5117,7 @@
       "logicFile": 2200,
       "messageNumber": 23,
       "original": "\"Well...you see...I was stolen as a baby, by an evil faerie named Lolotte. She twisted my body and tried to twist my mind, but somehow I know I was not her son...then Rosella appeared. I--knew she was special. She released me from my slavery to Lolotte, and I went home to Etheria.\"",
-      "translation": "\"ובכן... את מבינה... נגנבתי כתינוק, על ידי פיה רעה בשם לולוט. היא עיוותה את גופי וניסתה לעוות את מוחי, אבל איכשהו אני יודע שלא הייתי בנה... ואז הופיעה רוזלה. ידעתי שהיא מיוחדת. היא שחררה אותי משעבודי ללולוט, וחזרתי הביתה לאתריה.\"",
+      "translation": "\"ובכן... את מבינה... נגנבתי כתינוק, על ידי פיה רעה בשם לולוט. היא עיוותה את גופי וניסתה לעוות את מוחי, אבל איכשהו אני יודע שלא הייתי בנה... ואז הופיעה רוזלה. ידעתי שהיא מיוחדת. היא שחררה אותי משעבודי ללולוט, וחזרתי הביתה לאת'ריה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -5141,7 +5141,7 @@
       "logicFile": 2200,
       "messageNumber": 26,
       "original": "\"Something went terribly wrong with you, my sister. Let us start over again, shall we?\"",
-      "translation": "\"משהו השתבש אצלך נורא, אחותי. בואי נתחיל מחדש, מה דעתך?\"",
+      "translation": "\"משהו השתבש אצלך, אחותי. בואי נתחיל מחדש, מה דעתך?\"",
       "notes": "",
       "placeholders": []
     },
@@ -5157,7 +5157,7 @@
       "logicFile": 2200,
       "messageNumber": 28,
       "original": "\"Edgar...would you show me the sights of Etheria? After all, it's what I came for...\"",
-      "translation": "\"אדגר... האם תוכל לעשות לי סיבוב באתריה? אחרי הכל, בשביל זה באתי...\"",
+      "translation": "\"אדגר... האם תוכל לעשות לי סיבוב באת'ריה? אחרי הכל, בשביל זה באתי...\"",
       "notes": "",
       "placeholders": []
     },
@@ -5229,7 +5229,7 @@
       "logicFile": 2200,
       "messageNumber": 37,
       "original": "\"Come, lady Valanice, lady Rosella. We will take you home.\"",
-      "translation": "\"בואו, ליידי ואלניס, ליידי רוזלה. ניקח אתכן הביתה.\"",
+      "translation": "\"בואו, גברת ואלניס, גברת רוזלה. ניקח אתכן הביתה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -5365,7 +5365,7 @@
       "logicFile": 2450,
       "messageNumber": 5,
       "original": "\"I am, your majesty. How do you know me? Where am I? I saw a beautiful castle before--where could I find it, please?\"",
-      "translation": "\"אני היא, הוד מלכותך. איך אתה מכיר אותי? איפה אני? ראיתי קודם טירה יפהפייה - איפה אוכל למצוא אותה, בבקשה?\"",
+      "translation": "\"זו אני, הוד מלכותך. איך אתה מכיר אותי? איפה אני? ראיתי קודם טירה יפהפייה - איפה אוכל למצוא אותה, בבקשה?\"",
       "notes": "",
       "placeholders": []
     },
@@ -5501,7 +5501,7 @@
       "logicFile": 2450,
       "messageNumber": 22,
       "original": "\"I don't want anything, I was just looking into this pool, and then I saw this--\"",
-      "translation": "\"אני לא רוצה כלום, רק הסתכלתי אל תוך הבריכה הזו, ואז ראיתי את זה--\"",
+      "translation": "\"אני לא רוצה כלום, רק הבטתי אל תוך הבריכה הזו, ואז ראיתי את זה--\"",
       "notes": "",
       "placeholders": []
     },
@@ -5661,7 +5661,7 @@
       "logicFile": 2450,
       "messageNumber": 42,
       "original": "\"Hmm. The silver spoon melted. And I thought mother's tea was strong! I suppose I should keep it as a momento.\"",
-      "translation": "\"הממ. כף הכסף נמסה. וחשבתי שהתה של אמא חזק! אני מניחה שאשמור אותה כמזכרת.\"",
+      "translation": "\"הממם. כף הכסף נמסה. וחשבתי שהתה של אמא חזק! אני מניחה שאשמור אותה כמזכרת.\"",
       "notes": "",
       "placeholders": []
     },
@@ -5917,7 +5917,7 @@
       "logicFile": 2450,
       "messageNumber": 74,
       "original": "\"Mathilde, I know you're concerned for the king, but maybe you shouldn't bait Malicia like you did. She's fully capable of...hurting you.\"",
-      "translation": "\"מתילדה, אני יודעת שאת דואגת למלך, אבל אולי לא היית צריכה להתגרות במלישיה כמו שעשית. היא יכולה בוודאות... לפגוע בך.\"",
+      "translation": "\"מתילדה, אני יודעת שאת דואגת למלך, אבל אולי לא היית צריכה להתגרות במלישיה כמו שעשית. היא עלולה... לפגוע בך.\"",
       "notes": "מי אומר למי?",
       "placeholders": []
     },
@@ -6077,7 +6077,7 @@
       "logicFile": 2450,
       "messageNumber": 94,
       "original": "\"The Vulcanix Underground is nothing BUT one big volcano! We trolls have been the keepers of the volcano for a hundred generations. If Malicia ignites it, the entire Realm of Eldritch will blow up! Rosella, we MUST find the real King Otar. He's the only one with the knowledge to shut down the volcano. Here, take this magic rope.\"",
-      "translation": "\"תת-הקרקע הגעשית אינה אלא הר געש אחד גדול! אנחנו הטרולים היינו שומרי הר הגעש במשך מאה דורות. אם מלישיה תצית אותו, כל ממלכת אלדריץ' תתפוצץ! רוזלה, אנחנו חייבים למצוא את המלך אוטאר האמיתי. הוא היחידי שיודע כיצד לכבות את הר הגעש. הנה, קחי את חבל הקסם הזה.\"",
+      "translation": "\"תת-הקרקע הגעשית אינה אלא הר געש אחד גדול! אנחנו הטרולים שומרי הר הגעש כבר מאה דורות. אם מלישיה תצית אותו, כל ממלכת אלדריץ' תתפוצץ! רוזלה, אנחנו חייבים למצוא את המלך אוטאר האמיתי. הוא היחידי שיודע כיצד לכבות את הר הגעש. הנה, קחי את חבל הקסם הזה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -6389,7 +6389,7 @@
       "logicFile": 2500,
       "messageNumber": 2,
       "original": "\"You are so wonderful! You are the most beautiful stew in the world. All you need is...a juicy bat! Or a tender rat! Mmmmmm!\"",
-      "translation": "\"את כל כך נפלאה! את הנזיד הכי יפה בעולם. כל מה שאת צריכה זה... עטלף עסיסי! או חולדה רכה! ממממ!\"",
+      "translation": "\"אתה כל כך נפלא! אתה הנזיד הכי יפה בעולם. כל מה שאתה צריך זה... עטלף עסיסי! או חולדה רכה! ממממם!\"",
       "notes": "",
       "placeholders": []
     },
@@ -6541,7 +6541,7 @@
       "logicFile": 2500,
       "messageNumber": 21,
       "original": "\"They could cook a MOOSE in there. Gosh, they probably are!\"",
-      "translation": "\"הם יכלו לבשל שם אייל. אלוהים, הם בטח עושים את זה!\"",
+      "translation": "\"הם יכולים לבשל שם אפילו אייל. אלוהים, הם בטח עושים את זה!\"",
       "notes": "",
       "placeholders": []
     },
@@ -6557,7 +6557,7 @@
       "logicFile": 2500,
       "messageNumber": 23,
       "original": "\"I already have some of those. I guess I don't need any more right now.\"",
-      "translation": "\"יש לי כבר כמה כאלה. נראה לי שאני לא צריך יותר כרגע.\"",
+      "translation": "\"כבר יש לי כמה מאלה. נראה לי שכרגע אני לא צריכה יותר.\"",
       "notes": "",
       "placeholders": []
     },
@@ -6749,7 +6749,7 @@
       "logicFile": 2600,
       "messageNumber": 3,
       "original": "\"I don't think there are that many jewels in all of Daventry!\"",
-      "translation": "\"אני לא חושבת שיש כל כך הרבה תכשיטים בכל דבנטרי!\"",
+      "translation": "\"אני לא חושבת שיש כל כך הרבה אבנים טובות בכל דבנטרי!\"",
       "notes": "",
       "placeholders": []
     },
@@ -6829,7 +6829,7 @@
       "logicFile": 2600,
       "messageNumber": 13,
       "original": "\"Um, this doesn't happen to be the kind of spark you meant, does it?\"",
-      "translation": "\"אממ, זה במקרה לא הניצוץ שאליו התכוונת, נכון?\"",
+      "translation": "\"אממ, זה לא במקרה הניצוץ שאליו התכוונת, נכון?\"",
       "notes": "",
       "placeholders": []
     },
@@ -6837,7 +6837,7 @@
       "logicFile": 2600,
       "messageNumber": 14,
       "original": "\"A spark! Bless you, little troll! Here, let me have it!\"",
-      "translation": "\"ניצוץ! תודה לך, טרולית קטנה! בואי, תני לי אותו!\"",
+      "translation": "\"ניצוץ! תודה לך, טרולית קטנה! בואי, העבירי לי אותו!\"",
       "notes": "",
       "placeholders": []
     },
@@ -7013,7 +7013,7 @@
       "logicFile": 3100,
       "messageNumber": 12,
       "original": "\"My apologies, noble spirit, but the Bountiful Woods are in terrible trouble. Lord Attis has been changed into a stag, and Lady Ceres into a tree.\"",
-      "translation": "\"סליחה, רוח אצילה, אך יערות השפע בצרה נוראה. הלורד אטיס הפך לאייל, והליידי סרס הפכה לעץ.\"",
+      "translation": "\"סליחה, רוח אצילה, אך יערות השפע בצרה נוראה. הלורד אטיס הפך לאייל, וגברת סרס הפכה לעץ.\"",
       "notes": "",
       "placeholders": []
     },
@@ -7037,7 +7037,7 @@
       "logicFile": 3100,
       "messageNumber": 15,
       "original": "\"WAIT! My apologies, noble spirit, but the Bountiful Woods are in terrible trouble. Lord Attis has been transformed into a stag, and Lady Ceres into a tree.\"",
-      "translation": "\"חכה! סליחה, רוח אצילה, אך יערות השפע בצרה נוראה. הלורד אטיס הפך לאייל, והליידי סרס הפכה לעץ.\"",
+      "translation": "\"חכה! סליחה, רוח אצילה, אך יערות השפע בצרה נוראה. הלורד אטיס הפך לאייל, וגברת סרס הפכה לעץ.\"",
       "notes": "",
       "placeholders": []
     },
@@ -7141,7 +7141,7 @@
       "logicFile": 3200,
       "messageNumber": 4,
       "original": "\"Valanice, if she is in Ooga Booga, you must pass through the swamp--and I have learned of a terrible monster who dwells there. I will help you evade him, but first, I must try to save my lady love.\"",
-      "translation": "\"ולניס, אם היא באוגה בוגה, את חייבת לעבור דרך הביצה - ושם, נודע לי, שוכנת מפלצת איומה. אעזור לך לחמוק ממנו, אך קודם, עליי לנסות להציל את אהובתי.\"",
+      "translation": "\"ולניס, אם היא באוגה בוגה, את חייבת לעבור דרך הביצה - ושם, נודע לי, שוכנת מפלצת איומה. אעזור לך לחמוק ממנה, אך קודם, עליי לנסות להציל את אהובתי.\"",
       "notes": "",
       "placeholders": []
     },
@@ -7317,7 +7317,7 @@
       "logicFile": 3200,
       "messageNumber": 26,
       "original": "\"I am Attis, lord protector of this forest. I have seen your mother, Lady Rosella. She seeks you tirelessly.\"",
-      "translation": "\"אני אטיס, מגן יער זה. ראיתי את אמך, ליידי רוזלה. היא מחפשת אותך ללא הפסקה.\"",
+      "translation": "\"אני אטיס, מגן יער זה. ראיתי את אמך, גברת רוזלה. היא מחפשת אותך ללא הפסקה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -7581,7 +7581,7 @@
       "logicFile": 3200,
       "messageNumber": 59,
       "original": "\"What wicked creature drove this stake into the tree--into Lady Ceres?\"",
-      "translation": "\"איזה יצור רשע נעץ את היתד הזו בעץ - בליידי סרס?\"",
+      "translation": "\"איזה יצור רשע נעץ את היתד הזו בעץ - בגברת סרס?\"",
       "notes": "",
       "placeholders": []
     },
@@ -7589,7 +7589,7 @@
       "logicFile": 3200,
       "messageNumber": 60,
       "original": "\"The same creature who turned her into a tree. If I only know who that was, Lady Valanice, I would surely make him regret it. I fear my lady may die of that wound, but I can do nothing about it with these clumsy hooves.\"",
-      "translation": "\"אותו יצור שהפך אותה לעץ. לו רק ידעתי מי זה היה, ליידי ולניס, הייתי בטח גורם לו להתחרט על כך. אני חושש שגבירתי עלולה למות מפצע זה, אבל איני יכול לעשות דבר בנידון עם הפרסות המגושמות האלה.\"",
+      "translation": "\"אותו יצור שהפך אותה לעץ. לו רק ידעתי מי זה היה, גברת ולניס, הייתי בטח גורם לו להתחרט על כך. אני חושש שגבירתי עלולה למות מפצע זה, אבל איני יכול לעשות דבר בנידון עם הפרסות המגושמות האלה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -7637,7 +7637,7 @@
       "logicFile": 3200,
       "messageNumber": 66,
       "original": "\"Lady Ceres, I will help you if I can.\"",
-      "translation": "\"ליידי סרס, אעזור לך אם אוכל.\"",
+      "translation": "\"גברת סרס, אעזור לך אם אוכל.\"",
       "notes": "",
       "placeholders": []
     },
@@ -7701,7 +7701,7 @@
       "logicFile": 3200,
       "messageNumber": 74,
       "original": "\"I am Attis, lord protector of this forest. I have seen your mother, Lady Rosella. She seeks you tirelessly.",
-      "translation": "\"אני אטיס, מגן היער הזה. ראיתי את אמך, ליידי רוזלה. היא מחפשת אותך ללא הפסקה.\"",
+      "translation": "\"אני אטיס, מגן היער הזה. ראיתי את אמך, גברת רוזלה. היא מחפשת אותך ללא הפסקה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -7789,7 +7789,7 @@
       "logicFile": 3200,
       "messageNumber": 85,
       "original": "\"I do not know, Rosella. My powers are too drained to send you there myself, and no one has heard from King Oberon and Queen Titania in quite some time. It is strange, and very unsettling.\"",
-      "translation": "\"איני יודע, רוזלה. כוחותיי אזלו מכדי שאוכל לשלוח אותך לשם בעצמי, ואף אחד לא שמע מהמלך אוברון והמלכה טיטאניה מזה זמן רב. זה מוזר, ומטריד מאוד.\"",
+      "translation": "\"איני יודע, רוזלה. כוחותיי אזלו כדי שאוכל לשלוח אותך לשם בעצמי, ואף אחד לא שמע מהמלך אוברון והמלכה טיטאניה מזה זמן רב. זה מוזר, ומטריד מאוד.\"",
       "notes": "",
       "placeholders": []
     },
@@ -7829,7 +7829,7 @@
       "logicFile": 3200,
       "messageNumber": 90,
       "original": "\"Take care, lady Rosella. Your mother waits for you.\"",
-      "translation": "\"שימי לב, ליידי רוזלה. אמך מחכה לך.\"",
+      "translation": "\"שימי לב, גברת רוזלה. אמך מחכה לך.\"",
       "notes": "",
       "placeholders": []
     },
@@ -7861,7 +7861,7 @@
       "logicFile": 3200,
       "messageNumber": 94,
       "original": "\"Attis! I have sought help from Etheria,but the lady Mab has been frozen by some horrible curse!\"",
-      "translation": "\"אטיס! חיפשתי עזרה מאת'ריה, אבל ליידי מאב קפאה בגלל איזו קללה נוראה!\"",
+      "translation": "\"אטיס! חיפשתי עזרה מאת'ריה, אבל גברת מאב קפאה בגלל איזו קללה נוראה!\"",
       "notes": "",
       "placeholders": []
     },
@@ -7869,7 +7869,7 @@
       "logicFile": 3200,
       "messageNumber": 95,
       "original": "\"Frozen, you say? It is possible that my lady Ceres could tell you how to thaw Mab...if only she could speak. She is--was--the Lady of Spring.\"",
-      "translation": "\"קפאה, את אומרת? ייתכן שגבירתי סרס תוכל לספר לך איך להפשיר את מאב... לו רק יכלה לדבר. היא הייתה - הייתה - ליידי האביב.\"",
+      "translation": "\"קפאה, את אומרת? ייתכן שגבירתי סרס תוכל לספר לך איך להפשיר את מאב... לו רק יכלה לדבר. היא הייתה - הייתה - גברת האביב.\"",
       "notes": "",
       "placeholders": []
     },
@@ -7893,7 +7893,7 @@
       "logicFile": 3200,
       "messageNumber": 98,
       "original": "\"You are very welcome, lady Ceres.\"",
-      "translation": "\"בשמחה רבה, ליידי סרס.\"",
+      "translation": "\"בשמחה רבה, גברת סרס.\"",
       "notes": "",
       "placeholders": []
     },
@@ -7901,7 +7901,7 @@
       "logicFile": 3200,
       "messageNumber": 99,
       "original": "\"Farewell, my friend.\"",
-      "translation": "\"שלום לך, ידידי.\"",
+      "translation": "\"שלום לך, ידידתי.\"",
       "notes": "ידידי או ידידתי?",
       "placeholders": []
     },
@@ -7909,7 +7909,7 @@
       "logicFile": 3200,
       "messageNumber": 100,
       "original": "\"You are very welcome, lady Ceres. May I ask a question of you?\"",
-      "translation": "\"בשמחה רבה, ליידי סרס. האם אוכל לשאול אותך דבר מה?\"",
+      "translation": "\"בשמחה רבה, גברת סרס. האם אוכל לשאול אותך דבר מה?\"",
       "notes": "",
       "placeholders": []
     },
@@ -7925,7 +7925,7 @@
       "logicFile": 3200,
       "messageNumber": 102,
       "original": "\"I have seen Mab, Lady of Dreams, and she has been placed under a terrible curse. She has been frozen like a block of ice. Lady of Spring, what can be done for her?\"",
-      "translation": "\"ראיתי את מאב, ליידי החלומות, והיא תחת השפעתה של קללה נוראה. היא קפאה כגוש קרח. ליידי האביב, מה אפשר לעשות למענה?\"",
+      "translation": "\"ראיתי את מאב, גברת החלומות, והיא תחת השפעתה של קללה נוראה. היא קפאה כגוש קרח. גברת האביב, מה אפשר לעשות למענה?\"",
       "notes": "",
       "placeholders": []
     },
@@ -7941,7 +7941,7 @@
       "logicFile": 3200,
       "messageNumber": 104,
       "original": "\"Lady Ceres, may I ask a question of you?\"",
-      "translation": "\"ליידי סרס, האם אוכל לשאול אותך שאלה?\"",
+      "translation": "\"גברת סרס, האם אוכל לשאול אותך שאלה?\"",
       "notes": "",
       "placeholders": []
     },
@@ -7957,7 +7957,7 @@
       "logicFile": 3200,
       "messageNumber": 106,
       "original": "\"I have seen Mab, Lady of Dreams, and she has been placed under a terrible curse. She has been frozen like a block of ice. Lady of Spring, what can be done for her?\"",
-      "translation": "\"ראיתי את מאב, ליידי החלומות, והיא תחת השפעתה של קללה נוראה. היא קפאה כגוש קרח. ליידי האביב, מה אפשר לעשות למענה?\"",
+      "translation": "\"ראיתי את מאב, גברת החלומות, והיא תחת השפעתה של קללה נוראה. היא קפאה כגוש קרח. גברת האביב, מה אפשר לעשות למענה?\"",
       "notes": "",
       "placeholders": []
     },
@@ -7973,7 +7973,7 @@
       "logicFile": 3200,
       "messageNumber": 108,
       "original": "\"Lady Ceres, how am I to travel to the Realm of Dreams while awake? What must I do?\"",
-      "translation": "\"ליידי סרס, איך עליי לנסוע לממלכת החלומות כשאני ערה? מה עליי לעשות?\"",
+      "translation": "\"גברת סרס, איך עליי לנסוע לממלכת החלומות כשאני ערה? מה עליי לעשות?\"",
       "notes": "",
       "placeholders": []
     },
@@ -7981,7 +7981,7 @@
       "logicFile": 3200,
       "messageNumber": 109,
       "original": "\"I...I do not know, child of humans. Perhaps you should speak with the Three Fates. There is very little they do not know.\"",
-      "translation": "\"אני... אני לא יודעת, ילדת בני אדם. אולי כדאי שתדברי עם שלושת הגורלות. יש מעט מאוד שהן לא יודעות.\"",
+      "translation": "\"אני... אני לא יודעת, ילדת בני אדם. אולי כדאי שתדברי עם שלושת הגורלות. הן יודעות כמעט הכל.\"",
       "notes": "",
       "placeholders": []
     },
@@ -8189,7 +8189,7 @@
       "logicFile": 3300,
       "messageNumber": 7,
       "original": "\"Listen, spider! You let that poor bird go!\"",
-      "translation": "\"תקשיב, עכביש! תשחרר את הציפור המסכנה הזאת!\"",
+      "translation": "\"תקשיב, עכביש! שחרר את הציפור המסכנה הזאת!\"",
       "notes": "",
       "placeholders": []
     },
@@ -8277,7 +8277,7 @@
       "logicFile": 4000,
       "messageNumber": 6,
       "original": "\"You are the first creature to be kind to me since I lost my master and mistress. Thank you.\"",
-      "translation": "\"את היצור הראשון שמתייחס אליי בטוב לב מאז שאיבדתי את אדוני וגבירתי. תודה לך.\"",
+      "translation": "\"את היצור הראשון שהתייחס אליי בטוב לב מאז שאיבדתי את אדוני וגבירתי. תודה לך.\"",
       "notes": "",
       "placeholders": []
     },
@@ -8877,7 +8877,7 @@
       "logicFile": 4100,
       "messageNumber": 22,
       "original": "\"Yeeeeees? Oh, my dear Lady Tsepish. Tsk tsk tsk. Have you cried your eyes out again? Well, I'll replace them one more time, but that's it! I only have so many spare eyeballs, you know!\"",
-      "translation": "\"כ...ן? הו, ליידי צפיש היקרה שלי. (ציקצוק). האם שוב איבדת את עינייך בבכי? ובכן, אחליף אותן פעם אחת נוספת, אבל זהו! אין לי כל כך הרבה גלגלי עיניים ספייר, את יודעת!\"",
+      "translation": "\"כ...ן? הו, גברת צפיש היקרה שלי. (ציקצוק). האם שוב איבדת את עינייך בבכי? ובכן, אחליף אותן פעם אחת אחרונה, אבל זהו! אין לי כל כך הרבה גלגלי עיניים ספייר, את יודעת!\"",
       "notes": "",
       "placeholders": []
     },
@@ -8893,7 +8893,7 @@
       "logicFile": 4100,
       "messageNumber": 24,
       "original": "\"Oh, there's a sign. 'The Doctor is Out.\"",
-      "translation": "\"הו, תלוי כאן שלט. 'הרופא בחוץ'.\"",
+      "translation": "\"הו, תלוי כאן שלט. 'הרופא יצא'.\"",
       "notes": "",
       "placeholders": []
     },
@@ -8965,7 +8965,7 @@
       "logicFile": 4100,
       "messageNumber": 33,
       "original": "\"And I am Dr. Mort Cadaver. Do come in, Lady Valanice. Let us talk.\"",
-      "translation": "\"ואני ד\"ר מורט קדאבר. בואי היכנסי, ליידי ואלניס. בואי נדבר.\"",
+      "translation": "\"ואני ד\"ר מורט קדאבר. בואי היכנסי, גברת ואלניס. בואי נדבר.\"",
       "notes": "",
       "placeholders": []
     },
@@ -8973,7 +8973,7 @@
       "logicFile": 4100,
       "messageNumber": 34,
       "original": "\"My dear Lady Valanice! What brings you back to this neck of the boneyard?\"",
-      "translation": "\"ליידי ואלניס היקרה שלי! מה מביא אותך בחזרה ל'צוואר' בית הקברות הזה?\"",
+      "translation": "\"גברת ואלניס היקרה שלי! מה מביא אותך בחזרה ל'צוואר' בית הקברות הזה?\"",
       "notes": "",
       "placeholders": []
     },
@@ -8997,7 +8997,7 @@
       "logicFile": 4100,
       "messageNumber": 37,
       "original": "\"Welcome back, Lady Valanice. Do come in.\"",
-      "translation": "\"ברוכה השבה, ליידי ואלניס. בואי היכנסי.\"",
+      "translation": "\"ברוכה השבה, גברת ואלניס. בואי היכנסי.\"",
       "notes": "",
       "placeholders": []
     },
@@ -9301,7 +9301,7 @@
       "logicFile": 4200,
       "messageNumber": 18,
       "original": "\"What a lovely name. I am Dr. Mort Cadaver. What can I do for you, Lady Valanice?\"",
-      "translation": "\"איזה שם יפה. אני ד\"ר מורט קדאבר. במה אוכל לעזור לך, ליידי ולניס?\"",
+      "translation": "\"איזה שם יפה. אני ד\"ר מורט קדאבר. במה אוכל לעזור לך, גברת ולניס?\"",
       "notes": "",
       "placeholders": []
     },
@@ -9317,7 +9317,7 @@
       "logicFile": 4200,
       "messageNumber": 20,
       "original": "\"How can I help you, Lady Valanice?\"",
-      "translation": "\"במה אוכל לעזור לך, ליידי ולניס?\"",
+      "translation": "\"במה אוכל לעזור לך, גברת ולניס?\"",
       "notes": "",
       "placeholders": []
     },
@@ -9365,7 +9365,7 @@
       "logicFile": 4200,
       "messageNumber": 26,
       "original": "\"I wish you the best of luck, Lady Valanice. Farewell!\"",
-      "translation": "\"אני מאחל לך את כל הטוב שבעולם, ליידי ולניס. להתראות!\"",
+      "translation": "\"אני מאחל לך את כל הטוב שבעולם, גברת ולניס. להתראות!\"",
       "notes": "",
       "placeholders": []
     },
@@ -9381,7 +9381,7 @@
       "logicFile": 4200,
       "messageNumber": 28,
       "original": "\"Oh, I couldn't. The patient must come first. But, Miss Rosella, I'd do anything for another one. I tried a broomstick and some dried spaghetti, but it just wasn't the same.\"",
-      "translation": "\"אוי, אני לא יכול. המטופל תמיד בעדיפות ראשונה. אבל, העלמה רוזלה, ניסיתי הכל בשביל לעזור לו. ניסיתי מקל מטאטא וכמה ספגטי יבש, אבל זה פשוט לא היה אותו דבר.\"",
+      "translation": "\"אוי, אני לא יכול. המטופל תמיד בעדיפות ראשונה. אבל, העלמה רוזלה, ניסיתי הכל בשביל לעזור לה. ניסיתי מקל מטאטא וכמה ספגטי יבש, אבל זה פשוט לא היה אותו דבר.\"",
       "notes": "",
       "placeholders": []
     },
@@ -9477,7 +9477,7 @@
       "logicFile": 4200,
       "messageNumber": 40,
       "original": "\"Oh, dear, that IS a problem--did you say we? May I presume you mean yourself and your tapeworm?\"",
-      "translation": "\"הו, אלוהים, זו באמת בעיה - אמרת 'אנחנו'? האם מותר לי להניח שאת מתכוונת לעצמך ולתולעת הסרט שלך?\"",
+      "translation": "\"הו, אלוהים, זו באמת בעיה - אמרת 'אנחנו'? האם מותר לי להניח שאת מתכוונת לעצמך ולתולעת המעיים שלך?\"",
       "notes": "",
       "placeholders": []
     },
@@ -9493,7 +9493,7 @@
       "logicFile": 4200,
       "messageNumber": 42,
       "original": "\"I...see... Now. You'll have to leave through the main gate, but Malicia put that nasty swamp creature on guard...well, let me see...maybe we'll find something helpful here...\"",
-      "translation": "\"אני... מבין... עכשיו. תצטרכו לעזוב דרך השער הראשי, אבל מלישיה הציבה את יצור הביצה המגעיל הזה לשמור... ובכן, בואו נראה... אולי נמצא משהו מועיל כאן...\"",
+      "translation": "\"אני... מבין... עכשיו. תצטרכו לעזוב דרך השער הראשי, אבל מלישיה הציבה את יצור הביצה המגעיל הזה לשמור... ובכן, בואו נראה... אולי נמצא כאן משהו שיוכל לעזור...\"",
       "notes": "",
       "placeholders": []
     },
@@ -9516,8 +9516,8 @@
     {
       "logicFile": 4200,
       "messageNumber": 45,
-      "original": "\"It's a defoliant, my dear. It'll knock the leaves off of any kind of creepy-crawly plant you'd care to think of. Totally non-toxic to animals, that's the beauty of it! It's a wonder I found it. These shelves DO need organizing. Tsk tsk tsk.\"",
-      "translation": "\"זה קוטל עלים, יקירתי. זה יפיל את העלים מכל סוג של צמח זוחל שתחשבי עליו. לגמרי לא רעיל לבעלי חיים, זה היופי שבדבר! זה פלא שמצאתי את זה. המדפים האלה באמת צריכים סידור. (ציקצוק).\"",
+      "original": "\"It's a defoliant, my dear. It'll knock the leaves off of any kind of v you'd care to think of. Totally non-toxic to animals, that's the beauty of it! It's a wonder I found it. These shelves DO need organizing. Tsk tsk tsk.\"",
+      "translation": "\"זהו קוטל עלים, יקירתי. זה יקטול את עליו של כל צמח טורף שהוא. לחלוטין לא רעיל לבעלי חיים, זה היופי שבדבר! פלא שמצאתי את זה. המדפים האלה באמת צריכים ארגון מחדש.\"",
       "notes": "",
       "placeholders": []
     },
@@ -9581,7 +9581,7 @@
       "logicFile": 4200,
       "messageNumber": 53,
       "original": "\"You're very welcome. Perhaps you'll think warmly of us dead folk in the future, hmm?\"",
-      "translation": "\"את יותר ממוזמנת. אולי תחשבי בחום על המתים כמונו בעתיד, הא?\"",
+      "translation": "\"את יותר ממוזמנת. אולי תחשבי בחום על מתים כמונו בעתיד, הא?\"",
       "notes": "",
       "placeholders": []
     },
@@ -9629,7 +9629,7 @@
       "logicFile": 4200,
       "messageNumber": 59,
       "original": "\"Dr. Cadaver, how was Rosella when you spoke with her? did she seem well?\"",
-      "translation": "\"ד\"ר קדאבר, איך הייתה רוזלה כשדיברת איתה? האם היא נראתה בסדר?\"",
+      "translation": "\"ד\"ר קדאבר, איך הייתה רוזלה כשדיברת איתה? האם היא היתה במצב טוב?\"",
       "notes": "",
       "placeholders": []
     },
@@ -9661,7 +9661,7 @@
       "logicFile": 4200,
       "messageNumber": 63,
       "original": "\"Forgive me, Lady Valanice, but I have to make a house call.\"",
-      "translation": "\"סלחי לי, ליידי ולניס, אבל אני חייב לבצע ביקור בית.\"",
+      "translation": "\"סלחי לי, גברתי ולניס, אבל אני חייב לבצע ביקור בית.\"",
       "notes": "",
       "placeholders": []
     },
@@ -9701,7 +9701,7 @@
       "logicFile": 4200,
       "messageNumber": 68,
       "original": "\"It's a long story, doctor, but what it comes down to is that I must travel to Dreamland to see Lady Mab, but I can't find a safe place to sleep!\"",
-      "translation": "\"זה סיפור ארוך, דוקטור, אבל בסופו של דבר אני חייבת לנסוע לארץ החלומות כדי לראות את ליידי מאב, אבל אני לא מוצאת מקום בטוח לישון!\"",
+      "translation": "\"זה סיפור ארוך, דוקטור, אבל בסופו של דבר אני חייבת לנסוע לארץ החלומות כדי לראות את גברת מאב, אבל אני לא מוצאת מקום בטוח לישון!\"",
       "notes": "",
       "placeholders": []
     },
@@ -9949,7 +9949,7 @@
       "logicFile": 4250,
       "messageNumber": 5,
       "original": "\"Dearly departed, we are gathered here today to say goodbye to our friend the kitty cat.\"",
-      "translation": "\"יקירנו שהלכו לעולמם, התכנסנו כאן היום להיפרד מחברנו החתלתול.\"",
+      "translation": "\"יקירנו שהלכו לעולמם, התכנסנו כאן היום להיפרד מחברתנו החתלתולה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -9957,7 +9957,7 @@
       "logicFile": 4250,
       "messageNumber": 6,
       "original": "\"Boo hoo hoo, she was my bestest friend!\"",
-      "translation": "\"בוא בוא בוא, היא הייתה חברתי הטובה ביותר!\"",
+      "translation": "\"בו הו הו, היא הייתה חברתי הטובה ביותר!\"",
       "notes": "",
       "placeholders": []
     },
@@ -9989,7 +9989,7 @@
       "logicFile": 4250,
       "messageNumber": 10,
       "original": "\"Homicidal! Let's go find one!\"",
-      "translation": "\"רצחני! בואו נמצא אחד!\"",
+      "translation": "\"רעיון טוב! בואו נמצא אחד!\"",
       "notes": "",
       "placeholders": []
     },
@@ -10125,7 +10125,7 @@
       "logicFile": 4250,
       "messageNumber": 27,
       "original": "\"Hiya, lady!\"",
-      "translation": "\"היי ליידי!\"",
+      "translation": "\"היי, גברת!\"",
       "notes": "",
       "placeholders": []
     },
@@ -10189,7 +10189,7 @@
       "logicFile": 4250,
       "messageNumber": 35,
       "original": "\"Yeah! Somethin' really dessicatious, with big teeth!\"",
-      "translation": "\"כן! משהו ממש יבש, עם שיניים גדולות!\"",
+      "translation": "\"כן! משהו ממש דוחה, עם שיניים גדולות!\"",
       "notes": "",
       "placeholders": []
     },
@@ -10245,7 +10245,7 @@
       "logicFile": 4250,
       "messageNumber": 42,
       "original": "\"Geez, lady, quit jawboning!\"",
-      "translation": "\"אלוהים אדירים, ליידי, תפסיקי לקשקש!\"",
+      "translation": "\"אלוהים אדירים, גברת, הפסיקי לקשקש!\"",
       "notes": "",
       "placeholders": []
     },
@@ -10285,7 +10285,7 @@
       "logicFile": 4250,
       "messageNumber": 47,
       "original": "\"Why should we worry, lady? We got no lives to lose!\"",
-      "translation": "\"למה שנדאג, ליידי? אין לנו חיים להפסיד!\"",
+      "translation": "\"למה שנדאג, גברת? אין לנו חיים להפסיד!\"",
       "notes": "",
       "placeholders": []
     },
@@ -10317,7 +10317,7 @@
       "logicFile": 4250,
       "messageNumber": 51,
       "original": "\"Heads up, lady!\"",
-      "translation": "\"תשומת לב, ליידי!\"",
+      "translation": "\"שימי לב, גברת!\"",
       "notes": "",
       "placeholders": []
     },
@@ -10421,7 +10421,7 @@
       "logicFile": 4250,
       "messageNumber": 64,
       "original": "\"CADAVEROUS!\"",
-      "translation": "\"גוויתי!\"",
+      "translation": "\"קאדברון!\"",
       "notes": "",
       "placeholders": []
     },
@@ -10437,7 +10437,7 @@
       "logicFile": 4250,
       "messageNumber": 66,
       "original": "\"Why don't you just come up here and bring it yourself, lady?\"",
-      "translation": "\"למה שלא תעלי לכאן ותביאי את זה בעצמך, ליידי?\"",
+      "translation": "\"למה שלא תעלי לכאן ותביאי את זה בעצמך, גברת?\"",
       "notes": "",
       "placeholders": []
     },
@@ -10461,7 +10461,7 @@
       "logicFile": 4250,
       "messageNumber": 69,
       "original": "\"Cadaverous! He's BITING me!\"",
-      "translation": "\"גוויתי! הוא נשך אותי!\"",
+      "translation": "\"קאדברון! הוא נשך אותי!\"",
       "notes": "",
       "placeholders": []
     },
@@ -10469,7 +10469,7 @@
       "logicFile": 4250,
       "messageNumber": 70,
       "original": "\"Oo, skeletal! Look at his TEETH! It's my turn! My turn!\"",
-      "translation": "\"אוי, שלדי! תראו את השיניים שלו! תורי! תורי!\"",
+      "translation": "\"אוי, שלד! תראו את השיניים שלו! תורי! תורי!\"",
       "notes": "",
       "placeholders": []
     },
@@ -10517,7 +10517,7 @@
       "logicFile": 4250,
       "messageNumber": 76,
       "original": "\"I know what you seek, my lady. I heard you speaking with my friend, Dr. Cadaver. The King of the Trolls is imprisoned in the home of the Boogeyman, beneath the deadfall.\"",
-      "translation": "\"אני יודעת מה את מחפשת, גברתי. שמעתי אותך מדברת עם חברי, ד\"ר קדאבר. מלך הטרולים כלוא בביתו של הבוגימן, מתחת לערימת העצים.\"",
+      "translation": "\"אני יודעת מה את מחפשת, גברתי. שמעתי אותך מדברת עם חברי, ד\"ר קדאבר. מלך הטרולים כלוא בביתו של הבוגימן, מתחת לערימת העצמות.\"",
       "notes": "",
       "placeholders": []
     },
@@ -10645,7 +10645,7 @@
       "logicFile": 4300,
       "messageNumber": 11,
       "original": "\"I suppose a girl never knows when she'll need a foot in a bag. Especially in Ooga Booga land!\"",
-      "translation": "\"אני מניחה שבחורה אף פעם לא יודעת מתי היא תצטרך כף רגל בתיק. במיוחד באוגה בוגה לנד!\"",
+      "translation": "\"אני מניחה שבחורה אף פעם לא יודעת מתי היא תצטרך כף רגל בתיק. במיוחד באדמת האוגה בוגה!\"",
       "notes": "",
       "placeholders": []
     },
@@ -10717,7 +10717,7 @@
       "logicFile": 4350,
       "messageNumber": 6,
       "original": "\"Seek help from the Kingdom of Etheria, Valanice. They have to power to break the enchantment. You must!\"",
-      "translation": "\"בקשי עזרה מממלכת אתריה, ולניס. יש להם את הכוח לשבור את הכישוף. את חייבת!\"",
+      "translation": "\"בקשי עזרה מממלכת את'ריה, ולניס. יש להם את הכוח לשבור את הכישוף. את חייבת!\"",
       "notes": "",
       "placeholders": []
     },
@@ -10789,7 +10789,7 @@
       "logicFile": 4350,
       "messageNumber": 15,
       "original": "\"Where is this Etheria? How can I get there?\"",
-      "translation": "\"איפה אתריה הזו? איך אני יכולה להגיע לשם?\"",
+      "translation": "\"איפה את'ריה הזו? איך אני יכולה להגיע לשם?\"",
       "notes": "",
       "placeholders": []
     },
@@ -10797,7 +10797,7 @@
       "logicFile": 4350,
       "messageNumber": 16,
       "original": "\"Etheria floats in the clouds far above us, lady. Once our lord Count Tsepish could have taken you there, but he has unfortunately lost his head. Find a way to help him, and he will certainly help you.\"",
-      "translation": "\"אתריה צפה בעננים הרחק מעלינו, גברת. פעם אדוננו הרוזן צפיש היה יכול לקחת אותך לשם, אבל הוא לצערו איבד את ראשו. מצאי דרך לעזור לו, והוא לבטח יעזור לך.\"",
+      "translation": "\"את'ריה צפה בעננים הרחק מעלינו, גברת. פעם אדוננו הרוזן צפיש היה יכול לקחת אותך לשם, אבל הוא לצערו איבד את ראשו. מצאי דרך לעזור לו, והוא לבטח יעזור לך.\"",
       "notes": "",
       "placeholders": []
     },
@@ -10973,7 +10973,7 @@
       "logicFile": 4400,
       "messageNumber": 22,
       "original": "\"A mystic named Musefar White\\nhad a bed made of nails sharp and bright.\\nHe was taking a nap\\nwhen into his lap\\njumped an elephant. Yech, what a sight!\"",
-      "translation": "\"מיסטיקן ושמו וייט מוזפאר\\nמיטת מסמרים ישן ונחר.\\nהוא תפס לו תנומה\\nכשפיל בתנופה\\nקפץ על גופו ועשאו מחורר!\"",
+      "translation": "\"מיסטיקן ושמו וייט מוזפאר\\nעל מיטת מסמרים ישן ונחר.\\nהוא תפס לו תנומה\\nכשפיל בתנופה\\nקפץ על גופו ועשאו מחורר!\"",
       "notes": "",
       "placeholders": []
     },
@@ -10981,7 +10981,7 @@
       "logicFile": 4400,
       "messageNumber": 23,
       "original": "\"A mystic named Musefar White\\nhad a bed made of nails sharp and bright.\\nHe was taking a nap \\nwhen into his lap\\njumped an elephant. Yech, what a sight!\"",
-      "translation": "\"מיסטיקן ושמו וייט מוזפאר\\nמיטת מסמרים ישן ונחר.\\nהוא תפס לו תנומה\\nכשפיל בתנופה\\nקפץ על גופו ועשאו מחורר!\"",
+      "translation": "\"מיסטיקן ושמו וייט מוזפאר\\nעל מיטת מסמרים ישן ונחר.\\nהוא תפס לו תנומה\\nכשפיל בתנופה\\nקפץ על גופו ועשאו מחורר!\"",
       "notes": "",
       "placeholders": []
     },
@@ -11109,7 +11109,7 @@
       "logicFile": 4450,
       "messageNumber": 9,
       "original": "\"Rosella! The thing we are looking for is a device made of brass and many lenses. It is an ancient and mysterious artifact; the only thing in Etheria that could destroy Malicia, but she doesn't know that. It could be anywhere.\"",
-      "translation": "\"רוזלה! הדבר שאנחנו מחפשים הוא מכשיר עשוי מפליז ועדשות רבות. זהו חפץ עתיק ומסתורי; הדבר היחיד באתריה שיכול להשמיד את מלישיה, אבל היא אינה יודעת זאת. הוא יכול להיות בכל מקום.\"",
+      "translation": "\"רוזלה! הדבר שאנחנו מחפשים הוא מכשיר עשוי מפליז ועדשות רבות. זהו חפץ עתיק ומסתורי; הדבר היחיד באת'ריה שיכול להשמיד את מלישיה, אבל היא אינה יודעת זאת. הוא יכול להיות בכל מקום.\"",
       "notes": "",
       "placeholders": []
     },
@@ -11133,7 +11133,7 @@
       "logicFile": 4450,
       "messageNumber": 12,
       "original": "\"It must be plugged into a socket in the Volcano Control Room in the Underground, so that it may regain its power. It is useless until then. After the device is activated, it can be used to stop any living threat to Etheria. I don't know exactly what it will do. We'll find out soon enough, if we are fortunate.\"",
-      "translation": "\"כדי להטעין אותו יש לחבר אותו לשקע בחדר הבקרה של הר הגעש בתת הקרקע. ללא טעינה הוא חסר תועלת. לאחר הפעלת המכשיר, ניתן יהיה להשתמש בו כדי לעצור כל איום ממשי על אתריה. איני יודע בדיוק מה הוא עושה. נגלה זאת די בקרוב, אם יתמזל מזלנו.\"",
+      "translation": "\"כדי להטעין אותו יש לחבר אותו לשקע בחדר הבקרה של הר הגעש בתת הקרקע. ללא טעינה הוא חסר תועלת. לאחר הפעלת המכשיר, ניתן יהיה להשתמש בו כדי לעצור כל איום ממשי על את'ריה. איני יודע בדיוק מה הוא עושה. נגלה זאת די בקרוב, אם יתמזל מזלנו.\"",
       "notes": "",
       "placeholders": []
     },
@@ -11149,7 +11149,7 @@
       "logicFile": 4450,
       "messageNumber": 14,
       "original": "\"it's our big night, my widdle Cuddles! We're going to blow that rotten old Etheria right out of the sky. And we just might take the rest of the world with it, won't we, kissy boy?\"",
-      "translation": "\"זה הלילה הגדול שלנו, מותק קטן שלי! אנחנו עומדים לפוצץ את אתריה המעופשת הזו ישר מהשמיים. ואנחנו אולי ניקח איתנו את שאר העולם, נכון, נסיך שלי?\"",
+      "translation": "\"זה הלילה הגדול שלנו, מותק קטן שלי! אנחנו עומדים לפוצץ את את'ריה המעופשת הזו ישר מהשמיים. ואולי ניקח איתנו את שאר העולם, נכון, נסיך שלי?\"",
       "notes": "",
       "placeholders": []
     },
@@ -11765,7 +11765,7 @@
       "logicFile": 4550,
       "messageNumber": 58,
       "original": "\"Why, that would be the Lady Malicia. I'd stay away from her if I were you, lamb chop.\"",
-      "translation": "\"הו, שם מתגוררת ליידי מלישיה. היינו שומרים ממנה מרחק אם היינו במקומך, צלע טלה.\"",
+      "translation": "\"הו, שם מתגוררת גברת מלישיה. היינו שומרים ממנה מרחק אם היינו במקומך, צלע טלה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -12397,7 +12397,7 @@
       "logicFile": 5000,
       "messageNumber": 27,
       "original": "\"Ersatz, pardon my frankness, but you seem to be too sensible to be living in Falderal.\"",
-      "translation": "\"ארזאץ, סלח לי על כנותי, אבל אתה נראה שפוי מדי מכדי לגור בפלדרל.\"",
+      "translation": "\"ארזאץ, סלח לי על כנותי, אבל אתה נראה שפוי מדי כדי לגור בפלדרל.\"",
       "notes": "",
       "placeholders": []
     },
@@ -12405,7 +12405,7 @@
       "logicFile": 5000,
       "messageNumber": 28,
       "original": "\"You are too kind, Lady Valanice. My parents, who were real turtles, moved here to make things easier for me. You see, in most places a mock turtle just wouldn't be accepted.\"",
-      "translation": "\"את נחמדה מאד, ליידי ולניס. הוריי, שהיו צבים אמיתיים, עברו לכאן כדי להקל עליי. את מבינה, ברוב המקומות צב מדומה פשוט לא יתקבל.\"",
+      "translation": "\"את נחמדה מאד, גברת ולניס. הוריי, שהיו צבים אמיתיים, עברו לכאן כדי להקל עליי. את מבינה, ברוב המקומות צב מדומה פשוט לא יתקבל.\"",
       "notes": "",
       "placeholders": []
     },
@@ -12517,7 +12517,7 @@
       "logicFile": 5000,
       "messageNumber": 42,
       "original": "\"I can't say I do, Lady Valanice, but it certainly doesn't belong here. That object holds some genuine magic!\"",
-      "translation": "\"אני לא יכול לומר שאני יודע, ליידי ולניס, אבל זה בהחלט לא שייך לכאן. החפץ הזה מכיל קסם אמיתי!\"",
+      "translation": "\"אני לא יכול לומר שאני יודע, גברת ולניס, אבל זה בהחלט לא שייך לכאן. החפץ הזה מכיל קסם אמיתי!\"",
       "notes": "",
       "placeholders": []
     },
@@ -12989,7 +12989,7 @@
       "logicFile": 5050,
       "messageNumber": 16,
       "original": "\"Just a few short days ago, but it will seem like an eternity to her. She is terrified of anyone but me.\"",
-      "translation": "\"רק לפני ימים אחדים, אבל זה בשבילה זו כמו נצח. היא מפחדת מכולם חוץ ממני.\"",
+      "translation": "\"רק לפני ימים אחדים, אבל בשבילה זה כמו נצח. היא מפחדת מכולם חוץ ממני.\"",
       "notes": "",
       "placeholders": []
     },
@@ -13061,7 +13061,7 @@
       "logicFile": 5050,
       "messageNumber": 25,
       "original": "\"I received her in a shipment of goods from Etheria. The poor little thing was covered with dust and cobwebs. When I polished her up--she began to sing! We've been inseparable ever since.\"",
-      "translation": "\"קיבלתי אותה במשלוח סחורה מאתריה. היצור הקטן והמסכן היה מכוסה אבק וקורי עכביש. כשניקיתי אותה - היא התחילה לשיר! מאז אנחנו דבוקים אחד לשני.\"",
+      "translation": "\"קיבלתי אותה במשלוח סחורה מאת'ריה. היצור הקטן והמסכן היה מכוסה אבק וקורי עכביש. כשניקיתי אותה - היא התחילה לשיר! מאז אנחנו דבוקים אחד לשני.\"",
       "notes": "",
       "placeholders": []
     },
@@ -13181,7 +13181,7 @@
       "logicFile": 5050,
       "messageNumber": 40,
       "original": "\"They'd like to buy things, but I won't sell anything to them! They might break it! I get a lot of business from Etheria, though.\"",
-      "translation": "\"הם רוצים לקנות דברים, אבל אני לא מוכר להם כלום! כי הם עלולים לשבור אותם! לעומת זאת, אני מקבל הרבה הזמנות מאתריה.\"",
+      "translation": "\"הם רוצים לקנות דברים, אבל אני לא מוכר להם כלום! כי הם עלולים לשבור אותם! לעומת זאת, אני מקבל הרבה הזמנות מאת'ריה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -13189,7 +13189,7 @@
       "logicFile": 5050,
       "messageNumber": 41,
       "original": "\"Why don't you just move your shop to Etheria, then?\"",
-      "translation": "\"למה אתה פשוט לא מעביר את החנות שלך לאתריה, אם כך?\"",
+      "translation": "\"למה אתה פשוט לא מעביר את החנות שלך לאת'ריה, אם כך?\"",
       "notes": "",
       "placeholders": []
     },
@@ -13621,7 +13621,7 @@
       "logicFile": 5100,
       "messageNumber": 20,
       "original": "\"In that cathe, let uth move the party to the thub-thub bathement! Guardth, remove that hairleth creature!\"",
-      "translation": "\"במקרה כזה, הבה נעביר את המסיבה למרתף! שומרים, הוציאו את היצור חסר השיער הזה!\"",
+      "translation": "\"כעת, הבה נעביר את המסיבה למרתף! שומרים, הוציאו את היצור חסר השיער הזה!\"",
       "notes": "",
       "placeholders": []
     },
@@ -13661,7 +13661,7 @@
       "logicFile": 5200,
       "messageNumber": 1,
       "original": "\"Quickly, your majesty! The doorway is stuck partway open! Hurry, before that horrible gargoyle finds us!\"",
-      "translation": "\"מהר, הוד מעלתך! הפתח תקוע חצי פתוח! מהר, לפני שהגרגויל הנורא ימצא אותנו!\"",
+      "translation": "\"מהר, הוד מעלתך! השער תקוע באמצע הפתח! מהר, לפני שהגרגויל הנורא ימצא אותנו!\"",
       "notes": "",
       "placeholders": []
     },
@@ -13725,7 +13725,7 @@
       "logicFile": 5200,
       "messageNumber": 9,
       "original": "\"I'm a hungry little tot, but I don't want porridge, cold or hot.\\nI don't want bread, I don't want meat,\\nMy taste runs more to fruit so sweet!\\nIf you give me what I need,\\nyou'll see me perform such a deed!\\nThe ground will shake, the waters part,\\nAnd you can plunge into the heart\\nof darkness deep and pulsing fire.\\nFeed me! Get what you desire!\"",
-      "translation": "\"אני ילד קטן ומורעב\\nאבל אני לא רוצה דייסה בשום מצב\\nאני לא רוצה לחם, אני לא רוצה בשר,\\nאני מעדיף פירות מפוצצים סוכר!\\nאם תתן לי את מה שאני דורש,\\nתראה אותי מבצע מעשה מרגש!\\nיתגלו המים האדמה תרעד,\\nואתם תוכלו לצלול מיד\\nאל החושך והאש העמוקה\\nהאכל אותי! וקבל את שנפשך חשקה!\"",
+      "translation": "\"אני ילד קטן ומורעב\\nאבל אני לא רוצה דייסה בשום מצב\\nאני לא רוצה לחם, אני לא רוצה בשר,\\nאני מעדיף פירות מפוצצים סוכר!\\nאם תתן לי את מה שאני מבקש,\\nתראה אותי מבצע מעשה מרגש!\\nהמים יפעפעו, האדמה תרעד,\\nואתה תוכל לצלול מייד\\nאל החושך והאש העמוקה\\nהאכל אותי! וקבל את שנפשך חשקה!\"",
       "notes": "",
       "placeholders": []
     },
@@ -14037,7 +14037,7 @@
       "logicFile": 5300,
       "messageNumber": 27,
       "original": "\"Never let it be thaid that Arch-Duke Fifi le YipYap, Fearleth Warhound of Falderal, cannot be merthiful.  Now if you'll excuthe me, the volcano ith thmoking, tho I'm off to hide in the bathement.\"",
-      "translation": "\"לעולם אל ייאמר שהארכי-דוכס פיפי לה ייפייפ, כלב המלחמה חסר הפחד של פלדרל, אינו יכול להיות רחום. עכשיו אם תסלחי לי, הר הגעש מעשן, אז אני הולך להחבא במרתף.\"",
+      "translation": "\"לעולם אל ייאמר שהארכי-דוכס פיפי לה ייפייפ, כלב המלחמה חסר הפחד של פלדרל, אינו יכול להיות רחום. עכשיו אם תסלחי לי, הר הגעש מעשן, אז אני הולך להתחבא במרתף.\"",
       "notes": "",
       "placeholders": []
     },
@@ -14285,7 +14285,7 @@
       "logicFile": 5300,
       "messageNumber": 58,
       "original": "\"You smell like a pair of armored trousers after the Hundred Years' War.\"",
-      "translation": "\"את מריחה כמו מיד קרב אחרי מלחמת מאה השנים.\"",
+      "translation": "\"את מריחה כמו מדי קרב אחרי מלחמת מאה השנים.\"",
       "notes": "",
       "placeholders": []
     },
@@ -14445,7 +14445,7 @@
       "logicFile": 5300,
       "messageNumber": 78,
       "original": "\"You're almost as exciting as a fat lapdog right after dinner.\"",
-      "translation": "\"את כמעט מרגשת כמו כלב פרוותי ושמן ישר אחרי ארוחת ערב.\"",
+      "translation": "\"את מרגשת כמעט כמו כלב פרוותי ושמן ישר אחרי ארוחת ערב.\"",
       "notes": "",
       "placeholders": []
     },
@@ -14581,7 +14581,7 @@
       "logicFile": 5300,
       "messageNumber": 95,
       "original": "\"How can you be so RUDE?\"",
-      "translation": "\"איך את יכולה להיות כל כך חצופה?\"",
+      "translation": "\"איך אתה יכול להיות כל כך חצוף?\"",
       "notes": "",
       "placeholders": []
     },
@@ -14645,7 +14645,7 @@
       "logicFile": 5300,
       "messageNumber": 103,
       "original": "\"Be careful not to let your mind wander. It's too little to go out alone.\"",
-      "translation": "\"היזהרי לא לתת לדעתך לשוטט. היא קטנה מדי בכדי לצאת לבד.\"",
+      "translation": "\"היזהרי לא לתת לדעתך לשוטט. היא קטנה מדי בשביל לצאת לבד.\"",
       "notes": "",
       "placeholders": []
     },
@@ -14909,7 +14909,7 @@
       "logicFile": 5300,
       "messageNumber": 136,
       "original": "\"That would be me indeed, dear lady. I have the sstuff you desire; a magical salve of great power. However, I will only take one very sspecial item for the salve. It is a magic statuette; a lovely depiction of a nymph gazing into a pond.\"",
-      "translation": "\"אכן, זה אני, גבירתי היקרה. יש לי את הדברים שאת רוצה; משחה קסומה בעלת עוצמה רבה. עם זאת, אקח רק פריט מיוחד אחד עבור המשחה. זהו פסלון קסום; פסלון יפהפה של נימפה המביטה לאגם.\"",
+      "translation": "\"אכן, זה אני, גבירתי היקרה. יש לי את הדבר  שאת רוצה; משחה קסומה בעלת עוצמה רבה. עם זאת, אקח רק פריט מיוחד אחד עבור המשחה. זהו פסלון קסום; פסלון יפהפה של נימפה המביטה לאגם.\"",
       "notes": "",
       "placeholders": []
     },
@@ -15557,7 +15557,7 @@
       "logicFile": 5400,
       "messageNumber": 24,
       "original": "\"Go away! I wouldn't let you in if you were the last horrid hairless pink thing in Etheria! And I wish you were!\"",
-      "translation": "\"לכי מפה! לא הייתי נותן לך להיכנס גם אם היית הדבר הורוד חסר השיער המגעיל האחרון באתריה! והלוואי שהיית!\"",
+      "translation": "\"לכי מפה! לא הייתי נותן לך להיכנס גם אם היית הדבר הורוד חסר השיער המגעיל האחרון באת'ריה! והלוואי שהיית!\"",
       "notes": "",
       "placeholders": []
     },
@@ -15869,7 +15869,7 @@
       "logicFile": 6000,
       "messageNumber": 9,
       "original": "\"Fly, my people! Fly, and find the Lord and Lady of Etheria!\"",
-      "translation": "\"עופו, רוחות! עופו, ומצאו את האדון והגברת של אתריה!\"",
+      "translation": "\"עופו, רוחות! עופו, ומצאו את האדון והגברת של את'ריה!\"",
       "notes": "",
       "placeholders": []
     },
@@ -16173,7 +16173,7 @@
       "logicFile": 6150,
       "messageNumber": 1,
       "original": "\"Excuse me...hello?\"",
-      "translation": "\"סלח לי...היי?\"",
+      "translation": "\"סלח לי...שלום?\"",
       "notes": "",
       "placeholders": []
     },
@@ -16341,7 +16341,7 @@
       "logicFile": 6550,
       "messageNumber": 6,
       "original": "\"Thank you for freeing me from my prison of ice. If we all survive this, I will send you only sweet dreams for the rest of your life.\"",
-      "translation": "\"תודה ששחררת אותי מכלא הקרח שלי. אם כולנו נשרוד זאת, אשלח לך רק חלומות מתוקים למשך שארית חייך.\"",
+      "translation": "\"תודה ששחררת אותי מכלא הקרח שלי. אם כולנו נשרוד זאת, אשלח לך רק חלומות מתוקים לשארית חייך.\"",
       "notes": "",
       "placeholders": []
     },

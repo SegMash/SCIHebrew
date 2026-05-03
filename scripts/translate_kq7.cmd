@@ -19,19 +19,17 @@ for %%f in (.\output_kq7\*_messages.csv) do (
 REM Copy all files from games_assets\kq7 to kq7_work
 REM TODO - when finished make sure all files are in assets dir - and uncomment the next time !!!!!!!!!!!!!!!!!!!!!!!!!
 REM copy .\games_assets\kq7\* .\kq7_work\PATCHES\
+copy .\games_assets\kq7\*.msg .\kq7_work\PATCHES\
 
 endlocal
-REM TODO - finish logic file 30
-REM  Check: This is very deep. It almost looks like a hinge. (1100)
+REM TODO - finish logic file 30 - Done!
 REM Translate chapter titles - Done.
 REM Translate replacment store sign (המסך של העכבר המחליף) - מוזרים ונדירים - Done
 REM Translate screen of death- Done!
-REM Translate "Bowl with Green Water" to "קערה עם מים ירוקים" (or something better)  - 24.SRC - to check!
+REM Translate "Bowl with Green Water" to "קערה עם מים ירוקים" (or something better)  - 24.SRC - Done!
 REM Translate the dirty board . Before and After! - Gal Shemesh
-REM Translate board- Done!
-REM זה תק  ו ע - Done.
-REM לתרגם שלט של ד"ר קדבר Dot is Out - 4107
-REM לתרגם קופסת חלקי חילוף - 4211
+REM לתרגם שלט של ד"ר קדבר Dot is Out - 4107 - Done!
+REM לתרגם קופסת חלקי חילוף - 4211 - Done!
 REM כתוביות לסרטון בסוף
 REM כתוביות לסרטון ההתחלה?
 REM translate view 9850 - Bookmark options - Done!
@@ -41,10 +39,16 @@ REM translate view 971 - You have already 10 games... - Done!
 REM translate view 972 - warning before delete - Done!
 REM tranllate "You game has been saved" - 983.v56 - Done!
 REM Start buttons: Watch Intro, Start new game, Continue, Quit - 930.v56 - Done!
+REM Translate View 984 (Exit/Ride buttons) - Done!
+REM Translate view 985 - choose chapter. - Done!
+REM Translate 981 - Quit, Continue, Exit - Done!
 
-REM Translate View 984 (Exit/Ride buttons)
-REM Translate view 985 - choose chapter.
-REM Improve the texture of v982 (use AI)
+REM Improve the texture of v982 (use AI) - Done!
+REM Translate Name Your Game screen - v920 - Done!
+
+
+
+REM Translate "The princless Bride" title.  view 10007 - נסיכה לא כלה
 
 REM Translate intro video!!!! (add subtitles)
 
