@@ -2869,7 +2869,7 @@
       "logicFile": 1100,
       "messageNumber": 20,
       "original": "\"Hmm. A princess fair? With golden hair?\"",
-      "translation": "\"הממ. נסיכה יפה? עם שיער זהוב?\"",
+      "translation": "\"הממ. בנסיכה מדובר? זהובת שיער?\"",
       "notes": "חרוז בבקשה",
       "placeholders": []
     },
@@ -5493,7 +5493,7 @@
       "logicFile": 2450,
       "messageNumber": 21,
       "original": "\"Who are you, missy? You're no real troll! I can see right through you. What do you want with King Otar, you human minx?\"",
-      "translation": "\"מי את, ילדונת? את לא טרולית אמיתית! אני יכולה לראות אותך. מה את רוצה מהמלך אוטאר, יצור אנושי?\"",
+      "translation": "\"מי את, ילדונת? את לא טרולית אמיתית! אני רואה אותך. מה את רוצה מהמלך אוטאר, יצור אנושי?\"",
       "notes": "",
       "placeholders": []
     },
@@ -5517,7 +5517,7 @@
       "logicFile": 2450,
       "messageNumber": 24,
       "original": "\"Why, you're no userper. You poor little thing. Don't cry. I didn't mean to be cross. It's just that King Otar has been so strange lately, and that horrible WOMAN has been snooping around.\"",
-      "translation": "\"הו, את לא גזלנית. יצור מסכן שכמוך. אל תבכי. לא התכוונתי לכעוס. זה רק שהמלך אוטאר נהיה מוזר כל כך לאחרונה, והאישה הנוראית ההיא הסתובבה וריחרחה.\"",
+      "translation": "\"הו, את לא גזלנית. יצור מסכן שכמוך. אל תבכי. לא התכוונתי לכעוס. זה רק שהמלך אוטאר נהיה מוזר כל כך לאחרונה, והאישה הנוראית ההיא מסתובבת ומרחרחת כל הזמן.\"",
       "notes": "",
       "placeholders": []
     },
@@ -5741,7 +5741,7 @@
       "logicFile": 2450,
       "messageNumber": 52,
       "original": "\"Well dat's good, cause she's right behind you.\"",
-      "translation": "\"טוב זה טוב, כי היא ממש מאחוריך.\"",
+      "translation": "\"זה טוב, כי היא ממש מאחוריך.\"",
       "notes": "",
       "placeholders": []
     },
@@ -5893,7 +5893,7 @@
       "logicFile": 2450,
       "messageNumber": 71,
       "original": "\"Good, good! I knew you were special, girl. Give me the gold bowl first!\"",
-      "translation": "\"טוב, טוב! ידעתי שאת מיוחדת, ילדה. תני לי את קערת הזהב קודם!\"",
+      "translation": "\"טוב, טוב! ידעתי שאת מוכשרת, ילדה. תני לי את קערת הזהב קודם!\"",
       "notes": "",
       "placeholders": []
     },
@@ -6533,7 +6533,7 @@
       "logicFile": 2500,
       "messageNumber": 20,
       "original": "\"Bleh. That's enough to give a person nightmares.\"",
-      "translation": "\"בלע. זה מספיק כדי לגרום סיוטים לאדם.\"",
+      "translation": "\"בלע. זה די והותר כדי לגרום לבחילות וסיוטים.\"",
       "notes": "",
       "placeholders": []
     },
@@ -13877,7 +13877,7 @@
       "logicFile": 5300,
       "messageNumber": 7,
       "original": "\"Good evening, Sir and Madam. Do come right in.\"",
-      "translation": "\"ערב טוב, אדון וגברת. כנסו בבקשה פנימה.\"",
+      "translation": "\"ערב טוב, אדון וגברת. כנסו בבקשה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -13909,7 +13909,7 @@
       "logicFile": 5300,
       "messageNumber": 11,
       "original": "\"Yipyipyip! I thaw what you jutht did! You jutht thtole the moon! MOON THIEF! Yapyapyap HUMAN!  yipyipyip PARTY POOPER!\"",
-      "translation": "\"ייפייפייפ! ראיתי מה שעשית עכשיו! עכשיו גנבת את הירח! גנבת ירח! יאפיאפיאפ בן אדם! ייפייפייפ הורס מסיבות!\"",
+      "translation": "\"ייפייפייפ! ראיתי מה שעשית עכשיו! עכשיו גנבת את הירח! גנבת ירח! יאפיאפיאפ בן אדם! ייפייפייפ הורסת מסיבות!\"",
       "notes": "",
       "placeholders": []
     },
@@ -15469,7 +15469,7 @@
       "logicFile": 5400,
       "messageNumber": 13,
       "original": "\"Would you stop that infernal banging? It's rattling my teeth.\"",
-      "translation": "\"תפסיקי כבר את הנקישות המעצבנות האלה? הן מנענעות לי את השיניים.\"",
+      "translation": "\"הפסיקי כבר את הנקישות המעצבנות האלה? הן מנענעות לי את השיניים.\"",
       "notes": "",
       "placeholders": []
     },
@@ -15477,7 +15477,7 @@
       "logicFile": 5400,
       "messageNumber": 14,
       "original": "\"Stop it, stop it, stop it! You're giving me a headache, you nasty pinkfaced creature!\"",
-      "translation": "\"תפסיקי, תפסיקי, תפסיקי! אתה עושה לי כאב ראש, יצור ורוד-פנים מגעיל!\"",
+      "translation": "\"הפסיקי, הפסיקי, הפסיקי! את עושה לי כאב ראש, יצור ורוד-פנים מגעיל!\"",
       "notes": "",
       "placeholders": []
     },
