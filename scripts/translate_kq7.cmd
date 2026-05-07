@@ -76,7 +76,7 @@ REM 11. Import back to view.
 REM ### ROBOT Translate Process###
 REM To parse: python.exe .\scripts\robot\parse_rbt.py .\kq7_gog\AVI\91.RBT -o kq7_frames_91 --audio
 REM To play to create subtitles skeleton with timing(use space or pause): python.exe .\scripts\robot\play_rbt.py games_assets\kq7\91.RBT --override
-REM To inject subtitles - python.exe .\scripts\robot\inject_subtitles.py --frames-dir .\kq7_frames_91 --font .\games_assets\kq7\0.fon -o .\kq7_frames_911_sub --y-position 170 .\games_assets\kq7\91.txt
+REM To inject subtitles - python.exe .\scripts\robot\inject_subtitles.py --frames-dir .\kq7_frames_91 --font .\games_assets\kq7\0.fon -o .\kq7_frames_911_sub --y-position 170 .\games_assets\kq7\91.txt --frame-offset 5
 REM To encode: python.exe .\scripts\robot\encode_rbt.py .\kq7_frames_91_sub\ games_assets\kq7\91.RBT --fps 5
 REM To play and test: python.exe .\scripts\robot\play_rbt.py games_assets\kq7\91.RBT
 
