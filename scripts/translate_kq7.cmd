@@ -45,7 +45,8 @@ REM Translate 981 - Quit, Continue, Exit - Done!
 
 REM Improve the texture of v982 (use AI) - Done!
 REM Translate Name Your Game screen - v920 - Done!
-
+REM translate Danger  -2550.p56
+REM translate 2 videos - 
 
 
 REM Translate "The princless Bride" title.  view 10007 - נסיכה לא כלה
@@ -70,4 +71,12 @@ REM 9. Paint background color
 REM 10. Export to new png.
 REM 11. Import back to view.
 
+
+
+REM ### ROBOT Translate Process###
+REM To parse: python.exe .\scripts\robot\parse_rbt.py .\kq7_gog\AVI\91.RBT -o kq7_frames_91 --audio
+REM To play to create subtitles skeleton with timing(use space or pause): python.exe .\scripts\robot\play_rbt.py games_assets\kq7\91.RBT --override
+REM To inject subtitles - python.exe .\scripts\robot\inject_subtitles.py --frames-dir .\kq7_frames_91 --font .\games_assets\kq7\0.fon -o .\kq7_frames_911_sub --y-position 170 .\games_assets\kq7\91.txt
+REM To encode: python.exe .\scripts\robot\encode_rbt.py .\kq7_frames_91_sub\ games_assets\kq7\91.RBT --fps 5
+REM To play and test: python.exe .\scripts\robot\play_rbt.py games_assets\kq7\91.RBT
 

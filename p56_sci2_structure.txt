@@ -1,0 +1,52 @@
+0x00 - 1 byte - 0x81 - means p56 file.
+0x06 - 2 byte - num of layers //15
+0x08 - 2 bytes - size (in bytes) of layer header //42
+0x0e - 2 bytes - total width in pixels.
+0x10 - 2 bytes - total height in pixels.
+
+
+0x12 - 2 types - width of first layer
+0x14 - 2 bytes - height of first layer
+0x1a - FF
+0x1e - size (widthXheight) //213760 
+0x22 - 06
+0x2a - 6BA - offset of data? - 213745 bytes
+[42 bytes]
+
+0x3c - 2 bytes - width of second layer //125
+0x3e - 2 bytes - height of second layer //48
+0x44 - FF
+0x48 - size (widthXheight) //6000
+0x4c - 06
+0x54 - 349AB - offset of data?
+[42 bytes]
+0x66 - 2 bytes - width of third layer
+(+2) 0x68 - 2 bytes - height of third layer
+(+4) 0x6e - FF
+...
+0x234 - 2 bytes - width of #14 layer //97 (0x61)
+0x236 - 2 bytes - height of #14 layer //320 (0x40 0x01)
+0x23c - FF
+0x244 - 06
+0x24c - 5B847 - 31040 bytes till the next offset.
+0x258 - 2 bytes P color 0x86 (134)
+
+
+
+0x25e - 2 bytes - width of #15 layer //448
+0x260 - 2 bytes - height of #15 layer //334
+0x266 - FF
+0x26a - size //24880 (4 bytes)
+0x26e - 06 (for what?)
+0x276 - 63187
+0x282 - 2 bytes - background color index //191
+
+0x288 - start of new block area
+
+0x2B4 - color 0
+      - color 0
+0x454 - color 104
+0x65c - color 234
+0x660 - color 235
+
+0x6BA - start data of first layer

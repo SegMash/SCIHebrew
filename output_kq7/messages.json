@@ -1205,7 +1205,7 @@
       "logicFile": 100,
       "messageNumber": 1,
       "original": "\"...And that's not all, mother! Then he said, 'So sorry, Princess. I never step on Mama's feet when we're dancing'!\"",
-      "translation": "\"...וזה לא הכול, אמא! אחר כך הוא אמר: 'אני כל כך מצטער, נסיכה. אני אף פעם לא דורך על לאמא על הרגליים כשאנחנו רוקדים'!\"",
+      "translation": "\"...וזה לא הכול, אמא! אחר כך הוא אמר: 'אני כל כך מצטער, נסיכה. אני אף פעם לא דורך לאמא על הרגליים כשאנחנו רוקדים'!\"",
       "notes": "",
       "placeholders": []
     },
@@ -1237,7 +1237,7 @@
       "logicFile": 100,
       "messageNumber": 5,
       "original": "\"Oh, MOTHER!\"",
-      "translation": "\"אוי, אמא!\"",
+      "translation": "\"הו, אמא!\"",
       "notes": "",
       "placeholders": []
     },
@@ -1285,7 +1285,7 @@
       "logicFile": 100,
       "messageNumber": 11,
       "original": "\"...And he's so intelligent! How many young men do you know whose hobby is conjugating latin verbs?\"",
-      "translation": "\"...והוא כל כך חכם! כמה צעירים את מכירה שהתחביב שלהם זה הטיית פעלים בלטינית?\"",
+      "translation": "\"...והוא כל כך חכם! כמה צעירים את מכירה שתחביבם הוא הטיית פעלים בלטינית?\"",
       "notes": "",
       "placeholders": []
     },
@@ -6781,7 +6781,7 @@
       "logicFile": 2600,
       "messageNumber": 7,
       "original": "\"Thank you. You are most kind. Once that would have made me smile. Now I know I will never be happy again.\"",
-      "translation": "\"תודה לך. את נחמדה מאוד. פעם זה עוד היה גורם לי לחייך. עכשיו אני יודעת ששוב לעולם לא אהיה מאושרת.\"",
+      "translation": "\"תודה לך. את נחמדה מאוד. פעם מחמאות היו גורמות לי לחייך. כעת אני חוששת שלעולם לא אהיה מאושרת.\"",
       "notes": "",
       "placeholders": []
     },
@@ -6837,7 +6837,7 @@
       "logicFile": 2600,
       "messageNumber": 14,
       "original": "\"A spark! Bless you, little troll! Here, let me have it!\"",
-      "translation": "\"ניצוץ! תודה לך, טרולית קטנה! בואי, העבירי לי אותו!\"",
+      "translation": "\"ניצוץ! תודה לך, טרולית קטנה! קדימה, תני לי אותו!\"",
       "notes": "",
       "placeholders": []
     },
@@ -8773,7 +8773,7 @@
       "logicFile": 4100,
       "messageNumber": 9,
       "original": "\"I must find a way to Etheria, Count Tsepish. It is imperitive. I have heard that you may be able to help me.\"",
-      "translation": "\"עליי למצוא את דרך לאת'ריה, הרוזן צפיש. זה הכרחי. שמעתי שאולי תוכל לעזור לי.\"",
+      "translation": "\"עליי למצוא את הדרך לאת'ריה, הרוזן צפיש. זה הכרחי. שמעתי שאולי תוכל לעזור לי.\"",
       "notes": "",
       "placeholders": []
     },
@@ -8901,7 +8901,7 @@
       "logicFile": 4100,
       "messageNumber": 25,
       "original": "\"'The Doctor is Out'. Well, I hope he doesn't give away any other vital organs while he's at it.\"",
-      "translation": "\"'הרופא בחוץ'. ובכן, אני מקווה שהוא לא יחלק איברים חיוניים אחרים בזמן שהוא כבר בחוץ.\"",
+      "translation": "\"'הרופא יצא'. ובכן, אני מקווה שהוא לא יחלק איברים חיוניים אחרים בזמן שהוא בחוץ.\"",
       "notes": "",
       "placeholders": []
     },
@@ -13109,7 +13109,7 @@
       "logicFile": 5050,
       "messageNumber": 31,
       "original": "\"Yes. Was she well?\"",
-      "translation": "\"אכן. האם היא נראתה בסדר?\"",
+      "translation": "\"אכן. האם היא היתה בסדר?\"",
       "notes": "",
       "placeholders": []
     },
@@ -13477,7 +13477,7 @@
       "logicFile": 5100,
       "messageNumber": 2,
       "original": "\"On the charge of moon theft, we find her...\"",
-      "translation": "\"על האישום בגניבת הירח, אנו מכריזים שהיא...\"",
+      "translation": "\"על גניבת הירח, אנו מכריזים שהיא...\"",
       "notes": "",
       "placeholders": []
     },
@@ -16365,7 +16365,7 @@
       "logicFile": 7000,
       "messageNumber": 3,
       "original": "\"Rosella...may I...may I have the honor of courting you?\"",
-      "translation": "\"רוזלה... האם... האם תתני לי את הכבוד לחזר אחרייך??\"",
+      "translation": "\"רוזלה... האם... האם יהיה לי את הכבוד לחזר אחרייך??\"",
       "notes": "",
       "placeholders": []
     },
