@@ -1,7 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
-python.exe .\scripts\json_to_hebrew_kq6.py .\output_kq7\messages.json .\output_kq7
-python .\scripts\parse_sci1.1_messages.py .\SCICompanion-3.2.4.0\kq7_resources .\output_kq7
+python.exe .\scripts\text\json_to_hebrew_kq6.py .\output_kq7\messages.json .\output_kq7
+python .\scripts\text\parse_sci1.1_messages.py .\SCICompanion-3.2.4.0\kq7_resources .\output_kq7
 REM Process all *_messages.csv files in output_kq7 directory
 for %%f in (.\output_kq7\*_messages.csv) do (
     REM Extract filename without extension
@@ -11,9 +11,9 @@ for %%f in (.\output_kq7\*_messages.csv) do (
     set "prefix=!filename:_messages=!"
     
     echo Processing module !prefix!...
-    python scripts\map_files.py .\output_kq7\!prefix!_messages_english.txt .\output_kq7\!prefix!_messages_hebrew.txt .\output_kq7\mapping_!prefix!.txt
-    python .\scripts\replace_in_csv.py .\output_kq7\!prefix!_messages.csv .\output_kq7\mapping_!prefix!.txt .\output_kq7\
-    python .\scripts\create_msg.py .\output_kq7\!prefix!_messages.csv .\games_assets\kq7\!prefix!.msg
+    python scripts\text\map_files.py .\output_kq7\!prefix!_messages_english.txt .\output_kq7\!prefix!_messages_hebrew.txt .\output_kq7\mapping_!prefix!.txt
+    python .\scripts\text\replace_in_csv.py .\output_kq7\!prefix!_messages.csv .\output_kq7\mapping_!prefix!.txt .\output_kq7\
+    python .\scripts\text\create_msg.py .\output_kq7\!prefix!_messages.csv .\games_assets\kq7\!prefix!.msg
 )
 
 REM Copy all files from games_assets\kq7 to kq7_work
@@ -53,8 +53,8 @@ REM Translate "The princless Bride" title.  view 10007 - נסיכה לא כלה
 
 REM Translate intro video!!!! (add subtitles)
 
-REM exmple to export view: python scripts/extract_v56.py .\kq7_work\PATCHES\940.v56 -o kq7_images\940 
-REM example to import view: python.exe .\scripts\import_v56.py .\kq7_work\PATCHES\940.v56 .\kq7_images\940 -o .\kq7_work\PATCHES\940.v56
+REM exmple to export view: python scripts\views\extract_v56.py .\kq7_work\PATCHES\940.v56 -o kq7_images\940 
+REM example to import view: python.exe .\scripts\views\import_v56.py .\kq7_work\PATCHES\940.v56 .\kq7_images\940 -o .\kq7_work\PATCHES\940.v56
 REM example of copy region:
 
 
@@ -75,7 +75,7 @@ REM 11. Import back to view.
 
 REM ### ROBOT Translate Process###
 REM To parse: python.exe .\scripts\robot\parse_rbt.py .\kq7_gog\AVI\91.RBT -o kq7_frames_91 --audio
-REM To play to create subtitles skeleton with timing(use space or pause): python.exe .\scripts\robot\play_rbt.py games_assets\kq7\91.RBT --override
+REM To play to create subtitles skeleton with timing(use space or pause): python.exe .\scripts\robot\play_rbt.py games_assets\kq7\91.RBT --subtitle
 REM To inject subtitles - python.exe .\scripts\robot\inject_subtitles.py --frames-dir .\kq7_frames_91 --font .\games_assets\kq7\0.fon -o .\kq7_frames_91_sub --y-position 170 .\games_assets\kq7\91.txt --frame-offset 5
 REM To encode: python.exe .\scripts\robot\encode_rbt.py .\kq7_frames_91_sub\ games_assets\kq7\91.RBT --fps 5
 REM To play and test: python.exe .\scripts\robot\play_rbt.py games_assets\kq7\91.RBT

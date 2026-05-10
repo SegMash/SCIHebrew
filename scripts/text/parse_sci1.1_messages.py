@@ -10,6 +10,11 @@ import sys
 import subprocess
 
 
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+PARSE_MSG_SCRIPT = os.path.join(SCRIPT_DIR, 'parse_msg.py')
+PROCESS_MESSAGES_SCRIPT = os.path.join(SCRIPT_DIR, 'process_messages.py')
+
+
 def parse_all_msg_files(input_dir, output_dir, name_filter=None):
     """
     Scans a directory for all .msg files and processes each with parse_msg.py.
@@ -49,7 +54,7 @@ def parse_all_msg_files(input_dir, output_dir, name_filter=None):
         try:
             # run parse_msg.py script
             result = subprocess.run(
-                ['python', '.\\scripts\\parse_msg.py', msg_file, output_dir],
+                ['python', PARSE_MSG_SCRIPT, msg_file, output_dir],
                 capture_output=True,
                 text=True,
                 check=True
@@ -65,7 +70,7 @@ def parse_all_msg_files(input_dir, output_dir, name_filter=None):
             if os.path.exists(csv_file):
                 print(f"  Creating text files from {csv_file}")
                 result2 = subprocess.run(
-                    ['python', '.\\scripts\\process_messages.py', csv_file, output_dir],
+                    ['python', PROCESS_MESSAGES_SCRIPT, csv_file, output_dir],
                     capture_output=True,
                     text=True,
                     check=True

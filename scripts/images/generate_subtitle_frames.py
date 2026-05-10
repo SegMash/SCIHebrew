@@ -2,11 +2,14 @@ import shutil
 import subprocess
 import sys
 import os
+from pathlib import Path
 from dataclasses import dataclass
 
 FPS = 8
 BASE_FRAMES_DIR = "frames_kq6"
 OUTPUT_DIR = "games_assets/kq6/opening_frames"
+SCRIPT_DIR = Path(__file__).resolve().parent
+GENERATE_TEXT_FRAME = SCRIPT_DIR / "generate_text_frame.py"
 
 @dataclass
 class Subtitle:
@@ -52,7 +55,7 @@ def generate_subtitle_frames(
             base_frame_path = None
 
         cmd = [
-            sys.executable, r"scripts\generate_text_frame.py",
+            sys.executable, str(GENERATE_TEXT_FRAME),
             "--width",      str(width),
             "--height",     str(height),
             "--font",       font,

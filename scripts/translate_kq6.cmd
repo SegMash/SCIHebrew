@@ -1,7 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
-python.exe .\scripts\json_to_hebrew_kq6.py .\output_kq6\messages.json .\output_kq6
-python .\scripts\parse_sci1.1_messages.py .\SCICompanion-3.2.4.0\kq6_resources .\output_kq6
+python.exe .\scripts\text\json_to_hebrew_kq6.py .\output_kq6\messages.json .\output_kq6
+python .\scripts\text\parse_sci1.1_messages.py .\SCICompanion-3.2.4.0\kq6_resources .\output_kq6
 REM Process all *_messages.csv files in output_kq6 directory
 for %%f in (.\output_kq6\*_messages.csv) do (
     REM Extract filename without extension
@@ -11,12 +11,12 @@ for %%f in (.\output_kq6\*_messages.csv) do (
     set "prefix=!filename:_messages=!"
     
     echo Processing module !prefix!...
-    python scripts\map_files.py .\output_kq6\!prefix!_messages_english.txt .\output_kq6\!prefix!_messages_hebrew.txt .\output_kq6\mapping_!prefix!.txt
-    python .\scripts\replace_in_csv.py .\output_kq6\!prefix!_messages.csv .\output_kq6\mapping_!prefix!.txt .\output_kq6\
+    python scripts\text\map_files.py .\output_kq6\!prefix!_messages_english.txt .\output_kq6\!prefix!_messages_hebrew.txt .\output_kq6\mapping_!prefix!.txt
+    python .\scripts\text\replace_in_csv.py .\output_kq6\!prefix!_messages.csv .\output_kq6\mapping_!prefix!.txt .\output_kq6\
     if "!prefix!"=="165" (
-        python .\scripts\fix_kq6_165_messages.py .\output_kq6\165_messages.csv
+        python .\scripts\text\fix_kq6_165_messages.py .\output_kq6\165_messages.csv
     )
-    python .\scripts\create_msg.py .\output_kq6\!prefix!_messages.csv .\games_assets\kq6\!prefix!.msg
+    python .\scripts\text\create_msg.py .\output_kq6\!prefix!_messages.csv .\games_assets\kq6\!prefix!.msg
 )
 
 REM Copy all files from games_assets\kq6 to kq6_work
@@ -35,5 +35,5 @@ C:\Users\SEGEVMA\source\repos\scummvm\dists\msvc\Debugx86\scummvm.exe --md5 --md
 
 
 REM ffmpeg -i .\kq6_gog\TOON.AVI .\frames_kq6\frame_%04d.png
-REM python scripts\encode_avi_raw.py .\games_assets\kq6\opening_frames kq6_work\TOON_no_sound.AVI 8
+REM python scripts\avi\encode_avi_raw.py .\games_assets\kq6\opening_frames kq6_work\TOON_no_sound.AVI 8
 REM ffmpeg -i .\kq6_work\TOON_no_sound.AVI -i kq6_gog\TOON.AVI -map 0:v -map 1:a -c copy kq6_work\TOON.AVI

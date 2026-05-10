@@ -162,7 +162,6 @@ def apply_translations(input_dir, output_dir, mapping_file):
                             translated = translated.replace('\\r', '\n').replace('\\n', '\n')
                         else:
                             print(f"DEBUG: No exact match for message: |{message_with_literal_newlines}|")
-                            print(f"DEBUG: mapping[0]: {list(mapping.items())[3814] if mapping else 'Empty mapping'}")
                             normalized = ' '.join(message.split())
                             if normalized in mapping:
                                 translated = mapping[normalized]
