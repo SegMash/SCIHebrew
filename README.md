@@ -1,7 +1,7 @@
 ## Quick Start Guide
 In order to do quick changes
 ### KQ4
-assets dir: patch_kq4
+assets dir: games_assets/kq4
 messages: output_kq4/*_messages_hebrew.txt
 words: output_kq4/vocab.csv
 nsis script: kq4_hebrew_patch.nsi
