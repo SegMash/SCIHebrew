@@ -20,6 +20,7 @@ REM Copy all files from games_assets\kq7 to kq7_work
 REM TODO - when finished make sure all files are in assets dir - and uncomment the next time !!!!!!!!!!!!!!!!!!!!!!!!!
 REM copy .\games_assets\kq7\* .\kq7_work\PATCHES\
 copy .\games_assets\kq7\*.msg .\kq7_work\PATCHES\
+makensis.exe .\kq7_hebrew_patch.nsi
 
 endlocal
 REM TODO - finish logic file 30 - Done!
