@@ -34,7 +34,14 @@ def loop_strings(stream):
             break
 
 
-def extract_texts(gamedir, output_single, output_multi, output_format):
+def extract_texts(gamedir, output_dir):
+    output_path = Path(output_dir)
+    output_path.mkdir(parents=True, exist_ok=True)
+
+    output_single = output_path / 'single_messages_english.txt'
+    output_multi = output_path / 'multi_messages_english.txt'
+    output_format = output_path / 'format_messages_english.txt'
+
     # Find all text files
     filenames = [filename for pattern in TEXTS_PATTERNS for filename in Path(gamedir).glob(pattern)]
     
@@ -102,19 +109,17 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog='''
 Example:
-  python extract_texts.py kq4_gog output_texts.txt output_texts_multi.txt output_format.txt
+    python extract_texts.py kq4_gog output_kq4
         '''
     )
     
     parser.add_argument('gamedir', help='Directory containing text.* or *.tex files')
-    parser.add_argument('output_single', help='Output file for single-line messages')
-    parser.add_argument('output_multi', help='Output file for multi-line messages')
-    parser.add_argument('output_format', help='Output file for messages with % format specifiers')
+    parser.add_argument('output_dir', help='Output directory for single/multi/format message files')
     
     args = parser.parse_args()
     
     try:
-        extract_texts(args.gamedir, args.output_single, args.output_multi, args.output_format)
+        extract_texts(args.gamedir, args.output_dir)
         return 0
     except Exception as e:
         print(f"Error: {e}")

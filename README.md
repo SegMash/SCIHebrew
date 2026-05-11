@@ -434,10 +434,10 @@ python scripts/avi/encode_avi_raw.py <frames_dir> <output.avi> [fps]
 ## `scripts/vocab/` — Vocabulary / Parser Tools
 
 ### `vocab_export.py`
-Exports the game vocabulary (`vocab.000`) to a CSV file for editing. Converts the Sierra 7-bit ASCII format to standard 8-bit for Hebrew support.
+Exports the game vocabulary (`vocab.000` or `vocab.900`) to a CSV file for editing. Converts Sierra vocab formats to readable text for translation workflows.
 
 ```
-python scripts/vocab/vocab_export.py <game_dir> <output_dir>
+python scripts/vocab/vocab_export.py <vocab_file> <output_dir>
 ```
 
 ### `vocab_import.py`
@@ -446,6 +446,24 @@ Imports a translated vocabulary CSV back into a `vocab.000` binary file. Validat
 ```
 python scripts/vocab/vocab_import.py <output_dir> <work_dir> <resources_dir>
 ```
+
+### `vocab_migrate_sci_to_sci.py`
+Migrates Hebrew translations from one SCI game's vocab.csv to another SCI game's vocab.csv. For each English word in the target vocab, looks it up in the source vocab and copies the Hebrew translation if found.
+
+```
+python scripts/vocab/vocab_migrate_sci_to_sci.py <source_vocab.csv> <target_vocab.csv> <output_vocab.csv> [--debug]
+```
+
+**Usage:**
+- `<source_vocab.csv>`: Source SCI vocab with existing Hebrew translations
+- `<target_vocab.csv>`: Target SCI vocab to be enhanced
+- `<output_vocab.csv>`: Output file with merged translations
+- `--debug`: Show detailed matching information for each word
+
+**Notes:**
+- Skips rows that already have Hebrew translations (contains pipe character)
+- Most reliable when source and target are from similar games in the same series
+- More reliable than AGI-to-SCI migration due to matching word format
 
 ---
 

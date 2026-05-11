@@ -389,7 +389,7 @@
       "logicFile": 0,
       "messageNumber": 48,
       "original": "What was it when I looked at you?\\nWhat power has chained me through and through?\\nAnd binds my heart with links so tight,\\nI cannot live without the sight\\n  of you?",
-      "translation": "מה היה זה כשבך הבטתי? \\nאיזה כוח בו נלכדתי? \\nלופת ליבי בכבלים עזים, \\nבלעדי דמותך - חיי נגנזים?",
+      "translation": "מה התרחש כאשר הבטתי בך? \\nאיזה כח שוב ושוב אותי כרך? \\nואזק את ליבי בכבילות כה עזות, \\nשטוב מותי מבלי לראות אותך?",
       "notes": "",
       "placeholders": []
     },
@@ -397,7 +397,7 @@
       "logicFile": 0,
       "messageNumber": 49,
       "original": "What nameless thing has captured me?\\nAnd made me powerless to flee?\\nWhat thing is it without a name,\\nthat brings my mind ever back the same\\n   to thee?",
-      "translation": "איזה דבר חסר כל שם, \\nלכד אותי ולא נושם? \\nמה הדבר שאין לו תואר, \\nהמשיב אליך את המחשבתי בטוהר?",
+      "translation": "איזה דבר חסר שם אותי לכד,\\nשברצותי לברוח גופי בי בגד?\\nמהו הדבר אשר חומק ממילותיי,\\nומשיב את מחשבותיי אלייך לעד?",
       "notes": "",
       "placeholders": []
     },
@@ -405,7 +405,7 @@
       "logicFile": 0,
       "messageNumber": 50,
       "original": "The name of 'love' cannot apply,\\nits commonness does not descry,\\nthe haunted, hunted, painful cry\\n   that my heart makes for you.\\n\\nThat ever my soul eternal makes for you.",
-      "translation": "המושג 'אהבה' כה צר ודל. \\nשכיחותו לא תכיל כלל, \\nאת הזעקה, את הכאב המקולל \\nשליבי זועק אומלל. \\n\\nשנשמתי לנצח באותו גורל.",
+      "translation": "המילה 'אהבה' אינה מתאימה \\nשכיחותה לא תאפשר הדגמה, \\nשל הזעקה הרדופה, הכואבת, שליבי זועק אלייך,\\nשנשמתי הנצחית תמיד זועקת אלייך.",
       "notes": "",
       "placeholders": []
     },
@@ -2637,7 +2637,7 @@
       "logicFile": 140,
       "messageNumber": 8,
       "original": "\"What was it when I looked at you?\\nWhat power has chained me through and \\n  through?\\nAnd binds my heart with links so tight,\\nI cannot live without the sight\\n  of you....\"",
-      "translation": "מה היה זה כשבך הבטתי? \\nאיזה כוח בו נלכדתי? \\nלופת ליבי בכבלים עזים, \\nבלעדי דמותך - חיי נגנזים?",
+      "translation": "מה התרחש כאשר הבטתי בך? \\nאיזה כח שוב ושוב אותי כרך? \\nואזק את ליבי בכבילות כה עזות, \\nשטוב מותי מבלי לראות אותך?",
       "notes": "",
       "placeholders": []
     },
@@ -12517,7 +12517,7 @@
       "logicFile": 270,
       "messageNumber": 120,
       "original": "What was it when I looked at you?\\nWhat pow'r has chained me through and through?\\nAnd binds my heart with links so tight,\\nI cannot live without the sight of you?",
-      "translation": "מה היה זה כשבך הבטתי? \\nאיזה כוח בו נלכדתי? \\nלופת ליבי בכבלים עזים, \\nבלעדי דמותך - חיי נגנזים?",
+      "translation": "מה התרחש כאשר הבטתי בך? \\nאיזה כח שוב ושוב אותי כרך? \\nואזק את ליבי בכבילות כה עזות, \\nשטוב מותי מבלי לראות אותך?",
       "notes": "",
       "placeholders": []
     },
@@ -12525,7 +12525,7 @@
       "logicFile": 270,
       "messageNumber": 121,
       "original": "What nameless thing has captured me?\\nAnd made me powerless to flee?\\nWhat thing is it without a name,\\nthat brings my mind e're back the same to thee?",
-      "translation": "איזה דבר חסר כל שם, \\nלכד אותי ולא נושם? \\nמה הדבר שאין לו תואר, \\nהמשיב אליך את המחשבתי בטוהר?",
+      "translation": "איזה דבר חסר שם אותי לכד,\\nשברצותי לברוח גופי בי בגד?\\nמהו הדבר אשר חומק ממילותיי,\\nומשיב את מחשבותיי אלייך לעד?",
       "notes": "",
       "placeholders": []
     },
@@ -12533,7 +12533,7 @@
       "logicFile": 270,
       "messageNumber": 122,
       "original": "The name of 'love' cannot apply.\\nIt's commonness does not descry,\\nthe haunted, hunted, painful cry\\nthat my heart makes for you.\\n\\nThat ere my soul eternal makes for you.",
-      "translation": "המושג 'אהבה' כה צר ודל. \\nשכיחותו לא תכיל כלל, \\nאת הזעקה, את הכאב המקולל \\nשליבי זועק אומלל. \\n\\nשנשמתי לנצח באותו גורל.",
+      "translation": "המילה 'אהבה' אינה מתאימה \\nשכיחותה לא תאפשר הדגמה, \\nשל הזעקה הרדופה, הכואבת, שליבי זועק אלייך,\\nשנשמתי הנצחית תמיד זועקת אלייך.",
       "notes": "",
       "placeholders": []
     },
@@ -50669,7 +50669,7 @@
       "logicFile": 907,
       "messageNumber": 146,
       "original": "What was it when I looked at you?\\nWhat power has chained me through and through?\\nAnd binds my heart with links so tight,\\nI cannot live without the sight\\n  of you?",
-      "translation": "מה היה זה כשבך הבטתי? \\nאיזה כוח בו נלכדתי? \\nלופת ליבי בכבלים עזים, \\nבלעדי דמותך - חיי נגנזים?",
+      "translation": "מה התרחש כאשר הבטתי בך? \\nאיזה כח שוב ושוב אותי כרך? \\nואזק את ליבי בכבילות כה עזות, \\nשטוב מותי מבלי לראות אותך?",
       "notes": "",
       "placeholders": []
     },
@@ -50677,7 +50677,7 @@
       "logicFile": 907,
       "messageNumber": 147,
       "original": "What nameless thing has captured me?\\nAnd made me powerless to flee?\\nWhat thing is it without a name,\\nthat brings my mind ever back the same\\n   to thee?",
-      "translation": "איזה דבר חסר כל שם, \\nלכד אותי ולא נושם? \\nמה הדבר שאין לו תואר, \\nהמשיב אלייך את מחשבתי בטוהר?",
+      "translation": "איזה דבר חסר שם אותי לכד,\\nשברצותי לברוח גופי בי בגד?\\nמהו הדבר אשר חומק ממילותיי,\\nומשיב את מחשבותיי אלייך לעד?",
       "notes": "",
       "placeholders": []
     },
@@ -50685,7 +50685,7 @@
       "logicFile": 907,
       "messageNumber": 148,
       "original": "The name of 'love' cannot apply,\\nits commonness does not descry,\\nthe haunted, hunted, painful cry\\n   that my heart makes for you.\\n\\nThat ever my soul eternal makes for you.",
-      "translation": "המושג 'אהבה' כה צר ודל. \\nשכיחותו לא תכיל כלל, \\nאת הזעקה, את הכאב המקולל \\nשליבי זועק אומלל. \\n\\nשנשמתי לנצח באותו גורל.",
+      "translation": "המילה 'אהבה' אינה מתאימה \\nשכיחותה לא תאפשר הדגמה, \\nשל הזעקה הרדופה, הכואבת, שליבי זועק אלייך,\\nשנשמתי הנצחית תמיד זועקת אלייך.",
       "notes": "",
       "placeholders": []
     },

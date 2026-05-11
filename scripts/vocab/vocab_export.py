@@ -18,6 +18,7 @@ import config
 
 SIERRA_VOCAB_HEADER = b'\x86\0'
 VOCAB_FILE = "vocab.000"
+VOCAB_ENCODING = 'windows-1255'
 
 classes = {
     0x004: 'CONJUNCTION',
@@ -50,6 +51,73 @@ def get_classes(i):
     return result
 
 
+def detect_vocab_kind(vocab_path):
+    if vocab_path.suffix.lower() == '.900':
+        return 'new'
+    return 'old'
+
+
+def decode_vocab_bytes(word_bytes):
+    try:
+        return bytes(word_bytes).decode(VOCAB_ENCODING)
+    except UnicodeDecodeError:
+        return bytes(word_bytes).decode('latin1')
+
+
+def parse_vocab_entries(in_vocab, kind):
+    pointer_bytes = 255 * 2 if kind == 'new' else 26 * 2
+    if len(in_vocab) < pointer_bytes:
+        raise ValueError(f"Input vocab is too short for {kind} format pointer table")
+
+    entries = []
+    idx = pointer_bytes
+    current_word = ""
+    while idx < len(in_vocab):
+        same_letters = in_vocab[idx]
+        idx += 1
+        current_word = current_word[:same_letters]
+
+        word_bytes = []
+        if kind == 'new':
+            while idx < len(in_vocab) and in_vocab[idx] != 0:
+                word_bytes.append(in_vocab[idx])
+                idx += 1
+            if idx >= len(in_vocab):
+                break
+            idx += 1  # zero terminator
+        else:
+            found_end = False
+            while idx < len(in_vocab):
+                val = in_vocab[idx]
+                idx += 1
+                if val >= 0x80:
+                    word_bytes.append(val - 0x80)
+                    found_end = True
+                    break
+                if val < 0x20:
+                    print(f"Warning: strange char with ascii value {val}. Ignoring")
+                    continue
+                word_bytes.append(val)
+            if not found_end:
+                break
+
+        current_word += decode_vocab_bytes(word_bytes)
+
+        if idx + 2 >= len(in_vocab):
+            break
+
+        byte1 = in_vocab[idx]
+        byte2 = in_vocab[idx + 1]
+        byte3 = in_vocab[idx + 2]
+        idx += 3
+
+        cls = (byte1 << 4) + (byte2 >> 4)
+        group = ((byte2 & 0b1111) << 8) + byte3
+        entries.append({'word': current_word, 'class': get_classes(cls), 'group': group})
+
+    return entries
+
+
 def get_said_per_room(gamedir):
     result = {}
     srcdir = os.path.join(gamedir, 'src')
@@ -59,7 +127,7 @@ def get_said_per_room(gamedir):
             text_dense = text.replace('\n', '').replace('\t','')
             room = get_room_number(text)
             saids = re.findall(r"\(Said\s'(.*?)'", text_dense)
-            words_in_room = set([w for l in [re.split('\W+', said) for said in saids] for w in l if w])
+            words_in_room = set([w for l in [re.split(r'\W+', said) for said in saids] for w in l if w])
             for word in words_in_room:
                 cur = result.get(word, [])
                 cur.append((room, [said for said in saids if word in said]))
@@ -67,42 +135,17 @@ def get_said_per_room(gamedir):
     return result
 
 
-def vocab_export(gamedir, csvdir):
-    in_vocab = list(pathlib.Path(os.path.join(gamedir, VOCAB_FILE)).read_bytes())
+def vocab_export(vocab_file, csvdir):
+    vocab_path = pathlib.Path(vocab_file)
+    gamedir = str(vocab_path.parent)
+
+    in_vocab = list(vocab_path.read_bytes())
     assert bytes(in_vocab[:2]) == SIERRA_VOCAB_HEADER
     in_vocab = in_vocab[2:]
 
     said_per_room = get_said_per_room(gamedir)
-    # TODO: automatic recognize file kind, and support exporting new kind
-    kind = "old"
-    if kind == "old":
-        num_of_pointers_to_ignore = 26
-    vocab = []
-    bytes_until_word_text = 0
-    at_start_of_word = True
-    current_word = ""
-    for idx, val in enumerate(in_vocab[(num_of_pointers_to_ignore * 2):]):
-        if bytes_until_word_text == 0:
-            if at_start_of_word:
-                at_start_of_word = False
-                current_word = current_word[:int(val)]
-            elif val < 0x20:
-                print(f"Warning: strange char at position {hex(idx)} with ascii value {val}. Ignoring")
-            elif val < 0x80:
-                current_word += chr(val)
-            else:
-                current_word += chr(val - 0x80)
-                bytes_until_word_text = 3
-                at_start_of_word = True
-                i = idx + num_of_pointers_to_ignore * 2
-                entry = {
-                    'word': current_word,
-                    'class': get_classes(in_vocab[i + 1] * 256 + in_vocab[i + 2] >> 4),
-                    'group': (in_vocab[i + 2] & 0b1111) * 256 + in_vocab[i + 3]
-                }
-                vocab.append(entry)
-        else:
-            bytes_until_word_text -= 1
+    kind = detect_vocab_kind(vocab_path)
+    vocab = parse_vocab_entries(in_vocab, kind)
     vocab_by_group = {}
     for entry in vocab:
         group = entry['group']
@@ -154,9 +197,9 @@ def write_csv(csvdir, vocab, vocab_csv_filename):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(formatter_class=argparse.ArgumentDefaultsHelpFormatter,
-                                     description=f'Exports dictionary words for old SCI parser (from {VOCAB_FILE}) to csv file',)
-    parser.add_argument("gamedir", help="directory containing the game files (as patches - see 'export_all.py' help)")
+                                     description='Exports dictionary words from SCI vocab files (vocab.000 / vocab.900) to CSV',)
+    parser.add_argument("vocab_file", help=f"path to vocab file (for example: <game_dir>/{VOCAB_FILE})")
     parser.add_argument("csvdir", help=f"directory to write {config.vocab_csv_filename}")
     args = parser.parse_args()
 
-    vocab_export(args.gamedir, args.csvdir)
+    vocab_export(args.vocab_file, args.csvdir)

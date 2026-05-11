@@ -1,0 +1,514 @@
+beanstalk === גבעול שעועית
+Looks like you had a bad fall this spring. === נראה שאחרי נפילה רעה באביב הזה.
+leaf === עלה
+hole === חור
+Turn on === הדלק
+Turn off === כבה
+Use the mouse or right and left arrow keys to set the sound volume. === השתמש בעכבר או במקשי החצים ימינה ושמאלה כדי לקבוע את עוצמת השמע.
+Sound Volume === עוצמת שמע
+Louder === חזק יותר
+Softer === חלש יותר
+Restart === הפעל מחדש
+Oops === אופס
+Quit === יציאה
+WHOOPS! === אופס!
+SAVE GAME === שמור משחק
+GAME === משחק
+OK === אישור
+Cancel === ביטול
+Change Directory === שנה תיקייה
+Free Heap: %u Bytes\nLargest ptr: %u Bytes\nFreeHunk: %u KBytes\nLargest hunk: %u Bytes === זיכרון זמין: %u בתים\nהצבעה הגדול ביותר: %u בתים\nחלק זמין: %u קילובייט\nהחלק הגדול ביותר: %u בתים
+up === למעלה
+down === למטה
+Normal === רגיל
+PrintD === הדפסה
+M === מ'
+ripples === אדוות
+guard === שומר
+urn === כד
+You are carrying: === אתה נושא:
+You are carrying nothing! === אינך נושא דבר!
+ Full Water Bucket  === דלי מים מלא
+This old wooden bucket is now filled with clear water. === הדלי הישן מעץ מלא כעת במים צלולים.
+ Empty Water Bucket  === דלי מים ריק
+You are holding an empty wooden bucket. === אתה מחזיק דלי עץ ריק.
+Restore === שחזר
+ Restart  === הפעל מחדש
+ Quit  === יציאה
+ Pebble  === אבן חלוק
+ Pebbles  === אבני חלוק
+0.000.001 === 0.000.001
+Turn Off === כבה
+Turn On === הדלק
+Debug === ניפוי באגים
+ Gold Walnut  === אגוז זהב
+When you open the walnut, you discover the nut inside is pure gold! === כשאתה פותח את אגוז המלך, אתה מגלה שהאגוז בפנים הוא זהב טהור!
+This large ceramic bowl is now empty. === קערת הקרמיקה הגדולה הזו ריקה כעת.
+This large ceramic bowl is now filled with a savory beef stew. === קערת הקרמיקה הגדולה הזו מלאה כעת בנזיד בקר טעים.
+Unknown word === מילה לא ידועה
+Couldn't parse === לא ניתן לנתח
+No response === אין תגובה
+King's Quest I === מסע המלך I
+ogre === עוג
+wolf === זאב
+troll === טרול
+witch === מכשפה
+dwarf === גמד ננס
+ Dagger  === פגיון
+This is a fine silver dagger, with a very sharp edge! === זהו פגיון כסף משובח, עם קצה חד מאוד!
+ Chest  === תיבה
+This Magic chest, one of the three lost treasures of Daventry, is always filled with gold coins. === תיבת הקסמים הזו, אחד משלושת אוצרותיה האבודים של דאבנטרי, תמיד מלאה במטבעות זהב.
+ Carrot  === גזר
+This looks like an ordinary carrot. === זה נראה כמו גזר רגיל.
+ Key  === מפתח
+This is a simple gold key. === זהו מפתח זהב פשוט.
+ Note  === הערה
+There is a message written on the note: "Sometimes it is wise to think backwards." === יש הודעה כתובה על הפתק: "לפעמים זה חכם לחשוב אחורה."
+ Magic Ring  === טבעת קסמים
+Your hand tingles slightly as you look at this jewelled ring. === ידך מרגישה עקצוץ קל כשאתה מסתכל על הטבעת המשובצת הזו.
+ Four-leaf Clover  === תלתן ארבעה עלים
+You are holding a large four-leaf clover. === אתה מחזיק תלתן גדול בעל ארבעה עלים.
+ Ceramic Bowl  === קערת קרמיקה
+Inscribed on the inside of this empty ceramic bowl is the word "Fill." === חרוטה בתוך קערת הקרמיקה הריקה הזו המילה "מלא".
+You have a pocketful of smooth, rounded pebbles. === יש לך כיס מלא חלוקי נחל חלקים ועגולים.
+ Leather Slingshot  === קלע עור
+This is a small but sturdy slingshot. === זהו קלע קטן אך חזק.
+ Pouch  === כיס
+You are holding a plain leather pouch. === אתה מחזיק כיס עור פשוט.
+ Sceptre  === שרביט
+This jewelled sceptre belongs to the King of the Leprechauns. === השרביט המשובץ הזה שייך למלך הליפרקונים.
+ Cheese  === גבינה
+This is an extremely fragrant piece of Swiss cheese. === זוהי חתיכת גבינה שוויצרית ריחנית במיוחד.
+ Magic Mirror  === מראת קסמים
+This is the magic mirror, one of the three treasures of Daventry. === זוהי מראת הקסמים, אחד משלושת אוצרותיה של דאבנטרי.
+ Gold Egg  === ביצת זהב
+You are holding a lovely golden egg. === אתה מחזיק ביצת זהב יפהפייה.
+ Magic Shield  === מגן קסמים
+This is the magic shield, one of the three treasures of Daventry. === זהו מגן הקסמים, אחד משלושת אוצרותיה של דאבנטרי.
+ Fiddle  === כינור
+This is the woodcutter's old fiddle. === זהו הכינור הישן של חוטב העצים.
+ Walnut  === אגוז מלך
+You are holding an ordinary walnut. === אתה מחזיק אגוז מלך רגיל.
+ Mushroom  === פטריה
+This is a small, unusual-looking mushroom. === זוהי פטריה קטנה בעלת מראה יוצא דופן.
+ Beans  === שעועית
+You are holding a handful of small beans. === אתה מחזיק חופן של שעועית קטנה.
+ \01  === \01
+ About KQI`^a: Help`#1  === אודות KQI^a: עזרה#1
+ File  === קובץ
+ Save Game`#5: Restore Game`#7: --!: Restart Game`#9: Quit`^q  === שמור משחק#5: שחזר משחק#7: --!: הפעל משחק מחדש#9: יציאה^q
+ Action  === פעולה
+ Duck`#4: Jump`#6: --!: Pause Game`^p: Inventory`^I: Retype`#3  === Duck`#4: Jump`#6: --!: Pause Game`^p: Inventory`^I: Retype`#3 
+ Speed  ===  Speed 
+ Change...`^s: --!: Faster`+: Normal`=: Slower`-  ===  Change...`^s: --!: Faster`+: Normal`=: Slower`- 
+ Sound  ===  Sound 
+ Volume...`^v: Turn sound Off`#2=1  ===  Volume...`^v: Turn sound Off`#2=1 
+ Volume...`^v: Turn sound On`#2=0  ===  Volume...`^v: Turn sound On`#2=0 
+jump === קפוץ
+This game is paused. === המשחק מושהה.
+Let's continue. === בוא נמשיך.
+Speed (1 - 16)? === מהירות (1 - 16)?
+ Turn sound On === הדלק צליל
+ Turn sound Off === כבה צליל
+ Stand === עמוד
+ Duck === התכופף
+The moat monsters appreciate your good taste. === מפלצות החפיר מעריכות את טעמך הטוב.
+moat monster === מפלצת חפיר
+monster's tail === זנב מפלצת
+reflection === השתקפות
+You were warned ogre and ogre again... === הוזהרת שוב ושוב...
+Troll === טרול
+The raging current pulls you under, never to be found. === הזרם הסוער מושך אותך מטה, לעולם לא תימצא.
+vine === גפן
+The castle walls are carpeted with a thick tangle of vines. === קירות הטירה מכוסים בסבך עבות של גפנים.
+trough === שוקת
+This is the goat's trough, currently empty.__Goats are always hungry! === זוהי שוקת העז, ריקה כרגע. עזים תמיד רעבות!
+tree === עץ
+There are numerous beautiful trees ringing the goat pen. === ישנם עצים יפים רבים המקיפים את מכלאת העזים.
+bush === שיח
+There are many small decorative bushes scattered around Daventry. === ישנם שיחים דקורטיביים קטנים רבים פזורים ברחבי דאבנטרי.
+Beautiful shade trees abound in this part of Daventry. === עצי צל יפים שופעים בחלק זה של דאבנטרי.
+This is typical of the large, leafy vegetation found all throughout Daventry. === זה אופייני לצמחייה הגדולה והעלווה הנמצאת בכל רחבי דאבנטרי.
+bush on well === שיח על באר
+Several unremarkable plants have rooted themselves at the base of the old stone well. === כמה צמחים לא יוצאי דופן נטועים בבסיס באר האבן הישנה.
+rock === סלע
+This is one of the countless rocks and boulders that dot the countryside. === זהו אחד מהסלעים והבולדרים הרבים הפזורים ברחבי הארץ.
+You see lush plants and bushes throughout the Kingdom of Daventry. === אתה רואה צמחים ושיחים שופעים ברחבי ממלכת דאבנטרי.
+How many times have you been told not to wolf down your food? === כמה פעמים נאמר לך לא לזלול את האוכל שלך?
+All sorts of gorgeous trees dot the Daventry countryside. === כל מיני עצים מרהיבים מנקדים את נוף דאבנטרי.
+This is the largest oak tree you've ever seen.__Its trunk seems to be about ten feet around, and the thick, sturdy branches look like they could hold many times your weight. === זהו עץ האלון הגדול ביותר שראית אי פעם. גזעו נראה בערך עשרה רגל מסביב, והענפים העבים והחזקים נראים כאילו הם יכולים לשאת פי כמה ממשקלך.
+The roots of the colossal oak tree are entwined among the rocks. === שורשי עץ האלון העצום שזורים בין הסלעים.
+A small thicket of unimpressive white birch trees grows here. === חורשה קטנה של עצי ליבנה לבנים ולא מרשימים גדלה כאן.
+farTree1 === עץ רחוק1
+There are plenty of rocks around the base of the enormous tree. === ישנם הרבה סלעים סביב בסיס העץ הענק.
+Lovely trees grow near the carrot patch. === עצים יפים גדלים ליד ערוגת הגזר.
+A copse of low bushes grows beneath the shade trees. === חורשה של שיחים נמוכים גדלה בצל עצי הצל.
+flower === פרח
+A patch of pretty flowers has been planted near the garden, just for decoration. === ערוגת פרחים יפים נשתלה ליד הגן, רק לקישוט.
+Some low, lush green bushes are growing at the base of the trees. === כמה שיחים ירוקים, נמוכים ושופעים גדלים בבסיס העצים.
+Your attempt at cliffdiving was a smashing failure. === ניסיון הצלילה מצוק שלך נכשל כישלון חרוץ.
+cliff === צוק
+Treacherous cliffs surround a picturesque mountain lake. === צוקים תלולים מקיפים אגם הררי ציורי.
+lake === אגם
+The clear mountain lake is surrounded by steep cliffs. === האגם ההררי הצלול מוקף בצוקים תלולים.
+A large, jagged boulder sits at the top of the cliff. === סלע גדול ומשונן יושב בראש הצוק.
+After swimming for a long time, your strength ebbs and your arms and legs grow weary.__As your life swims before your eyes, you decide to... === לאחר שחייה ארוכה, כוחך נחלש וידיך ורגליך מתעייפות. ככל שחייך חולפים לנגד עיניך, אתה מחליט...
+You splash around for awhile, but unfortunately that won't keep your head above water.__As you go down for the third time, a sense of peace washes over you... === אתה מתיז מים זמן מה, אבל למרבה הצער זה לא ישמור את ראשך מעל המים. כשאתה שוקע בפעם השלישית, תחושת שלווה שוטפת אותך...
+A spreading tree is silhouetted against the sun. === עץ רחב פרוש נראה כצללית על רקע השמש.
+mountain === הר
+These are the foothills of a large mountain that towers above Daventry. === אלה הם מורדותיו של הר גדול המתנשא מעל דאבנטרי.
+Small bushes like this one thrive near the fresh lake water. === שיחים קטנים כמו זה משגשגים ליד מי האגם הטריים.
+small tree === עץ קטן
+This is a miniature shade tree, which gives shade to the squirrels and other woodland creatures. === זהו עץ צל מיניאטורי, הנותן צל לסנאים וליצורים אחרים ביער.
+Long, low bushes grow unbounded throughout Daventry. === שיחים ארוכים ונמוכים גדלים ללא גבולות ברחבי דאבנטרי.
+hill === גבעה
+These are the foothills of a large mountain which overlooks the Daventry countryside. === אלה הם מורדותיו של הר גדול המשקיף על נוף דאבנטרי.
+Over the years, many ordinary rocks like this one have tumbled down from the heights of Daventry's mountain. === במהלך השנים, סלעים רגילים רבים כמו זה התגלגלו מטה מפסגות ההר של דאבנטרי.
+bridge === גשר
+A sturdy bridge has been built here to span the moat. === גשר יציב נבנה כאן כדי לחצות את החפיר.
+turret === צריח
+Massive turrets, from which the guards can defend the castle, stretch to the sky above. === צריחים עצומים, מהם יכולים השומרים להגן על הטירה, נמתחים אל השמיים מעל.
+moat === חפיר
+You never know what sort of fierce creatures lie just beneath the surface of the moat. === לעולם אינך יודע אילו יצורים אכזריים מסתתרים מתחת לפני השטח של החפיר.
+The trees around the castle are tall and old; they were just as tall back when King Edward was just a young prince! === העצים סביב הטירה גבוהים וזקנים; הם היו גבוהים באותה מידה גם כשהמלך אדוארד היה רק נסיך צעיר!
+Many evergreens surround this pretty lake. === הרבה עצי עד סוגרים על האגם היפה הזה.
+The water of this crystal clear lake is especially cold and crisp. The Leprechauns use it to brew their dandelion wine. === מי האגם הצלול כבדולח הזה קרים ורעננים במיוחד. הליפרקונים משתמשים בהם כדי לחלוט את יין השן-ארי שלהם.
+Large, lush, colorful bushes grow all about this little lake. === שיחים גדולים, שופעים וצבעוניים גדלים סביב האגם הקטן הזה.
+This is one of many uninteresting rocks that pepper the forest floor. === זהו אחד מבין סלעים רבים לא מעניינים המנקדים את רצפת היער.
+These trees are grotesquely bent and twisted, and the branches seem like they're reaching out to grab you. === העצים האלה עקומים ומעוותים באופן גרוטסקי, והענפים נראים כאילו הם מושיטים יד לתפוס אותך.
+Bushes and vines grow in a jumble throughout this part of the forest. === שיחים וגפנים גדלים בערבוביה בחלק זה של היער.
+This is one of the many small trees scattered around the lovely Daventry countryside. === זהו אחד מהעצים הקטנים הרבים הפזורים ברחבי נוף דאבנטרי היפה.
+The trees are somewhat sparse here at the foot of the rocky mountain. === העצים מעט דלילים כאן למרגלות ההר הסלעי.
+rocky hill === גבעה סלעית
+This jagged rocky hill reveals the entrance to a cave. === הגבעה הסלעית המשוננת הזו חושפת את הכניסה למערה.
+Many large rocks and boulders are strewn about the area. === הרבה סלעים גדולים ובולדרים מפוזרים באזור.
+water === מים
+The surrounding boulders and trees are reflected on the small, mirror-like lake. === הבולדרים והעצים מסביב משתקפים על האגם הקטן דמוי המראה.
+Two large boulders protect the delicate flowers by the lake. === שני בולדרים גדולים מגנים על הפרחים העדינים שליד האגם.
+This peaceful little lake is ringed with lovely trees. === האגם השליו הזה מוקף בעצים יפים.
+This is another unremarkable specimen of the hundreds of bushes in Daventry's forests. === זהו עוד דוגמה לא יוצאת דופן ממאות השיחים ביערות דאבנטרי.
+Small plants and bushes grow in the cracks and crevices of this boulder. === צמחים ושיחים קטנים גדלים בסדקים ובחריצים של הבולדר הזה.
+There are some beautiful, fragile little flowers here by the rocks. === ישנם כמה פרחים קטנים ויפים ושבריריים כאן ליד הסלעים.
+clover patch === ערוגת תלתן
+Lovely fruit trees have blossomed early this year. === עצי פרי יפים פרחו מוקדם השנה.
+three-leaf clover === תלתן שלושה עלים
+A jumble of clover grows in this patch of the forest. === ערבוביה של תלתן גדלה בערוגה זו של היער.
+The clover patch is thick with small three-leaf clovers. === ערוגת התלתן עשירה בתלתנים קטנים בעלי שלושה עלים.
+Graceful trees grow in profusion all throughout Daventry. === עצים חינניים גדלים בשפע בכל רחבי דאבנטרי.
+A small ordinary bush flourishes in the shade of the trees. === שיח קטן ורגיל משגשג בצל העצים.
+This mighty beanstalk stretches up so high, it vanishes into the clouds above. === קנוקנת שעועית אדירה זו נמתחת כה גבוה, עד שהיא נעלמת בעננים שמעל.
+ripple === אדווה
+bush and rock === שיח וסלע
+A commonplace little bush has grown in the protective shade of the rock. === שיח קטן ורגיל גדל בצל המגן של הסלע.
+There are more bushes in Daventry than you care to notice. === יש יותר שיחים בדאבנטרי מכפי שאתה טורח לשים לב אליהם.
+river === נהר
+The current of this wildly raging river is even more treacherous than it looks. === זרם הנהר הסוער הזה מסוכן אף יותר מכפי שהוא נראה.
+bank === גדה
+The river bank drops off sharply here.__Best to watch your step. === גדת הנהר צונחת בחדות כאן. מוטב שתשמור על צעדיך.
+A rough-hewn plank bridge spans the deep rushing river below. === גשר לוחות גס חוצה את הנהר העמוק והסוער שמתחת.
+The steep banks are high above the river. === הגדות התלולות גבוהות מעל הנהר.
+The stream appears placid enough, but appearances can be deceiving. === הנחל נראה רגוע מספיק, אבל מראות יכולים להטעות.
+This appears to be an oversized Dwarf Maple tree. === נראה שזהו עץ מייפל גמדי גדול במיוחד.
+This is the smallest Giant Redwood tree you've ever seen! === זהו עץ הסקוויה הענקית הקטן ביותר שראית אי פעם!
+This is just one of the countless bushes and shrubs scattered throughout the beautiful Daventry countryside. === זהו רק אחד מהשיחים והעשבים הרבים הפזורים ברחבי נוף דאבנטרי היפה.
+This is one of the oldest, grandest trees in all of Daventry, though it holds no secrets for you, Sir Graham. === זהו אחד מהעצים העתיקים והמפוארים ביותר בכל דאבנטרי, אם כי הוא אינו טומן בחובו סודות עבורך, סר גרהם.
+This is one of the oldest, grandest trees in all of Daventry. === זהו אחד מהעצים העתיקים והמפוארים ביותר בכל דאבנטרי.
+baby bird === גוזל
+bird's nest === קן ציפורים
+A couple of bushes lie among the undergrowth of the forest floor. === כמה שיחים שוכנים בין הסבך שעל קרקעית היער.
+bush by tree === שיח ליד עץ
+You can hardly see the forest for all the trees here! === בקושי רואים את היער מרוב עצים כאן!
+window === חלון
+cookie === עוגייה
+cookie3 === עוגייה3
+gingerbread boy === ילד ג'ינג'ר
+These little gingerbread boys and girls look almost alive! How do you suppose they got here? === ילדי וילדות הג'ינג'ר הקטנים האלה נראים כמעט חיים! איך לדעתך הם הגיעו לכאן?
+candy canes === מקלות סוכר
+The path to the gingerbread house is lined with the biggest, most tempting candy canes you've ever seen. === השביל לבית הג'ינג'ר מרופד במקלות הסוכר הגדולים והמפתים ביותר שראית אי פעם.
+chimney === ארובה
+Even the chimney looks delicious. === אפילו הארובה נראית טעימה.
+Twisted, malformed trees overhang the gingerbread house. They almost seem to reach out for you. === עצים מעוותים ומעוקמים משתלשלים מעל בית הג'ינג'ר. הם כמעט נראים כאילו הם מושיטים יד אליך.
+house === בית
+This is the most marvelous house you've ever seen! It seems like it's made out of a huge gingerbread cupcake, with frosting for a roof. The chimney is made of gummy bricks, the door and fence are made of candy canes, and sourball stones and gumdrops are scattered around the yard. === זהו הבית המופלא ביותר שראית אי פעם! נראה שהוא עשוי מקאפקייק ג'ינג'ר ענק, עם ציפוי לקישוט הגג. הארובה עשויה לבני גומי, הדלת והגדר עשויים מקלות סוכר, ואבני סוכריות חמוצות וסוכריות גומי פזורות בחצר.
+steps === מדרגות
+The steps look like they're made out of vanilla fudge, but after years of being stepped on, they've gotten a wee bit filthy. === המדרגות נראות כאילו הן עשויות פאדג' וניל, אך לאחר שנים של דריכה עליהן, הן קצת התלכלכו.
+roof === גג
+The roof looks like it's made out of rich vanilla buttercream frosting! === הגג נראה כאילו הוא עשוי מציפוי קרם חמאה וניל עשיר!
+There's a small window at the back of the cupcake...er, the house.__But you can't see through the sugar-pane glass. === יש חלון קטן בחלק האחורי של הקאפקייק... כלומר, הבית. אבל אינך יכול לראות דרך זכוכית הסוכר.
+In this part of the forest the trees are twisted and misshapen lending an eerie feel to the place. === בחלק זה של היער העצים עקומים ומעוותים ויוצרים תחושה מצמררת במקום.
+Even the rocks in this part of the forest seem more jagged and unfriendly.__Watch your step, they're everywhere! === אפילו הסלעים בחלק זה של היער נראים משוננים ולא ידידותיים יותר. היזהר בצעדיך, הם נמצאים בכל מקום!
+The moving rock rolls downhill...and right into you.___A crushing defeat. === הסלע הנע מתגלגל במורד הגבעה... וישר לתוכך. תבוסה מוחצת.
+This rock is less distinctive than the one next to it. === הסלע הזה פחות ייחודי מזה שלצידו.
+There is a dense grove of trees here. === יש כאן חורש עצים צפוף.
+nut === אגוז
+walnut tree === עץ אגוז
+This large, healthy tree is chock full of plump walnuts. === העץ הגדול והבריא הזה מלא באגוזי מלך שמנים.
+pineTree1 === עץ אורן1
+These are just two garden-variety pine trees, with nothing to offer but shade. === אלה הם שני עצי אורן רגילים, שאינם מציעים דבר מלבד צל.
+pine tree === עץ אורן
+trunk === גזע
+There's nothing particularly interesting about this old gray tree. === אין שום דבר מעניין במיוחד בעץ האפור הישן הזה.
+small bush === שיח קטן
+Some typical Daventry bushes flourish in the shade of the nearby walnut tree. === כמה שיחים טיפוסיים של דאבנטרי משגשגים בצל עץ האגוז הסמוך.
+There are trees growing nearly everywhere you look in Daventry. === ישנם עצים גדלים כמעט בכל מקום שתסתכל בדאבנטרי.
+Flourishing pine trees abound in this part of the forest. === עצי אורן משגשגים שופעים בחלק זה של היער.
+plant === צמח
+You see a dazzling spray of tiny red flowers. === אתה רואה התזה מסנוורת של פרחים אדומים קטנטנים.
+There are an endless variety of trees in Daventry; none of the ones you can see here seem the least bit unusual. === יש מגוון אינסופי של עצים בדאבנטרי; אף אחד מאלה שאתה יכול לראות כאן לא נראה יוצא דופן ולו במעט.
+The banks of the swiftly flowing river are steep. === גדות הנהר השוצף במהירות תלולות.
+The river flows swiftly between steep banks. === הנהר זורם במהירות בין גדות תלולות.
+A large, run-of-the-mill boulder sits nearby. === בולדר גדול ורגיל יושב בקרבת מקום.
+Small bushes grow vigorously in this sunny patch of forest. === שיחים קטנים גדלים במרץ בחלק השמשי הזה של היער.
+Bushes and rocks seem to complement each other, don't they? === שיחים וסלעים נראים משלימים זה את זה, לא?
+There certainly is an abundance of healthy plant life here. === בהחלט יש כאן שפע של צמחייה בריאה.
+There's nothing unusual about this tree, though it does seem especially healthy. === אין שום דבר יוצא דופן בעץ הזה, אם כי הוא נראה בריא במיוחד.
+This is a raging river, filled with massive boulders and treacherous whitewater rapids. === זהו נהר סוער, מלא בבולדרים עצומים ורפאי מים לבנים מסוכנים.
+boulder === בולדר
+It is a massive boulder that splits the river. === זהו בולדר עצום המפצל את הנהר.
+tree1 === עץ1
+Several lovely trees sway peacefully in the breeze. === כמה עצים יפים מתנודדים בשלווה ברוח.
+tree2 === עץ2
+tree3 === עץ3
+The bushes here grow well, helped by the refreshing spray of the nearby river. === השיחים כאן גדלים היטב, בעזרת רסס המים המרענן של הנהר הסמוך.
+Several large, rough rocks sit around the riverbank. === כמה סלעים גדולים וגסים יושבים סביב גדת הנהר.
+The river is dangerous and powerful. === הנהר מסוכן ועוצמתי.
+The banks of the river are tall and steep.__If you fell down, you'd never be able to climb back up again. === גדות הנהר גבוהות ותלולות. אם היית נופל, לעולם לא היית מצליח לטפס בחזרה.
+A few oak trees serenely overlook the turbulent river below. === כמה עצי אלון משקיפים בשלווה על הנהר הסוער שמתחת.
+bush1 === שיח1
+Low bushes are growing in abundance in the clean Daventry air. === שיחים נמוכים גדלים בשפע באוויר הנקי של דאבנטרי.
+bush2 === שיח2
+bush3 === שיח3
+bush4 === שיח4
+bush5 === שיח5
+These small twisted trees make the area seem very strange. === העצים המעוותים הקטנים האלה גורמים לאזור להיראות מוזר מאוד.
+The plants don't seem to grow very well in this part of the forest. === הצמחים לא נראים גדלים היטב בחלק זה של היער.
+All sorts of trees are growing in this part of the forest. === כל מיני עצים גדלים בחלק זה של היער.
+snake === נחש
+The murky water of this swampy lake looks very uninviting. === המים העכורים של האגם הביצתי הזה נראים מאוד לא מזמינים.
+Large, mossy trees grow around this small, swampy lake. === עצים גדולים ומכוסים טחב גדלים סביב האגם הביצתי הקטן הזה.
+flowers === פרחים
+What a pretty bed of wildflowers. === איזו ערוגת פרחי בר יפהפייה.
+An ordinary tree stands watch at the top of the hill. === עץ רגיל עומד על המשמר בראש הגבעה.
+There's a bit of undergrowth scattered around the base of the tree. === יש קצת סבך פזור סביב בסיס העץ.
+pinetree === עץ אורן
+There are many beautiful trees around Daventry. === ישנם עצים יפים רבים סביב דאבנטרי.
+pinetree2 === עץ אורן2
+treesOnBank === עצים על הגדה
+treesOnBank2 === עצים על הגדה2
+This natural rock bridge connects the Daventry mainland to a small island. === גשר סלע טבעי זה מחבר את היבשת של דאבנטרי לאי קטן.
+The water is particularly perilous as it passes downstream through this gully. === המים מסוכנים במיוחד כשהם עוברים במורד הזרם דרך הערוץ הזה.
+water2 === מים2
+The swift river gushes through this deep gully. === הנהר השוצף זורם במהירות דרך הערוץ העמוק הזה.
+This is a serene mountain lake with a small beach of pebbles on its edge. === זהו אגם הררי שליו עם חוף קטן של חלוקי נחל על שפתו.
+lake3 === אגם3
+sand === חול
+On the beach are some smooth pebbles. === על החוף ישנם כמה חלוקי נחל חלקים.
+There are many lush trees surrounding the lake. === ישנם עצים שופעים רבים המקיפים את האגם.
+spinning wheel === גלגל מסתובב
+pile of gold === ערימת זהב
+pile of straw === ערימת קש
+hole in tree === חור בעץ
+This hole, carved into the side of the rock, is the entrance to the gnome's home.__It's too dark inside to make out any details, and the gnome probably prefers it that way. === החור הזה, חרוט בצד הסלע, הוא הכניסה לביתו של הגמד. חשוך מדי בפנים מכדי להבחין בפרטים, והגמד כנראה מעדיף את זה כך.
+Several nice bushes and plants surround the gnome's home. === כמה שיחים וצמחים נחמדים מקיפים את בית הגמד.
+The small, rickety wooden bridge is very old, but quite solid enough to support many times your weight. === גשר העץ הקטן והרעוע ישן מאוד, אך מוצק מספיק כדי לשאת פי כמה ממשקלך.
+Many mature, graceful trees line the river's banks. === הרבה עצים בוגרים וחינניים מצפים את גדות הנהר.
+Why, look! It's a tiny little baby tree! === הו, תראו! זה עץ תינוק קטנטן!
+A number of ordinary rocks sit in a pile here by the riverside. === מספר סלעים רגילים יושבים בערימה כאן ליד גדת הנהר.
+This cluster of rocks by the river's edge controls the flow of the river. === צביר הסלעים הזה ליד שפת הנהר שולט על זרימת הנהר.
+A large, healthy bush sits by the river. === שיח גדול ובריא יושב ליד הנהר.
+The river ripples past the rocks. === הנהר מבעבע ליד הסלעים.
+A few rocks project above the surface of the wildly flowing river. === כמה סלעים בולטים מעל פני הנהר השוצף בפראות.
+The river gets to be rather rough around these parts. === הנהר נהיה די סוער באזורים האלה.
+You see lush plants and bushes throughout the kingdom of Daventry. === אתה רואה צמחים ושיחים שופעים בכל רחבי ממלכת דאבנטרי.
+The clear blue lake is surrounded by a pretty meadow. === האגם הכחול הצלול מוקף באחו יפהפה.
+It is an old stone bridge, worn smooth by the ravages of weather and time. === זהו גשר אבן ישן, שחוק וחלק מנזקי מזג האוויר והזמן.
+These rocky banks are damp and slippery.__Be careful not to come too close! === גדות סלעיות אלה לחות וחלקלקות. היזהר שלא להתקרב יותר מדי!
+oak tree === עץ אלון
+A stand of lovely golden oaks line the riverbank. === חורשה של עצי אלון זהובים ויפים מצופה את גדת הנהר.
+There is a beautiful pine tree by the clear blue lake. === יש עץ אורן יפה ליד האגם הכחול הצלול.
+oaktree2 === עץ אלון2
+oaktree3 === עץ אלון3
+Several pretty trees stand by the lakeside, offering shade and beauty to wandering adventurers. === כמה עצים יפים ניצבים ליד האגם, ומציעים צל ויופי להרפתקנים נודדים.
+Rocks lie along the edge of the lake, adding to the quiet serenity of the area. === סלעים שוכבים לאורך שפת האגם, ומוסיפים לשלווה השקטה של האזור.
+Some pretty flowering bushes grow in a bunch near the lake's edge. === כמה שיחי פריחה יפים גדלים בצרור ליד שפת האגם.
+There are still a few graceful pines standing near the woodcutter's cottage. === עדיין יש כמה עצי אורן חינניים העומדים ליד הבקתה של חוטב העצים.
+stump === גדם
+These tree stumps sit where mighty trees once stood. === גזעי עצים אלה ניצבים במקום שבו עמדו פעם עצים אדירים.
+porch === מרפסת
+This crude porch looks like it has seen better days. === המרפסת הגסה הזו נראית כאילו ראתה ימים טובים יותר.
+The trees were cut from these stumps years ago. === העצים נכרתו מהגזעים האלה לפני שנים.
+Bushes grow here and there around the front of the woodcutter's house. === שיחים גדלים פה ושם סביב חזית ביתו של חוטב העצים.
+The tree was cut from this stump long ago. === העץ נכרת מהגדם הזה לפני זמן רב.
+The chimney seems to be the only part of the cottage that doesn't need repairing. === הארובה נראית כחלק היחיד של הבקתה שאינו זקוק לתיקון.
+This old cottage is sagging and in great need of repair. === הבקתה הישנה הזו שוקעת ובצורך גדול בתיקון.
+log === בול עץ
+This log, felled long ago, awaits the woodcutter's fire. === הבול עץ הזה, שנפל מזמן, ממתין לאש של חוטב העצים.
+This beautiful pine tree adorns the woodcutter's back yard. === עץ אורן יפהפה זה מעטר את החצר האחורית של חוטב העצ
+Some large trees still overhang the woodcutter's house. === כמה עצים גדולים עדיין משתלשלים מעל ביתו של חוטב העצים.
+There is a moldering old stump here, rotting to pieces. === יש כאן גדם ישן ומתפורר, נרקב לחתיכות.
+The trees here are stunted and twisted.__They give you the heebie-jeebies. === העצים כאן ננסיים ומעוותים. הם מעניקים לך את תחושת העצבים.
+rocks === סלעים
+There are numerous small rocks and boulders in this part of the forest. === ישנם סלעים קטנים ובולדרים רבים בחלק זה של היער.
+Even in this slightly dismal part of the forest, the bushes grow well in the bright Daventry sun. === אפילו בחלק הקודר במקצת של היער הזה, השיחים גדלים היטב בשמש הבהירה של דאבנטרי.
+Several unimpressive little trees have grown in the sandy soil of the forest. === כמה עציצים קטנים ולא מרשימים גדלו באדמה החולית של היער.
+rock in river === סלע בנהר
+waterfall === מפל מים
+There's an impressive cliff here, overlooking the castle and the small waterfall. === יש כאן צוק מרשים, המשקיף על הטירה ועל המפל הקטן.
+This is just one of the many leafy bushes growing throughout the countryside. === זהו רק אחד משיחי העלווה הרבים הגדלים בכל רחבי הארץ.
+This is a wild and perilous raging river, filled with jagged boulders and treacherous rapids. === זהו נהר סוער ומסוכן ופראי, מלא בבולדרים משוננים ורפאי מים לבנים מסוכנים.
+An old tree hangs over the river's rapids. === עץ זקן תלוי מעל אשדי הנהר.
+This extremely old tree stump has nearly splintered completely away. === גדם העץ העתיק הזה כמעט התפצל לחלוטין.
+The steep face of the cliff is sheer, featureless rock. === פני הצוק התלולים הם סלע טהור וחסר תווי פנים.
+cliff2 === צוק2
+cliff3 === צוק3
+A small, commonplace bush grows by the hole in the ground. === שיח קטן ורגיל גדל ליד החור באדמה.
+Several small, ordinary rocks are scattered around the part of the forest. === כמה סלעים קטנים ורגילים מפוזרים בחלק זה של היער.
+Plenty of thick, healthy shrubbery grows here. === שפע של שיחים עבים ובריאים גדלים כאן.
+You've sunk your chances for saving Daventry. === הרסת את סיכוייך להציל את דאבנטרי.
+well === באר
+The sides of the well are damp and covered with algae and lichen. === דפנות הבאר לחות ומכוסות אצות וחזזיות.
+The well-water is cold and clear. === מי הבאר קרים וצלולים.
+This is a serene mountain lake. === זהו אגם הררי שליו.
+An old, dignified oak tree rests near the shore of the lake. === עץ אלון זקן ומכובד נח ליד חוף האגם.
+big rock === סלע גדול
+The roots of the oak are entwined around this craggy cluster of rocks. === שורשי האלון שזורים סביב צביר הסלעים המבותר הזה.
+small rock === סלע קטן
+A boulder sits at the side of lake, the water lapping gently against its sides. === בולדר יושב בצד האגם, המים מלחכים בעדינות את צדדיו.
+lake2 === אגם2
+root === שורש
+The roots of the oak spread out here to soak up water from the moist earth. === שורשי האלון מתפשטים כאן כדי לספוג מים מהאדמה הלחה.
+dragon === דרקון
+fire ball === כדור אש
+dagger === פגיון
+steam === אדים
+dragon's head === ראש דרקון
+Your shield melted from the intensity of the dragon's flames!__Looks like the dragon made an ash out of you. === המגן שלך נמס מעוצמת להבות הדרקון! נראה שהדרקון עשה ממך אפר.
+By venturing too close to the dragon's flame, you made an ash out of yourself. === כשהתקרבת מדי ללהבת הדרקון, עשית מעצמך אפר.
+weed === עשב שוטה
+chest === תיבה
+Well, well, well!__Water you going to do now? === נו, נו, נו! מה תעשה עכשיו?
+king === מלך
+royal subject === נתין מלכותי
+fan === מניפה
+person's head === ראש של אדם
+crowd === קהל
+cloud === ענן
+Thick, puffy clouds can be found everywhere you look up here, as you might expect! === עננים עבים ונפוחים ניתן למצוא בכל מקום שתביט למעלה כאן, כפי שאפשר לצפות!
+These weirdly-shaped trees tower over you. === העצים בעלי הצורה המוזרה האלה מתנשאים מעליך.
+Clouds rim the land here.__Wispy towards the edges, they appear to grow thicker in the distance. === עננים מקיפים את הארץ כאן. קלושים בקצוות, הם נראים מתעבים במרחק.
+giant === ענק
+The trees here are astonishingly tall; they loom over the land above the clouds.__You can barely see the tops! === העצים כאן גבוהים באופן מפתיע; הם מתנשאים מעל הארץ מעל העננים. בקושי ניתן לראות את צמרותיהם!
+tree4 === עץ4
+tree5 === עץ5
+tree6 === עץ6
+tree7 === עץ7
+tree8 === עץ8
+tree9 === עץ9
+Thick, cottony clouds surround the land up here, obscuring your view of Daventry far below. === עננים עבים ודמויי כותנה מקיפים את הארץ כאן, ומסתירים את נוף דאבנטרי הרחוק למטה.
+A totally typical example of the trees in this forest. === דוגמה טיפוסית לחלוטין לעצים ביער הזה.
+You've found a bush, but there isn't a quail in the game. === מצאת שיח, אבל אין שליו במשחק.
+farBush1 === שיח רחוק1
+A distinctively common tree sits near the shore of the lake. === עץ נפוץ באופן מובהק יושב ליד חוף האגם.
+You can just see the northern edge of a nearby lake. === אתה יכול לראות רק את הקצה הצפוני של אגם סמוך.
+There's a single large rock sitting off to the side. === יש סלע גדול יחיד שיושב בצד.
+The colossal, weirdly-shaped trees loom far overhead. === העצים העצומים, בעלי הצורה המוזרה, מתנשאים מעל.
+The land trails off into the thick clouds here; though they look almost solid, you'd best be careful where you walk. === האדמה משתרעת אל תוך העננים העבים כאן; למרות שהם נראים כמעט מוצקים, מוטב שתהיה זהיר היכן אתה דורך.
+These gigantic, weirdly-shaped trees tower over you. === העצים הענקיים והמוזרים האלה מתנשאים מעליך.
+The clouds drift over the edge of the land here, making it impossible to see where the land ends!__Though the clouds look very thick, it would be unwise to venture too far out into them. === העננים נסחפים מעל קצה הארץ כאן, ומונעים לראות היכן נגמרת היבשה! למרות שהעננים נראים עבים מאוד, יהיה לא חכם להרפתק יותר מדי לתוכם.
+The immense, oddly-shaped trees loom over you. === העצים העצומים, בעלי הצורה המוזרה, מתנשאים מעליך.
+There is a small, dark hole in the base of this tree. === יש חור קטן וכהה בבסיס העץ הזה.
+You can barely make out the cave opening to the north. === אתה בקושי מבחין בפתח המערה מצפון.
+The dense clouds start to flow over the land here.__Somewhere just out in those clouds the land comes to an end; better be careful where you walk! === העננים הצפופים מתחילים לזרום מעל הארץ כאן. אי שם ממש בתוך העננים האלה האדמה מגיעה לסופה; מוטב שתהיה זהיר היכן אתה דורך!
+golden egg === ביצת זהב
+swoosh === שקשוק
+Up here in the tree, the main trunk is bent enough to allow you to walk carefully along its length. The leaves and branches hide the ground from view. === כאן בעץ, הגזע הראשי כפוף מספיק כדי לאפשר לך ללכת בזהירות לאורכו. העלים והענפים מסתירים את הקרקע מהעין.
+nest === קן
+cheese === גבינה
+bars === סורגים
+bed === מיטה
+bedroomTable === שולחן חדר שינה
+table === שולחן
+That is the table where the witch eats her food, whatever... or WHOever...that is! === זהו השולחן שבו המכשפה אוכלת את מזונה, מה שזה לא יהיה... או מי שזה לא יהיה!
+spider web === קורי עכביש
+pot === סיר
+The pot is hot enough to burn your hand.__The fire must have been burning for a long time. === הסיר חם מספיק כדי לשרוף את ידך. האש בטח בערה זמן רב.
+wall === קיר
+The walls of this cave are rough and craggy. === קירות המערה הזו מחוספסים וסלעיים.
+ceiling === תקרה
+The ceiling is low and rough here. === התקרה נמוכה ומחוספסת כאן.
+arch === קשת
+The cave appears to open up into a larger chamber that reaches deep into the mountain. === נראה שהמערה נפתחת לחדר גדול יותר המגיע עמוק לתוך ההר.
+overhead walkway === שביל עילי
+There is a wooden walkway suspended from the cave's ceiling. === יש שביל עץ תלוי מתקרת המערה.
+cave === מערה
+You can't see much of anything in the dark cave. === אינך רואה כמעט דבר במערה החשוכה.
+A majestic old tree stands nearby. === עץ זקן ומלכותי עומד בקרבת מקום.
+A small spring bubbles up from the rocks here and splashes into the lake. === מעיין קטן מבעבע מהסלעים כאן ונשפך לאגם.
+This is a beautiful little lake. === זהו אגם קטן ויפה.
+This is just one of the many small trees adorning Daventry's countryside. === זהו רק אחד מהעצים הקטנים הרבים המעטרים את נוף דאבנטרי.
+Pleasant little bushes grow around the spring-fed lake. === שיחים קטנים ונעימים גדלים סביב האגם הניזון ממעיינות.
+These rocks must lead to some sort of underground spring.__You remind yourself to explore their nooks and crannies sometime...when you don't have so much work to do! === הסלעים האלה בטח מובילים לאיזשהו מעיין תת-קרקעי. אתה מזכיר לעצמך לחקור את הפינות והחריצים שלהם מתישהו... כשאין לך כל כך הרבה עבודה לעשות!
+rock2 === סלע2
+stalk === גבעול
+The beanstalk must be ten feet around!__It's incredibly tall...so tall that it vanishes in the clouds far, far above you.__There are plenty of footholds among the vines and offshoots of the beanstalk's stem. === גבעול השעועית בטח עשרה רגל מסביב! הוא גבוה להפליא... כל כך גבוה שהוא נעלם בעננים הרחק, הרחק מעליך. ישנם הרבה נקודות אחיזה בין הגפנים וההסתעפויות של גבעול השעועית.
+In the distance, and far above you, you can see heavy, dense clouds in streaks across the sky.__You think they're cumulus clouds, but it's been a long time since you went to Daventry High School. === במרחק, ורחוק מעליך, אתה יכול לראות עננים כבדים וצפופים בכתמים על פני השמיים. אתה חושב שהם ענני קומולוס, אבל עבר זמן רב מאז שהלכת לתיכון דאבנטרי.
+You can see neither the top nor the bottom of the gigantic beanstalk you're clinging to.__The ropey green vines easily hold your weight, and the massive main stem winds gently upward. === אינך יכול לראות לא את קצהו ולא את תחתיתו של גבעול השעועית הענק שאתה נאחז בו. הגפנים הירוקים החבלים מחזיקים בקלות את משקלך, והגזע הראשי העצום מתפתל בעדינות כלפי מעלה.
+There are clouds all around you.__You can see neither the land below you nor the top of the beanstalk above you.__In fact, there's little to see up here but clouds and the occasional bird. === יש עננים סביבך. אינך יכול לראות לא את הארץ שמתחתיך ולא את קצה גבעול השעועית שמעליך. למעשה, יש מעט מאוד לראות כאן מלבד עננים וציפור מזדמנת.
+At long last, you see the tip of the beanstalk, thinning and curling as it emerges from the cloud layer below. === סוף סוף, אתה רואה את קצה גבעול השעועית, הולך וצר ומתפתל כשהוא יוצא משכבת העננים שמתחת.
+What a beautiful sight!__The clouds stretch out in every direction beyond you; near the beanstalk, they even seem thick enough to stand on! === איזה מראה יפהפה! העננים משתרעים לכל כיוון מעבר לך; ליד גבעול השעועית, הם אפילו נראים עבים מספיק כדי לעמוד עליהם!
+drip === טפטוף
+light === אור
+You can see a circle of light on the floor of the cave, shining down from the hole above. === אתה רואה עיגול אור על רצפת המערה, זורח מטה מהחור שמעל.
+sunbeam === קרן שמש
+A shaft of sunlight from above pierces the gloom of the cave. === קרן אור שמש מלמעלה חודרת את עגמומיות המערה.
+The walls of this cave are damp and moldy. === קירות המערה הזו לחים ומכוסים עובש.
+wall2 === קיר2
+stalactite === נטיף
+These rock formations were slowly created over thousands of years. === תצורות סלע אלו נוצרו לאט לאורך אלפי שנים.
+stalactite2 === נטיף2
+torch === לפיד
+To the north, you can still see the light shining through the hole in the ceiling. === מצפון, אתה עדיין יכול לראות את האור זורח דרך החור בתקרה.
+rat gut === קרבי עכברוש
+rat's eyes === עיני עכברוש
+eyeball === עין
+Rats!__This was one shady character you shouldn't have tangled with. === עכברושים! זו הייתה דמות מפוקפקת שלא היית צריך להתעסק איתה.
+getHim! === תפוס אותו!
+leprechaun === ליפרקון
+The huge wooden columns help support the cave ceiling. === העמודים העצומים מעץ עוזרים לתמוך בתקרת המערה.
+log5 === בול עץ5
+The light shines through a small hole. === האור זורח דרך חור קטן.
+woodcutter's wife === אשתו של חוטב העצים
+woodcutter === חוטב עצים
+pitcher === כד מים
+cupboard === ארון מטבח
+There is a rickety old cupboard on the wall. === יש ארון מטבח ישן ורעוע על הקיר.
+A large fire burns merrily in the fireplace, providing some warmth in the drafty old cottage. === אש גדולה בוערת בעליצות באח, ומספקת קצת חום בבקתה הישנה והקרה.
+fireplace === אח
+rug === שטיח
+There is a small, threadbare carpet on the floor. === יש שטיח קטן ובלוי על הרצפה.
+nightstand === שידת לילה
+The old nightstand is nothing more than a small plain table at the foot of the bed. === שידת הלילה הישנה אינה אלא שולחן קטן ופשוט למרגלות המיטה.
+Graceful willows adorn the lake. === עצי ערבה חינניים מעטרים את האגם.
+A small, ordinary tree juts up from between the rocks. === עץ קטן ורגיל בולט מבין הסלעים.
+underbrush === שיחים
+The underbrush around the trees is home to many small furry creatures, none of which concern you at the moment. === הסבך סביב העצים הוא ביתם של יצורים פרוותיים קטנים רבים, שאף אחד מהם אינו מעסיק אותך כרגע.
+Small bushes thrive by the clear little lake. === שיחים קטנים משגשגים ליד האגם הקטן והצלול.
+condor === קונדור
+A sturdy stone bridge has been built here to span the moat. === גשר אבן יציב נבנה כאן כדי לחצות את החפיר.
+The forest is slowly encroaching on the castle grounds; there are tall, ancient trees everywhere you look. === היער פולש לאט לאט לשטח הטירה; ישנם עצים גבוהים ועתיקים בכל מקום שאתה מסתכל.
+fairy godmother === פיה סנדקית
+smalltree1 === עץ קטן1
+Many beautiful trees adorn the green countryside. === עצים יפים רבים מעטרים את נוף הכפר הירוק.
+The witch has turned you into a gingerbread man.__Or is that a Graham cracker? === המכשפה הפכה אותך לאיש ג'ינג'ר. או שזה קרקר גרהם?
+__Save__ === שמור
+Replace === החלף
+Select the game that you would like to restore. === בחר את המשחק שברצונך לשחזר.
+Type the description of this saved game. === הקלד את תיאור המשחק השמור הזה.
+This directory/disk can hold no more saved games. You must replace one of your saved games or use Change Directory to save on a different directory/disk. === תיקייה/דיסק זה אינו יכול להכיל עוד משחקים שמורים. עליך להחליף אחד מהמשחקים השמורים שלך או להשתמש ב"שנה תיקייה" כדי לשמור בתיקייה/דיסק אחר.
+Restore a Game === שחזר משחק
+Save a Game === שמור משחק
+ Cancel  === בטל
+Change\0d\nDirectory === שנה\0d\nתיקייה
+with: === עם:
+The mushroom wore off and you enlarged.__But you can't squeeze a five-foot Knight into a 6-inch hole! === הפטריה התפוגגה והתנפחת. אבל אינך יכול לדחוס אביר בגובה חמישה רגל לתוך חור בגודל 6 אינץ'!
+Enter input === הכנס קלט

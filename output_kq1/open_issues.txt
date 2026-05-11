@@ -1,0 +1,4 @@
+Place of text in buttons start screen.
+Translation of start screen.
+Built-in messages: Compile all or edit binary file.
+

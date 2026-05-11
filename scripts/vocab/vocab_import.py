@@ -12,6 +12,7 @@ from vocab_export import write_csv
 VOCAB_NEW = 'vocab.000'
 VOCAB_OLD = 'vocab.000'
 ENCODING = 'windows-1255'
+DEFAULT_OUTPUT_VOCAB_FILE = 'vocab.000'
 
 
 classes = {
@@ -61,7 +62,7 @@ def read_csv_file(csvdir):
     warnings_duplicates = []
     entries = []
     count_duplicated = 0
-    for entry in vocab:
+    for csv_line_num, entry in enumerate(vocab, start=2):
         new_entry = {'rooms': set([int(room) for room in entry['rooms'].replace("in ", "").split(',')] if entry['rooms'] else []),
                      'cls': get_class(entry['class'])}
         if entry['group'] == '':
@@ -84,7 +85,7 @@ def read_csv_file(csvdir):
                 new_entry['words'].append(word)
             #elif entry['rooms']:    # ignore duplicated that aren't used in any room
             else:
-                print(f"Duplicate revert word found: {word[::-1] } in group: {entry['group']}")
+                print(f"Duplicate revert word found: {word[::-1] } in group: {entry['group']} (csv line: {csv_line_num})")
                 duplicated = word
                 count_duplicated += 1
 
@@ -115,7 +116,7 @@ def read_csv_file(csvdir):
     return entries
 
 
-def write_vocab_file(entries, patchesdir, output_game_dir):
+def write_vocab_file(entries, patchesdir, output_game_dir, output_vocab_file):
     binary_vocab = [0x86, 0x00]  # vocab signature
     # vocab.900 starts with 255 16-bit pointers
     # save place for them, we'll return to them later
@@ -169,17 +170,17 @@ def write_vocab_file(entries, patchesdir, output_game_dir):
         binary_vocab[i+1] = pointer // 0x100
         i += 2
 
-    output_file1 = os.path.join(patchesdir, VOCAB_OLD)
-    (Path(output_game_dir) / VOCAB_OLD).unlink(missing_ok=True)
-    output_file2 = os.path.join(output_game_dir, VOCAB_NEW)
+    output_file1 = os.path.join(patchesdir, output_vocab_file)
+    (Path(output_game_dir) / output_vocab_file).unlink(missing_ok=True)
+    output_file2 = os.path.join(output_game_dir, output_vocab_file)
     with open(output_file1, "wb") as out_file:
         out_file.write(bytes(binary_vocab))
     shutil.copyfile(output_file1, output_file2)
 
 
-def vocab_import(csvdir, patchesdir, output_game_dir, debug):
+def vocab_import(csvdir, patchesdir, output_game_dir, output_vocab_file, debug):
     entries = read_csv_file(csvdir)
-    write_vocab_file(entries, patchesdir, output_game_dir)
+    write_vocab_file(entries, patchesdir, output_game_dir, output_vocab_file)
     if debug:
         def expand(e):
             e['hex_group'] = hex(e['group'])
@@ -194,10 +195,12 @@ if __name__ == "__main__":
     parser.add_argument("csvdir", help=f"directory to read {config.vocab_csv_filename} from")
     parser.add_argument("patchesdir", help="directory to write the texts patches files to")
     parser.add_argument("output_game_dir", help="copy of 'input_game_dir', that will be modified by this script, and manually recompiled in SCICompanion")
+    parser.add_argument("--output-vocab-file", default=DEFAULT_OUTPUT_VOCAB_FILE,
+                        help="output vocab filename to write in both patchesdir and output_game_dir")
     parser.add_argument("--debug", action='store_true', help="create debug files")
     args = parser.parse_args()
 
-    vocab_import(args.csvdir, args.patchesdir, args.output_game_dir, args.debug)
+    vocab_import(args.csvdir, args.patchesdir, args.output_game_dir, args.output_vocab_file, args.debug)
 
 
 
