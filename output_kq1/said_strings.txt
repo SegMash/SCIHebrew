@@ -1,0 +1,71 @@
+0x2b24	Turn Off
+0x2b2d	Turn On
+0x2b35	Debug
+0x2b3b	Gold Walnut
+0x2b49	When you open the walnut, you discover the nut inside is pure gold!
+0x2b8d	This large ceramic bowl is now empty.
+0x2bb3	This large ceramic bowl is now filled with a savory beef stew.
+0x2bf2	Unknown word
+0x2bff	Couldn't parse
+0x2c0e	No response
+0x2c1a	kq1
+0x2c1e	מסע המלך 1
+0x2c2d	statusCode
+0x2c38	ego
+0x2c3c	goat
+0x2c41	menace
+0x2c48	ogre
+0x2c4d	wolf
+0x2c52	troll
+0x2c58	witch
+0x2c5e	dwarf
+0x2c64	פגיון
+0x2c6d	זהו פגיון כסף משובח, עם להב חד מאד!
+0x2ca3	Chest
+0x2cab	This Magic chest, one of the three lost treasures of Daventry, is always filled with gold coins.
+0x2d0c	Carrot
+0x2d15	This looks like an ordinary carrot.
+0x2d39	Key
+0x2d3f	This is a simple gold key.
+0x2d5a	Note
+0x2d61	There is a message written on the note: "Sometimes it is wise to think backwards."
+0x2db4	Magic Ring
+0x2dc1	Your hand tingles slightly as you look at this jewelled ring.
+0x2dff	Four-leaf Clover
+0x2e12	You are holding a large four-leaf clover.
+0x2e3c	Ceramic Bowl
+0x2e4b	Inscribed on the inside of this empty ceramic bowl is the word "Fill."
+0x2e92	Empty Water Bucket
+0x2ea7	You are holding an empty wooden bucket.
+0x2ecf	חלוקי נחל
+0x2ed9	You have a pocketful of smooth, rounded pebbles.
+0x2f0a	Leather Slingshot
+0x2f1e	This is a small but sturdy slingshot.
+0x2f44	Pouch
+0x2f4c	You are holding a plain leather pouch.
+0x2f73	Sceptre
+0x2f7d	This jewelled sceptre belongs to the King of the Leprechauns.
+0x2fbb	Cheese
+0x2fc4	This is an extremely fragrant piece of Swiss cheese.
+0x2ff9	Magic Mirror
+0x3008	This is the magic mirror, one of the three treasures of Daventry.
+0x304a	Gold Egg
+0x3055	You are holding a lovely golden egg.
+0x307a	Magic Shield
+0x3089	This is the magic shield, one of the three treasures of Daventry.
+0x30cb	Fiddle
+0x30d4	This is the woodcutter's old fiddle.
+0x30f9	Walnut
+0x3102	You are holding an ordinary walnut.
+0x3126	Mushroom
+0x3131	This is a small, unusual-looking mushroom.
+0x315c	Beans
+0x3164	You are holding a handful of small beans.
+0x318e	logFile
+0x3196	kqWindow
+0x319f	Full Water Bucket
+0x31b3	This old wooden bucket is now filled with clear water.
+0x31ea	לשחזר
+0x31f2	לאתחל
+0x31fc	לצאת
+0x3203	Pebble
