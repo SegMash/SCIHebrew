@@ -98,12 +98,12 @@ You are holding a handful of small beans. === אתה מחזיק חופן של ש
  File  === קובץ
  Save Game`#5: Restore Game`#7: --!: Restart Game`#9: Quit`^q  === שמור משחק#5: שחזר משחק#7: --!: הפעל משחק מחדש#9: יציאה^q
  Action  === פעולה
- Duck`#4: Jump`#6: --!: Pause Game`^p: Inventory`^I: Retype`#3  === Duck`#4: Jump`#6: --!: Pause Game`^p: Inventory`^I: Retype`#3 
- Speed  ===  Speed 
- Change...`^s: --!: Faster`+: Normal`=: Slower`-  ===  Change...`^s: --!: Faster`+: Normal`=: Slower`- 
- Sound  ===  Sound 
- Volume...`^v: Turn sound Off`#2=1  ===  Volume...`^v: Turn sound Off`#2=1 
- Volume...`^v: Turn sound On`#2=0  ===  Volume...`^v: Turn sound On`#2=0 
+ Duck`#4: Jump`#6: --!: Pause Game`^p: Inventory`^I: Retype`#3  === להתכופף`#4: לקפוץ`#6: --!: להשהות`^p: מלאי`^I: פקודה אחרונה`#3 
+ Speed  ===  מהירות 
+ Change...`^s: --!: Faster`+: Normal`=: Slower`-  ===  לשנות...`^s: --!: מהיר`+: רגיל`=: איטי`- 
+ Sound  ===  צלילים 
+ Volume...`^v: Turn sound Off`#2=1  ===  גובה צליל...`^v: הפעל צלילים`#2=1 
+ Volume...`^v: Turn sound On`#2=0  ===  גובה צליל...`^v: כבה צלילים`#2=0 
 jump === קפוץ
 This game is paused. === המשחק מושהה.
 Let's continue. === בוא נמשיך.

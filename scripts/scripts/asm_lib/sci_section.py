@@ -89,15 +89,22 @@ class SciSection:
             result += '''\n ; This section is automatically created on assembling, regardless of the content written here
  ; the following is only for informative purposes'''
             result += f'\nnum of pointers: {len(self.pointers)}'
-            for pointer in self.pointers.values():
-                if pointer['obj'].kind in [SectionKind.OBJECT, SectionKind.CLASS]:
-                    result += f"\n; {repr(pointer['obj'])} selector #{pointer['selector_i']}"
-                elif pointer['obj'].kind == SectionKind.CODE:
-                    result += f"\n; {repr(pointer['instr'])}"
-                elif pointer['obj'].kind == SectionKind.LOCAL_VARS:
-                    result += f"\n; {repr(pointer['obj'])} var #{pointer['index']} val: {pointer['var']['val']}, id: {pointer['var']['id']}"
+            for pointer_offset, pointer in self.pointers.items():
+                # Handle both False (unused) and dict (used) values
+                if isinstance(pointer, dict):
+                    if pointer['obj'].kind in [SectionKind.OBJECT, SectionKind.CLASS]:
+                        result += f"\n; {repr(pointer['obj'])} selector #{pointer['selector_i']}"
+                    elif pointer['obj'].kind == SectionKind.CODE:
+                        result += f"\n; {repr(pointer['instr'])}"
+                    elif pointer['obj'].kind == SectionKind.LOCAL_VARS:
+                        result += f"\n; {repr(pointer['obj'])} var #{pointer['index']} val: {pointer['var']['val']}, id: {pointer['var']['id']}"
+                    else:
+                        raise NotImplementedError
+                elif pointer is False or pointer is True:
+                    # Unused or marked pointer
+                    pass
                 else:
-                    raise NotImplementedError
+                    result += f"\n; Pointer at {hex(pointer_offset)}: {pointer}"
         elif self.kind == SectionKind.PRELOAD_TEXT:
             pass
         elif self.kind == SectionKind.LOCAL_VARS:
@@ -108,6 +115,16 @@ class SciSection:
                     return str(a)
 
             result += '\n' + ', '.join([safe_hex(i) for i in self.local_vars])
+        elif self.kind == SectionKind.SAID:
+            result += '\n; SAID section'
+            result += f'\nData length: {len(self.data)} bytes'
+            for offset in sorted(getattr(self, 'said_entries', {}).keys()):
+                entry = self.said_entries[offset]
+                result += f'\n{entry["id"]}: ; @{hex(offset)} (+0x{entry["local_offset"]:x})'
+                result += f'\n;   {entry["text"]}'
+        elif self.kind == SectionKind.SYNONYMS:
+            result += '\n; SYNONYMS section (not disassembled)'
+            result += f'\nData length: {len(self.data)} bytes'
         else:
             print(self.kind)
             raise NotImplementedError

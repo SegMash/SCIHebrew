@@ -60,8 +60,11 @@ class Kernels:
                 self.kernels = [k.decode() for k in kernels_b[2:].split(b'\0') if k]
                 (target / 'kernels.csv').write_text('\n'.join([f'{id}, {k}' for id, k in enumerate(self.kernels)]))
             except FileNotFoundError:
-                # SQ6 doesn't have this file, copy from SQ1VGA
-                shutil.copyfile(get_scripts_directory() / 'kernels.csv', target / 'kernels.csv')
+                # 999.voc doesn't exist, copy default kernels.csv and read from it
+                default_kernels_path = get_scripts_directory() / 'kernels.csv'
+                shutil.copyfile(default_kernels_path, target / 'kernels.csv')
+                kernels_csv = default_kernels_path.read_text().splitlines()
+                self.kernels = [k.split(',')[1].strip() for k in kernels_csv]
         else:
             kernels_file = Path(srcdir) / 'kernels.csv'
             kernels_csv = kernels_file.read_text().splitlines()

@@ -4,4 +4,6 @@ Built-in messages: Compile all or edit binary file.
 Main script - compilation issues.
 rgTroll - compilation issues
 rm18 - compilation issues
-
+translate אתה נושא
+Inscribed on the inside of thi: ...
+View "fill"
