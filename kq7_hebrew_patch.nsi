@@ -34,16 +34,14 @@ VIAddVersionKey "LegalCopyright" "Hebrew Translation Team"
 ; Custom Hebrew text
 !define MUI_WELCOMEPAGE_TITLE "ברוכים הבאים להתקנת התרגום העברי"
 !define MUI_WELCOMEPAGE_TEXT "אשף זה ידריך אותך בהתקנת התרגום העברי למשחק King's Quest VII.$\r$\n$\r$\nלחץ 'הבא' כדי להמשיך."
-!define MUI_COMPONENTSPAGE_TEXT_TOP "ניתן לבחור האם להחיל גם את תיקון התנועה המהירה (Fast Move)."
 !define MUI_DIRECTORYPAGE_TEXT_TOP "בחר את תיקיית המשחק שבה מותקן King's Quest VII."
 !define MUI_FINISHPAGE_TITLE "ההתקנה הושלמה בהצלחה"
-!define MUI_FINISHPAGE_TEXT "התרגום העברי הותקן בהצלחה.$\r$\n$\r$\nלחץ 'סיום' כדי לסגור אשף זה."
+!define MUI_FINISHPAGE_TEXT "התרגום העברי הותקן בהצלחה.$\r$\n$\r$\nכדי לשחק במשחק, פתח את ScummVM ובחר ב-kq7-heb / King's Quest VII: The Princeless Bride (DOS/Hebrew).$\r$\n$\r$\nהמשחק יתחיל אוטומטית עם כתוביות בעברית.$\r$\n$\r$\nלחץ 'סיום' כדי לסגור אשף זה."
 
 ;--------------------------------
 ; Pages
 
 !insertmacro MUI_PAGE_WELCOME
-!insertmacro MUI_PAGE_COMPONENTS
 !define MUI_PAGE_CUSTOMFUNCTION_LEAVE CheckAlreadyInstalled
 !insertmacro MUI_PAGE_DIRECTORY
 !insertmacro MUI_PAGE_INSTFILES
@@ -246,6 +244,37 @@ Section "King's Quest VII Hebrew Patch" SecMain
   File "games_assets\kq7\fastMove\64998.HEP"
   File "games_assets\kq7\fastMove\64998.SCR"
 
+  ; Update ScummVM configuration
+  ReadEnvStr $1 "APPDATA"
+  StrCpy $2 "$1\ScummVM\scummvm.ini"
+  
+  ; Create ScummVM directory if it doesn't exist
+  CreateDirectory "$1\ScummVM"
+  
+  ; Check if [kq7-heb] section already exists
+  ReadINIStr $3 "$2" "kq7-heb" "gameid"
+  StrCmp $3 "" 0 update_subtitles
+  
+  ; Write [kq7-heb] section to scummvm.ini only if it doesn't exist
+  WriteINIStr "$2" "kq7-heb" "platform" "pc"
+  WriteINIStr "$2" "kq7-heb" "enable_hq_video" "true"
+  WriteINIStr "$2" "kq7-heb" "gameid" "kq7"
+  WriteINIStr "$2" "kq7-heb" "description" "King's Quest VII: The Princeless Bride (DOS/Hebrew)"
+  WriteINIStr "$2" "kq7-heb" "language" "he"
+  WriteINIStr "$2" "kq7-heb" "gmm_save_enabled" "false"
+  WriteINIStr "$2" "kq7-heb" "path" "$INSTDIR"
+  WriteINIStr "$2" "kq7-heb" "enable_video_upscale" "true"
+  WriteINIStr "$2" "kq7-heb" "engineid" "sci"
+  WriteINIStr "$2" "kq7-heb" "guioptions" "noAspect sndLinkMusicToSfx sndLinkSpeechToSfx gameOptionA gameOptionD gameOptionI lang_English plat_pc"
+  WriteINIStr "$2" "kq7-heb" "subtitles" "true"
+  Goto skip_scummvm_config
+  
+  update_subtitles:
+  ; If section exists, at least update subtitles to true
+  WriteINIStr "$2" "kq7-heb" "subtitles" "true"
+  
+  skip_scummvm_config:
+
   ; Marker + uninstall metadata
   FileOpen $0 "$INSTDIR\hebrew_patch_installed_kq7.dat" w
   FileWrite $0 "KQ7 Hebrew Patch installed"
@@ -259,12 +288,6 @@ Section "King's Quest VII Hebrew Patch" SecMain
   WriteRegDWORD HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\KQ7_Hebrew_Patch" "NoModify" 1
   WriteRegDWORD HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\KQ7_Hebrew_Patch" "NoRepair" 1
 
-SectionEnd
-
-Section /o "Fast Move (copy fastMove files into PATCHES)" SecFastMove
-  SetOverwrite try
-  !insertmacro BackupAndInstallTo "64998.HEP" "PATCHES" "games_assets\kq7\fastMove"
-  !insertmacro BackupAndInstallTo "64998.SCR" "PATCHES" "games_assets\kq7\fastMove"
 SectionEnd
 
 ;--------------------------------
@@ -380,10 +403,6 @@ Section "Uninstall"
   !insertmacro UninstallFileFrom "91.txt" "PATCHES"
   !insertmacro UninstallFileFrom "911.txt" "PATCHES"
 
-  ; Optional fast move files from PATCHES
-  !insertmacro UninstallFileFrom "64998.HEP" "PATCHES"
-  !insertmacro UninstallFileFrom "64998.SCR" "PATCHES"
-
   ; RBT files from AVI
   !insertmacro UninstallFileFrom "91.RBT" "AVI"
   !insertmacro UninstallFileFrom "911.RBT" "AVI"
@@ -401,6 +420,11 @@ Section "Uninstall"
 
   Delete "$INSTDIR\hebrew_patch_installed_kq7.dat"
   Delete "$INSTDIR\Uninstall_KQ7_Hebrew_Patch.exe"
+
+  ; Remove ScummVM configuration section
+  ReadEnvStr $1 "APPDATA"
+  StrCpy $2 "$1\ScummVM\scummvm.ini"
+  DeleteINISec "$2" "kq7-heb"
 
   DeleteRegKey HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\KQ7_Hebrew_Patch"
   DeleteRegKey HKLM "Software\KQ7_Hebrew_Patch"

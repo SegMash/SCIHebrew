@@ -132,7 +132,9 @@ git config --global --unset http.proxy; git config --global --unset https.proxy
     re-struct the project
     cd dists\msvc
     .\create_project ..\.. --msvc --enable-fluidlite
-    (make sure compilation is ok)
+    cd ..
+    cd ..
+    (recomopile all project takes ~20 minutes - make sure compilation is ok) 
     git add .
     git commit -m "SCI: Add detection for the Hebrew fanmade translation of KQ<?>"
 
