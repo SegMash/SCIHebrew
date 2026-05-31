@@ -12941,7 +12941,7 @@
       "logicFile": 5050,
       "messageNumber": 10,
       "original": "\"Not unless you have found my Treasure.\"",
-      "translation": "\"לא. אלא אם כן מצאת את האוצר שלי.\"",
+      "translation": "\"לא. אלא אם כן תמצאי את האוצר שלי.\"",
       "notes": "",
       "placeholders": []
     },
@@ -13253,7 +13253,7 @@
       "logicFile": 5050,
       "messageNumber": 49,
       "original": "\"I cannot thank you enough, good lady. Here, allow me to present you with this. It is my newest aquisition, and I want you to have it.\"",
-      "translation": "\"אני לי מושג כיצד להודות לך, גברתי הטובה. הנה, הרשי לי להציג בפנייך את זה. זה הרכש החדש ביותר שלי, ואני רוצה שזה יהיה שלך.\"",
+      "translation": "\"אין לי מושג כיצד להודות לך, גברתי הטובה. הנה, הרשי לי להציג בפנייך את זה. זה הרכש החדש ביותר שלי, ואני רוצה שזה יהיה שלך.\"",
       "notes": "",
       "placeholders": []
     },
@@ -14125,7 +14125,7 @@
       "logicFile": 5300,
       "messageNumber": 38,
       "original": "\"Oh, that'th what they all thay. Then the nextht thing you know, they're  robbing the thity blind.\"",
-      "translation": "\"הו, את זה כולם אומרים. ואז את מגלה, שהם שודדים את העיר עד היסוד.\"",
+      "translation": "\"הו, את זה כולם אומרים. ואז אתה מגלה, שהם שודדים את העיר עד היסוד.\"",
       "notes": "",
       "placeholders": []
     },
