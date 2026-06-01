@@ -12,3 +12,8 @@ REM python.exe .\scripts\scripts\replace_strings.py .\kq1_new\src .\kq1_new\src_
 
 REM makensis.exe .\kq1_hebrew_patch.nsi
 REM powershell -Command "(Get-FileHash -Algorithm MD5 'games_assets\kq1\bin\font.000').Hash.ToLower()"
+
+REM open issues:
+REM - go over all messages.
+REM - tranalte banner 913- Quest For the Crown - to Hebrew. המסע אל הכתר 
+REM - 

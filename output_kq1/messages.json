@@ -13,7 +13,7 @@
       "logicFile": "built-in",
       "messageNumber": 1,
       "original": "beanstalk",
-      "translation": "גבעול שעועית",
+      "translation": "גבעול אפונה",
       "notes": "",
       "placeholders": []
     },
@@ -370,7 +370,7 @@
       "logicFile": "built-in",
       "messageNumber": 45,
       "original": "When you open the walnut, you discover the nut inside is pure gold!",
-      "translation": "כשאתה פותח את אגוז המלך, אתה מגלה שהאגוז בפנים הוא זהב טהור!",
+      "translation": "כשאתה פותח את אגוז המלך, אתה מגלה שהאגוז בפנים עשוי זהב טהור!",
       "notes": "",
       "placeholders": []
     },
@@ -1498,7 +1498,7 @@
       "logicFile": "built-in",
       "messageNumber": 186,
       "original": "The surrounding boulders and trees are reflected on the small, mirror-like lake.",
-      "translation": "הבולדרים והעצים מסביב משתקפים על האגם הקטן דמוי המראה.",
+      "translation": "הסלעים והעצים שמסביב משתקפים באגם הקטן דמוי המראה.",
       "notes": "",
       "placeholders": []
     },
@@ -1570,7 +1570,7 @@
       "logicFile": "built-in",
       "messageNumber": 195,
       "original": "A jumble of clover grows in this patch of the forest.",
-      "translation": "ערבוביה של תלתן גדלה בערוגה זו של היער.",
+      "translation": "כר של פרחי תלתן צומח בחלקה זו של היער.",
       "notes": "",
       "placeholders": []
     },
@@ -1690,7 +1690,7 @@
       "logicFile": "built-in",
       "messageNumber": 210,
       "original": "The stream appears placid enough, but appearances can be deceiving.",
-      "translation": "הנחל נראה רגוע מספיק, אבל מראות יכולים להטעות.",
+      "translation": "הנחל נראה רגוע מספיק, אבל המראה יכול להטעות.",
       "notes": "",
       "placeholders": []
     },
@@ -2394,7 +2394,7 @@
       "logicFile": "built-in",
       "messageNumber": 298,
       "original": "This natural rock bridge connects the Daventry mainland to a small island.",
-      "translation": "גשר סלע טבעי זה מחבר את היבשת של דבנטרי לאי קטן.",
+      "translation": "גשר סלע טבעי זה מחבר את יבשת דבנטרי לאי קטן.",
       "notes": "",
       "placeholders": []
     },
@@ -2402,7 +2402,7 @@
       "logicFile": "built-in",
       "messageNumber": 299,
       "original": "The water is particularly perilous as it passes downstream through this gully.",
-      "translation": "המים מסוכנים במיוחד כשהם עוברים במורד הזרם דרך הערוץ הזה.",
+      "translation": "המים מסוכנים במיוחד כשהם זורמים במורד הנהר דרך הערוץ הזה.",
       "notes": "",
       "placeholders": []
     },
@@ -2586,7 +2586,7 @@
       "logicFile": "built-in",
       "messageNumber": 322,
       "original": "You see lush plants and bushes throughout the kingdom of Daventry.",
-      "translation": "אתה רואה צמחים ושיחים שופעים בכל רחבי ממלכת דבנטרי.",
+      "translation": "אתה רואה צמחים ושיחים שופעים ברחבי ממלכת דבנטרי.",
       "notes": "",
       "placeholders": []
     },
@@ -2594,7 +2594,7 @@
       "logicFile": "built-in",
       "messageNumber": 323,
       "original": "The clear blue lake is surrounded by a pretty meadow.",
-      "translation": "האגם הכחול הצלול מוקף באחו יפהפה.",
+      "translation": "האגם הכחול והצלול מוקף באחו יפה.",
       "notes": "",
       "placeholders": []
     },
@@ -3362,7 +3362,7 @@
       "logicFile": "built-in",
       "messageNumber": 419,
       "original": "There is a small, dark hole in the base of this tree.",
-      "translation": "יש חור קטן וכהה בבסיס העץ הזה.",
+      "translation": "יש חור קטן ואפל בבסיס העץ הזה.",
       "notes": "",
       "placeholders": []
     },
@@ -3746,7 +3746,7 @@
       "logicFile": "built-in",
       "messageNumber": 467,
       "original": "These rock formations were slowly created over thousands of years.",
-      "translation": "תצורות סלע אלו נוצרו לאט לאורך אלפי שנים.",
+      "translation": "תצורות סלע אלה נוצרו לאט במשך אלפי שנים.",
       "notes": "",
       "placeholders": []
     },
@@ -4090,7 +4090,7 @@
       "logicFile": "built-in",
       "messageNumber": 510,
       "original": "Cancel",
-      "translation": "בטל",
+      "translation": "ביטול",
       "notes": "",
       "placeholders": []
     },
@@ -7986,7 +7986,7 @@
       "logicFile": "single",
       "messageNumber": 483,
       "original": "The surrounding boulders and trees are reflected on the small, mirror-like lake.",
-      "translation": "הסלעים והעצים שמסביב משתקפים באגם הקטן והצלול למראה.",
+      "translation": "הסלעים והעצים שמסביב משתקפים באגם הקטן דמוי המראה.",
       "notes": "",
       "placeholders": []
     },
@@ -9778,7 +9778,7 @@
       "logicFile": "single",
       "messageNumber": 707,
       "original": "The river gets to be rather rough around these parts.",
-      "translation": "הנהר נעשה די סוער באזורים אלה.",
+      "translation": "הנהר נהיה די סוער באזורים האלה.",
       "notes": "",
       "placeholders": []
     },
@@ -11634,7 +11634,7 @@
       "logicFile": "single",
       "messageNumber": 939,
       "original": "This dark pool of water leads to the bottom of the ancient well near King Edward's castle.",
-      "translation": "בריכת מים כהה זו מובילה לתחתית הבאר העתיקה ליד טירת המלך אדוארד.",
+      "translation": "בריכת מים אפלה זו מובילה לתחתית הבאר העתיקה ליד טירת המלך אדוארד.",
       "notes": "",
       "placeholders": []
     },
@@ -12138,7 +12138,7 @@
       "logicFile": "single",
       "messageNumber": 1002,
       "original": "The giant, with his chest, has all the treasure he needs; all he wants from you is to grind your bones to dust.",
-      "translation": "לענק, עם חזהו, יש את כל האוצרות שהוא צריך; כל מה שהוא רוצה ממך זה לטחון את עצמותיך לאבק.",
+      "translation": "לענק, יחד עם תיבתו, יש את כל האוצרות שהוא צריך; כל שהוא רוצה ממך הוא לטחון את עצמותיך לאבק.",
       "notes": "",
       "placeholders": []
     },
@@ -12194,7 +12194,7 @@
       "logicFile": "single",
       "messageNumber": 1009,
       "original": "The magic chest appears to have been fashioned from a solid block of maple and burnished to a brilliant luster.  The edges are rimmed with gold, as are the clasp and hinges.",
-      "translation": "תיבת הקסמים נראית כאילו עוצבה מבלוק איתן של עץ מייפל ולוטשה לברק מרהיב. הקצוות משובצים זהב, וכך גם האבזם והצירים.",
+      "translation": "תיבת הקסמים נראית כאילו עוצבה מגוש איתן של עץ אדר ולוטשה לברק מרהיב. הקצוות משובצים זהב, וכך גם האבזם והצירים.",
       "notes": "",
       "placeholders": []
     },
@@ -12210,7 +12210,7 @@
       "logicFile": "single",
       "messageNumber": 1011,
       "original": "The giant did a smashing job of defeating you.",
-      "translation": "הענק עשה עבודה מדהימה בלנצח אותך.",
+      "translation": "הענק עשה עבודה מצוינת בכך שניצח אותך.",
       "notes": "",
       "placeholders": []
     },
@@ -12234,7 +12234,7 @@
       "logicFile": "single",
       "messageNumber": 1014,
       "original": "The giant squashed the life out of you.  Next time, use your sling from a distance.",
-      "translation": "הענק מחץ את החיים ממך. בפעם הבאה, השתמש בקלע שלך מרחוק.",
+      "translation": "הענק מעך אותך למוות. בפעם הבאה, השתמש בקלע שלך מרחוק.",
       "notes": "",
       "placeholders": []
     },
@@ -12242,7 +12242,7 @@
       "logicFile": "single",
       "messageNumber": 1015,
       "original": "Uh-oh.  You happen to be standing in the giant's favorite spot for a snooze.",
-      "translation": "אוי ואבוי. אתה במקרה עומד במקום האהוב על הענק לתנומה.",
+      "translation": "אוי ואבוי. במקרה אתה עומד בדיוק במקום שבו הענק אוהב לנמנם.",
       "notes": "",
       "placeholders": []
     },
@@ -12290,7 +12290,7 @@
       "logicFile": "single",
       "messageNumber": 1021,
       "original": "Talk about overkill--he's dead already!",
-      "translation": "מדברים על הגזמה - הוא כבר מת!",
+      "translation": "איזו הגזמה - הוא כבר מת!",
       "notes": "",
       "placeholders": []
     },
@@ -12346,7 +12346,7 @@
       "logicFile": "single",
       "messageNumber": 1028,
       "original": "This is the craggy peak of Daventry's mountain.  Amidst the rocks and boulders piled here, there's a dark opening leading into the mountain itself.",
-      "translation": "זוהי פסגת ההר הסלעית של דבנטרי. בין הסלעים והאבנים הערומים כאן, יש פתח כהה המוביל אל תוך ההר עצמו.",
+      "translation": "זוהי פסגת ההר הסלעית של דבנטרי. בין ערימות הסלעים והאבנים, יש פתח אפל המוביל אל תוך ההר עצמו.",
       "notes": "",
       "placeholders": []
     },
@@ -12498,7 +12498,7 @@
       "logicFile": "single",
       "messageNumber": 1047,
       "original": "Among the branches sits a small nest with a beautiful golden egg.",
-      "translation": "בין הענפים יושב קן קטן עם ביצת זהב יפהפייה.",
+      "translation": "בין הענפים מונח קן קטן ובו ביצת זהב יפהפייה.",
       "notes": "",
       "placeholders": []
     },
@@ -12506,7 +12506,7 @@
       "logicFile": "single",
       "messageNumber": 1048,
       "original": "One of the birds may need it, but you won't.  Leave it alone.",
-      "translation": "אחת הציפורים אולי תזדקק לזה, אבל אתה לא. השאר את זה לבד.",
+      "translation": "אחת הציפורים אולי תזדקק לה, ואתה לא. הנח לה.",
       "notes": "",
       "placeholders": []
     },
@@ -12538,7 +12538,7 @@
       "logicFile": "single",
       "messageNumber": 1052,
       "original": "As soon as you entered the gingerbread house, the goat ran off.  Something sure spooked him from this place!",
-      "translation": "ברגע שנכנסת לבית העוגיות, העז ברחה. משהו בטוח הפחיד אותו מהמקום הזה!",
+      "translation": "ברגע שנכנסת לבית העוגיות, התייש ברח. משהו בטוח הפחיד אותו מהמקום הזה!",
       "notes": "",
       "placeholders": []
     },
@@ -12554,7 +12554,7 @@
       "logicFile": "single",
       "messageNumber": 1054,
       "original": "Off in the distance you hear a high, squeaky voice say, \"I can smell someone tasty in my house.\"",
-      "translation": "מרחוק אתה שומע קול גבוה וצווחני אומר, \"אני מריח מישהו טעים בבית שלי.\"",
+      "translation": "מרחוק אתה שומע קול גבוה וצווחני אומר, \"אני מריחה מישהו טעים בבית שלי.\"",
       "notes": "",
       "placeholders": []
     },
@@ -12746,7 +12746,7 @@
       "logicFile": "single",
       "messageNumber": 1078,
       "original": "The ring does not seem to work in the witch's house.",
-      "translation": "הטבעת לא נראית עובדת בבית המכשפה.",
+      "translation": "נראה שהטבעת אינה פועלת בבית המכשפה.",
       "notes": "",
       "placeholders": []
     },
@@ -12898,7 +12898,7 @@
       "logicFile": "single",
       "messageNumber": 1097,
       "original": "Rats! She has cast some spell to keep you from escaping! The witch remarks, \"Oh, how nice of you to come for dinner (cackle, cackle)!\"",
-      "translation": "עכברים! היא הטילה כישוף כלשהו כדי למנוע ממך לברוח! המכשפה מעירה, \"הו, כמה נחמד שבאת לארוחת ערב (קח-קח)!\"",
+      "translation": "לעזאזל! היא הטילה כישוף כלשהו כדי למנוע ממך לברוח! המכשפה מעירה, \"הו, כמה נחמד שבאת לארוחת ערב (קח-קח)!\"",
       "notes": "",
       "placeholders": []
     },
@@ -13770,7 +13770,7 @@
       "logicFile": "single",
       "messageNumber": 1206,
       "original": "The walls of this shadowy cave are too steep for you to climb.",
-      "translation": "קירות המערה המוצלת הזו תלולים מדי מכדי שתוכל לטפס עליהם.",
+      "translation": "קירות המערה האפלולית הזו תלולים מדי מכדי שתוכל לטפס עליהם.",
       "notes": "",
       "placeholders": []
     },
@@ -13802,7 +13802,7 @@
       "logicFile": "single",
       "messageNumber": 1210,
       "original": "You are standing in a cavern, with a wooden door directly across from you. A giant mouse is standing in front of the door.",
-      "translation": "אתה עומד במערה, עם דלת עץ ישירות מולך. עכבר ענק עומד מול הדלת.",
+      "translation": "אתה עומד במערה, ודלת עץ ניצבת מולך. עכברוש ענק עומד מול הדלת.",
       "notes": "",
       "placeholders": []
     },
@@ -13810,7 +13810,7 @@
       "logicFile": "single",
       "messageNumber": 1211,
       "original": "You are standing in a cavern, with a wooden door directly across from you.",
-      "translation": "אתה עומד במערה, עם דלת עץ ישירות מולך.",
+      "translation": "אתה עומד במערה, ודלת עץ ניצבת מולך.",
       "notes": "",
       "placeholders": []
     },
@@ -13914,7 +13914,7 @@
       "logicFile": "single",
       "messageNumber": 1224,
       "original": "Using his sense of smell to guide him, the rat attacks you. In the scuffle, your ring falls off, making you visible again.",
-      "translation": "באמצעות חוש הריח שלו כמדריך, העכברוש תוקף אותך. בהתקוטטות, הטבעת שלך נופלת, מה שהופך אותך לגלוי שוב.",
+      "translation": "באמצעות חוש הריח שלו כמדריך, העכברוש תוקף אותך. בהתקוטטות, הטבעת שלך נופלת, ואתה שב להיות נראה.",
       "notes": "",
       "placeholders": []
     },
@@ -13930,7 +13930,7 @@
       "logicFile": "single",
       "messageNumber": 1226,
       "original": "This is one tight squeeze the mushroom will not get you out of.",
-      "translation": "זהו מצב צפוף שהפטריה לא תוציא אותך ממנו.",
+      "translation": "זהו מצב קשה שהפטריה לא תוציא אותך ממנו.",
       "notes": "",
       "placeholders": []
     },
@@ -13938,7 +13938,7 @@
       "logicFile": "single",
       "messageNumber": 1227,
       "original": "There are no leprechauns here.",
-      "translation": "אין כאן שדונים.",
+      "translation": "אין כאן ליפרקונים.",
       "notes": "",
       "placeholders": []
     },
@@ -13970,7 +13970,7 @@
       "logicFile": "single",
       "messageNumber": 1231,
       "original": "There are leprechauns in the room with you.",
-      "translation": "יש שדונים בחדר איתך.",
+      "translation": "יש ליפרקונים בחדר איתך.",
       "notes": "",
       "placeholders": []
     },
@@ -13978,7 +13978,7 @@
       "logicFile": "single",
       "messageNumber": 1232,
       "original": "Leave the door open.  Perhaps a draft will clear out some of the musty old rat smell.",
-      "translation": "השאר את הדלת פתוחה. אולי רוח פרצים תנקה מעט מריח העכברים העבש והישן.",
+      "translation": "השאר את הדלת פתוחה. אולי רוח פרצים תנקה מעט מריח העכברוש העבש והישן.",
       "notes": "",
       "placeholders": []
     },
@@ -14002,7 +14002,7 @@
       "logicFile": "single",
       "messageNumber": 1235,
       "original": "The Leprechaun King absolutely, positively forbids violence or weapons of any sort in his throne room.  With thoughts of the sling in your mind, you seem unable to turn those thoughts into movement.",
-      "translation": "מלך הליפרקונים אוסר לחלוטין, באופן מוחלט, על אלימות או נשק מכל סוג בחדר כסו. עם מחשבות על הקלע בראשך, אתה נראה חסר יכולת להפוך את המחשבות הללו לתנועה.",
+      "translation": "מלך הליפרקונים אוסר לחלוטין, באופן מוחלט, על אלימות או נשק מכל סוג בחדר כסו. עם מחשבות על הקלע בראשך, אינך מצליח להפוך את המחשבות הללו למעשה.",
       "notes": "",
       "placeholders": []
     },
@@ -14010,7 +14010,7 @@
       "logicFile": "single",
       "messageNumber": 1236,
       "original": "The Leprechaun King's magic does not permit you to use weapons in the Throne Room.  Thus, while the sling is still in your pocket, you seem entirely unable to put it in your hand.",
-      "translation": "הקסם של מלך הליפרקונים אינו מאפשר לך להשתמש בנשק בחדר הכס. לפיכך, בעוד הקלע עדיין בכיסך, אתה נראה חסר יכולת לחלוטין להניח אותו בידך.",
+      "translation": "הקסם של מלך הליפרקונים אינו מאפשר לך להשתמש בנשק בחדר הכס. לפיכך, בעוד הקלע עדיין בכיסך, אינך יכול בשום אופן להוציא אותו מכיסך.",
       "notes": "",
       "placeholders": []
     },
@@ -14026,7 +14026,7 @@
       "logicFile": "single",
       "messageNumber": 1238,
       "original": "This looks like a bad situation.  Perhaps you should do something!",
-      "translation": "זו נראית כמו סיטואציה רעה. אולי כדאי שתעשה משהו!",
+      "translation": "זה נראה כמו מצב רע. אולי כדאי שתעשה משהו!",
       "notes": "",
       "placeholders": []
     },
@@ -14034,7 +14034,7 @@
       "logicFile": "single",
       "messageNumber": 1239,
       "original": "With a genuine four-leaf clover in your possession, the leprechauns fear and respect you.  Rather than risk offending you, they decide to leave you entirely alone.",
-      "translation": "עם תלתן אמיתי בעל ארבעה עלים ברשותך, הליפרקונים חוששים ומכבדים אותך. במקום להסתכן בפגיעה בך, הם מחליטים להשאיר אותך לבד לחלוטין.",
+      "translation": "עם תלתן אמיתי בעל ארבעה עלים ברשותך, הליפרקונים חוששים ומכבדים אותך. במקום להסתכן בפגיעה בך, הם מחליטים להניח לך לחלוטין.",
       "notes": "",
       "placeholders": []
     },
@@ -14114,7 +14114,7 @@
       "logicFile": "single",
       "messageNumber": 1249,
       "original": "The King of the Leprechauns is sitting on his stone throne, sceptre in hand.",
-      "translation": "מלך הליפרקונים יושב על כס המלוכה שלו מאבן, שרביט בידו.",
+      "translation": "מלך הליפרקונים יושב על כס האבן שלו, שרביט בידו.",
       "notes": "",
       "placeholders": []
     },
@@ -14122,7 +14122,7 @@
       "logicFile": "single",
       "messageNumber": 1250,
       "original": "This is a rather simple stone throne, upon it sits the leprechaun kings jewelled sceptre.",
-      "translation": "זהו כס מלכות פשוט למדי מאבן, ועליו מונח שרביט המלכים המשובץ של הליפרקון.",
+      "translation": "זהו כס אבן פשוט למדי, ועליו מונח שרביטו המשובץ של מלך הליפרקונים.",
       "notes": "",
       "placeholders": []
     },
@@ -14178,7 +14178,7 @@
       "logicFile": "single",
       "messageNumber": 1257,
       "original": "This is the throne room of the Leprechaun King.",
-      "translation": "זהו חדר הכס של מלך הלפרקונים.",
+      "translation": "זהו חדר הכס של מלך הליפרקונים.",
       "notes": "",
       "placeholders": []
     },
@@ -14226,7 +14226,7 @@
       "logicFile": "single",
       "messageNumber": 1263,
       "original": "The leprechaun King is not here.",
-      "translation": "מלך הלפרקונים אינו כאן.",
+      "translation": "מלך הליפרקונים אינו כאן.",
       "notes": "",
       "placeholders": []
     },
@@ -14234,7 +14234,7 @@
       "logicFile": "single",
       "messageNumber": 1264,
       "original": "By playing your fiddle,  the leprechaun King dances merrily away.",
-      "translation": "כשאתה מנגן בכינור שלך, מלך הלפרקונים רוקד בשמחה ומתרחק.",
+      "translation": "כשאתה מנגן בכינור שלך, מלך הליפרקונים רוקד בשמחה ומתרחק.",
       "notes": "",
       "placeholders": []
     },
@@ -14242,7 +14242,7 @@
       "logicFile": "single",
       "messageNumber": 1265,
       "original": "The King of the Leprechauns is sitting on his throne.",
-      "translation": "מלך הלפרקונים יושב על כסאו.",
+      "translation": "מלך הליפרקונים יושב על כסאו.",
       "notes": "",
       "placeholders": []
     },
@@ -14258,7 +14258,7 @@
       "logicFile": "single",
       "messageNumber": 1267,
       "original": "There are no Leprechauns here to talk to.",
-      "translation": "אין כאן לפרקונים לדבר איתם.",
+      "translation": "אין כאן ליפרקונים לדבר איתם.",
       "notes": "",
       "placeholders": []
     },
@@ -14266,7 +14266,7 @@
       "logicFile": "single",
       "messageNumber": 1268,
       "original": "The Leprechaun King is not here.",
-      "translation": "מלך הלפרקונים אינו כאן.",
+      "translation": "מלך הליפרקונים אינו כאן.",
       "notes": "",
       "placeholders": []
     },
@@ -14274,7 +14274,7 @@
       "logicFile": "single",
       "messageNumber": 1269,
       "original": "The Leprechaun King, not understanding your words, ignores you.",
-      "translation": "מלך הלפרקונים, שאינו מבין את דבריך, מתעלם ממך.",
+      "translation": "מלך הליפרקונים, שאינו מבין את דבריך, מתעלם ממך.",
       "notes": "",
       "placeholders": []
     },
@@ -14282,7 +14282,7 @@
       "logicFile": "single",
       "messageNumber": 1270,
       "original": "You take the magic shield.  Congratulations!",
-      "translation": "אתה לוקח את מגן הקסמים. ברכותיי!",
+      "translation": "אתה לוקח את מגן הקסמים. ברכות!",
       "notes": "",
       "placeholders": []
     },
@@ -14290,7 +14290,7 @@
       "logicFile": "single",
       "messageNumber": 1271,
       "original": "The Leprechaun King took his sceptre with him.",
-      "translation": "מלך הלפרקונים לקח את שרביטו איתו.",
+      "translation": "מלך הליפרקונים לקח את שרביטו איתו.",
       "notes": "",
       "placeholders": []
     },
@@ -14298,7 +14298,7 @@
       "logicFile": "single",
       "messageNumber": 1272,
       "original": "You take the Leprechaun King's jewelled sceptre.",
-      "translation": "אתה לוקח את שרביטו המשובץ של מלך הלפרקונים.",
+      "translation": "אתה לוקח את שרביטו המשובץ של מלך הליפרקונים.",
       "notes": "",
       "placeholders": []
     },
@@ -14306,7 +14306,7 @@
       "logicFile": "single",
       "messageNumber": 1273,
       "original": "The Leprechaun King is just too cute to hurt.",
-      "translation": "מלך הלפרקונים פשוט חמוד מדי מכדי לפגוע בו.",
+      "translation": "מלך הליפרקונים פשוט חמוד מדי מכדי לפגוע בו.",
       "notes": "",
       "placeholders": []
     },
@@ -14314,7 +14314,7 @@
       "logicFile": "single",
       "messageNumber": 1274,
       "original": "Overhearing the fiddle music you played in the hallway, the Leprechauns have begun to dance!  As they do, they pop away in a fit of merrymaking.",
-      "translation": "כששמעו את נגינת הכינור שניגנת במסדרון, הלפרקונים החלו לרקוד! וכך הם נעלמים בהתקף של עליצות.",
+      "translation": "כששמעו את נגינת הכינור שניגנת במסדרון, הליפרקונים החלו לרקוד! וכך הם נעלמים בהתקף של עליצות.",
       "notes": "",
       "placeholders": []
     },
@@ -14322,7 +14322,7 @@
       "logicFile": "single",
       "messageNumber": 1275,
       "original": "The Leprechauns, sensing the power of your four-leaf clover, begin to vanish.",
-      "translation": "הלפרקונים, כשהם חשים בכוח התלתן בעל ארבעת העלים שלך, מתחילים להיעלם.",
+      "translation": "הליפרקונים, כשהם חשים בכוח התלתן בעל ארבעת העלים שלך, מתחילים להיעלם.",
       "notes": "",
       "placeholders": []
     },
@@ -14330,7 +14330,7 @@
       "logicFile": "single",
       "messageNumber": 1276,
       "original": "The King of the Leprechauns is dancing away!  Even the King enjoys a good party.",
-      "translation": "מלך הלפרקונים רוקד ומתרחק! אפילו המלך נהנה ממסיבה טובה.",
+      "translation": "מלך הליפרקונים רוקד ומתרחק! אפילו המלך נהנה ממסיבה טובה.",
       "notes": "",
       "placeholders": []
     },
@@ -14442,7 +14442,7 @@
       "logicFile": "single",
       "messageNumber": 1290,
       "original": "This house looks as shabby and tumbledown inside as it does outside, but it's surprisingly neat and tidy.  The sagging bed fills most of the room, and a fire burns cheerfully in the old stone fireplace. A large wooden table and a smaller nightstand are nearby; above the nightstand is a small cabinet.",
-      "translation": "הבית הזה נראה רעוע ומתפורר מבפנים כמו מבחוץ, אבל הוא מסודר ונקי באופן מפתיע. המיטה השקועה ממלאת את רוב החדר, ואש בוערת בעליזות באח האבן הישנה. שולחן עץ גדול ושידה קטנה יותר נמצאים בקרבת מקום; מעל השידה יש ארון קטן.",
+      "translation": "הבית הזה נראה רעוע ומתפורר מבפנים כמו מבחוץ, אבל הוא מסודר ונקי באופן מפתיע. המיטה השקועה ממלאת את רוב החדר, ואש בוערת בעליזות באח האבן הישן. שולחן עץ גדול ושידה קטנה יותר נמצאים בקרבת מקום; מעל השידה יש ארון קטן.",
       "notes": "",
       "placeholders": []
     },
@@ -14490,7 +14490,7 @@
       "logicFile": "single",
       "messageNumber": 1296,
       "original": "What are you going to do, dive onto the bed?  Not with the woodcutter's wife in bed, you're not!",
-      "translation": "מה אתה הולך לעשות, לצלול לתוך המיטה? לא כשאישתו של חוטב העצים במיטה, אתה לא!",
+      "translation": "מה אתה הולך לעשות, לצלול לתוך המיטה? לא כשאשתו של חוטב העצים במיטה, אתה לא!",
       "notes": "",
       "placeholders": []
     },
@@ -15274,7 +15274,7 @@
       "logicFile": "single",
       "messageNumber": 1394,
       "original": "The stream appears placid enough, but appearances can be deceiving.",
-      "translation": "הזרם נראה שקט דיו, אך המראה יכול להטעות.",
+      "translation": "הנחל נראה רגוע מספיק, אבל המראה יכול להטעות.",
       "notes": "",
       "placeholders": []
     },
@@ -15282,7 +15282,7 @@
       "logicFile": "single",
       "messageNumber": 1395,
       "original": "This natural rock bridge connects the Daventry mainland to a small island.",
-      "translation": "גשר סלעים טבעי זה מחבר את יבשת דבנטרי לאי קטן.",
+      "translation": "גשר סלע טבעי זה מחבר את יבשת דבנטרי לאי קטן.",
       "notes": "",
       "placeholders": []
     },
