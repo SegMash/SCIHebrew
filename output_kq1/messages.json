@@ -4978,7 +4978,7 @@
       "logicFile": "single",
       "messageNumber": 107,
       "original": "That's for me to know and Sir Graham to find out.",
-      "translation": "את זה אני צריך לדעת ואת זה סר גרהם צריך לגלות.",
+      "translation": "זה דבר שאני יודע, וסר גרהם יצטרך לגלות בעצמו.",
       "notes": "",
       "placeholders": []
     },
@@ -4994,7 +4994,7 @@
       "logicFile": "single",
       "messageNumber": 109,
       "original": "When you figure out the puzzle!",
-      "translation": "כשתפתור את הפאזל!",
+      "translation": "כשתפתור את החידה!",
       "notes": "",
       "placeholders": []
     },
@@ -5042,7 +5042,7 @@
       "logicFile": "single",
       "messageNumber": 115,
       "original": "Talking to yourself is a sure sign that the hot Daventry sun is taking its toll on you.",
-      "translation": "לדבר לעצמך זה סימן בטוח ששמש דבנטרי החמה גובה ממך מחיר.",
+      "translation": "לדבר עם עצמך זה סימן בטוח ששמש דבנטרי החמה גובה ממך מחיר.",
       "notes": "",
       "placeholders": []
     },
@@ -5066,7 +5066,7 @@
       "logicFile": "single",
       "messageNumber": 118,
       "original": "You see a useless dead goat lying lifeless on the ground.",
-      "translation": "אתה רואה תיש מת חסר תועלת שוכב ללא רוח חיים על האדמה.",
+      "translation": "אתה רואה תיש מת חסר תועלת מוטל ללא רוח חיים על האדמה.",
       "notes": "",
       "placeholders": []
     },
@@ -5098,7 +5098,7 @@
       "logicFile": "single",
       "messageNumber": 122,
       "original": "The goat has wandered off to the other side of his pen.",
-      "translation": "התיש שוטט לצד השני של מכלאתו.",
+      "translation": "התיש נדד לצד השני של מכלאתו.",
       "notes": "",
       "placeholders": []
     },
@@ -5162,7 +5162,7 @@
       "logicFile": "single",
       "messageNumber": 130,
       "original": "You recall a rule prohibiting goats (except seeing-eye goats) from entering the castle.",
-      "translation": "אתה זוכר חוק האוסר על תישים (למעט תישי ראייה) להיכנס לטירה.",
+      "translation": "אתה זוכר חוק האוסר על תישים (למעט תישי נחייה) להיכנס לטירה.",
       "notes": "1",
       "placeholders": []
     },
@@ -5210,7 +5210,7 @@
       "logicFile": "single",
       "messageNumber": 136,
       "original": "The pots are full of dirt and roots.  There's nothing remotely helpful in or around the urns.",
-      "translation": "העציצים מלאים באדמה ושורשים. אין שום דבר בעל ערך, ולו במעט, בתוך הכדים או סביבם.",
+      "translation": "הכדים מלאים באדמה ושורשים. אין שום דבר בעל ערך, ולו במעט, בתוך הכדים או סביבם.",
       "notes": "",
       "placeholders": []
     },
@@ -5306,7 +5306,7 @@
       "logicFile": "single",
       "messageNumber": 148,
       "original": "These stone-faced guards must have been trained not to show any type of affection.  They ignore you, Sir Graham.",
-      "translation": "השומרים בעלי מבט קר ודאי אומנו לא להראות שום סוג של חיבה. הם מתעלמים ממך, סר גרהם.",
+      "translation": "השומרים בעלי מבט קר ודאי אומנו לא להראות חיבה כלשהי. הם מתעלמים ממך, סר גרהם.",
       "notes": "",
       "placeholders": []
     },
@@ -5362,7 +5362,7 @@
       "logicFile": "single",
       "messageNumber": 155,
       "original": "The pots are full of dirt and roots. There's nothing remotely helpful in or around the urns.",
-      "translation": "העציצים מלאים באדמה ושורשים. אין שום דבר בעל ערך, ולו במעט, בתוך הכדים או סביבם.",
+      "translation": "הכדים מלאים באדמה ושורשים. אין שום דבר בעל ערך, ולו במעט, בתוך הכדים או סביבם.",
       "notes": "",
       "placeholders": []
     },
@@ -5426,7 +5426,7 @@
       "logicFile": "single",
       "messageNumber": 163,
       "original": "There is nothing in this hole but dirt.",
-      "translation": "אין שום דבר בבור הזה מלבד חול.",
+      "translation": "אין שום דבר בבור הזה מלבד עפר.",
       "notes": "",
       "placeholders": []
     },
@@ -5450,7 +5450,7 @@
       "logicFile": "single",
       "messageNumber": 166,
       "original": "There's nothing interesting about the dirt.",
-      "translation": "אין שום דבר מעניין בחול.",
+      "translation": "אין שום דבר מעניין בעפר.",
       "notes": "",
       "placeholders": []
     },
@@ -5538,7 +5538,7 @@
       "logicFile": "single",
       "messageNumber": 177,
       "original": "You might be able to do that if you weren't ducking!",
-      "translation": "ייתכן שתצליח לעשות זאת אם לא היית מתכופף!",
+      "translation": "ייתכן שהיית מצליח לעשות זאת אם לא היית מתכופף!",
       "notes": "",
       "placeholders": []
     },
@@ -5690,7 +5690,7 @@
       "logicFile": "single",
       "messageNumber": 196,
       "original": "The sandy beach along the side of the lake is strewn with small pebbles.",
-      "translation": "החוף החולי לאורך צד האגם זרוע חלוקי נחל קטנים.",
+      "translation": "החוף החולי לאורך האגם זרוע חלוקי נחל קטנים.",
       "notes": "",
       "placeholders": []
     },
@@ -5778,7 +5778,7 @@
       "logicFile": "single",
       "messageNumber": 207,
       "original": "That's one giant leap for the fish!",
-      "translation": "זו פסיעה גסה הישר אל הדגים!",
+      "translation": "זו פסיעה ענקית לדגים!",
       "notes": "",
       "placeholders": []
     },
@@ -5818,7 +5818,7 @@
       "logicFile": "single",
       "messageNumber": 212,
       "original": "The sunlight glistens on the rippling water.",
-      "translation": "אור השמש מנצנץ על המים הגועשים.",
+      "translation": "אור השמש מנצנץ על אדוות המים.",
       "notes": "",
       "placeholders": []
     },
@@ -5834,7 +5834,7 @@
       "logicFile": "single",
       "messageNumber": 214,
       "original": "Perhaps you'll find a use for a fish in a different King's Quest, but not in this one.",
-      "translation": "אולי תמצא את הדג שימושי ב\"מסע מלך\" אחר, אבל לא בזה.",
+      "translation": "אולי הדג יהיה שימושי ב\"מסע מלך\" אחר, אבל לא בזה.",
       "notes": "",
       "placeholders": []
     },
@@ -5922,7 +5922,7 @@
       "logicFile": "single",
       "messageNumber": 225,
       "original": "Next to you is an old fallen tree trunk.  It's crumbling and rotted, and holds no interest for you... unless you have a fascination with termites!",
-      "translation": "לידך נמצא גזע עץ זקן ונופל. הוא מתפורר ורקוב, ואינו מעניין אותך... אלא אם כן יש לך אובססיה לטרמיטים!",
+      "translation": "לידך נמצא גזע עץ זקן ונפול. הוא מתפורר ורקוב, ואינו מעניין אותך... אלא אם כן הטרמיטים מרתקים אותך!",
       "notes": "",
       "placeholders": []
     },
@@ -5962,7 +5962,7 @@
       "logicFile": "single",
       "messageNumber": 230,
       "original": "They're obviously more afraid of you than you are of them.  Leave them alone.",
-      "translation": "הם כנראה מפחדים ממך יותר משאתה מפחד מהם. הנח לנם.",
+      "translation": "הם כנראה מפחדים ממך יותר משאתה מפחד מהם. הנח להם.",
       "notes": "",
       "placeholders": []
     },
@@ -6138,7 +6138,7 @@
       "logicFile": "single",
       "messageNumber": 252,
       "original": "FAIRY GODMOTHER: \"Your quest is indeed noble.  What little aid I can offer you is this protective magic spell, effective but a little while.\"",
-      "translation": "פיה טובה: \"יצאת למסע חשוב. מעט העזרה שאני יכולה להציע לך היא כישוף קסום שיגן עליך ביעילות אך לזמן קצר.\"",
+      "translation": "פיה טובה: \"מסעך אכן אצילי. מעט העזרה שאני יכולה להציע לך היא כישוף קסום שיגן עליך ביעילות אך לזמן קצר.\"",
       "notes": "",
       "placeholders": []
     },
@@ -6338,7 +6338,7 @@
       "logicFile": "single",
       "messageNumber": 277,
       "original": "You need to go into the pen to kill the goat.",
-      "translation": "אתה צריך להיכנס לדיר כדי להרוג את התיש.",
+      "translation": "אתה צריך להיכנס למכלאת התישים כדי להרוג את התיש.",
       "notes": "",
       "placeholders": []
     },
@@ -6370,7 +6370,7 @@
       "logicFile": "single",
       "messageNumber": 281,
       "original": "There is no goat in the immediate area.",
-      "translation": "אין תיש באזור המיידי.",
+      "translation": "אין תיש בקרבת מקום.",
       "notes": "",
       "placeholders": []
     },
@@ -6466,7 +6466,7 @@
       "logicFile": "single",
       "messageNumber": 293,
       "original": "Very clever!  You tempt the goat with the carrot and he begins to follow you around.  You've made a friend!",
-      "translation": "מבריק! אתה מפתה את התיש בגזר והוא מתחיל לעקוב אחריך. יצרת חבר!",
+      "translation": "מבריק! אתה מפתה את התיש בגזר והוא מתחיל לעקוב אחריך. רכשת חבר חדש!",
       "notes": "",
       "placeholders": []
     },
@@ -6474,7 +6474,7 @@
       "logicFile": "single",
       "messageNumber": 294,
       "original": "Oh, no!  The goat has escaped through the gate that you left open behind you.  He could have wandered anywhere by now.",
-      "translation": "הו, לא! התיש ברח דרך השער שהשארת פתוח מאחוריך. כעת, הוא יכל לשוטט לכל מקום.",
+      "translation": "הו, לא! התיש ברח דרך השער שהשארת פתוח מאחוריך. מי יודע לאן הוא נדד עד עכשיו.",
       "notes": "",
       "placeholders": []
     },
@@ -6482,7 +6482,7 @@
       "logicFile": "single",
       "messageNumber": 295,
       "original": "There is a small bush near the pen.",
-      "translation": "יש שיח קטן ליד הדיר.",
+      "translation": "יש שיח קטן ליד מכלאת התישים.",
       "notes": "",
       "placeholders": []
     },
@@ -6498,7 +6498,7 @@
       "logicFile": "single",
       "messageNumber": 297,
       "original": "This is the crude wooden fence that encloses the goat and his trough.",
-      "translation": "זוהי גדר העץ גסה המקיפה את התיש ואת שוקת המים שלו.",
+      "translation": "זוהי גדר העץ הגסה המקיפה את התיש ואת שוקת המים שלו.",
       "notes": "",
       "placeholders": []
     },
@@ -6522,7 +6522,7 @@
       "logicFile": "single",
       "messageNumber": 300,
       "original": "The gate to the pen is open.",
-      "translation": "שער הדיר פתוח.",
+      "translation": "שער המכלאה פתוח.",
       "notes": "",
       "placeholders": []
     },
