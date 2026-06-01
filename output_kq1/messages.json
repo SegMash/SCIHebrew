@@ -4138,7 +4138,7 @@
       "logicFile": "single",
       "messageNumber": 2,
       "original": "The spell to make you invisible has expired and you are once again visible to dangerous creatures but, the ring has now disappeared.  The guards appear surprised at your sudden appearance.",
-      "translation": "הכישוף שגורם לך להיות בלתי נראה פג ואתה שוב נראה ליצורים מסוכנים, אבל הטבעת עכשיו נעלמה. השומרים נראים מופתעים מהופעתך הפתאומית.",
+      "translation": "הכישוף שהפך אותך לבלתי נראה פג, אתה שוב נראה ליצורים מסוכנים והטבעת נעלמה. השומרים מופתעים מהופעתך הפתאומית.",
       "notes": "",
       "placeholders": []
     },
@@ -4146,7 +4146,7 @@
       "logicFile": "single",
       "messageNumber": 3,
       "original": "The spell to make you invisible has expired and you are once again visible to dangerous creatures but, the ring has now disappeared.",
-      "translation": "הכישוף שגורם לך להיות בלתי נראה פג ואתה שוב נראה ליצורים מסוכנים, אבל הטבעת עכשיו נעלמה.",
+      "translation": "הכישוף שהפך אותך לבלתי נראה פג, אתה שוב נראה ליצורים מסוכנים והטבעת נעלמה.",
       "notes": "",
       "placeholders": []
     },
@@ -4378,7 +4378,7 @@
       "logicFile": "single",
       "messageNumber": 32,
       "original": "For the full effect of the ring, you will need to step out of the water.",
-      "translation": "כדי לקבל את מלוא האפקט של הטבעת, תצטרך לצאת מהמים.",
+      "translation": "כדי לקבל את מלוא ההשפעה של הטבעת, תצטרך לצאת מהמים.",
       "notes": "",
       "placeholders": []
     },
@@ -4402,7 +4402,7 @@
       "logicFile": "single",
       "messageNumber": 35,
       "original": "The magic ring is still in your pocket.  You can't rub it there.",
-      "translation": "טבעת הקסמים עדיין בכיסך. אינך יכול לשפשף אותהכשהיא כשהיא שם.",
+      "translation": "טבעת הקסמים עדיין בכיסך. אינך יכול לשפשף אותה כשהיא שם.",
       "notes": "",
       "placeholders": []
     },
@@ -4466,7 +4466,7 @@
       "logicFile": "single",
       "messageNumber": 43,
       "original": "Mmm!  You can detect the aromas of delicious carrots (from the King's garden), potatoes, green peppers, celery, onions, and fresh dragon meat...along with a hint of imported spice.",
-      "translation": "מממ! אתה יכול לזהות את ארומות הגזרים הטעימים (מגינת המלך), תפוחי אדמה, פלפלים ירוקים, סלרי, בצל ובשר דרקון טרי... עם רמיזות לתבלינים תוצרת חוץ.",
+      "translation": "מממ! אתה יכול לזהות את ארומות הגזרים הטעימים (מגינת המלך), תפוחי אדמה, פלפלים ירוקים, סלרי, בצל ובשר דרקון טרי... עם רמז של תבלינים תוצרת חוץ.",
       "notes": "",
       "placeholders": []
     },
@@ -4482,7 +4482,7 @@
       "logicFile": "single",
       "messageNumber": 45,
       "original": "It's not a good idea to eat while you're swimming.  Even knights can get muscle cramps!",
-      "translation": "זה לא רעיון טוב לאכול כשאתה שוחה. גם אבירים יכולים לקבל התכווצויות שרירים!",
+      "translation": "זה לא רעיון טוב לאכול כשאתה שוחה. גם אבירים עלולים לחטוף התכווצויות שרירים!",
       "notes": "",
       "placeholders": []
     },
@@ -4522,7 +4522,7 @@
       "logicFile": "single",
       "messageNumber": 50,
       "original": "Seeing how much the goat likes that carrot, eating it may be hazardous to your health.",
-      "translation": "על אף שהתיש אוהב את הגזר הזה, אכילתו עלולה להיות מסוכנת לבריאותך.",
+      "translation": "מאחר שהתיש אוהב את הגזר הזה, אכילתו עלולה להיות מסוכנת לבריאותך.",
       "notes": "",
       "placeholders": []
     },
@@ -4554,7 +4554,7 @@
       "logicFile": "single",
       "messageNumber": 54,
       "original": "The magic beans tingle as they go down.  Now, why did you do that?",
-      "translation": "שעועית הקסם מקעצצת בגרון בעת בליעתה. חבל, למה עשית את זה?",
+      "translation": "שעועית הקסם מעקצצת בגרון בעת בליעתה. חבל, למה עשית את זה?",
       "notes": "",
       "placeholders": []
     },
@@ -4562,7 +4562,7 @@
       "logicFile": "single",
       "messageNumber": 55,
       "original": "Mmmm!  That Swiss cheese was as delicious as it looked.",
-      "translation": "מממ! הגבינה השוויצרית הזו כפי שנראתה - כך גם היתה טעימה.",
+      "translation": "מממ! הגבינה השוויצרית הזו הייתה טעימה כפי שנראתה.",
       "notes": "",
       "placeholders": []
     },
@@ -4826,7 +4826,7 @@
       "logicFile": "single",
       "messageNumber": 88,
       "original": "You open your mouth while swimming and quench your thirst.",
-      "translation": "אתה פותח את פיך בזמן שחייה ומרענן את צימאונך.",
+      "translation": "אתה פותח את פיך בזמן שחייה ומרווה את צימאונך.",
       "notes": "",
       "placeholders": []
     },

@@ -45,6 +45,46 @@ The Hebrew is malformed or doesn't agree in gender/number.
 | 2 | `Looks like you had a bad fall this spring.` | `נראה שאחרי נפילה רעה באביב הזה.` | `שאחרי` ("that after") is dangling — there's no main verb. The translator probably meant "had". | `נראה שעברת נפילה רעה באביב הזה.` |
 | 882 | `The dragon's still got it.` | `הדרקון עדיין מחזיק בזה.` | `מחזיק בזה` is wooden literal. The "it" refers to the magic mirror (`מראה`, feminine), so even keeping the verb it should be `בה`. | `המראה עדיין אצל הדרקון` |
 
+#### Logical connectors — `אבל`, `על אף ש`, `מאחר ש`
+
+English connectors don't always map 1-to-1 to Hebrew. The AI translator
+tends to use `אבל ↔ but` and `על אף ש ↔ despite` mechanically, even when
+the underlying logic doesn't fit. Watch for these:
+
+- **`אבל`** introduces a **contrast** — a *positive* clause leading to a
+  *negative* outcome (or vice versa). When both clauses are negative (or
+  both positive), use `ו` instead.
+  - ❌ `אתה נראה ליצורים מסוכנים, אבל הטבעת נעלמה.` (both bad → use `ו`)
+  - ✅ `אתה רץ מהר, אבל לא הספקת.` (positive expectation + negative outcome)
+- **`על אף ש`** ("despite") is **concessive** — the second clause happens
+  *contrary* to the first. Don't use for causal links.
+  - ❌ `על אף שהתיש אוהב את הגזר, אכילתו מסוכנת.` (this is causal, not concessive)
+  - ✅ `מאחר שהתיש אוהב את הגזר, אכילתו מסוכנת.` (because → causal)
+- **`מאחר ש` / `הואיל ש` / `כיוון ש`** — causal ("because"). Use when the
+  English is `seeing how`, `given that`, `since (causal)`.
+
+If the English is `but`, `however`, `yet`: check whether the Hebrew clauses
+are genuinely contrastive before using `אבל`. If they're a sequence of
+negative outcomes, prefer `ו` or `ובנוסף`.
+
+#### One ו-החיבור per sentence + comma pairing
+
+When a sentence chains 3+ clauses, don't string two `ו` connectors
+together. Use **one** `ו` and break the rest with commas. Pairing rule:
+
+- A clause that **starts with `ו`** → **no** comma before it.
+- A clause **without `ו`** → **comma** before it.
+
+| ❌ Two ו's | ✅ One ו, comma where the other ו was |
+|------------|----------------------------------------|
+| `הכישוף פג ואתה שוב נראה ליצורים מסוכנים, והטבעת נעלמה.` | `הכישוף פג, אתה שוב נראה ליצורים מסוכנים והטבעת נעלמה.` |
+| `הוא פתח את הדלת ונכנס לחדר, ובדק את הארון.` | `הוא פתח את הדלת, נכנס לחדר ובדק את הארון.` |
+
+Detection cue: search a single translation for the substring ` ו` (space +
+ו) appearing **twice or more** in clause-initial position — that's
+usually a smell. Also `, ו` (comma + space + ו) is a flag: combined with
+another ו earlier in the sentence, restructure.
+
 ### 5. Literal / English syntax leaking through
 Word-for-word translation that no native Hebrew speaker would say.
 
@@ -67,6 +107,24 @@ the same idea with one verb. Watch for and simplify:
 Default move: **drop redundant adverbs that are already implied by the
 verb/preposition**, and **add a verb** when the noun phrase is doing the
 work of a clause in English.
+
+**English loanwords** — the AI sometimes uses transliterated English words
+where Hebrew has a perfectly good native term, and the loanword breaks the
+medieval-fantasy register. Replace:
+
+| Loanword | Hebrew | Notes |
+|----------|--------|-------|
+| `סיטואציה` | `מצב` | Always replaceable |
+| `אפקט` | `השפעה` / `תוצאה` | Always replaceable in fantasy register |
+| `מיסטי` | `מסתורי` | Or just drop — often redundant with `כישוף` |
+| `אינטרסנטי` | `בעל אינטרס` / `נוגע` | |
+| `בלוק` (of wood/stone) | `גוש` | |
+| `מייפל` (the tree) | `אדר` | |
+
+Rule of thumb: if there's an everyday Hebrew word a 12-year-old would
+recognize, use it instead of the transliteration. Exceptions: established
+modern terms like `ארומה` (in food contexts), genuine scientific names, and
+proper nouns.
 
 ### 6. Inconsistent translation of the same term
 The same English term is rendered different ways in different messages, with
