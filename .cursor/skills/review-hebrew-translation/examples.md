@@ -108,6 +108,24 @@ Default move: **drop redundant adverbs that are already implied by the
 verb/preposition**, and **add a verb** when the noun phrase is doing the
 work of a clause in English.
 
+#### Don't chase vivid English imagery into labored Hebrew
+
+When English uses a striking metaphor or dynamic phrasing, the AI translator
+sometimes preserves it word-for-word and ends up with Hebrew that's
+technically faithful but reads stiff or unnatural. **A plain Hebrew
+sentence that captures the same idea is usually better than an over-vivid
+calque.**
+
+| EN | Over-translated HE | Plain natural HE |
+|----|--------------------|------------------|
+| `The deep well dissolves quickly into darkness` | `הבאר העמוקה נבלעת במהירות בחושך` (literally "the deep well is swallowed quickly by darkness" — labored) | `הבאר עמוקה וחשוכה מאד` (the well is deep and very dark) |
+
+Default move: if your "improved" translation needs you to justify it
+("preserves the dynamic image of …"), reconsider — Hebrew often expresses
+the same atmosphere with fewer words and a flatter structure. Save the
+vivid moves for places where Hebrew has its own equivalent flair (e.g.
+biblical-register `נבלעת בחשכה` only when the surrounding text earns it).
+
 **English loanwords** — the AI sometimes uses transliterated English words
 where Hebrew has a perfectly good native term, and the loanword breaks the
 medieval-fantasy register. Replace:
@@ -120,11 +138,65 @@ medieval-fantasy register. Replace:
 | `אינטרסנטי` | `בעל אינטרס` / `נוגע` | |
 | `בלוק` (of wood/stone) | `גוש` | |
 | `מייפל` (the tree) | `אדר` | |
+| `אובססיה` | `התעניינות עזה` / `מרתק` (verbal recasting) | Clinical loanword; breaks register |
+| `אלגנטי` | `מהודר` / `מעודן` | Replaceable in fantasy register |
+| `פיזי` | `גופני` | Replaceable; `גופני` reads more native |
+
+**Loanwords to leave alone** — these are fully naturalized in modern
+Hebrew and replacing them adds no value (and can sound stilted):
+
+| Loanword | Don't replace with | Why |
+|----------|-------------------|-----|
+| `ספציפי` | `מסוים` / `מיוחד` | Native speakers use it freely; a `מסוים`-only purge sounds like a translator over-correcting |
+| `פאזל` (jigsaw) | — | Keep when it actually means a jigsaw |
 
 Rule of thumb: if there's an everyday Hebrew word a 12-year-old would
-recognize, use it instead of the transliteration. Exceptions: established
-modern terms like `ארומה` (in food contexts), genuine scientific names, and
-proper nouns.
+recognize *and* the loanword sounds out of place in chivalric/fantasy
+register, replace it. If the loanword is so common in modern Hebrew that
+replacing it would itself sound forced, leave it.
+
+#### Creature names — pin one Hebrew term per English creature
+
+KQ-style games have several "small magical humanoid" creatures that
+English distinguishes but the AI translator tends to merge into a single
+Hebrew word (usually `גמד`). Don't merge — each English creature gets its
+own dedicated Hebrew term, and they must stay distinct because the same
+game often features more than one of them.
+
+| English | Hebrew | KQ1 example | Don't translate as |
+|---------|--------|-------------|--------------------|
+| `elf` | `אלף` | The lake elf who gives Graham the invisibility ring (#406-#426) | `גמד` (collides with the gnome) |
+| `gnome` / `dwarf` (the old wrinkled rock-house character) | `גמד` (often `גמד זקן`) | The Rumpelstiltskin-style gnome at the rock house (#1162-1188 area) | `אלף` |
+| `leprechaun` | `לפרקון` (single canonical spelling — pick one and stick to it) | The sneaky thief that steals treasures (#1644-1648, #2032-2036 area) | `גמד` (collides with the gnome) or `שדון` mid-stream |
+| `fairy godmother` | `הפיה הטובה השומרת עליך` (or `פיה שומרת` / `פיה טובה`) | #248, #251-253 | `פיה סנדקית` (Christian-coded) |
+
+**Detection cue**: when reviewing a batch and you see `גמד` appearing in
+the same scene as another `גמד`-distinct creature in EN, check whether
+this is the gnome (rock house, carving wood, knows your name riddle) or
+something else. Speaker labels (`גמד:` vs `אלף:`) are especially worth a
+spot-check — they're easy places for the cast to mis-align with the
+narration.
+
+**Why "merge in the wrong direction" matters**: merging the elf into
+`גמד` is worse than merging the gnome into `אלף`, because the gnome
+character has stronger Hebrew identity (he's `גמד זקן ומקומט` —
+"old, wrinkled gnome"). Always defer to the more entrenched name.
+
+#### Modifier attachment doesn't shift in translation
+
+When EN places a modifier on a noun (`this particular elf`,
+`a really big rock`, `that very dark cave`), the Hebrew translation must
+keep the modifier on the *same* noun — it cannot drift onto a verb or a
+different noun. The AI translator sometimes "improves" by re-attaching, and
+that silently changes the meaning.
+
+| EN | Wrong attachment (HE) | Correct attachment (HE) |
+|----|----------------------|--------------------------|
+| `This particular elf doesn't like…` | `הגמד הזה במיוחד אינו אוהב…` (this elf *especially doesn't like*) | `הגמד הספציפי הזה אינו אוהב…` (this *particular* elf doesn't like) |
+
+Default move: if the EN modifier sits between a determiner and a noun
+(`this/that/the` + ADJ + N), put the Hebrew adjective in the same slot —
+between the article and the head noun (`ה...ה...הזה`), not after the verb.
 
 ### 6. Inconsistent translation of the same term
 The same English term is rendered different ways in different messages, with

@@ -6538,7 +6538,7 @@
       "logicFile": "single",
       "messageNumber": 302,
       "original": "The gate to the pen is closed.",
-      "translation": "שער הדיר סגור.",
+      "translation": "שער המכלאה סגור.",
       "notes": "",
       "placeholders": []
     },
@@ -6546,7 +6546,7 @@
       "logicFile": "single",
       "messageNumber": 303,
       "original": "You see the goats trough near the other end of the pen.",
-      "translation": "אתה רואה את שוקת התישים ליד הקצה השני של הדיר.",
+      "translation": "אתה רואה את שוקת התישים ליד הקצה השני של המכלאה.",
       "notes": "",
       "placeholders": []
     },
@@ -6594,7 +6594,7 @@
       "logicFile": "single",
       "messageNumber": 309,
       "original": "While you are wandering about in the goat's pen, the goat grows tired of standing around waiting for you and decides to go on his separate way.",
-      "translation": "בזמן שאתה משוטט בדיר התישים, התיש מתעייף מלעמוד ולחכות לך ומחליט ללכת לדרכו הנפרדת.",
+      "translation": "בזמן שאתה משוטט במכלאת התישים, התיש מתעייף מלעמוד ולחכות לך ומחליט ללכת לדרכו הנפרדת.",
       "notes": "",
       "placeholders": []
     },
@@ -6626,7 +6626,7 @@
       "logicFile": "single",
       "messageNumber": 313,
       "original": "The deep well dissolves quickly into darkness; you can barely see the glint of rippling water at the bottom.",
-      "translation": "הבאר העמוקה וחשוכה מאד; אתה בקושי רואה את נצנוץ המים הגועשים בתחתית.",
+      "translation": "הבאר עמוקה וחשוכה מאד; אתה בקושי רואה את נצנוץ אדוות המים בתחתית.",
       "notes": "",
       "placeholders": []
     },
@@ -6978,7 +6978,7 @@
       "logicFile": "single",
       "messageNumber": 357,
       "original": "This crank is used to lower and raise the bucket into the well.",
-      "translation": "ידית הארוכבה הזו משמשת להרמה והורדת הדלי אל תוך הבאר.",
+      "translation": "ידית הארכובה הזו משמשת להרמה והורדת הדלי אל תוך הבאר.",
       "notes": "",
       "placeholders": []
     },
@@ -7258,7 +7258,7 @@
       "logicFile": "single",
       "messageNumber": 392,
       "original": "Finding plenty of footholds in the coarse bark of the tree, you easily clamber up the trunk to the branches above.",
-      "translation": "אתה מוצא שפע של מדרגות בקליפת העץ המחוספס, ואתה מטפס בקלות על הגזע אל הענפים שמעל.",
+      "translation": "אתה מוצא שפע של אחיזות לרגל בקליפת העץ המחוספסת, ומטפס בקלות על הגזע אל הענפים שמעל.",
       "notes": "",
       "placeholders": []
     },
@@ -7370,7 +7370,7 @@
       "logicFile": "single",
       "messageNumber": 406,
       "original": "Wandering along the banks of a beautiful lake, you see a cute little elf.",
-      "translation": "משוטט לאורך גדות אגם יפהפה, אתה רואה גמד קטן וחמוד.",
+      "translation": "משוטט לאורך גדות אגם יפהפה, אתה רואה אלף קטן וחמוד.",
       "notes": "",
       "placeholders": []
     },
@@ -7402,7 +7402,7 @@
       "logicFile": "single",
       "messageNumber": 410,
       "original": "Since you were not very polite to the elf, he has departed.",
-      "translation": "מאחר שלא היית מנומס כלפי הגמד, הוא עזב.",
+      "translation": "מאחר שלא היית מנומס כלפי האלף, הוא עזב.",
       "notes": "",
       "placeholders": []
     },
@@ -7410,7 +7410,7 @@
       "logicFile": "single",
       "messageNumber": 411,
       "original": "This particular elf doesn't care for close physical contact with strangers.",
-      "translation": "הגמד הספציפי הזה לא אוהב מגע פיזי קרוב עם זרים.",
+      "translation": "האלף הספציפי הזה אינו אוהב מגע גופני קרוב עם זרים.",
       "notes": "",
       "placeholders": []
     },
@@ -7418,7 +7418,7 @@
       "logicFile": "single",
       "messageNumber": 412,
       "original": "The elf has done nothing to you.  Why hurt him?",
-      "translation": "הגמד לא עשה לך כלום. למה לפגוע בו?",
+      "translation": "האלף לא עשה לך כלום. למה לפגוע בו?",
       "notes": "",
       "placeholders": []
     },
@@ -7426,7 +7426,7 @@
       "logicFile": "single",
       "messageNumber": 413,
       "original": "There is no elf here.",
-      "translation": "אין כאן גמד.",
+      "translation": "אין כאן אלף.",
       "notes": "",
       "placeholders": []
     },
@@ -7434,7 +7434,7 @@
       "logicFile": "single",
       "messageNumber": 414,
       "original": "There is a very pretty lake here; a small elf is wandering up and down the shore.",
-      "translation": "יש כאן אגם יפהפה מאוד; גמד קטן משוטט הלוך ושוב לאורך החוף.",
+      "translation": "יש כאן אגם יפהפה מאוד; אלף קטן משוטט הלוך ושוב לאורך החוף.",
       "notes": "",
       "placeholders": []
     },
@@ -7450,7 +7450,7 @@
       "logicFile": "single",
       "messageNumber": 416,
       "original": "You came too close to the shy little elf.",
-      "translation": "התקרבת מדי לגמד הקטן והביישן.",
+      "translation": "התקרבת מדי לאלף הקטן והביישן.",
       "notes": "",
       "placeholders": []
     },
@@ -7458,7 +7458,7 @@
       "logicFile": "single",
       "messageNumber": 417,
       "original": "The small elf seems friendly enough.",
-      "translation": "הגמד הקטן נראה ידידותי מספיק.",
+      "translation": "האלף הקטן נראה ידידותי מספיק.",
       "notes": "",
       "placeholders": []
     },
@@ -7490,7 +7490,7 @@
       "logicFile": "single",
       "messageNumber": 421,
       "original": "You should get closer to the little elf.",
-      "translation": "כדאי שתתקרב לגמד הקטן.",
+      "translation": "כדאי שתתקרב לאלף הקטן.",
       "notes": "",
       "placeholders": []
     },
@@ -7498,7 +7498,7 @@
       "logicFile": "single",
       "messageNumber": 422,
       "original": "There's no need to do that to the elf.",
-      "translation": "אין צורך לעשות זאת לגמד.",
+      "translation": "אין צורך לעשות זאת לאלף.",
       "notes": "",
       "placeholders": []
     },
@@ -7506,7 +7506,7 @@
       "logicFile": "single",
       "messageNumber": 423,
       "original": "The elf is impressed by your friendliness and responds by handing you an elegant little ring.",
-      "translation": "הגמד מתרשם מידידותך ומגיב בהושטת טבעת קטנה ואלגנטית.",
+      "translation": "האלף מתרשם מידידותך ומגיב בהושטת טבעת קטנה ואלגנטית.",
       "notes": "",
       "placeholders": []
     },
@@ -7530,7 +7530,7 @@
       "logicFile": "single",
       "messageNumber": 426,
       "original": "With that, the elf vanishes.",
-      "translation": "וכעת, הגמד נעלם.",
+      "translation": "וכעת, האלף נעלם.",
       "notes": "",
       "placeholders": []
     },
@@ -7562,7 +7562,7 @@
       "logicFile": "single",
       "messageNumber": 430,
       "original": "There are many scattered pines around here.",
-      "translation": "יש כאן הרבה אורנים הפזורים ביער.",
+      "translation": "יש כאן הרבה אורנים פזורים מסביב.",
       "notes": "",
       "placeholders": []
     },
@@ -7586,7 +7586,7 @@
       "logicFile": "single",
       "messageNumber": 433,
       "original": "Perhaps if you'd attended the Famous Adventurer's Correspondence School, you'd know how to pick locks. Sadly, you don't.",
-      "translation": "אולי אם היית לומד בבית ספר לכתבי הרפתקנים מפורסמים, היית יודע איך לפרוץ מנעולים. למרבה הצער, אינך יודע.",
+      "translation": "אולי אם היית לומד בבית הספר להתכתבות של ההרפתקן המפורסם, היית יודע איך לפרוץ מנעולים. למרבה הצער, אינך יודע.",
       "notes": "",
       "placeholders": []
     },
@@ -7714,7 +7714,7 @@
       "logicFile": "single",
       "messageNumber": 449,
       "original": "The only response you get is the echo of your pounding.",
-      "translation": "התגובה היחידה שאתה מקבל היא הד פעימות הלב שלך.",
+      "translation": "התגובה היחידה שאתה מקבל היא הד דפיקותיך.",
       "notes": "",
       "placeholders": []
     },
@@ -7754,7 +7754,7 @@
       "logicFile": "single",
       "messageNumber": 454,
       "original": "Sunlight glistens on the rippling lake water.",
-      "translation": "אור השמש מנצנץ על מי האגם הגועשים.",
+      "translation": "אור השמש מנצנץ על אדוות מי האגם.",
       "notes": "",
       "placeholders": []
     },
@@ -7866,7 +7866,7 @@
       "logicFile": "single",
       "messageNumber": 468,
       "original": "With a screech and cackle, a witch swoops down from the skies above.  Look out!  She dips and turns and tries to catch you!",
-      "translation": "בצרחה וקריאות עליזות, מכשפה צונחת מהשמיים שמעל. היזהר! היא צוללת ומסתובבת ומנסה לתפוס אותך!",
+      "translation": "בצרחה וגיחוכים מרושעים, מכשפה צונחת מהשמיים שמעל. היזהר! היא צוללת, מסתובבת ומנסה לתפוס אותך!",
       "notes": "",
       "placeholders": []
     },
