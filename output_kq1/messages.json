@@ -4162,7 +4162,7 @@
       "logicFile": "single",
       "messageNumber": 5,
       "original": "You see the thick green tendrils of the beanstalk stretching even further to the sky above you.",
-      "translation": "אתה רואה את קנוקנות שעועית הפלא הירוקות והעבותות נמתחות יותר ויותר אל השמיים שמעליך.",
+      "translation": "אתה רואה את הקנוקנות הירוקות והעבותות של גבעול האפונה נמתחות עוד יותר אל השמיים שמעליך.",
       "notes": "",
       "placeholders": []
     },
@@ -4194,7 +4194,7 @@
       "logicFile": "single",
       "messageNumber": 9,
       "original": "You don't have the magic mirror.",
-      "translation": "אין לך מראת קסמים.",
+      "translation": "אין לך את מראת הקסמים.",
       "notes": "",
       "placeholders": []
     },
@@ -4234,7 +4234,7 @@
       "logicFile": "single",
       "messageNumber": 14,
       "original": "Just type \"USE THE SLINGSHOT\".",
-      "translation": "פשוט הקלד \"להשתמש בקלע\".",
+      "translation": "פשוט הקלד \"השתמש בקלע\".",
       "notes": "",
       "placeholders": []
     },
@@ -4242,7 +4242,7 @@
       "logicFile": "single",
       "messageNumber": 15,
       "original": "You shouldn't drop that, Sir Graham.   You may need it.",
-      "translation": "לא כדאי לך לאבד את זה, סר גרהם. ייתכן שתזדקק לזה בהמשך.",
+      "translation": "לא כדאי לך להניח את זה, סר גרהם. ייתכן שתזדקק לזה בהמשך.",
       "notes": "",
       "placeholders": []
     },
@@ -4282,7 +4282,7 @@
       "logicFile": "single",
       "messageNumber": 20,
       "original": "You have already opened the walnut.",
-      "translation": "כבר פתחת את האגוז.",
+      "translation": "כבר פתחת את אגוז המלך.",
       "notes": "",
       "placeholders": []
     },
@@ -4402,7 +4402,7 @@
       "logicFile": "single",
       "messageNumber": 35,
       "original": "The magic ring is still in your pocket.  You can't rub it there.",
-      "translation": "טבעת הקסמים עדיין בכיסך. אינך יכול לשפשף אותה כשהיא שם.",
+      "translation": "טבעת הקסמים עדיין בכיסך. אינך יכול לשפשף אותה בעודה שם.",
       "notes": "",
       "placeholders": []
     },
@@ -4546,7 +4546,7 @@
       "logicFile": "single",
       "messageNumber": 53,
       "original": "You already ate the beans.",
-      "translation": "כבר אכלת את השעועית.",
+      "translation": "כבר אכלת את האפונה.",
       "notes": "",
       "placeholders": []
     },
@@ -4554,7 +4554,7 @@
       "logicFile": "single",
       "messageNumber": 54,
       "original": "The magic beans tingle as they go down.  Now, why did you do that?",
-      "translation": "שעועית הקסם מעקצצת בגרון בעת בליעתה. חבל, למה עשית את זה?",
+      "translation": "אפונת הקסם מעקצצת בגרון בעת בליעתה. חבל, למה עשית את זה?",
       "notes": "",
       "placeholders": []
     },
@@ -4570,7 +4570,7 @@
       "logicFile": "single",
       "messageNumber": 56,
       "original": "Just the thought of eating that would make braver knights lose their appetites!",
-      "translation": "עצם המחשבה על אכילת דבר זה תגרום לאבירים אמיצים לאבד את התיאבון!",
+      "translation": "עצם המחשבה על אכילת דבר זה תגרום לאבירים אמיצים יותר ממך לאבד את התיאבון!",
       "notes": "",
       "placeholders": []
     },
@@ -4666,7 +4666,7 @@
       "logicFile": "single",
       "messageNumber": 68,
       "original": "Cautiously, you open the pouch and see many sparkling and flashing diamonds! Quickly, you close it again so as not to lose any.",
-      "translation": "בזהירות, אתה פותח את הארנק ורואה יהלומים רבים נוצצים ומהבהבים! ובמהירות, אתה סוגר אותו שוב כדי לא לאבד אף אחד.",
+      "translation": "בזהירות, אתה פותח את הארנק ורואה יהלומים רבים נוצצים ומהבהבים! במהירות, אתה סוגר אותו שוב כדי לא לאבד אף אחד.",
       "notes": "",
       "placeholders": []
     },
@@ -4738,7 +4738,7 @@
       "logicFile": "single",
       "messageNumber": 77,
       "original": "You don't have any rocks for the slingshot.",
-      "translation": "אין לך אבנים כדי להשתמש בקלע.",
+      "translation": "אין לך חלוקי נחל כדי להשתמש בקלע.",
       "notes": "",
       "placeholders": []
     },
@@ -4762,7 +4762,7 @@
       "logicFile": "single",
       "messageNumber": 80,
       "original": "You throw your last pebble.",
-      "translation": "אתה זורק את החלוק האחרון שלך.",
+      "translation": "אתה זורק את חלוק הנחל האחרון שלך.",
       "notes": "",
       "placeholders": []
     },
@@ -4770,7 +4770,7 @@
       "logicFile": "single",
       "messageNumber": 81,
       "original": "You throw one of your pebbles.",
-      "translation": "אתה זורק אחד מהחלוקים שלך.",
+      "translation": "אתה זורק אחד מחלוקי הנחל שלך.",
       "notes": "",
       "placeholders": []
     },
@@ -4826,7 +4826,7 @@
       "logicFile": "single",
       "messageNumber": 88,
       "original": "You open your mouth while swimming and quench your thirst.",
-      "translation": "אתה פותח את פיך בזמן שחייה ומרווה את צימאונך.",
+      "translation": "אתה פותח את פיך בזמן שאתה שוחה ומרווה את צימאונך.",
       "notes": "",
       "placeholders": []
     },
@@ -4890,7 +4890,7 @@
       "logicFile": "single",
       "messageNumber": 96,
       "original": "At the thought of removing the knife from the dead goat, you are filled with remorse.",
-      "translation": "המחשבה על הוצאת הסכין מהתיש המת, ממלאת אותך בחרטה.",
+      "translation": "המחשבה על הוצאת הפגיון מהתיש המת, ממלאת אותך בחרטה.",
       "notes": "",
       "placeholders": []
     },
@@ -4898,7 +4898,7 @@
       "logicFile": "single",
       "messageNumber": 97,
       "original": "You won't be needing that on your quest, Sir Graham.",
-      "translation": "לא תזדקק לזה בהרפתקה שלך, סר גרהם.",
+      "translation": "לא תזדקק לזה במסעך, סר גרהם.",
       "notes": "",
       "placeholders": []
     },
@@ -4914,7 +4914,7 @@
       "logicFile": "single",
       "messageNumber": 99,
       "original": "There isn't a beanstalk here to look at.",
-      "translation": "אין כאן גבעול שעועית להסתכל עליו.",
+      "translation": "אין כאן גבעול אפונה להסתכל עליו.",
       "notes": "",
       "placeholders": []
     },
@@ -4970,7 +4970,7 @@
       "logicFile": "single",
       "messageNumber": 106,
       "original": "What indeed.",
-      "translation": "אכן מה.",
+      "translation": "אכן.",
       "notes": "",
       "placeholders": []
     },
@@ -5082,7 +5082,7 @@
       "logicFile": "single",
       "messageNumber": 120,
       "original": "The old goat, trotting briskly, seems happy to be with you.",
-      "translation": "התיש הזקן, מפזז בעליזות, נראה שהוא שמח להיות איתך.",
+      "translation": "התיש הזקן, מטפף במרץ, נראה שהוא שמח להיות איתך.",
       "notes": "",
       "placeholders": []
     },
@@ -5386,7 +5386,7 @@
       "logicFile": "single",
       "messageNumber": 158,
       "original": "You're in a shady forest clearing.  A large rock rests in the middle of the clearing.",
-      "translation": "אתה בקרחת יער מוצלת. סלע גדול מוצב במרכז הקרחת.",
+      "translation": "אתה בקרחת יער מוצלת. סלע גדול מונח במרכז הקרחת.",
       "notes": "",
       "placeholders": []
     },
@@ -5410,7 +5410,7 @@
       "logicFile": "single",
       "messageNumber": 161,
       "original": "You see a large rock resting in the middle of the clearing.",
-      "translation": "אתה רואה סלע גדול מוצב במרכז הקרחת.",
+      "translation": "אתה רואה סלע גדול מונח במרכז הקרחת.",
       "notes": "",
       "placeholders": []
     },
@@ -5738,7 +5738,7 @@
       "logicFile": "single",
       "messageNumber": 202,
       "original": "You can't pick up any of the pebbles while you are invisible.",
-      "translation": "אינך יכול להרים אף אחד מהחלוקים כשאתה בלתי נראה.",
+      "translation": "אינך יכול להרים אף אחד מחלוקי הנחל כשאתה בלתי נראה.",
       "notes": "",
       "placeholders": []
     },
@@ -5778,7 +5778,7 @@
       "logicFile": "single",
       "messageNumber": 207,
       "original": "That's one giant leap for the fish!",
-      "translation": "זו פסיעה ענקית לדגים!",
+      "translation": "זו קפיצה ענקית לדגים!",
       "notes": "",
       "placeholders": []
     },
@@ -5842,7 +5842,7 @@
       "logicFile": "single",
       "messageNumber": 215,
       "original": "You already have the pouch.",
-      "translation": "יש לך כבר את הארנק.",
+      "translation": "כבר יש לך את הארנק.",
       "notes": "",
       "placeholders": []
     },
@@ -6154,7 +6154,7 @@
       "logicFile": "single",
       "messageNumber": 254,
       "original": "While you were wandering in the pen, the goat has wandered away.",
-      "translation": "בזמן ששוטטת בדיר, התיש שוטט לו משם.",
+      "translation": "בזמן ששוטטת במכלאה, התיש שוטט לו משם.",
       "notes": "",
       "placeholders": []
     },
@@ -6330,7 +6330,7 @@
       "logicFile": "single",
       "messageNumber": 276,
       "original": "Pelting the goat with pebbles would be a slow and painful way to kill him.  If you feel you absolutely must do away with him, use a quicker method.",
-      "translation": "ידוי אבנים על התיש תהיה דרך איטית וכואבת להרוג אותו. אם אתה מרגיש שאתה חייב להיפטר ממנו, השתמש בשיטה מהירה יותר.",
+      "translation": "זריקת אבנים על התיש תהיה דרך איטית וכואבת להרוג אותו. אם אתה מרגיש שאתה חייב להיפטר ממנו, השתמש בשיטה מהירה יותר.",
       "notes": "",
       "placeholders": []
     },
@@ -6546,7 +6546,7 @@
       "logicFile": "single",
       "messageNumber": 303,
       "original": "You see the goats trough near the other end of the pen.",
-      "translation": "אתה רואה את שוקת התישים ליד הקצה השני של המכלאה.",
+      "translation": "אתה רואה את שוקת התיש ליד הקצה השני של המכלאה.",
       "notes": "",
       "placeholders": []
     },
@@ -6698,7 +6698,7 @@
       "logicFile": "single",
       "messageNumber": 322,
       "original": "You already have a bucket full of water.",
-      "translation": "יש לך כבר דלי מלא במים.",
+      "translation": "כבר יש לך דלי מלא במים.",
       "notes": "",
       "placeholders": []
     },
@@ -6794,7 +6794,7 @@
       "logicFile": "single",
       "messageNumber": 334,
       "original": "You already have the bucket.",
-      "translation": "יש לך כבר את הדלי.",
+      "translation": "כבר יש לך את הדלי.",
       "notes": "",
       "placeholders": []
     },
@@ -7114,7 +7114,7 @@
       "logicFile": "single",
       "messageNumber": 374,
       "original": "By the time you got out your slingshot and pebbles, and aimed them, the wolf would be upon you!",
-      "translation": "עד שתשלוף את הקלע והאבנים שלך, ותכוון אותם, הזאב כבר יהיה עליך!",
+      "translation": "עד שתשלוף את הקלע וחלוקי הנחל שלך, ותכוון אותם, הזאב כבר יהיה עליך!",
       "notes": "",
       "placeholders": []
     },
@@ -7146,7 +7146,7 @@
       "logicFile": "single",
       "messageNumber": 378,
       "original": "You have neither projectiles nor the means with which to propel them, should you want to attempt such a folly.",
-      "translation": "אין לך קליעים ולא את האמצעים לדחוף אותם, אז אפילו אל תנסה.",
+      "translation": "אין לך קליעים ולא את האמצעים להעיף אותם, אז אפילו אל תנסה.",
       "notes": "",
       "placeholders": []
     },
@@ -7154,7 +7154,7 @@
       "logicFile": "single",
       "messageNumber": 379,
       "original": "You could scarcely hope to bother the wolf by tossing pebbles at it!",
-      "translation": "היית יכול רק לקוות שתצליח להטריד את הזאב על ידי זריקת אבנים קטנות עליו!",
+      "translation": "היית יכול רק לקוות שתצליח להטריד את הזאב על ידי זריקת חלוקי נחל עליו!",
       "notes": "",
       "placeholders": []
     },
@@ -7162,7 +7162,7 @@
       "logicFile": "single",
       "messageNumber": 380,
       "original": "There's nothing interesting to throw your pebbles at here.",
-      "translation": "אין כאן שום דבר מעניין לזרוק עליו את אבניך.",
+      "translation": "אין כאן שום דבר מעניין לזרוק עליו את חלוקי הנחל שלך.",
       "notes": "",
       "placeholders": []
     },
@@ -7170,7 +7170,7 @@
       "logicFile": "single",
       "messageNumber": 381,
       "original": "You don't have any pebbles to throw.",
-      "translation": "אין לך אבנים לזרוק.",
+      "translation": "אין לך חלוקי נחל לזרוק.",
       "notes": "",
       "placeholders": []
     },
@@ -7210,7 +7210,7 @@
       "logicFile": "single",
       "messageNumber": 386,
       "original": "It looks like the wolf has his stomach set on you.  Spend less time looking and more time escaping!",
-      "translation": "נראה שלזאב בטן מלאה עליך. תבלה פחות זמן בהתבוננות ויותר זמן בבריחה!",
+      "translation": "נראה שהזאב רואה בך ארוחה. תבלה פחות זמן בהתבוננות ויותר זמן בבריחה!",
       "notes": "",
       "placeholders": []
     },
@@ -7530,7 +7530,7 @@
       "logicFile": "single",
       "messageNumber": 426,
       "original": "With that, the elf vanishes.",
-      "translation": "וכעת, האלף נעלם.",
+      "translation": "ובכך, האלף נעלם.",
       "notes": "",
       "placeholders": []
     },
@@ -7970,7 +7970,7 @@
       "logicFile": "single",
       "messageNumber": 481,
       "original": "The goat begins to reply, but then remembers that goats can't talk!",
-      "translation": "התיש מתחיל להשיב, אבל אז נזכרת שתישים לא יכולים לדבר!",
+      "translation": "התיש מתחיל להשיב, אבל אז נזכר שתישים לא יכולים לדבר!",
       "notes": "",
       "placeholders": []
     },
@@ -8210,7 +8210,7 @@
       "logicFile": "single",
       "messageNumber": 511,
       "original": "It is a well known fact that goats hate trolls intensely.  You move aside and let the goat take care of this wretched, nasty troll.",
-      "translation": "ידוע שהתישים מתעבים טרולים. אתה זז הצידה ונותן לתיש לטפל בטרול האומלל והמגעיל הזה.",
+      "translation": "ידוע שתישים מתעבים טרולים. אתה זז הצידה ונותן לתיש לטפל בטרול האומלל והמגעיל הזה.",
       "notes": "",
       "placeholders": []
     },
@@ -8346,7 +8346,7 @@
       "logicFile": "single",
       "messageNumber": 528,
       "original": "This is the sweetest little gingerbread house you've ever seen.  The walls are cake, the roof is frosting, the chimney is made from gummy bricks, and the candy path and cookie fence are unbearably tempting!",
-      "translation": "זהו בית הג'ינג'רברד המתוק ביותר שראית אי פעם. הקירות הם עוגה, הגג הוא ציפוי, הארובה עשויה לבני גומי, ושביל הממתקים וגדר העוגיות מפתים באופן בלתי נסבל!",
+      "translation": "זהו בית עוגת הג'ינג'ר המתוק ביותר שראית אי פעם. הקירות הם עוגה, הגג הוא ציפוי, הארובה עשויה לבני גומי, ושביל הממתקים וגדר העוגיות מפתים באופן בלתי נסבל!",
       "notes": "",
       "placeholders": []
     },
@@ -8362,7 +8362,7 @@
       "logicFile": "single",
       "messageNumber": 530,
       "original": "You are near a little gingerbread house in a forest clearing.",
-      "translation": "אתה ליד בית עוגת זנגביל קטן בקרחת יער.",
+      "translation": "אתה ליד בית עוגת ג'ינג'ר קטן בקרחת יער.",
       "notes": "",
       "placeholders": []
     },
@@ -8674,7 +8674,7 @@
       "logicFile": "single",
       "messageNumber": 569,
       "original": "You already have a gold walnut.",
-      "translation": "יש לך כבר אגוז מלך מוזהב.",
+      "translation": "כבר יש לך אגוז מלך מוזהב.",
       "notes": "",
       "placeholders": []
     },
@@ -8698,7 +8698,7 @@
       "logicFile": "single",
       "messageNumber": 572,
       "original": "You already have one walnut, let's not be greedy.",
-      "translation": "יש לך כבר אגוז מלך אחד, בוא לא נהיה חמדנים.",
+      "translation": "כבר יש לך אגוז מלך אחד, בוא לא נהיה חמדנים.",
       "notes": "",
       "placeholders": []
     },
@@ -8730,7 +8730,7 @@
       "logicFile": "single",
       "messageNumber": 576,
       "original": "In the manner of a cruel schoolboy, you fling a pebble at the squirrel.  Fortunately, the squirrel is too quick for you.",
-      "translation": "כמו ילד אכזר, אתה זורק אבן על הסנאי. למרבה המזל, הסנאי מהיר ממך.",
+      "translation": "כמו ילד אכזר, אתה זורק חלוק נחל על הסנאי. למרבה המזל, הסנאי מהיר ממך.",
       "notes": "",
       "placeholders": []
     },
@@ -8738,7 +8738,7 @@
       "logicFile": "single",
       "messageNumber": 577,
       "original": "You don't have any rocks to throw.",
-      "translation": "אין לך אבנים לזרוק.",
+      "translation": "אין לך חלוקי נחל לזרוק.",
       "notes": "",
       "placeholders": []
     },
@@ -9306,7 +9306,7 @@
       "logicFile": "single",
       "messageNumber": 648,
       "original": "GNOME: \"How in the world did you think of that?  That's not even close.\"",
-      "translation": "גמד: \"איך לעזאזל חשבת על זה? זה אפילו לא קרוב.\"",
+      "translation": "גמד: \"איך בכלל חשבת על זה? זה אפילו לא קרוב.\"",
       "notes": "",
       "placeholders": []
     },
@@ -9442,7 +9442,7 @@
       "logicFile": "single",
       "messageNumber": 665,
       "original": "Now what in the world would you do with a gnome?",
-      "translation": "מה לעזאזל היית עושה עם גמד?",
+      "translation": "מה בכלל היית עושה עם גמד?",
       "notes": "",
       "placeholders": []
     },
@@ -9474,7 +9474,7 @@
       "logicFile": "single",
       "messageNumber": 669,
       "original": "GNOME: \"Please, keep guessing, won't you?\"",
-      "translation": "גמד: \"בבקשה, המשך לנחש, אוקי?\"",
+      "translation": "גמד: \"אנא המשך לנחש.\"",
       "notes": "",
       "placeholders": []
     },
@@ -9690,7 +9690,7 @@
       "logicFile": "single",
       "messageNumber": 696,
       "original": "GNOME: \"You still have two guesses.\"",
-      "translation": "גמד: \"כעת נותרו לך שני ניחושים.\"",
+      "translation": "גמד: \"עדיין נותרו לך שני ניחושים.\"",
       "notes": "",
       "placeholders": []
     },
@@ -9826,7 +9826,7 @@
       "logicFile": "single",
       "messageNumber": 713,
       "original": "The river, barely visible off to the west, empties into the lake.",
-      "translation": "הנהר, נראה קלוש ממערב, נשפך לאגם.",
+      "translation": "הנהר, הנראה קלוש ממערב, נשפך לאגם.",
       "notes": "",
       "placeholders": []
     },
@@ -10274,7 +10274,7 @@
       "logicFile": "single",
       "messageNumber": 769,
       "original": "You can just detect the aroma of fresh mushroom.",
-      "translation": "אתה יכול רק לזהות את ארומת הפטריה הטרייה.",
+      "translation": "אתה יכול רק לזהות ארומת פטריה טרייה.",
       "notes": "",
       "placeholders": []
     },
@@ -10994,7 +10994,7 @@
       "logicFile": "single",
       "messageNumber": 859,
       "original": "Yeech.  Fear not, you won't need it.",
-      "translation": "אוי. אל פחד, לא תזדקק לזה.",
+      "translation": "איכס. אל פחד, לא תזדקק לזה.",
       "notes": "",
       "placeholders": []
     },
@@ -11226,7 +11226,7 @@
       "logicFile": "single",
       "messageNumber": 888,
       "original": "As you slowly and silently return to visibility, the dragon fails to notice you.",
-      "translation": "כשאתה חוזר ומתחיל להיראות, הדרקון אינו מבחין בך.",
+      "translation": "כשאתה חוזר באיטיות ובשקט להיראות, הדרקון אינו מבחין בך.",
       "notes": "",
       "placeholders": []
     },
@@ -11314,7 +11314,7 @@
       "logicFile": "single",
       "messageNumber": 899,
       "original": "The mirror shimmers with its own magical light.",
-      "translation": "המראה נוצצת באורה הקסום שלה.",
+      "translation": "המראה נוצצת באור הקסום שלה.",
       "notes": "",
       "placeholders": []
     },
@@ -11778,7 +11778,7 @@
       "logicFile": "single",
       "messageNumber": 957,
       "original": "You can faintly hear a commotion in the King's Chamber to the west.",
-      "translation": "אתה יכול לשמוע בעדינות מהומה בחדר המלך ממערב.",
+      "translation": "אתה יכול לשמוע בקושי מהומה בחדר המלך ממערב.",
       "notes": "",
       "placeholders": []
     },
@@ -12538,7 +12538,7 @@
       "logicFile": "single",
       "messageNumber": 1052,
       "original": "As soon as you entered the gingerbread house, the goat ran off.  Something sure spooked him from this place!",
-      "translation": "ברגע שנכנסת לבית העוגיות, התייש ברח. משהו בטוח הפחיד אותו מהמקום הזה!",
+      "translation": "ברגע שנכנסת לבית עוגת הג'ינג'ר, התיש ברח. משהו בטוח הפחיד אותו מהמקום הזה!",
       "notes": "",
       "placeholders": []
     },
@@ -12626,7 +12626,7 @@
       "logicFile": "single",
       "messageNumber": 1063,
       "original": "In contrast to its delightful exterior, the inside of the gingerbread house looks dark and ominous.",
-      "translation": "בניגוד לחלקו החיצוני המענג, פנים בית העוגיות נראה חשוך ומאיים.",
+      "translation": "בניגוד לחלקו החיצוני המענג, פנים בית עוגת הג'ינג'ר נראה חשוך ומאיים.",
       "notes": "",
       "placeholders": []
     },
@@ -12650,7 +12650,7 @@
       "logicFile": "single",
       "messageNumber": 1066,
       "original": "All you see are a few gingerbread crumbs lying on the floor of the cage.  You wonder about this.",
-      "translation": "כל מה שאתה רואה הם כמה פירורי עוגיות מונחים על רצפת הכלוב. אתה תוהה על כך.",
+      "translation": "כל מה שאתה רואה הם כמה פירורי עוגיות ג'ינג'ר מונחים על רצפת הכלוב. אתה תוהה על כך.",
       "notes": "",
       "placeholders": []
     },
@@ -12658,7 +12658,7 @@
       "logicFile": "single",
       "messageNumber": 1067,
       "original": "Yech!!!!",
-      "translation": "יאק!!!!",
+      "translation": "איכס!!!!",
       "notes": "",
       "placeholders": []
     },
@@ -12770,7 +12770,7 @@
       "logicFile": "single",
       "messageNumber": 1081,
       "original": "This ugly old witch is one of the most hideous sights you have ever seen.  Her eyes are dark and evil, and her crooked smile twitches hungrily.  She's not to be trusted.",
-      "translation": "המכשפה הזקנה והמכוערת הזו היא אחד המראות המזעזעים ביותר שראית אי פעם. עיניה כהות ורשעות, וחיוכה העקום רועד ברעב. אי אפשר לבטוח בה.",
+      "translation": "המכשפה הזקנה והמכוערת הזו היא אחד המראות המזעזעים ביותר שראית אי פעם. עיניה אפלות ורשעות, וחיוכה העקום רועד ברעב. אי אפשר לבטוח בה.",
       "notes": "",
       "placeholders": []
     },
@@ -12898,7 +12898,7 @@
       "logicFile": "single",
       "messageNumber": 1097,
       "original": "Rats! She has cast some spell to keep you from escaping! The witch remarks, \"Oh, how nice of you to come for dinner (cackle, cackle)!\"",
-      "translation": "לעזאזל! היא הטילה כישוף כלשהו כדי למנוע ממך לברוח! המכשפה מעירה, \"הו, כמה נחמד שבאת לארוחת ערב (קח-קח)!\"",
+      "translation": "לעזאזל! היא הטילה כישוף כלשהו כדי למנוע ממך לברוח! המכשפה מעירה, \"הו, כמה נחמד שבאת לארוחת ערב (חי-חי)!\"",
       "notes": "",
       "placeholders": []
     },
@@ -12970,7 +12970,7 @@
       "logicFile": "single",
       "messageNumber": 1106,
       "original": "The witch says, \"My cauldron is now the perfect temperature.  It is time to invite someone for dinner (cackle, cackle)!\"",
-      "translation": "המכשפה אומרת, \"הקלחת שלי עכשיו בטמפרטורה מושלמת. הגיע הזמן להזמין מישהו לארוחת ערב (קח-קח)!\"",
+      "translation": "המכשפה אומרת, \"הקלחת שלי עכשיו בטמפרטורה מושלמת. הגיע הזמן להזמין מישהו לארוחת ערב (חי-חי)!\"",
       "notes": "",
       "placeholders": []
     },
@@ -13338,7 +13338,7 @@
       "logicFile": "single",
       "messageNumber": 1152,
       "original": "Apparently you're getting a little lightheaded.",
-      "translation": "כנראה שאתה קצת קל דעת.",
+      "translation": "כנראה שאתה קצת מסוחרר.",
       "notes": "",
       "placeholders": []
     },
@@ -13594,7 +13594,7 @@
       "logicFile": "single",
       "messageNumber": 1184,
       "original": "You throw your last pebble at the rat, but in this dim light, you can't see well enough to hit your target.",
-      "translation": "אתה זורק את החלוק האחרון שלך על העכברוש, אך באור העמום הזה, אינך רואה מספיק טוב כדי לפגוע במטרה.",
+      "translation": "אתה זורק את חלוק הנחל האחרון שלך על העכברוש, אך באור העמום הזה, אינך רואה מספיק טוב כדי לפגוע במטרה.",
       "notes": "",
       "placeholders": []
     },
@@ -13610,7 +13610,7 @@
       "logicFile": "single",
       "messageNumber": 1186,
       "original": "What's left to throw the pebble at?",
-      "translation": "מה נשאר לזרוק את החלוק על?",
+      "translation": "על מה נשאר לזרוק את חלוק הנחל?",
       "notes": "",
       "placeholders": []
     },
@@ -14242,7 +14242,7 @@
       "logicFile": "single",
       "messageNumber": 1265,
       "original": "The King of the Leprechauns is sitting on his throne.",
-      "translation": "מלך הליפרקונים יושב על כסאו.",
+      "translation": "מלך הליפרקונים יושב על כסו.",
       "notes": "",
       "placeholders": []
     },
@@ -15010,7 +15010,7 @@
       "logicFile": "single",
       "messageNumber": 1361,
       "original": "KING EDWARD: \"Great misfortunes have befallen Daventry since the loss, years ago, of three magical treasures.\"",
-      "translation": "המלך אדוארד: \"פורענויות גדולות פקדו את דבנטרי מאז אובדן, לפני שנים, של שלושה אוצרות קסומים.\"",
+      "translation": "המלך אדוארד: \"פורענויות גדולות פקדו את דבנטרי מאז שאבדו, לפני שנים, שלושה אוצרות קסומים.\"",
       "notes": "",
       "placeholders": []
     },
@@ -15082,7 +15082,7 @@
       "logicFile": "single",
       "messageNumber": 1370,
       "original": "KING EDWARD: \"If you succeed, you will inherit my crown, and will rule the Realm of Daventry as her rightful King.\"",
-      "translation": "המלך אדוארד: \"אם תצליח, תירש את כתרי, ותשלוט בממלכת דבנטרי כמלכה החוקי.\"",
+      "translation": "המלך אדוארד: \"אם תצליח, תירש את כתרי, ותשלוט בממלכת דבנטרי כמלך החוקי שלה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -15466,7 +15466,7 @@
       "logicFile": "single",
       "messageNumber": 1418,
       "original": "You throw a pebble at the troll, but it merely bounces off his thick hide.  He barely notices it.",
-      "translation": "אתה זורק אבן קטנה על הטרול, אך היא רק קופצת מפרוותו העבה. הוא בקושי מבחין בה.",
+      "translation": "אתה זורק חלוק נחל על הטרול, אך הוא רק קופץ מפרוותו העבה. הטרול בקושי מבחין בו.",
       "notes": "",
       "placeholders": []
     },
@@ -15626,7 +15626,7 @@
       "logicFile": "single",
       "messageNumber": 1438,
       "original": "You already have a carrot.",
-      "translation": "יש לך כבר גזר.",
+      "translation": "כבר יש לך גזר.",
       "notes": "",
       "placeholders": []
     },
@@ -15786,7 +15786,7 @@
       "logicFile": "single",
       "messageNumber": 1458,
       "original": "You already have water.",
-      "translation": "יש לך כבר מים.",
+      "translation": "כבר יש לך מים.",
       "notes": "",
       "placeholders": []
     },
@@ -16625,7 +16625,7 @@
       "logicFile": "single",
       "messageNumber": 1562,
       "original": "Very well, I shall\\nwait until you are\\nready to resume our\\nadventure again.",
-      "translation": "בסדר גמור, אחכה\\nעד שתהיה מוכן\\nלחדש את הרפתקאתנו\\nשוב.",
+      "translation": "בסדר גמור, אחכה\\nעד שתהיה מוכן\\nלחדש את הרפתקתנו\\nשוב.",
       "notes": "",
       "placeholders": []
     },
