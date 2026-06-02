@@ -9602,7 +9602,7 @@
       "logicFile": "single",
       "messageNumber": 685,
       "original": "GNOME: \"Here you are.  Good luck on your quest.\"",
-      "translation": "גמד: \"הנה אתה. בהצלחה במסעך.\"",
+      "translation": "גמד: \"בבקשה, קח לך. בהצלחה במסעך.\"",
       "notes": "",
       "placeholders": []
     },
@@ -11490,7 +11490,7 @@
       "logicFile": "single",
       "messageNumber": 921,
       "original": "Unable to defend itself with anything more than harmless clouds of steam, the dragon rolls aside the granite boulder and slinks off in shame, leaving the mirror behind.",
-      "translation": "בלתי מסוגל להגן על עצמו ביותר מענני אדים בלתי מזיקים, הדרקון מגלגל הצידה את סלע הגרניט ומתגנב בבושה, מותיר מאחור את המראה.",
+      "translation": "כשאינו יכול להתגונן אלא בעננות אדים לא מזיקות, הדרקון מגלגל הצידה את סלע הגרניט ומתגנב בבושה, ומשאיר את המראה מאחור.",
       "notes": "",
       "placeholders": []
     },
@@ -11778,7 +11778,7 @@
       "logicFile": "single",
       "messageNumber": 957,
       "original": "You can faintly hear a commotion in the King's Chamber to the west.",
-      "translation": "אתה יכול לשמוע בקושי מהומה בחדר המלך ממערב.",
+      "translation": "ככל שאתה מתקרב, אתה שומע קולות מהומה מכיוון חדר המלך במערב.",
       "notes": "",
       "placeholders": []
     },
@@ -11794,7 +11794,7 @@
       "logicFile": "single",
       "messageNumber": 959,
       "original": "DOCTOR:  \"Our King's melancholy is too much for his heart to bear.  Perhaps if Sir Graham had returned with the three lost treasures of Daventry ...\"",
-      "translation": "הרופא: \"המלנכוליה של מלכנו גדולה מדי כדי שלבו יוכל לשאת. אולי אם סר גרהם היה חוזר עם שלושת האוצרות האבודים של דבנטרי...\"",
+      "translation": "הרופא: \"עצבותו של המלך גדולה מדי כדי שלבו יוכל לשאת. אולי אם סר גרהם היה חוזר עם שלושת האוצרות האבודים של דבנטרי...\"",
       "notes": "",
       "placeholders": []
     },
@@ -14802,7 +14802,7 @@
       "logicFile": "single",
       "messageNumber": 1335,
       "original": "WOODCUTTER:  \"We would welcome you to our home, Sir Knight, but we have had no food for so long, my beautiful wife cannot even rise from her bed.  I fear she may die soon.\"",
-      "translation": "חוטב עצים: \"נשמח לארח אותך בביתנו, אדון אביר, אבל לא היה לנו אוכל זמן כה רב, שאשתי היפה אינה יכולה אפילו לקום ממיטתה. אני חושש שהיא עלולה למות בקרוב.\"",
+      "translation": "חוטב עצים: \"נשמח לארח אותך בביתנו, אדון אביר, אבל זמן רב שאין לנו אוכל, כך שאשתי היפה אינה יכולה אפילו לקום ממיטתה. אני חושש שהיא עלולה למות בקרוב.\"",
       "notes": "",
       "placeholders": []
     },
@@ -14970,7 +14970,7 @@
       "logicFile": "single",
       "messageNumber": 1356,
       "original": "King Edward the Benevolent, aged ruler of Daventry, has summoned you to the castle for reasons unknown.",
-      "translation": "המלך אדוארד טוב הלב, השליט המזדקן של דבנטרי, זימן אותך לטירה מסיבות לא ידועות.",
+      "translation": "המלך אדוארד טוב הלב, השליט המזדקן של דבנטרי, זימן אותך לטירה מסיבות לא ברורות.",
       "notes": "",
       "placeholders": []
     },
@@ -15874,7 +15874,7 @@
       "logicFile": "single",
       "messageNumber": 1469,
       "original": "You plant the magical beans in the fertile soil.  Suddenly, something incredible begins to happen!",
-      "translation": "אתה שותל את אפונת הקסם באדמה הפורייה. לפתע, משהו מדהים מתחיל לקרות!",
+      "translation": "אתה שותל את אפונת הקסם באדמה הפורייה. לפתע, משהו מדהים מתרחש!",
       "notes": "",
       "placeholders": []
     },
@@ -16106,7 +16106,7 @@
       "logicFile": "single",
       "messageNumber": 1498,
       "original": "The woodcutter and his wife ignore your fiddling. Perhaps they preferred their own music?",
-      "translation": "חוטב העצים ואשתו מתעלמים מנגינתך בכינור. אולי העדיפו את המוזיקה שלהם?",
+      "translation": "חוטב העצים ואשתו מתעלמים מנגינתך בכינור. אולי הם העדיפו את המוזיקה שלהם?",
       "notes": "",
       "placeholders": []
     },

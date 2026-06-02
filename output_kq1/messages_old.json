@@ -5,7 +5,7 @@
     "contentType": "messages",
     "sourceLanguage": "en",
     "targetLanguage": "he",
-    "extractedDate": "2026-06-02T16:26:45.187746Z",
+    "extractedDate": "2026-06-02T18:20:50.172167Z",
     "totalMessages": 2105
   },
   "messages": [
@@ -4626,7 +4626,7 @@
       "logicFile": "single",
       "messageNumber": 63,
       "original": "There's nothing inside there you'll need.",
-      "translation": "אין שם למעלה שום דבר שתזדקק לו.",
+      "translation": "אין שם בפנים שום דבר שתזדקק לו.",
       "notes": "",
       "placeholders": []
     },
@@ -4650,7 +4650,7 @@
       "logicFile": "single",
       "messageNumber": 66,
       "original": "There is nothing up there you'll need.",
-      "translation": "אין שם למעלה שום דבר שתזדקק לו.",
+      "translation": "אין שם בפנים שום דבר שתזדקק לו.",
       "notes": "",
       "placeholders": []
     },
@@ -7426,7 +7426,7 @@
       "logicFile": "single",
       "messageNumber": 413,
       "original": "There is no elf here.",
-      "translation": "אין כאן גמד.",
+      "translation": "אין כאן אלף.",
       "notes": "",
       "placeholders": []
     },
@@ -10578,7 +10578,7 @@
       "logicFile": "single",
       "messageNumber": 807,
       "original": "You're too busy drowning right now.",
-      "translation": "אתה עסוק מדי בטביעה כרגע.",
+      "translation": "אתה עסוק מדי כרגע בטביעה.",
       "notes": "",
       "placeholders": []
     },
@@ -10618,7 +10618,7 @@
       "logicFile": "single",
       "messageNumber": 812,
       "original": "You're too busy drowning at the moment.",
-      "translation": "אתה עסוק מדי בטביעה כרגע.",
+      "translation": "אתה עסוק מדי כרגע בטביעה.",
       "notes": "",
       "placeholders": []
     },
@@ -13154,7 +13154,7 @@
       "logicFile": "single",
       "messageNumber": 1129,
       "original": "There is no dwarf here.",
-      "translation": "אין כאן גמד.",
+      "translation": "אין כאן אלף.",
       "notes": "",
       "placeholders": []
     },
@@ -14970,7 +14970,7 @@
       "logicFile": "single",
       "messageNumber": 1356,
       "original": "King Edward the Benevolent, aged ruler of Daventry, has summoned you to the castle for reasons unknown.",
-      "translation": "המלך אדוארד טוב הלב, השליט המבוגר של דבנטרי, זימן אותך לטירה מסיבות לא ידועות.",
+      "translation": "המלך אדוארד טוב הלב, השליט המזדקן של דבנטרי, זימן אותך לטירה מסיבות לא ידועות.",
       "notes": "",
       "placeholders": []
     },
@@ -15074,7 +15074,7 @@
       "logicFile": "single",
       "messageNumber": 1369,
       "original": "KING EDWARD: \"But you are brave and pure of heart.  That is why I chose you to volunteer.\"",
-      "translation": "המלך אדוארד: \"אבל אתה אמיץ וטהור לב. לכן בחרתי בך להתנדב.\"",
+      "translation": "המלך אדוארד: \"אבל אתה אמיץ וטהור לב. לכן בחרתי בך למשימה זו.\"",
       "notes": "",
       "placeholders": []
     },
@@ -15090,7 +15090,7 @@
       "logicFile": "single",
       "messageNumber": 1371,
       "original": "KING EDWARD: \"Go, Sir Graham, and know that the fate of Daventry lies in your hands.\"",
-      "translation": "המלך אדוארד: \"לך, סר גרהם, ודע כי גורל דבנטרי בידיך.\"",
+      "translation": "המלך אדוארד: \"לך, סר גרהם, ודע כי גורל דבנטרי בידך.\"",
       "notes": "",
       "placeholders": []
     },
@@ -15098,7 +15098,7 @@
       "logicFile": "single",
       "messageNumber": 1372,
       "original": "SIR GRAHAM: \"Take heart, my King.  I shall not fail you.\"",
-      "translation": "סר גרהם: \"היה חזק, מלכי. לא אכזיב אותך.\"",
+      "translation": "סר גרהם: \"היה חזק, מלכי. לא אאכזב אותך.\"",
       "notes": "",
       "placeholders": []
     },
