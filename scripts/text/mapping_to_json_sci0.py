@@ -136,7 +136,7 @@ def main():
         "messages": all_messages,
     }
 
-    output_json = os.path.join(directory, "messages.json")
+    output_json = os.path.join(directory, "messages_old.json")
     with open(output_json, 'w', encoding='utf-8') as outfile:
         json.dump(output, outfile, ensure_ascii=False, indent=2)
 

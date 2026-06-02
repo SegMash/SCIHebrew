@@ -23,6 +23,17 @@ being described.
 |---|----|------------|---------------|--------|
 | 879 | `In this large cavern, there is a slimy dead dragon.` | `במערה הגדולה הזו, יש דרקון מת ורירי.` | `רירי` describes a snail or jellyfish, not a corpse. Dragons aren't naturally slimy; here the dragon is *covered in slime* from rotting. | `דרקון מת ומכוסה ריר` or `דרקון מת ודביק` |
 | 1028 | `there's a dark opening leading into the mountain itself.` | `יש פתח כהה המוביל אל תוך ההר עצמו.` | `כהה` means "dark in color" (dark blue, dark hair). For an ominous opening into a mountain the meaning is atmospheric/sinister — `אפל`. The same file uses `אפלה` correctly in #11468 (`באפלת המערה`). | `יש פתח אפל המוביל אל תוך ההר עצמו.` |
+| 1552 | `the troubled realm of Daventry` | `בממלכה המוטרדת של דבנטרי` | `מוטרד` ("bothered/preoccupied") applies to **people**, not to a place or institution. A kingdom doesn't get bothered — it suffers, is afflicted, or is in distress. Also, inserting an adjective between a noun and its `של`-modifier (`ממלכה ... של דבנטרי`) is heavy syntax. | `בממלכת דבנטרי השרויה בצרה` (direct smikhut + adjective phrase). Other valid choices: `הסובלת`, `הדוויה`, `השסועה`. |
+
+**"Troubled / afflicted place" cheat sheet** — when EN applies emotional adjectives
+to a *place or institution* (`troubled realm`, `weary city`, `restless land`),
+don't use the adjective form normally reserved for people. Translate to a
+state-of-being phrase:
+- `שרוי בצרה` / `שרויה בצרה` — beset by trouble (default for "troubled")
+- `סובל` / `סובלת` — suffering
+- `דווי` / `דוויה` — ailing (literary)
+- `שסוע` / `שסועה` — torn (suggests internal strife)
+- ❌ `מוטרד` / `מוטרדת` — only for people who are *worried/preoccupied*
 
 **Hebrew "dark" cheat sheet** — pick the right word:
 - `חשוך` / `חושך` — actual physical lack of light (a dark cave, "it's dark in here"). Default for `dark` describing rooms, caves, wells, nights.
