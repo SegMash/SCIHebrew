@@ -198,6 +198,29 @@ Default move: if the EN modifier sits between a determiner and a noun
 (`this/that/the` + ADJ + N), put the Hebrew adjective in the same slot —
 between the article and the head noun (`ה...ה...הזה`), not after the verb.
 
+#### Folktale-specific terminology — defer to the Hebrew tradition
+
+Some EN words have a literal Hebrew lexicographic match AND a different
+"received" Hebrew form that's used inside a specific folktale. When
+translating story content, the **folktale form wins** even if the literal
+match feels more accurate.
+
+| EN | Literal match | Folktale-correct (use this) | Folktale |
+|----|---------------|------------------------------|----------|
+| `beanstalk` / `magic beans` (Jack-and-the-Beanstalk context) | `שעועית` (beans) | `אפונת פלא` / `אפונה` | The Hebrew "ג'ק וגרגר האפונה" tradition uses **אפונה**, not שעועית, even though שעועית is the dictionary translation of "beans". |
+| `gingerbread house` (Hansel-and-Gretel context) | `בית עוגיות` | `בית עוגת ג'ינג'ר` (or classical `בית עוגת זנגביל`) | Either form is acceptable; pick one and stay consistent within the file. |
+
+Rule of thumb: if the English text is referencing a recognizable fairy
+tale (beanstalk, gingerbread house, glass slipper, golden goose, etc.),
+look up the Hebrew form *the Hebrew version of the tale uses* before
+defaulting to the lexicographic match. Game flavor text is "story" text,
+not "encyclopedia" text — folktale resonance matters more than botanical
+accuracy.
+
+KQ1 calibration: messages #598 and #643 both keep `אפונת פלא` for the
+giant beanstalk that grows from the magic beans, even though the EN says
+"beanstalk" / "beans". Do not "correct" אפונה to שעועית in this context.
+
 ### 6. Inconsistent translation of the same term
 The same English term is rendered different ways in different messages, with
 no in-game reason.

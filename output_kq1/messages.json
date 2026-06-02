@@ -8274,7 +8274,7 @@
       "logicFile": "single",
       "messageNumber": 519,
       "original": "This is an attractive meadow.  A particularly large tree stands nearby.",
-      "translation": "זהו שטח מרעה אטרקטיבי. עץ גדול במיוחד עומד בקרבת מקום.",
+      "translation": "זהו אחו מקסים. עץ גדול במיוחד עומד בקרבת מקום.",
       "notes": "",
       "placeholders": []
     },
@@ -8338,7 +8338,7 @@
       "logicFile": "single",
       "messageNumber": 527,
       "original": "Mmmmmm! The lovely aroma of baked gingerbread makes your mouth water.",
-      "translation": "ממממם! הארומה הנעימה של עוגת ג'ינג'ר אפויה מעלה קצף בפיך.",
+      "translation": "ממממם! הארומה הנעימה של עוגת ג'ינג'ר אפויה מעלה רוק בפיך.",
       "notes": "",
       "placeholders": []
     },
@@ -8602,7 +8602,7 @@
       "logicFile": "single",
       "messageNumber": 560,
       "original": "Gnarled, ancient trees loom in this dark part of the forest.",
-      "translation": "עצים עתיקים ומטים ליפול נישאים בחלק חשוך זה של היער.",
+      "translation": "עצים עתיקים ומסוקסים מתנשאים בחלק חשוך זה של היער.",
       "notes": "30",
       "placeholders": []
     },
@@ -8610,7 +8610,7 @@
       "logicFile": "single",
       "messageNumber": 561,
       "original": "These are some of the largest, plumpest walnuts you have ever seen.",
-      "translation": "אלה  כנראה אגוזי המלך הגדולים והשמנמנים ביותר שראית אי פעם.",
+      "translation": "אלה כמה מאגוזי המלך הגדולים והשמנמנים ביותר שראית אי פעם.",
       "notes": "",
       "placeholders": []
     },
@@ -8658,7 +8658,7 @@
       "logicFile": "single",
       "messageNumber": 567,
       "original": "The walnuts are too hard to see from over here.",
-      "translation": "קשה לראות את אגוזי המלך הקשים מכאן.",
+      "translation": "קשה לראות את אגוזי המלך מכאן.",
       "notes": "",
       "placeholders": []
     },
@@ -8730,7 +8730,7 @@
       "logicFile": "single",
       "messageNumber": 576,
       "original": "In the manner of a cruel schoolboy, you fling a pebble at the squirrel.  Fortunately, the squirrel is too quick for you.",
-      "translation": "כמו ילד קטן, אתה זורק אבן על הסנאי. למרבה המזל, הסנאי מהיר ממך.",
+      "translation": "כמו ילד אכזר, אתה זורק אבן על הסנאי. למרבה המזל, הסנאי מהיר ממך.",
       "notes": "",
       "placeholders": []
     },
@@ -8810,7 +8810,7 @@
       "logicFile": "single",
       "messageNumber": 586,
       "original": "It would be cowardly to kill the squirrel, and it would serve no purpose.  Act like a knight!",
-      "translation": "זה יהיה מעשה עלוב להרוג את הסנאי, וזה לא ישרת שום מטרה. התנהג כאביר!",
+      "translation": "זה יהיה מעשה פחדני להרוג את הסנאי, וזה לא ישרת שום מטרה. התנהג כאביר!",
       "notes": "",
       "placeholders": []
     },
@@ -8850,7 +8850,7 @@
       "logicFile": "single",
       "messageNumber": 591,
       "original": "You choose a big, meaty-looking walnut from the bunch scattered around.",
-      "translation": "אתה בוחר אגוז מלך גדול ויפה יותר משאר האגוזים שמסביב.",
+      "translation": "אתה בוחר אגוז מלך גדול ושמנמן מהחבורה שמסביב.",
       "notes": "",
       "placeholders": []
     },
@@ -8906,7 +8906,7 @@
       "logicFile": "single",
       "messageNumber": 598,
       "original": "A gigantic beanstalk has grown here, stretching up until it disappears into the clouds above.",
-      "translation": "שעועית פלא ענקית צמחה כאן, נמתחת כלפי מעלה עד שהיא נעלמת בעננים שמעל.",
+      "translation": "אפונת פלא ענקית צמחה כאן, נמתחת כלפי מעלה עד שהיא נעלמת בעננים שמעל.",
       "notes": "",
       "placeholders": []
     },
@@ -8914,7 +8914,7 @@
       "logicFile": "single",
       "messageNumber": 599,
       "original": "This is a charming little wooded area of the forest. Pine trees and lush grass grow in the especially rich soil here.",
-      "translation": "זהו אזור מיוער קטן ומקסים ביער. עצי אורן ודשא שופע צומחים באדמה העשירה ובמיוחד כאן.",
+      "translation": "זהו אזור מיוער קטן ומקסים ביער. עצי אורן ודשא שופע צומחים באדמה העשירה במיוחד כאן.",
       "notes": "",
       "placeholders": []
     },
@@ -8986,7 +8986,7 @@
       "logicFile": "single",
       "messageNumber": 608,
       "original": "The swiftly-moving water is even more dangerous than it looks.",
-      "translation": "המים הזורמים בעוצמה מסוכנים יותר כפי שזה נראה.",
+      "translation": "המים הזורמים בעוצמה מסוכנים יותר ממה שהם נראים.",
       "notes": "",
       "placeholders": []
     },
@@ -9226,7 +9226,7 @@
       "logicFile": "single",
       "messageNumber": 638,
       "original": "The huge snake is watching you very closely, and its intentions are less than friendly.",
-      "translation": "הנחש הענק צופה בך מקרוב מאוד, וכוננותיו פחות ידידותיות.",
+      "translation": "הנחש הענק צופה בך מקרוב מאוד, וכוונותיו פחות ידידותיות.",
       "notes": "",
       "placeholders": []
     },
@@ -9258,7 +9258,7 @@
       "logicFile": "single",
       "messageNumber": 642,
       "original": "Lovely wildflowers grow profusely in this beautiful green meadow.",
-      "translation": "פרחי בר יפים צומחים בשפע באחו ירוק ויפה זו.",
+      "translation": "פרחי בר יפים צומחים בשפע באחו ירוק ויפה זה.",
       "notes": "",
       "placeholders": []
     },
@@ -9290,7 +9290,7 @@
       "logicFile": "single",
       "messageNumber": 646,
       "original": "As the troll pushes you back your ring slips off your finger and into the raging river below. It's lost forever!",
-      "translation": "כשהטרול דוחף אותך לאחור, הטבעת שלך מחליקה מאצבעך ונופלת לנהר הזורם מתחת. שכח ממנה!",
+      "translation": "כשהטרול דוחף אותך לאחור, הטבעת שלך מחליקה מאצבעך ונופלת לנהר הזורם מתחת. היא אבדה לנצח!",
       "notes": "",
       "placeholders": []
     },
@@ -9354,7 +9354,7 @@
       "logicFile": "single",
       "messageNumber": 654,
       "original": "This hole, carved into the side of the rock, is the entrance to the gnome's home.  It's too dark inside to make out any details, and the gnome probably prefers it that way.",
-      "translation": "הפתח הזה, החצוב בדופן הסלע, היא הכניסה לביתו של הגמד. חשוך מדי בפנים מכדי להבחין בפרטים כלשהם, והגמד כנראה מעדיף זאת כך.",
+      "translation": "הפתח הזה, החצוב בדופן הסלע, הוא הכניסה לביתו של הגמד. חשוך מדי בפנים מכדי להבחין בפרטים כלשהם, והגמד כנראה מעדיף זאת כך.",
       "notes": "",
       "placeholders": []
     },
@@ -9650,7 +9650,7 @@
       "logicFile": "single",
       "messageNumber": 691,
       "original": "GNOME: \"It's been delightful chatting with you, Sir Graham.   I get so few visitors... Perhaps it's the fault of that thickheaded troll.\"",
-      "translation": "גמד: \"היה תענוג לשוחח איתך, סר גרהם. אני מקבל כל כך מעט מבקרים... אולי זו אשמתו של הטרול השמן הזה.\"",
+      "translation": "גמד: \"היה תענוג לשוחח איתך, סר גרהם. אני מקבל כל כך מעט מבקרים... אולי זו אשמתו של הטרול הטיפש הזה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -9722,7 +9722,7 @@
       "logicFile": "single",
       "messageNumber": 700,
       "original": "As the troll pushes you back your ring slips off and falls into the river, to be lost forever.",
-      "translation": "כשהטרול דוחף אותך לאחור, הטבעת שלך מחליקה ונופלת לנהר, שכח ממנה.",
+      "translation": "כשהטרול דוחף אותך לאחור, הטבעת שלך מחליקה ונופלת לנהר ואבדה לנצח.",
       "notes": "",
       "placeholders": []
     },
@@ -11074,7 +11074,7 @@
       "logicFile": "single",
       "messageNumber": 869,
       "original": "In this large underground cavern, there is one slimy green dead dragon, an opening on one side, and a very large boulder.",
-      "translation": "במערה התת-קרקעית הגדולה הזו, יש דרקון ירוק ורירי אחד מת, פתח בצד אחד, וסלע גדול מאוד.",
+      "translation": "במערה התת-קרקעית הגדולה הזו, יש דרקון ירוק מת, פתח בצד אחד, וסלע גדול מאוד.",
       "notes": "",
       "placeholders": []
     },
@@ -11090,7 +11090,7 @@
       "logicFile": "single",
       "messageNumber": 871,
       "original": "The cavern is empty, save for a couple of openings on either side.",
-      "translation": "המערה לא מעניינת, למעט כמה פתחים משני הצדדים.",
+      "translation": "המערה ריקה, למעט כמה פתחים משני הצדדים.",
       "notes": "",
       "placeholders": []
     },
@@ -11154,7 +11154,7 @@
       "logicFile": "single",
       "messageNumber": 879,
       "original": "In this large cavern, there is a slimy dead dragon.",
-      "translation": "במערה הגדולה הזו, יש דרקון מת ורירי.",
+      "translation": "במערה הגדולה הזו, יש דרקון מת.",
       "notes": "",
       "placeholders": []
     },
@@ -11442,7 +11442,7 @@
       "logicFile": "single",
       "messageNumber": 915,
       "original": "The dragon is dead. He has ceased to be. Bereft of life, he rests in peace. Best to get on with the game and forget this sad creature.",
-      "translation": "הדרקון מת. הוא חדל מלהתקיים. נטול חיים, הוא נח בשלום. עדיף להמשיך עם המשחק ולשכוח את מהסיפור העצוב הזה.",
+      "translation": "הדרקון מת. הוא חדל מלהתקיים. נטול חיים, הוא נח בשלום. עדיף להמשיך עם המשחק ולשכוח את היצור העצוב הזה.",
       "notes": "",
       "placeholders": []
     },
@@ -11850,7 +11850,7 @@
       "logicFile": "single",
       "messageNumber": 966,
       "original": "SIR GRAHAM:  \"...and the magic chest.\"",
-      "translation": "סר גרהם: \"...וצפחת הקסמים.\"",
+      "translation": "סר גרהם: \"...ותיבת הקסמים.\"",
       "notes": "",
       "placeholders": []
     },
