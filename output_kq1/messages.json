@@ -8906,7 +8906,7 @@
       "logicFile": "single",
       "messageNumber": 598,
       "original": "A gigantic beanstalk has grown here, stretching up until it disappears into the clouds above.",
-      "translation": "אפונת פלא ענקית צמחה כאן, נמתחת כלפי מעלה עד שהיא נעלמת בעננים שמעל.",
+      "translation": "גבעול אפונה ענקי צמח כאן, נמתח כלפי מעלה עד שהוא נעלם בעננים שמעל.",
       "notes": "",
       "placeholders": []
     },
@@ -9266,7 +9266,7 @@
       "logicFile": "single",
       "messageNumber": 643,
       "original": "A mighty beanstalk has sprouted from the magic beans you planted!  Around the beanstalk, several varieties of wildflowers are growing.",
-      "translation": "אפונת פלא אדירה צמחה מזרעי הקסם ששתלת! מסביב לאפונה, צומחים כמה סוגי פרחי בר.",
+      "translation": "גבעול אפונה אדיר צמח מזרעי הקסם ששתלת! מסביב לגבעול, צומחים כמה סוגי פרחי בר.",
       "notes": "",
       "placeholders": []
     },
@@ -13210,7 +13210,7 @@
       "logicFile": "single",
       "messageNumber": 1136,
       "original": "You see the goat below you, wandering off to explore Daventry on his own.",
-      "translation": "אתה רואה את העז מתחתיך, משוטטת לבדה כדי לחקור את דבנטרי.",
+      "translation": "אתה רואה את התיש מתחתיך, משוטט לבדו כדי לחקור את דבנטרי.",
       "notes": "",
       "placeholders": []
     },
@@ -13226,7 +13226,7 @@
       "logicFile": "single",
       "messageNumber": 1138,
       "original": "The goat wasn't about to risk his life climbing that huge beanstalk!  You see him wandering away.",
-      "translation": "העז לא התכוונה לסכן את חייה בטיפוס על קנוקנת השעועית הענקית הזו! אתה רואה אותה משוטטת משם.",
+      "translation": "התיש לא התכוון לסכן את חייו בטיפוס על גבעול האפונה הענקי הזה! אתה רואה אותו משוטט משם.",
       "notes": "",
       "placeholders": []
     },
@@ -13234,7 +13234,7 @@
       "logicFile": "single",
       "messageNumber": 1139,
       "original": "There is no goat anywhere in sight.",
-      "translation": "אין עז בשום מקום באופק.",
+      "translation": "אין תיש בשום מקום באופק.",
       "notes": "",
       "placeholders": []
     },
@@ -13250,7 +13250,7 @@
       "logicFile": "single",
       "messageNumber": 1141,
       "original": "The beanstalk disappears up into the clouds.",
-      "translation": "קנוקנת השעועית נעלמת בעננים.",
+      "translation": "גבעול האפונה נעלם בעננים.",
       "notes": "",
       "placeholders": []
     },
@@ -13266,7 +13266,7 @@
       "logicFile": "single",
       "messageNumber": 1143,
       "original": "It is a mighty beanstalk which descends to the ground far below.",
-      "translation": "זוהי קנוקנת שעועית אדירה היורדת אל הקרקע הרחק למטה.",
+      "translation": "זהו גבעול אפונה אדיר היורד אל הקרקע הרחק למטה.",
       "notes": "",
       "placeholders": []
     },
@@ -13554,7 +13554,7 @@
       "logicFile": "single",
       "messageNumber": 1179,
       "original": "Keeping in mind the rat's remarkable agility and even more remarkable fangs, you decide not to risk an attack.",
-      "translation": "בהתחשב בזריזותו המדהימה של העכברוש ובעוד יותר מדהימים ניביו, אתה מחליט לא להסתכן בהתקפה.",
+      "translation": "בהתחשב בזריזותו המדהימה של העכברוש ובניביו המדהימים אף יותר, אתה מחליט לא להסתכן בהתקפה.",
       "notes": "",
       "placeholders": []
     },
@@ -14730,7 +14730,7 @@
       "logicFile": "single",
       "messageNumber": 1326,
       "original": "A large fire burns merrily in the fireplace, providing some warmth in the drafty old cottage.",
-      "translation": "אש גדולה בוערת בעליזות באח, מספקת קצת חום בבקתה הישנה והרוחנית.",
+      "translation": "אש גדולה בוערת בעליזות באח, מספקת קצת חום בבקתה הישנה והסדוקה.",
       "notes": "",
       "placeholders": []
     },
@@ -14906,7 +14906,7 @@
       "logicFile": "single",
       "messageNumber": 1348,
       "original": "You see the goat far, far below you, wandering off to explore Daventry on his own.",
-      "translation": "אתה רואה את העז הרחק, הרחק מתחתך, משוטטת לחקור את דבנטרי בעצמה.",
+      "translation": "אתה רואה את התיש הרחק, הרחק מתחתך, משוטט לחקור את דבנטרי בעצמו.",
       "notes": "",
       "placeholders": []
     },
@@ -15106,7 +15106,7 @@
       "logicFile": "single",
       "messageNumber": 1373,
       "original": "As you move further away from the goat, he forgets about your carrot and begins to wander off on his own.",
-      "translation": "ככל שאתה מתרחק מהעז, היא שוכחת מהגזר שלך ומתחילה לשוטט לבדה.",
+      "translation": "ככל שאתה מתרחק מהתיש, הוא שוכח מהגזר שלך ומתחיל לשוטט לבדו.",
       "notes": "",
       "placeholders": []
     },
@@ -15114,7 +15114,7 @@
       "logicFile": "single",
       "messageNumber": 1374,
       "original": "The goat decides it would be easier to stop following you than to get his fur wet.",
-      "translation": "העז מחליטה שיהיה קל יותר להפסיק ללכת אחריך מאשר להרטיב את פרוותה.",
+      "translation": "התיש מחליט שיהיה קל יותר להפסיק ללכת אחריך מאשר להרטיב את פרוותו.",
       "notes": "",
       "placeholders": []
     },
@@ -15122,7 +15122,7 @@
       "logicFile": "single",
       "messageNumber": 1375,
       "original": "The goat does not mind getting its feet wet, but will not swim in the water.  You should go back and lead the goat around the water.",
-      "translation": "העז לא אכפת לה להרטיב את כפות רגליה, אך לא תשחה במים. עליך לחזור ולהוביל את העז מסביב למים.",
+      "translation": "לתיש לא אכפת להרטיב את כפות רגליו, אך הוא לא ישחה במים. עליך לחזור ולהוביל את התיש מסביב למים.",
       "notes": "",
       "placeholders": []
     },
@@ -15130,7 +15130,7 @@
       "logicFile": "single",
       "messageNumber": 1376,
       "original": "Seeing you swim away, the goat decides you've abandoned him and wanders off on his own.",
-      "translation": "כשרואה אותך שוחה ומתרחק, העז מחליטה שננטשת אותה ומשוטטת לבדה.",
+      "translation": "כשרואה אותך שוחה ומתרחק, התיש מחליט שנטשת אותו ומשוטט לבדו.",
       "notes": "",
       "placeholders": []
     },
@@ -15138,7 +15138,7 @@
       "logicFile": "single",
       "messageNumber": 1377,
       "original": "The goat is wandering nearby.",
-      "translation": "העז משוטטת בקרבת מקום.",
+      "translation": "התיש משוטט בקרבת מקום.",
       "notes": "",
       "placeholders": []
     },
@@ -15146,7 +15146,7 @@
       "logicFile": "single",
       "messageNumber": 1378,
       "original": "Pelting the goat with pebbles would be a slow and painful way to kill him. If you feel you absolutely must do away with him, use a quicker method.",
-      "translation": "זריקת אבנים על העז תהיה דרך איטית וכואבת להרוג אותה. אם אתה מרגיש שאתה חייב להיפטר ממנה, השתמש בשיטה מהירה יותר.",
+      "translation": "זריקת אבנים על התיש תהיה דרך איטית וכואבת להרוג אותו. אם אתה מרגיש שאתה חייב להיפטר ממנו, השתמש בשיטה מהירה יותר.",
       "notes": "",
       "placeholders": []
     },
@@ -15162,7 +15162,7 @@
       "logicFile": "single",
       "messageNumber": 1380,
       "original": "You blew your chance with the goat.",
-      "translation": "פיספסת את ההזדמנות עם העז.",
+      "translation": "פיספסת את ההזדמנות עם התיש.",
       "notes": "",
       "placeholders": []
     },
@@ -15170,7 +15170,7 @@
       "logicFile": "single",
       "messageNumber": 1381,
       "original": "You don't have anything suitable for bringing a quick end to the goat.",
-      "translation": "אין לך שום דבר מתאים כדי לשים קץ מהיר לעז.",
+      "translation": "אין לך שום דבר מתאים כדי לשים קץ מהיר לתיש.",
       "notes": "",
       "placeholders": []
     },
@@ -15178,7 +15178,7 @@
       "logicFile": "single",
       "messageNumber": 1382,
       "original": "Since you've killed him, the goat just doesn't seem to display the same interest in the carrot.",
-      "translation": "מכיוון שהרגת אותו, נראה שהעז פשוט לא מגלה את אותה התעניינות בגזר.",
+      "translation": "מכיוון שהרגת אותו, נראה שהתיש פשוט לא מגלה את אותה התעניינות בגזר.",
       "notes": "",
       "placeholders": []
     },
@@ -15186,7 +15186,7 @@
       "logicFile": "single",
       "messageNumber": 1383,
       "original": "The goat is content to graze for now.",
-      "translation": "העז מסתפקת ברעייה לעת עתה.",
+      "translation": "התיש מסתפק ברעייה לעת עתה.",
       "notes": "",
       "placeholders": []
     },
@@ -15194,7 +15194,7 @@
       "logicFile": "single",
       "messageNumber": 1384,
       "original": "The goat cannot see you or the carrot.",
-      "translation": "העז אינה יכולה לראות אותך או את הגזר.",
+      "translation": "התיש אינו יכול לראות אותך או את הגזר.",
       "notes": "",
       "placeholders": []
     },
@@ -15202,7 +15202,7 @@
       "logicFile": "single",
       "messageNumber": 1385,
       "original": "The goat seems to be looking for his own food right now.",
-      "translation": "נראה שהעז מחפשת אוכל משלה כרגע.",
+      "translation": "נראה שהתיש מחפש אוכל משלו כרגע.",
       "notes": "",
       "placeholders": []
     },
@@ -15218,7 +15218,7 @@
       "logicFile": "single",
       "messageNumber": 1387,
       "original": "Goats love carrots!  The goat quickly devours yours and stops following you.",
-      "translation": "עזים אוהבות גזר! העז טורפת במהירות את שלך ומפסיקה ללכת אחריך.",
+      "translation": "תישים אוהבים גזר! התיש טורף במהירות את שלך ומפסיק ללכת אחריך.",
       "notes": "",
       "placeholders": []
     },
@@ -15226,7 +15226,7 @@
       "logicFile": "single",
       "messageNumber": 1388,
       "original": "The goat is already following you! There's no reason to tease him mercilessly.",
-      "translation": "העז כבר עוקבת אחריך! אין סיבה להתגרות בה ללא רחמים.",
+      "translation": "התיש כבר עוקב אחריך! אין סיבה להתגרות בו ללא רחמים.",
       "notes": "",
       "placeholders": []
     },
@@ -15234,7 +15234,7 @@
       "logicFile": "single",
       "messageNumber": 1389,
       "original": "The goat isn't interested in you anymore.",
-      "translation": "העז כבר לא מתעניינת בך.",
+      "translation": "התיש כבר לא מתעניין בך.",
       "notes": "",
       "placeholders": []
     },
@@ -15242,7 +15242,7 @@
       "logicFile": "single",
       "messageNumber": 1390,
       "original": "You viciously plunge the dagger deep into the poor goat's back.  He struggles in pain, bleating frantically, and finally slumps to the ground.",
-      "translation": "אתה נועץ באכזריות את הפגיון עמוק בגבה של העז המסכנה. היא נאבקת בכאב, גועה בבהלה, ולבסוף צונחת לקרקע.",
+      "translation": "אתה נועץ באכזריות את הפגיון עמוק בגבו של התיש המסכן. הוא נאבק בכאב, גועה בבהלה, ולבסוף צונח לקרקע.",
       "notes": "",
       "placeholders": []
     },
@@ -15250,7 +15250,7 @@
       "logicFile": "single",
       "messageNumber": 1391,
       "original": "Goats love carrots!  The goat quickly devours yours and wanders away.",
-      "translation": "עזים אוהבות גזר! העז טורפת במהירות את שלך ומשוטטת משם.",
+      "translation": "תישים אוהבים גזר! התיש טורף במהירות את שלך ומשוטט משם.",
       "notes": "",
       "placeholders": []
     },
@@ -15826,7 +15826,7 @@
       "logicFile": "single",
       "messageNumber": 1463,
       "original": "You can see the goat's reflection on the dirty moat water.",
-      "translation": "אתה יכול לראות את השתקפות העז על מי החפיר המלוכלכים.",
+      "translation": "אתה יכול לראות את השתקפות התיש על מי החפיר המלוכלכים.",
       "notes": "",
       "placeholders": []
     },
@@ -15850,7 +15850,7 @@
       "logicFile": "single",
       "messageNumber": 1466,
       "original": "You ate the beans.",
-      "translation": "אכלת את השעועית.",
+      "translation": "אכלת את האפונה.",
       "notes": "",
       "placeholders": []
     },
@@ -15858,7 +15858,7 @@
       "logicFile": "single",
       "messageNumber": 1467,
       "original": "That is not a bad idea, but this is not a very suitable place to plant these beans.  Why don't you try it elsewhere?",
-      "translation": "זה לא רעיון רע, אבל זה לא מקום מתאים כל כך לשתול את השעועית הזו. למה שלא תנסה במקום אחר?",
+      "translation": "זה לא רעיון רע, אבל זה לא מקום מתאים כל כך לשתול את האפונה הזו. למה שלא תנסה במקום אחר?",
       "notes": "",
       "placeholders": []
     },
@@ -15866,7 +15866,7 @@
       "logicFile": "single",
       "messageNumber": 1468,
       "original": "You can't plant the beans while you're invisible.",
-      "translation": "אינך יכול לשתול את השעועית כשאתה בלתי נראה.",
+      "translation": "אינך יכול לשתול את האפונה כשאתה בלתי נראה.",
       "notes": "",
       "placeholders": []
     },
@@ -15874,7 +15874,7 @@
       "logicFile": "single",
       "messageNumber": 1469,
       "original": "You plant the magical beans in the fertile soil.  Suddenly, something incredible begins to happen!",
-      "translation": "אתה שותל את שעועית הקסם באדמה הפורייה. לפתע, משהו מדהים מתחיל לקרות!",
+      "translation": "אתה שותל את אפונת הקסם באדמה הפורייה. לפתע, משהו מדהים מתחיל לקרות!",
       "notes": "",
       "placeholders": []
     },
@@ -15882,7 +15882,7 @@
       "logicFile": "single",
       "messageNumber": 1470,
       "original": "You're not in a good place to climb the beanstalk.",
-      "translation": "אתה לא במקום טוב לטפס על קנוקנת השעועית.",
+      "translation": "אתה לא במקום טוב לטפס על גבעול האפונה.",
       "notes": "",
       "placeholders": []
     },
@@ -15890,7 +15890,7 @@
       "logicFile": "single",
       "messageNumber": 1471,
       "original": "You are already climbing the beanstalk.",
-      "translation": "אתה כבר מטפס על קנוקנת השעועית.",
+      "translation": "אתה כבר מטפס על גבעול האפונה.",
       "notes": "",
       "placeholders": []
     },
@@ -15954,7 +15954,7 @@
       "logicFile": "single",
       "messageNumber": 1479,
       "original": "The beanstalk's leaves are bigger than you are!",
-      "translation": "עלי קנוקנת השעועית גדולים ממך!",
+      "translation": "עלי גבעול האפונה גדולים ממך!",
       "notes": "",
       "placeholders": []
     },
@@ -15970,7 +15970,7 @@
       "logicFile": "single",
       "messageNumber": 1481,
       "original": "You are already climbing the beanstalk.  Be careful!",
-      "translation": "אתה כבר מטפס על קנוקנת השעועית. היזהר!",
+      "translation": "אתה כבר מטפס על גבעול האפונה. היזהר!",
       "notes": "",
       "placeholders": []
     },
@@ -16114,7 +16114,7 @@
       "logicFile": "single",
       "messageNumber": 1499,
       "original": "Though your fiddle-playing is loud and boisterous, the giant can't hear you above his own snoring.  Good thing, too!",
-      "translation": "למרות שנגינתך בכינור רועשת ותוססת, הענק אינו יכול לשמוע אותך מעל נחירותיו. מזל טוב, גם!",
+      "translation": "למרות שנגינתך בכינור רועשת ותוססת, הענק אינו יכול לשמוע אותך מעל נחירותיו. וטוב שכך!",
       "notes": "",
       "placeholders": []
     },
@@ -16469,7 +16469,7 @@
       "logicFile": "single",
       "messageNumber": 1543,
       "original": "There are craggy rocks scattered around the forest.\\nYou hate to think of what's underneath them.",
-      "translation": "יש סלעים סלעיים פזורים ביער.\\nאתה שונא לחשוב מה יש מתחתם.",
+      "translation": "יש סלעים מחוספסים פזורים ביער.\\nאתה שונא לחשוב מה יש מתחתם.",
       "notes": "",
       "placeholders": []
     },
@@ -16565,7 +16565,7 @@
       "logicFile": "single",
       "messageNumber": 1555,
       "original": "CASTLE\\nGUARD:\\n\"Raise the\\nportcullis!\"",
-      "translation": "שומרי\\nהטירה:\\n\"הרימו את\\nשער הגרר!\"",
+      "translation": "שומרי הטירה:\\n\"הרימו את\\nהשער!\"",
       "notes": "",
       "placeholders": []
     },
@@ -16687,7 +16687,7 @@
       "logicFile": "single",
       "messageNumber": 1568,
       "original": "Score: %d of %d%13s%s%1s",
-      "translation": "`ניקוד: %d מתוך %d%13s%s%1s",
+      "translation": "ניקוד: %d מתוך %d%13s%s%1s",
       "notes": "",
       "placeholders": [
         "%d",

@@ -207,7 +207,8 @@ match feels more accurate.
 
 | EN | Literal match | Folktale-correct (use this) | Folktale |
 |----|---------------|------------------------------|----------|
-| `beanstalk` / `magic beans` (Jack-and-the-Beanstalk context) | `שעועית` (beans) | `אפונת פלא` / `אפונה` | The Hebrew "ג'ק וגרגר האפונה" tradition uses **אפונה**, not שעועית, even though שעועית is the dictionary translation of "beans". |
+| `beans` / `magic beans` (Jack-and-the-Beanstalk context) | `שעועית` (beans) | `אפונה` / `אפונת קסם` | The Hebrew "ג'ק וגרגר האפונה" tradition uses **אפונה** (peas), not שעועית (beans). |
+| `beanstalk` (the climbable structure) | `שעועית` / `קנוקנת השעועית` / `קנוקנת האפונה` | **`גבעול האפונה`** (masc) | `גבעול` = stalk/stem (the upright structure Jack climbs). `קנוקנת` = tendril (the curling threads pea plants use to grip a support — Jack might use these for grip, but he climbs the stalk itself). |
 | `gingerbread house` (Hansel-and-Gretel context) | `בית עוגיות` | `בית עוגת ג'ינג'ר` (or classical `בית עוגת זנגביל`) | Either form is acceptable; pick one and stay consistent within the file. |
 
 Rule of thumb: if the English text is referencing a recognizable fairy
@@ -217,9 +218,114 @@ defaulting to the lexicographic match. Game flavor text is "story" text,
 not "encyclopedia" text — folktale resonance matters more than botanical
 accuracy.
 
-KQ1 calibration: messages #598 and #643 both keep `אפונת פלא` for the
-giant beanstalk that grows from the magic beans, even though the EN says
-"beanstalk" / "beans". Do not "correct" אפונה to שעועית in this context.
+**Beanstalk gender note**: `גבעול` is masculine, so all agreeing forms
+must be masculine: `גבעול אפונה ענקי` (not `ענקית`), `הגבעול נעלם` (not
+`נעלמת`), `גבעול אדיר היורד` (not `היורדת`), `הזה` (not `הזו`). Watch
+this carefully — the earlier form `קנוקנת` is feminine, so any text that
+used to be feminine-agreeing needs flipping.
+
+KQ1 calibration: across messages #598, #643, #1138, #1141, #1143,
+#1470, #1471, #1479, #1481, the climbable beanstalk is consistently
+`גבעול האפונה` (or indefinite `גבעול אפונה`). Magic beans (the seeds
+you plant) remain `אפונה` / `אפונת הקסם` (#1466–#1469). Do not introduce
+`שעועית` or `קנוקנת` in this context.
+
+#### Game-world facts override grammar instincts
+
+The agent does not have full knowledge of the game's cast and locations,
+so a label that reads as a grammatical mismatch may actually reflect
+ground truth. **Before "fixing" speaker labels, character counts, gender
+of pronouns referring to specific characters, etc., assume the existing
+translation captured something the agent doesn't know.**
+
+| Issue | What looks wrong | Why it's actually right | Fix? |
+|-------|------------------|-------------------------|------|
+| `CASTLE GUARD:` (EN singular) → `שומרי הטירה:` (HE plural) | EN/HE number mismatch | KQ1's Daventry castle has **2 guards**, so the plural is the collective speaker label (one speaks, both are present). | **No — keep plural.** |
+| `the goat… he… his` (EN masc) → `העז… היא… חייה` (HE fem in late game) | EN/HE gender mismatch | Genuine inconsistency: early-game messages use `תיש` (masc), late-game messages use `עז` (fem). User decision required for direction. | **Resolved (KQ1): use `תיש` everywhere.** See note below. |
+
+Default move when you spot a number/gender mismatch with EN: ask the user
+about the in-game referent before fixing. The translator may have known
+something the source label didn't capture.
+
+##### Goat character canonical form (KQ1)
+
+KQ1 calibration: the goat that follows Graham across the bridge is
+referred to as **`תיש`** (he-goat) throughout — matching EN's
+`he/his/him`. The earlier-batch usage of `עז` (she-goat) was a 22-message
+inconsistency that was swept on user request.
+
+**Do not "fix" `תיש` back to `עז`** even though `עז` is the more common
+generic Hebrew word for "goat" — the in-game character is masculine.
+
+The sweep also propagates to all agreeing forms — every verb, possessive,
+demonstrative, and pronoun that previously agreed with `העז` (fem) flips
+to masculine:
+
+| Fem (was) | Masc (now) |
+|-----------|------------|
+| `העז משוטטת` | `התיש משוטט` |
+| `מחליטה` | `מחליט` |
+| `אותה` (her, obj) | `אותו` |
+| `ממנה` | `ממנו` |
+| `חייה` | `חייו` |
+| `פרוותה` | `פרוותו` |
+| `לבדה` | `לבדו` |
+| `בעצמה` | `בעצמו` |
+| `אינה יכולה` | `אינו יכול` |
+| `נאבקת… צונחת` | `נאבק… צונח` |
+| `עזים אוהבות` (generic pl.) | `תישים אוהבים` |
+
+When the EN says `Goats love carrots!` (a generic plural), Hebrew has
+two options: keep `עזים אוהבות` (fem-pl as gender-neutral generic) or
+flip to `תישים אוהבים` for in-corpus consistency with the singular
+character. **KQ1 chose the latter** (#1387, #1391) so the reader doesn't
+parse a gender shift between adjacent sentences.
+
+**Sweep principle:** when a user resolves a number/gender mismatch
+(like the goat or castle-guard cases above), do a *full sweep* of the
+file using `find_inconsistencies.py` plus a regex search for the old
+form — don't leave straggler messages in the abandoned spelling. The
+user shouldn't have to point out each instance individually.
+
+#### Castle/architecture vocabulary — prefer the everyday Hebrew word
+
+When EN uses a specialized architectural term (`portcullis`, `bailey`,
+`barbican`, `merlon`, `keep`, etc.), the literal Hebrew technical
+translation is often unfamiliar. Prefer the simpler, more common Hebrew
+word unless the specialized meaning is plot-relevant.
+
+| EN | Technical HE (avoid) | Natural HE (prefer) |
+|----|----------------------|----------------------|
+| `portcullis` | `שער הגרר` (lit. "drag gate") | `השער` (the gate) |
+| `castle gate` | (no technical form) | `שער הטירה` |
+| `moat` | `חפיר` | `חפיר` is fine — well-known. |
+
+KQ1 calibration: #1555 `הרימו את שער הגרר!` was simplified to
+`הרימו את השער!`. Hebrew readers would parse `שער הגרר` only by
+context, while `השער` is unambiguous and natural.
+
+#### Don't preserve EN line breaks that split a Hebrew construct phrase
+
+Sierra games occasionally use `\n` inside speaker labels and short
+exclamations to force a poster-style two-line layout (e.g. `CASTLE\nGUARD:`).
+This works in English because each line is a standalone word. **In Hebrew
+it often breaks a smikhut (construct phrase) where the bound noun has no
+independent meaning.**
+
+| EN | Mechanical HE (awkward) | Natural HE (prefer) |
+|----|-------------------------|----------------------|
+| `CASTLE\nGUARD:` | `שומרי\nהטירה:` (`guards-of` then `the-castle:` — bound noun stranded on its own line) | `שומרי הטירה:\n` (one line; let the dialogue use its own line break) |
+
+Rule: when a Hebrew translation has `\n` inside a smikhut, between a
+preposition and its object, or between `את` and its noun, drop the line
+break. EN's display intent doesn't survive translation — and forcing it
+produces awkward fragments like `שומרי \n הטירה`.
+
+KQ1 calibration: #1555 was changed from
+`שומרי\nהטירה:\n"הרימו את\nהשער!"` to
+`שומרי הטירה:\n"הרימו את\nהשער!"` — kept the dialogue's internal line
+break (`הרימו את \n השער` parallels the EN's `Raise the \n portcullis!`),
+but consolidated the speaker label to one line.
 
 ### 6. Inconsistent translation of the same term
 The same English term is rendered different ways in different messages, with
