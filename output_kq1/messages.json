@@ -14970,7 +14970,7 @@
       "logicFile": "single",
       "messageNumber": 1356,
       "original": "King Edward the Benevolent, aged ruler of Daventry, has summoned you to the castle for reasons unknown.",
-      "translation": "המלך אדוארד טוב הלב, השליט המבוגר של דבנטרי, זימן אותך לטירה מסיבות לא ידועות.",
+      "translation": "המלך אדוארד טוב הלב, השליט המזדקן של דבנטרי, זימן אותך לטירה מסיבות לא ידועות.",
       "notes": "",
       "placeholders": []
     },
@@ -15074,7 +15074,7 @@
       "logicFile": "single",
       "messageNumber": 1369,
       "original": "KING EDWARD: \"But you are brave and pure of heart.  That is why I chose you to volunteer.\"",
-      "translation": "המלך אדוארד: \"אבל אתה אמיץ וטהור לב. לכן בחרתי בך להתנדב.\"",
+      "translation": "המלך אדוארד: \"אבל אתה אמיץ וטהור לב. לכן בחרתי בך למשימה זו.\"",
       "notes": "",
       "placeholders": []
     },
@@ -15090,7 +15090,7 @@
       "logicFile": "single",
       "messageNumber": 1371,
       "original": "KING EDWARD: \"Go, Sir Graham, and know that the fate of Daventry lies in your hands.\"",
-      "translation": "המלך אדוארד: \"לך, סר גרהם, ודע כי גורל דבנטרי בידיך.\"",
+      "translation": "המלך אדוארד: \"לך, סר גרהם, ודע כי גורל דבנטרי בידך.\"",
       "notes": "",
       "placeholders": []
     },
@@ -15098,7 +15098,7 @@
       "logicFile": "single",
       "messageNumber": 1372,
       "original": "SIR GRAHAM: \"Take heart, my King.  I shall not fail you.\"",
-      "translation": "סר גרהם: \"היה חזק, מלכי. לא אכזיב אותך.\"",
+      "translation": "סר גרהם: \"היה חזק, מלכי. לא אאכזב אותך.\"",
       "notes": "",
       "placeholders": []
     },
@@ -16517,7 +16517,7 @@
       "logicFile": "single",
       "messageNumber": 1549,
       "original": "Carved into the top of this stone pillar is a huge four-leaf clover.\\nApparently the leprechauns who inhabit this underground sanctuary greatly fear and respect the power of the four-leaf clover!",
-      "translation": "חרוט בחלקו העליון של עמוד האבן הזה תלתן ענק בעל ארבעה עלים.\\nככל הנראה הליפרקונים המאכלסים את המקדש התת-קרקעי הזה חוששים מאוד ומכבדים את כוחו של התלתן בעל ארבעת העלים!",
+      "translation": "חרוט בחלקו העליון של עמוד האבן הזה תלתן ענק בעל ארבעה עלים.\\nככל הנראה הליפרקונים המאכלסים את המקדש התת-קרקעי הזה חוששים ומכבדים מאוד את כוחו של התלתן בעל ארבעת העלים!",
       "notes": "",
       "placeholders": []
     },

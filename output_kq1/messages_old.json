@@ -5,7 +5,7 @@
     "contentType": "messages",
     "sourceLanguage": "en",
     "targetLanguage": "he",
-    "extractedDate": "2026-06-02T15:35:10.607196Z",
+    "extractedDate": "2026-06-02T16:26:45.187746Z",
     "totalMessages": 2105
   },
   "messages": [
@@ -4626,7 +4626,7 @@
       "logicFile": "single",
       "messageNumber": 63,
       "original": "There's nothing inside there you'll need.",
-      "translation": "אין שם בפנים שום דבר שתזדקק לו.",
+      "translation": "אין שם למעלה שום דבר שתזדקק לו.",
       "notes": "",
       "placeholders": []
     },
@@ -4650,7 +4650,7 @@
       "logicFile": "single",
       "messageNumber": 66,
       "original": "There is nothing up there you'll need.",
-      "translation": "אין שם בפנים שום דבר שתזדקק לו.",
+      "translation": "אין שם למעלה שום דבר שתזדקק לו.",
       "notes": "",
       "placeholders": []
     },
@@ -7426,7 +7426,7 @@
       "logicFile": "single",
       "messageNumber": 413,
       "original": "There is no elf here.",
-      "translation": "אין כאן אלף.",
+      "translation": "אין כאן גמד.",
       "notes": "",
       "placeholders": []
     },
@@ -10578,7 +10578,7 @@
       "logicFile": "single",
       "messageNumber": 807,
       "original": "You're too busy drowning right now.",
-      "translation": "אתה עסוק מדי כרגע בטביעה.",
+      "translation": "אתה עסוק מדי בטביעה כרגע.",
       "notes": "",
       "placeholders": []
     },
@@ -10618,7 +10618,7 @@
       "logicFile": "single",
       "messageNumber": 812,
       "original": "You're too busy drowning at the moment.",
-      "translation": "אתה עסוק מדי כרגע בטביעה.",
+      "translation": "אתה עסוק מדי בטביעה כרגע.",
       "notes": "",
       "placeholders": []
     },
@@ -13154,7 +13154,7 @@
       "logicFile": "single",
       "messageNumber": 1129,
       "original": "There is no dwarf here.",
-      "translation": "אין כאן אלף.",
+      "translation": "אין כאן גמד.",
       "notes": "",
       "placeholders": []
     },
@@ -16469,7 +16469,7 @@
       "logicFile": "single",
       "messageNumber": 1543,
       "original": "There are craggy rocks scattered around the forest.\\nYou hate to think of what's underneath them.",
-      "translation": "יש סלעים סלעיים פזורים ביער.\\nאתה שונא לחשוב מה יש מתחתם.",
+      "translation": "יש סלעים מחוספסים הפזורים ביער.\\nאתה שונא לחשוב מה יש מתחתם.",
       "notes": "",
       "placeholders": []
     },
@@ -16517,7 +16517,7 @@
       "logicFile": "single",
       "messageNumber": 1549,
       "original": "Carved into the top of this stone pillar is a huge four-leaf clover.\\nApparently the leprechauns who inhabit this underground sanctuary greatly fear and respect the power of the four-leaf clover!",
-      "translation": "חרוט בחלקו העליון של עמוד האבן הזה תלתן ענק בעל ארבעה עלים.\\nככל הנראה הליפרקונים המאכלסים את המקדש התת-קרקעי הזה חוששים מאוד ומכבדים את כוחו של התלתן בעל ארבעת העלים!",
+      "translation": "חרוט בחלקו העליון של עמוד האבן הזה תלתן ענק בעל ארבעה עלים.\\nככל הנראה הליפרקונים המאכלסים את המקדש התת-קרקעי הזה חוששים ומכבדים מאוד את כוחו של התלתן בעל ארבעת העלים!",
       "notes": "",
       "placeholders": []
     },
@@ -16541,7 +16541,7 @@
       "logicFile": "single",
       "messageNumber": 1552,
       "original": "You are Sir Graham,\\nthe bravest and most\\nhonorable knight in\\nthe troubled realm\\nof Daventry.",
-      "translation": "אתה סר גרהם,\\nהאביר האמיץ והמכובד\\nביותר בממלכה\\nהמוטרדת של דאבנטרי.",
+      "translation": "אתה סר גרהם,\\nהאביר האמיץ והמכובד\\nביותר בממלכת דבנטרי\\nהשרויה בצרה.",
       "notes": "",
       "placeholders": []
     },
@@ -16549,7 +16549,7 @@
       "logicFile": "single",
       "messageNumber": 1553,
       "original": "CASTLE GUARD:\\n\"Greetings, Sir Graham.\\nThe King is expecting you.\\nAllow me to escort you to His Majesty's throne room.\"",
-      "translation": "שומרי הטירה:\\n\"ברכות, סר גרהם.\\nהמלך מצפה לך.\\nהרשה לי ללוות אותך לאולם הכס של הוד מלכותו.\"",
+      "translation": "שומר הטירה:\\n\"ברכות, סר גרהם.\\nהמלך מצפה לך.\\nהרשה לי ללוות אותך לאולם הכס של הוד מלכותו.\"",
       "notes": "",
       "placeholders": []
     },
@@ -16565,7 +16565,7 @@
       "logicFile": "single",
       "messageNumber": 1555,
       "original": "CASTLE\\nGUARD:\\n\"Raise the\\nportcullis!\"",
-      "translation": "שומרי\\nהטירה:\\n\"הרימו את\\nשער הגרר!\"",
+      "translation": "שומרי הטירה:\\n\"הרימו את\\nהשער!\"",
       "notes": "",
       "placeholders": []
     },
@@ -16625,7 +16625,7 @@
       "logicFile": "single",
       "messageNumber": 1562,
       "original": "Very well, I shall\\nwait until you are\\nready to resume our\\nadventure again.",
-      "translation": "בסדר גמור, אחכה\\nעד שתהיה מוכן\\nלחדש את הרפתקאתנו\\nשוב.",
+      "translation": "בסדר גמור, אחכה\\nעד שתהיה מוכן\\nלחדש את הרפתקתנו\\nשוב.",
       "notes": "",
       "placeholders": []
     },

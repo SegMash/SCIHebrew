@@ -24,6 +24,9 @@ being described.
 | 879 | `In this large cavern, there is a slimy dead dragon.` | `במערה הגדולה הזו, יש דרקון מת ורירי.` | `רירי` describes a snail or jellyfish, not a corpse. Dragons aren't naturally slimy; here the dragon is *covered in slime* from rotting. | `דרקון מת ומכוסה ריר` or `דרקון מת ודביק` |
 | 1028 | `there's a dark opening leading into the mountain itself.` | `יש פתח כהה המוביל אל תוך ההר עצמו.` | `כהה` means "dark in color" (dark blue, dark hair). For an ominous opening into a mountain the meaning is atmospheric/sinister — `אפל`. The same file uses `אפלה` correctly in #11468 (`באפלת המערה`). | `יש פתח אפל המוביל אל תוך ההר עצמו.` |
 | 1552 | `the troubled realm of Daventry` | `בממלכה המוטרדת של דבנטרי` | `מוטרד` ("bothered/preoccupied") applies to **people**, not to a place or institution. A kingdom doesn't get bothered — it suffers, is afflicted, or is in distress. Also, inserting an adjective between a noun and its `של`-modifier (`ממלכה ... של דבנטרי`) is heavy syntax. | `בממלכת דבנטרי השרויה בצרה` (direct smikhut + adjective phrase). Other valid choices: `הסובלת`, `הדוויה`, `השסועה`. |
+| 1356 | `aged ruler of Daventry` | `השליט המבוגר של דבנטרי` | `מבוגר` is biographical — it just means "adult / over a certain age", neutral. EN `aged` (in fantasy/courtly register, especially for a king described in the next breath as having aching bones and trembling hands) implies active decline. | `השליט המזדקן של דבנטרי` — captures the aging-in-progress sense and matches the King's own self-description in the adjacent #1358–1359. |
+| 1369 | `I chose you to volunteer.` | `בחרתי בך להתנדב.` | The EN itself is paradoxical (you can't be *chosen* to *volunteer*). HE preserves the paradox 1-to-1, which reads as nonsense. | `בחרתי בך למשימה זו.` — preserves the King's intent (he selected Graham specifically) without the EN logical jolt. |
+| 1371 | `the fate of Daventry lies in your hands` | `גורל דבנטרי בידיך` | EN "in your hands" is a fixed metaphor for *responsibility*; HE has the same idiom but in the **singular**: `בידך`. Plural `בידיך` reads anatomically (your two physical hands). Same idiom-vs-anatomy distinction as throne `כס` vs chair `כסא`. | `גורל דבנטרי בידך` |
 
 **"Troubled / afflicted place" cheat sheet** — when EN applies emotional adjectives
 to a *place or institution* (`troubled realm`, `weary city`, `restless land`),
@@ -55,6 +58,20 @@ The Hebrew is malformed or doesn't agree in gender/number.
 |---|----|------------|---------------|--------|
 | 2 | `Looks like you had a bad fall this spring.` | `נראה שאחרי נפילה רעה באביב הזה.` | `שאחרי` ("that after") is dangling — there's no main verb. The translator probably meant "had". | `נראה שעברת נפילה רעה באביב הזה.` |
 | 882 | `The dragon's still got it.` | `הדרקון עדיין מחזיק בזה.` | `מחזיק בזה` is wooden literal. The "it" refers to the magic mirror (`מראה`, feminine), so even keeping the verb it should be `בה`. | `המראה עדיין אצל הדרקון` |
+| 1372 | `I shall not fail you.` | `לא אכזיב אותך.` | Wrong binyan + wrong object-type. Two related verbs share root כ-ז-ב: **(a)** `הִכְזִיב` (hifil, 1sg future `אַכְזִיב`) — "to belie / fail expectations", takes **abstract** objects: `אכזיב את הציפיות` (I will belie expectations). **(b)** `אִכְזֵב` (piel, 1sg future `אֲאַכְזֵב` = `אאכזב`) — "to disappoint **a person**". When the object is `אותך` (you, personal), only piel `אאכזב` is idiomatic. `אכזיב אותך` mismatches binyan to object-type. | `לא אאכזב אותך.` |
+
+**Future 1sg of א-initial piel verbs** — write **two** א's. The first is the
+1sg-future prefix, the second is the verb's own stem-initial א:
+- `לְאַכְזֵב` → `אֲאַכְזֵב` = **אאכזב** (not `אכזב`, not `אכזיב`)
+- `לְאַחֵד` → `אֲאַחֵד` = **אאחד** (I will unify)
+- `לְאַשֵּׁר` → `אֲאַשֵּׁר` = **אאשר** (I will approve)
+- `לְאַתֵּר` → `אֲאַתֵּר` = **אאתר** (I will locate)
+- Also for hifil with א-initial roots: `לְהַאֲזִין` → **אאזין** (I will listen).
+
+Sanity check: pronounce the result. The correct form has two syllables
+starting with א (`a-akhzev`). If it sounds like one syllable starting with
+some other consonant (`akh-ziv`), you've dropped one of the א's — or
+you've got a different verb entirely.
 
 #### Logical connectors — `אבל`, `על אף ש`, `מאחר ש`
 
