@@ -102,6 +102,7 @@ def read_csv_file(csvdir):
             #    existing_entry['cls'] = existing_entry['cls'] | new_entry['cls']
             #existing_entry['words'].extend(new_entry['words'])
             print(f"Total duplicated words: {count_duplicated}")
+            print(f"duplicated: {duplicated}")
             assert duplicated in existing_entry['words']
         else:
             entries.append(new_entry)
