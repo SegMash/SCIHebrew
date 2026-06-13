@@ -16,4 +16,4 @@ REM powershell -Command "(Get-FileHash -Algorithm MD5 'games_assets\kq1\bin\font
 REM open issues:
 REM - go over all messages.
 REM - tranalte banner 913- Quest For the Crown - to Hebrew. המסע אל הכתר 
-REM - 
+REM - check music (cave?) in rooms 66-69, 73-78
