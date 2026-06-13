@@ -43,6 +43,7 @@ VIAddVersionKey "LegalCopyright" "Hebrew Translation Team"
 
 !insertmacro MUI_PAGE_WELCOME
 !insertmacro MUI_PAGE_DIRECTORY
+!insertmacro MUI_PAGE_COMPONENTS
 !insertmacro MUI_PAGE_INSTFILES
 !insertmacro MUI_PAGE_FINISH
 
@@ -85,6 +86,7 @@ FunctionEnd
 
 Section "King's Quest I Hebrew Patch" SecMain
 
+  SectionIn RO
   SetOutPath "$INSTDIR"
   
   ; Set overwrite on to replace existing files
@@ -325,6 +327,62 @@ Section "King's Quest I Hebrew Patch" SecMain
 SectionEnd
 
 ;--------------------------------
+; Optional sciAudio Section
+
+Section "התקן את גרסת התזמורת של ניסים חליפה" SecAudio
+  
+  SetOutPath "$INSTDIR"
+  SetOverwrite try
+  
+  ; Copy sciAudio folder recursively from games_assets\kq1\bin_audio
+  File /r "games_assets\kq1\bin_audio\sciAudio"
+  
+  ; Copy audio-related script files (will override existing game scripts)
+  File "games_assets\kq1\bin_audio\script.001"
+  File "games_assets\kq1\bin_audio\script.009"
+  File "games_assets\kq1\bin_audio\script.021"
+  File "games_assets\kq1\bin_audio\script.022"
+  File "games_assets\kq1\bin_audio\script.025"
+  File "games_assets\kq1\bin_audio\script.039"
+  File "games_assets\kq1\bin_audio\script.040"
+  File "games_assets\kq1\bin_audio\script.041"
+  File "games_assets\kq1\bin_audio\script.050"
+  File "games_assets\kq1\bin_audio\script.051"
+  File "games_assets\kq1\bin_audio\script.052"
+  File "games_assets\kq1\bin_audio\script.053"
+  File "games_assets\kq1\bin_audio\script.058"
+  File "games_assets\kq1\bin_audio\script.063"
+  File "games_assets\kq1\bin_audio\script.065"
+  File "games_assets\kq1\bin_audio\script.066"
+  File "games_assets\kq1\bin_audio\script.067"
+  File "games_assets\kq1\bin_audio\script.068"
+  File "games_assets\kq1\bin_audio\script.069"
+  File "games_assets\kq1\bin_audio\script.070"
+  File "games_assets\kq1\bin_audio\script.071"
+  File "games_assets\kq1\bin_audio\script.073"
+  File "games_assets\kq1\bin_audio\script.074"
+  File "games_assets\kq1\bin_audio\script.075"
+  File "games_assets\kq1\bin_audio\script.076"
+  File "games_assets\kq1\bin_audio\script.077"
+  File "games_assets\kq1\bin_audio\script.079"
+  File "games_assets\kq1\bin_audio\script.080"
+  File "games_assets\kq1\bin_audio\script.085"
+  File "games_assets\kq1\bin_audio\script.086"
+  File "games_assets\kq1\bin_audio\script.088"
+  File "games_assets\kq1\bin_audio\script.200"
+  File "games_assets\kq1\bin_audio\script.605"
+  File "games_assets\kq1\bin_audio\script.606"
+  File "games_assets\kq1\bin_audio\script.610"
+  File "games_assets\kq1\bin_audio\script.800"
+  File "games_assets\kq1\bin_audio\script.803"
+  File "games_assets\kq1\bin_audio\script.804"
+  File "games_assets\kq1\bin_audio\script.994"
+  File "games_assets\kq1\bin_audio\vocab.996"
+  File "games_assets\kq1\bin_audio\vocab.997"
+  
+SectionEnd
+
+;--------------------------------
 ; Uninstaller Section
 
 Section "Uninstall"
@@ -548,6 +606,52 @@ Section "Uninstall"
   Delete "$INSTDIR\text.996"
   Delete "$INSTDIR\text.997"
   Delete "$INSTDIR\text.999"
+  
+  ; Remove sciAudio folder if installed
+  RMDir /r "$INSTDIR\sciAudio"
+  
+  ; Remove audio-related script files
+  Delete "$INSTDIR\script.001"
+  Delete "$INSTDIR\script.009"
+  Delete "$INSTDIR\script.021"
+  Delete "$INSTDIR\script.022"
+  Delete "$INSTDIR\script.025"
+  Delete "$INSTDIR\script.039"
+  Delete "$INSTDIR\script.040"
+  Delete "$INSTDIR\script.041"
+  Delete "$INSTDIR\script.050"
+  Delete "$INSTDIR\script.051"
+  Delete "$INSTDIR\script.052"
+  Delete "$INSTDIR\script.053"
+  Delete "$INSTDIR\script.058"
+  Delete "$INSTDIR\script.063"
+  Delete "$INSTDIR\script.065"
+  Delete "$INSTDIR\script.066"
+  Delete "$INSTDIR\script.067"
+  Delete "$INSTDIR\script.068"
+  Delete "$INSTDIR\script.069"
+  Delete "$INSTDIR\script.070"
+  Delete "$INSTDIR\script.071"
+  Delete "$INSTDIR\script.073"
+  Delete "$INSTDIR\script.074"
+  Delete "$INSTDIR\script.075"
+  Delete "$INSTDIR\script.076"
+  Delete "$INSTDIR\script.077"
+  Delete "$INSTDIR\script.079"
+  Delete "$INSTDIR\script.080"
+  Delete "$INSTDIR\script.085"
+  Delete "$INSTDIR\script.086"
+  Delete "$INSTDIR\script.088"
+  Delete "$INSTDIR\script.200"
+  Delete "$INSTDIR\script.605"
+  Delete "$INSTDIR\script.606"
+  Delete "$INSTDIR\script.610"
+  Delete "$INSTDIR\script.800"
+  Delete "$INSTDIR\script.803"
+  Delete "$INSTDIR\script.804"
+  Delete "$INSTDIR\script.994"
+  Delete "$INSTDIR\vocab.996"
+  Delete "$INSTDIR\vocab.997"
   
   ; Remove uninstaller
   Delete "$INSTDIR\Uninstall_Hebrew_Patch.exe"
