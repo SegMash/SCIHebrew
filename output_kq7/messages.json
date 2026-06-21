@@ -3741,7 +3741,7 @@
       "logicFile": 1100,
       "messageNumber": 129,
       "original": "\"'Rare Curiosities. Ricardo Eduardo Rodriguez Roo Rat, Proprietor.'\"",
-      "translation": "\"'מציאות נדירות! מוזרות! ריקרדו אדוארדו רודריגז רוש עכברוש, בעלים.'\"",
+      "translation": "\"'מוזרים ונדירים! ריקרדו אדוארדו רודריגז רוש עכברוש, בעלים.'\"",
       "notes": "",
       "placeholders": []
     },
@@ -4285,7 +4285,7 @@
       "logicFile": 1500,
       "messageNumber": 18,
       "original": "\"You have brought me water? My debt to you is eternal, lady.\"",
-      "translation": "\"הבאת לי מים? לנצח אהיה חייב לך, גברתי.\"",
+      "translation": "\"הבאת לי מים? אהיה חייב לך לנצח, גברתי.\"",
       "notes": "",
       "placeholders": []
     },
@@ -5605,7 +5605,7 @@
       "logicFile": 2450,
       "messageNumber": 35,
       "original": "\"Spike! Time for lunch! Don't forget your new toy!\"",
-      "translation": "\"ספייק! זמן ארוחת צהריים! אל תשכח את הצעצוע החדש שלך!\"",
+      "translation": "\"ספייקי! זמן ארוחת צהריים! אל תשכחי את הצעצוע החדש שלך!\"",
       "notes": "",
       "placeholders": []
     },
@@ -6333,7 +6333,7 @@
       "logicFile": 2450,
       "messageNumber": 126,
       "original": "\"You really don't want to know, ancient one. Your old nerves couldn't take it. Suffice it to say that it's a lot nicer than what I plan to do to you!\"",
-      "translation": "\"את באמת לא רוצה לדעת, זקנה שכמותך. העצבים הרופפים שלך לא יעמדו בזה. מספיק לומר שזה הרבה פחות נורא ממה שאני מתכננת לעשות לך!\"",
+      "translation": "\"את באמת לא רוצה לדעת, זקנה שכמותך. העצבים הרופפים שלך לא יעמדו בזה. די אם אומר שזה הרבה פחות נורא ממה שאני מתכננת לעשות לך!\"",
       "notes": "",
       "placeholders": []
     },
@@ -8293,7 +8293,7 @@
       "logicFile": 4000,
       "messageNumber": 8,
       "original": "\"My master was beheaded by Malicia's foul gargoyle, and cursed to ride the skies in search of it. My mistress died of grief shortly thereafter. And I--I tried to defend my home when the Boogeyman came to burn it. I failed.\"",
-      "translation": "\"ראשו של אדוני נערף על ידי הגרגויל המגעיל של מלישיה, וקולל לרכוב בשמיים בחיפוש אחריו. גבירתי מתה מצער זמן קצר לאחר מכן. ואני - ניסיתי להגן על ביתי כשהבוגי בא לשרוף אותו. נכשלתי.\"",
+      "translation": "\"ראשו של אדוני נערף על ידי הגרגויל הנורא של מלישיה, וקולל לרכוב בשמיים בחיפוש אחריו. גבירתי מתה מצער זמן קצר לאחר מכן. ואני - ניסיתי להגן על ביתי כשהבוגי בא לשרוף אותו. נכשלתי.\"",
       "notes": "",
       "placeholders": []
     },
@@ -8461,7 +8461,7 @@
       "logicFile": 4050,
       "messageNumber": 5,
       "original": "\"Look at that! Pathetic. That wasn't enough dirt to suffocate a bug. NUTS!\"",
-      "translation": "\"תראה את זה! עלוב. זה לא מספיק עפר כדי לקבור חרק. לעזאזל!\"",
+      "translation": "\"כמה עלוב. אין כאן מספיק עפר כדי לקבור חרק. לעזאזל!\"",
       "notes": "",
       "placeholders": []
     },
@@ -8989,7 +8989,7 @@
       "logicFile": 4100,
       "messageNumber": 36,
       "original": "\"Come in, come in!\"",
-      "translation": "\"בואי פנימה, בואי פנימה!\"",
+      "translation": "\"הכנסי, הכנסי בבקשה!\"",
       "notes": "",
       "placeholders": []
     },
@@ -9397,7 +9397,7 @@
       "logicFile": 4200,
       "messageNumber": 30,
       "original": "\"Oh, just some dreadful urchins. I don't think they'll ever grow up, since they've been children for the past hundred and thirty years. The Count used to keep them in check, but since he's been gone, they run wild.\"",
-      "translation": "\"אוי, סתם כמה פרחחים נוראיים. אני לא חושב שהם יגדלו אי פעם, מאחר שהם ילדים כבר מאה ושלושים שנה. הרוזן נהג לשמור עליהם תחת שליטה, אבל מאז שהוא נעלם, הם משתוללים.\"",
+      "translation": "\"אוי, סתם כמה פרחחים נוראיים. אני לא חושב שהם יגדלו אי פעם, מאחר שהם ילדים כבר מאה ושלושים שנה. הרוזן ידע כיצד לשלוט עליהם, אבל מאז שהוא נעלם, הם משתוללים.\"",
       "notes": "",
       "placeholders": []
     },
@@ -9493,7 +9493,7 @@
       "logicFile": 4200,
       "messageNumber": 42,
       "original": "\"I...see... Now. You'll have to leave through the main gate, but Malicia put that nasty swamp creature on guard...well, let me see...maybe we'll find something helpful here...\"",
-      "translation": "\"אני... מבין... עכשיו. תצטרכו לעזוב דרך השער הראשי, אבל מלישיה הציבה את יצור הביצה המגעיל הזה לשמור... ובכן, בואו נראה... אולי נמצא כאן משהו שיוכל לעזור...\"",
+      "translation": "\"אני... מבין... עכשיו. תצטרכו לעזוב דרך השער הראשי, אבל מלישיה הציבה את יצור הביצה הנורא הזה לשמור... ובכן, בואו נראה... אולי נמצא כאן משהו שיוכל לעזור...\"",
       "notes": "",
       "placeholders": []
     },
@@ -12437,7 +12437,7 @@
       "logicFile": 5000,
       "messageNumber": 32,
       "original": "\"Oh, I would! It's just magnificent! For that, I'll give you the best thing in my store.\"",
-      "translation": "\"הו, בשמחה! היא פשוט מרהיבה! בתמורה לכך, אתן לך את הדבר הטוב ביותר בחנות שלי.\"",
+      "translation": "\"הו, בשמחה! היא פשוט מרהיבה! בתמורה לכך, אתן לך את המוצר הטוב ביותר שיש לי.\"",
       "notes": "",
       "placeholders": []
     },
