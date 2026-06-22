@@ -399,7 +399,7 @@
 					view: 193
 					loop: 1
 					cel: 0
-					description: {מלך}
+					description: {king}
 					init:
 					x: (+ (king x:) 33)
 					y: (- (king y:) 9)
@@ -645,7 +645,7 @@
 	(properties
 		x 297
 		y 128
-		description {נתין מלכותי}
+		description {royal subject}
 		view 255
 		signal 4
 	)
@@ -655,7 +655,7 @@
 	(properties
 		x 298
 		y 97
-		description {מניפה}
+		description {fan}
 		view 255
 		loop 1
 		priority 10
@@ -665,7 +665,7 @@
 
 (class TurnHead of Prop
 	(properties
-		description {ראש של אדם}
+		description {person's head}
 		view 255
 		cel 2
 		priority 10
@@ -717,7 +717,7 @@
 	(properties
 		x 240
 		y 136
-		description {קהל}
+		description {crowd}
 		view 255
 		loop 4
 		signal 4
@@ -760,7 +760,7 @@
 	(properties
 		x 253
 		y 185
-		description {קהל}
+		description {crowd}
 		view 253
 	)
 )
@@ -769,7 +769,7 @@
 	(properties
 		x 303
 		y 175
-		description {קהל}
+		description {crowd}
 		view 253
 		cel 1
 	)
@@ -809,7 +809,7 @@
 	(properties
 		x 264
 		y 122
-		description {קהל}
+		description {crowd}
 		view 255
 		loop 9
 		signal 4
@@ -852,7 +852,7 @@
 	(properties
 		x 65
 		y 88
-		description {מלך}
+		description {king}
 		view 190
 		loop 1
 	)

@@ -78,23 +78,23 @@
 				(KEY_F2
 					(if (GetMenu 1282 113)
 						(DoSound sndSET_SOUND 0)
-						(SetMenu 1282 113 0 110 {הדלק})
+						(SetMenu 1282 113 0 110 {Turn on})
 					else
 						(DoSound sndSET_SOUND 1)
-						(SetMenu 1282 113 1 110 {כבה})
+						(SetMenu 1282 113 1 110 {Turn off})
 					)
 				)
 				($0016
 					(= temp0
 						((Gauge new:)
 							description:
-								{השתמש בעכבר או במקשי החצים ימינה ושמאלה כדי לקבוע את עוצמת השמע.}
-							text: {עוצמת שמע}
+								{Use the mouse or right and left arrow keys to set the sound volume.}
+							text: {Sound Volume}
 							minimum: 0
 							normal: 12
 							maximum: 15
-							higher: {חזק יותר}
-							lower: {חלש יותר}
+							higher: {Louder}
+							lower: {Softer}
 							doit: (DoSound sndVOLUME)
 						)
 					)
@@ -111,16 +111,16 @@
 							85
 							0
 							#title
-							{הפעל מחדש}
+							{Restart}
 							#font
 							0
 							#icon
 							movingIcon
 							#button
-							{הפעל מחדש}
+							{Restart}
 							1
 							#button
-							{אופס}
+							{Oops}
 							0
 						)
 						(gGame restart:)
@@ -132,16 +132,16 @@
 							85
 							1
 							#title
-							{יציאה}
+							{Quit}
 							#font
 							0
 							#icon
 							movingIcon
 							#button
-							{יציאה}
+							{Quit}
 							1
 							#button
-							{אופס}
+							{Oops}
 							0
 						)
 					)

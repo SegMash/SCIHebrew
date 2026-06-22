@@ -11,6 +11,7 @@ REM python.exe .\scripts\text\map_files.py .\output_kq1\built_in_messages_englis
 REM python.exe .\scripts\scripts\replace_strings.py .\kq1_new\src .\kq1_new\src_heb .\output_kq1\built-in-mapping.txt
 
 makensis.exe .\kq1_hebrew_patch.nsi
+makensis.exe .\kq1_orchestral_score_patch.nsi
 REM powershell -Command "(Get-FileHash -Algorithm MD5 'games_assets\kq1\bin\font.000').Hash.ToLower()"
 
 REM open issues:

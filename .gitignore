@@ -212,7 +212,7 @@ output*/*_messages.csv
 output*/*_messages_english.txt
 SCICompanion
 *.exe
-*_work
+*_work*
 SCICompanion*
 output_kq5/mapping_*.txt
 output_kq5/*.tsv
