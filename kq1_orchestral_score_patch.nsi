@@ -1,7 +1,7 @@
 ; King's Quest I - Orchestral Score Patch Installer
 ; NSIS Script
 ;
-; This patch adds "THE ORCHESTRAL SCORE by Nisim Khalifa" to
+; This patch adds "THE ORCHESTRAL SCORE by Nissim Khalifa" to
 ; King's Quest I (SCI0 / 1990 remake). It replaces the original
 ; in-game music with a newly composed orchestral score, delivered
 ; as MP3 tracks played through the sciAudio extension.
@@ -19,10 +19,10 @@ RequestExecutionLevel admin
 
 VIProductVersion "1.0.0.0"
 VIAddVersionKey "ProductName" "King's Quest I Orchestral Score Patch"
-VIAddVersionKey "FileDescription" "Orchestral Score by Nisim Khalifa for King's Quest I"
+VIAddVersionKey "FileDescription" "Orchestral Score by Nissim Khalifa for King's Quest I"
 VIAddVersionKey "FileVersion" "1.0.0.0"
 VIAddVersionKey "ProductVersion" "1.0.0.0"
-VIAddVersionKey "LegalCopyright" "Nisim Khalifa"
+VIAddVersionKey "LegalCopyright" "Nissim Khalifa"
 
 ;--------------------------------
 ; Modern UI
@@ -37,11 +37,11 @@ VIAddVersionKey "LegalCopyright" "Nisim Khalifa"
 !define MUI_UNICON "${NSISDIR}\Contrib\Graphics\Icons\modern-uninstall.ico"
 
 ; Custom English text explaining the patch
-!define MUI_WELCOMEPAGE_TITLE "King's Quest I - Orchestral Score by Nisim Khalifa"
-!define MUI_WELCOMEPAGE_TEXT "This setup installs THE ORCHESTRAL SCORE by Nisim Khalifa for King's Quest I.$\r$\n$\r$\nThe patch replaces the original in-game music with a newly composed orchestral score delivered as high-quality MP3 tracks (played through the sciAudio extension).$\r$\n$\r$\nIt does NOT alter the game's text, graphics or gameplay - only the soundtrack.$\r$\n$\r$\nClick 'Next' to continue."
+!define MUI_WELCOMEPAGE_TITLE "King's Quest I - Orchestral Score by Nissim Khalifa"
+!define MUI_WELCOMEPAGE_TEXT "This setup installs THE ORCHESTRAL SCORE by Nissim Khalifa for King's Quest I.$\r$\n$\r$\nThe patch replaces the original in-game music with a newly composed orchestral score delivered as high-quality MP3 tracks (played through the sciAudio extension).$\r$\n$\r$\nIt does NOT alter the game's text, graphics or gameplay - only the soundtrack.$\r$\n$\r$\nClick 'Next' to continue."
 !define MUI_DIRECTORYPAGE_TEXT_TOP "Select the folder where King's Quest I is installed.$\r$\n$\r$\nThe installer will verify that this is a valid King's Quest I directory before proceeding."
 !define MUI_FINISHPAGE_TITLE "Installation Complete"
-!define MUI_FINISHPAGE_TEXT "The Orchestral Score by Nisim Khalifa has been installed successfully.$\r$\n$\r$\nLaunch King's Quest I to enjoy the new soundtrack.$\r$\n$\r$\nClick 'Finish' to close this wizard."
+!define MUI_FINISHPAGE_TEXT "The Orchestral Score by Nissim Khalifa has been installed successfully.$\r$\n$\r$\nLaunch King's Quest I to enjoy the new soundtrack.$\r$\n$\r$\nClick 'Finish' to close this wizard."
 
 ;--------------------------------
 ; Pages
@@ -184,7 +184,7 @@ Section "King's Quest I Orchestral Score" SecMain
   WriteUninstaller "$INSTDIR\Uninstall_Orchestral_Score.exe"
 
   ; Write uninstall registry keys
-  WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\KQ1_Orchestral_Score" "DisplayName" "King's Quest I - Orchestral Score by Nisim Khalifa"
+  WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\KQ1_Orchestral_Score" "DisplayName" "King's Quest I - Orchestral Score by Nissim Khalifa"
   WriteRegStr HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\KQ1_Orchestral_Score" "UninstallString" '"$INSTDIR\Uninstall_Orchestral_Score.exe"'
   WriteRegDWORD HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\KQ1_Orchestral_Score" "NoModify" 1
   WriteRegDWORD HKLM "Software\Microsoft\Windows\CurrentVersion\Uninstall\KQ1_Orchestral_Score" "NoRepair" 1

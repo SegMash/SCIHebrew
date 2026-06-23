@@ -5,7 +5,7 @@
     "contentType": "messages",
     "sourceLanguage": "en",
     "targetLanguage": "he",
-    "extractedDate": "2026-06-02T18:20:50.172167Z",
+    "extractedDate": "2026-05-17T12:46:13.157600Z",
     "totalMessages": 2105
   },
   "messages": [
@@ -13,7 +13,7 @@
       "logicFile": "built-in",
       "messageNumber": 1,
       "original": "beanstalk",
-      "translation": "גבעול שעועית",
+      "translation": "גבעול אפונה",
       "notes": "",
       "placeholders": []
     },
@@ -370,7 +370,7 @@
       "logicFile": "built-in",
       "messageNumber": 45,
       "original": "When you open the walnut, you discover the nut inside is pure gold!",
-      "translation": "כשאתה פותח את אגוז המלך, אתה מגלה שהאגוז בפנים הוא זהב טהור!",
+      "translation": "כשאתה פותח את אגוז המלך, אתה מגלה שהאגוז בפנים עשוי זהב טהור!",
       "notes": "",
       "placeholders": []
     },
@@ -490,7 +490,7 @@
       "logicFile": "built-in",
       "messageNumber": 60,
       "original": "This Magic chest, one of the three lost treasures of Daventry, is always filled with gold coins.",
-      "translation": "תיבת הקסמים הזו, אחד משלושת אוצרותיה האבודים של דאבנטרי, תמיד מלאה במטבעות זהב.",
+      "translation": "תיבת הקסמים הזו, אחד משלושת אוצרותיה האבודים של דבנטרי, תמיד מלאה במטבעות זהב.",
       "notes": "",
       "placeholders": []
     },
@@ -538,7 +538,7 @@
       "logicFile": "built-in",
       "messageNumber": 66,
       "original": "There is a message written on the note: \"Sometimes it is wise to think backwards.\"",
-      "translation": "יש הודעה כתובה על הפתק: \"לפעמים זה חכם לחשוב אחורה.\"",
+      "translation": "יש הודעה כתובה על הפתק: \"לפעמים זה חכם לחשוב מהסוף להתחלה. למשל: א-ת,ב-ש...\"",
       "notes": "",
       "placeholders": []
     },
@@ -674,7 +674,7 @@
       "logicFile": "built-in",
       "messageNumber": 83,
       "original": "This is the magic mirror, one of the three treasures of Daventry.",
-      "translation": "זוהי מראת הקסמים, אחד משלושת אוצרותיה של דאבנטרי.",
+      "translation": "זוהי מראת הקסמים, אחד משלושת אוצרותיה של דבנטרי.",
       "notes": "",
       "placeholders": []
     },
@@ -706,7 +706,7 @@
       "logicFile": "built-in",
       "messageNumber": 87,
       "original": "This is the magic shield, one of the three treasures of Daventry.",
-      "translation": "זהו מגן הקסמים, אחד משלושת אוצרותיה של דאבנטרי.",
+      "translation": "זהו מגן הקסמים, אחד משלושת אוצרותיה של דבנטרי.",
       "notes": "",
       "placeholders": []
     },
@@ -1042,7 +1042,7 @@
       "logicFile": "built-in",
       "messageNumber": 129,
       "original": "There are many small decorative bushes scattered around Daventry.",
-      "translation": "ישנם שיחים דקורטיביים קטנים רבים פזורים ברחבי דאבנטרי.",
+      "translation": "ישנם שיחים דקורטיביים קטנים רבים פזורים ברחבי דבנטרי.",
       "notes": "",
       "placeholders": []
     },
@@ -1050,7 +1050,7 @@
       "logicFile": "built-in",
       "messageNumber": 130,
       "original": "Beautiful shade trees abound in this part of Daventry.",
-      "translation": "עצי צל יפים שופעים בחלק זה של דאבנטרי.",
+      "translation": "עצי צל יפים שופעים בחלק זה של דבנטרי.",
       "notes": "",
       "placeholders": []
     },
@@ -1058,7 +1058,7 @@
       "logicFile": "built-in",
       "messageNumber": 131,
       "original": "This is typical of the large, leafy vegetation found all throughout Daventry.",
-      "translation": "זה אופייני לצמחייה הגדולה והעלווה הנמצאת בכל רחבי דאבנטרי.",
+      "translation": "זה אופייני לצמחייה הגדולה והעלווה הנמצאת בכל רחבי דבנטרי.",
       "notes": "",
       "placeholders": []
     },
@@ -1098,7 +1098,7 @@
       "logicFile": "built-in",
       "messageNumber": 136,
       "original": "You see lush plants and bushes throughout the Kingdom of Daventry.",
-      "translation": "אתה רואה צמחים ושיחים שופעים ברחבי ממלכת דאבנטרי.",
+      "translation": "אתה רואה צמחים ושיחים שופעים ברחבי ממלכת דבנטרי.",
       "notes": "",
       "placeholders": []
     },
@@ -1114,7 +1114,7 @@
       "logicFile": "built-in",
       "messageNumber": 138,
       "original": "All sorts of gorgeous trees dot the Daventry countryside.",
-      "translation": "כל מיני עצים מרהיבים מנקדים את נוף דאבנטרי.",
+      "translation": "כל מיני עצים מרהיבים מנקדים את נוף דבנטרי.",
       "notes": "",
       "placeholders": []
     },
@@ -1282,7 +1282,7 @@
       "logicFile": "built-in",
       "messageNumber": 159,
       "original": "These are the foothills of a large mountain that towers above Daventry.",
-      "translation": "אלה הם מורדותיו של הר גדול המתנשא מעל דאבנטרי.",
+      "translation": "אלה הם מורדותיו של הר גדול המתנשא מעל דבנטרי.",
       "notes": "",
       "placeholders": []
     },
@@ -1314,7 +1314,7 @@
       "logicFile": "built-in",
       "messageNumber": 163,
       "original": "Long, low bushes grow unbounded throughout Daventry.",
-      "translation": "שיחים ארוכים ונמוכים גדלים ללא גבולות ברחבי דאבנטרי.",
+      "translation": "שיחים ארוכים ונמוכים גדלים ללא גבולות ברחבי דבנטרי.",
       "notes": "",
       "placeholders": []
     },
@@ -1330,7 +1330,7 @@
       "logicFile": "built-in",
       "messageNumber": 165,
       "original": "These are the foothills of a large mountain which overlooks the Daventry countryside.",
-      "translation": "אלה הם מורדותיו של הר גדול המשקיף על נוף דאבנטרי.",
+      "translation": "אלה הם מורדותיו של הר גדול המשקיף על נוף דבנטרי.",
       "notes": "",
       "placeholders": []
     },
@@ -1338,7 +1338,7 @@
       "logicFile": "built-in",
       "messageNumber": 166,
       "original": "Over the years, many ordinary rocks like this one have tumbled down from the heights of Daventry's mountain.",
-      "translation": "במהלך השנים, סלעים רגילים רבים כמו זה התגלגלו מטה מפסגות ההר של דאבנטרי.",
+      "translation": "במהלך השנים, סלעים רגילים רבים כמו זה התגלגלו מטה מפסגות ההר של דבנטרי.",
       "notes": "",
       "placeholders": []
     },
@@ -1450,7 +1450,7 @@
       "logicFile": "built-in",
       "messageNumber": 180,
       "original": "This is one of the many small trees scattered around the lovely Daventry countryside.",
-      "translation": "זהו אחד מהעצים הקטנים הרבים הפזורים ברחבי נוף דאבנטרי היפה.",
+      "translation": "זהו אחד מהעצים הקטנים הרבים הפזורים ברחבי נוף דבנטרי היפה.",
       "notes": "",
       "placeholders": []
     },
@@ -1498,7 +1498,7 @@
       "logicFile": "built-in",
       "messageNumber": 186,
       "original": "The surrounding boulders and trees are reflected on the small, mirror-like lake.",
-      "translation": "הבולדרים והעצים מסביב משתקפים על האגם הקטן דמוי המראה.",
+      "translation": "הסלעים והעצים שמסביב משתקפים באגם הקטן דמוי המראה.",
       "notes": "",
       "placeholders": []
     },
@@ -1522,7 +1522,7 @@
       "logicFile": "built-in",
       "messageNumber": 189,
       "original": "This is another unremarkable specimen of the hundreds of bushes in Daventry's forests.",
-      "translation": "זהו עוד דוגמה לא יוצאת דופן ממאות השיחים ביערות דאבנטרי.",
+      "translation": "זהו עוד דוגמה לא יוצאת דופן ממאות השיחים ביערות דבנטרי.",
       "notes": "",
       "placeholders": []
     },
@@ -1570,7 +1570,7 @@
       "logicFile": "built-in",
       "messageNumber": 195,
       "original": "A jumble of clover grows in this patch of the forest.",
-      "translation": "ערבוביה של תלתן גדלה בערוגה זו של היער.",
+      "translation": "כר של פרחי תלתן צומח בחלקה זו של היער.",
       "notes": "",
       "placeholders": []
     },
@@ -1586,7 +1586,7 @@
       "logicFile": "built-in",
       "messageNumber": 197,
       "original": "Graceful trees grow in profusion all throughout Daventry.",
-      "translation": "עצים חינניים גדלים בשפע בכל רחבי דאבנטרי.",
+      "translation": "עצים חינניים גדלים בשפע בכל רחבי דבנטרי.",
       "notes": "",
       "placeholders": []
     },
@@ -1634,7 +1634,7 @@
       "logicFile": "built-in",
       "messageNumber": 203,
       "original": "There are more bushes in Daventry than you care to notice.",
-      "translation": "יש יותר שיחים בדאבנטרי מכפי שאתה טורח לשים לב אליהם.",
+      "translation": "יש יותר שיחים בדבנטרי מכפי שאתה טורח לשים לב אליהם.",
       "notes": "",
       "placeholders": []
     },
@@ -1690,7 +1690,7 @@
       "logicFile": "built-in",
       "messageNumber": 210,
       "original": "The stream appears placid enough, but appearances can be deceiving.",
-      "translation": "הנחל נראה רגוע מספיק, אבל מראות יכולים להטעות.",
+      "translation": "הנחל נראה רגוע מספיק, אבל המראה יכול להטעות.",
       "notes": "",
       "placeholders": []
     },
@@ -1714,7 +1714,7 @@
       "logicFile": "built-in",
       "messageNumber": 213,
       "original": "This is just one of the countless bushes and shrubs scattered throughout the beautiful Daventry countryside.",
-      "translation": "זהו רק אחד מהשיחים והעשבים הרבים הפזורים ברחבי נוף דאבנטרי היפה.",
+      "translation": "זהו רק אחד מהשיחים והעשבים הרבים הפזורים ברחבי נוף דבנטרי היפה.",
       "notes": "",
       "placeholders": []
     },
@@ -1722,7 +1722,7 @@
       "logicFile": "built-in",
       "messageNumber": 214,
       "original": "This is one of the oldest, grandest trees in all of Daventry, though it holds no secrets for you, Sir Graham.",
-      "translation": "זהו אחד מהעצים העתיקים והמפוארים ביותר בכל דאבנטרי, אם כי הוא אינו טומן בחובו סודות עבורך, סר גרהם.",
+      "translation": "זהו אחד מהעצים העתיקים והמפוארים ביותר בכל דבנטרי, אם כי הוא אינו טומן בחובו סודות עבורך, סר גרהם.",
       "notes": "",
       "placeholders": []
     },
@@ -1730,7 +1730,7 @@
       "logicFile": "built-in",
       "messageNumber": 215,
       "original": "This is one of the oldest, grandest trees in all of Daventry.",
-      "translation": "זהו אחד מהעצים העתיקים והמפוארים ביותר בכל דאבנטרי.",
+      "translation": "זהו אחד מהעצים העתיקים והמפוארים ביותר בכל דבנטרי.",
       "notes": "",
       "placeholders": []
     },
@@ -2026,7 +2026,7 @@
       "logicFile": "built-in",
       "messageNumber": 252,
       "original": "Some typical Daventry bushes flourish in the shade of the nearby walnut tree.",
-      "translation": "כמה שיחים טיפוסיים של דאבנטרי משגשגים בצל עץ האגוז הסמוך.",
+      "translation": "כמה שיחים טיפוסיים של דבנטרי משגשגים בצל עץ האגוז הסמוך.",
       "notes": "",
       "placeholders": []
     },
@@ -2034,7 +2034,7 @@
       "logicFile": "built-in",
       "messageNumber": 253,
       "original": "There are trees growing nearly everywhere you look in Daventry.",
-      "translation": "ישנם עצים גדלים כמעט בכל מקום שתסתכל בדאבנטרי.",
+      "translation": "ישנם עצים גדלים כמעט בכל מקום שתסתכל בדבנטרי.",
       "notes": "",
       "placeholders": []
     },
@@ -2066,7 +2066,7 @@
       "logicFile": "built-in",
       "messageNumber": 257,
       "original": "There are an endless variety of trees in Daventry; none of the ones you can see here seem the least bit unusual.",
-      "translation": "יש מגוון אינסופי של עצים בדאבנטרי; אף אחד מאלה שאתה יכול לראות כאן לא נראה יוצא דופן ולו במעט.",
+      "translation": "יש מגוון אינסופי של עצים בדבנטרי; אף אחד מאלה שאתה יכול לראות כאן לא נראה יוצא דופן ולו במעט.",
       "notes": "",
       "placeholders": []
     },
@@ -2234,7 +2234,7 @@
       "logicFile": "built-in",
       "messageNumber": 278,
       "original": "Low bushes are growing in abundance in the clean Daventry air.",
-      "translation": "שיחים נמוכים גדלים בשפע באוויר הנקי של דאבנטרי.",
+      "translation": "שיחים נמוכים גדלים בשפע באוויר הנקי של דבנטרי.",
       "notes": "",
       "placeholders": []
     },
@@ -2362,7 +2362,7 @@
       "logicFile": "built-in",
       "messageNumber": 294,
       "original": "There are many beautiful trees around Daventry.",
-      "translation": "ישנם עצים יפים רבים סביב דאבנטרי.",
+      "translation": "ישנם עצים יפים רבים סביב דבנטרי.",
       "notes": "",
       "placeholders": []
     },
@@ -2394,7 +2394,7 @@
       "logicFile": "built-in",
       "messageNumber": 298,
       "original": "This natural rock bridge connects the Daventry mainland to a small island.",
-      "translation": "גשר סלע טבעי זה מחבר את היבשת של דאבנטרי לאי קטן.",
+      "translation": "גשר סלע טבעי זה מחבר את יבשת דבנטרי לאי קטן.",
       "notes": "",
       "placeholders": []
     },
@@ -2402,7 +2402,7 @@
       "logicFile": "built-in",
       "messageNumber": 299,
       "original": "The water is particularly perilous as it passes downstream through this gully.",
-      "translation": "המים מסוכנים במיוחד כשהם עוברים במורד הזרם דרך הערוץ הזה.",
+      "translation": "המים מסוכנים במיוחד כשהם זורמים במורד הנהר דרך הערוץ הזה.",
       "notes": "",
       "placeholders": []
     },
@@ -2586,7 +2586,7 @@
       "logicFile": "built-in",
       "messageNumber": 322,
       "original": "You see lush plants and bushes throughout the kingdom of Daventry.",
-      "translation": "אתה רואה צמחים ושיחים שופעים בכל רחבי ממלכת דאבנטרי.",
+      "translation": "אתה רואה צמחים ושיחים שופעים ברחבי ממלכת דבנטרי.",
       "notes": "",
       "placeholders": []
     },
@@ -2594,7 +2594,7 @@
       "logicFile": "built-in",
       "messageNumber": 323,
       "original": "The clear blue lake is surrounded by a pretty meadow.",
-      "translation": "האגם הכחול הצלול מוקף באחו יפהפה.",
+      "translation": "האגם הכחול והצלול מוקף באחו יפה.",
       "notes": "",
       "placeholders": []
     },
@@ -2826,7 +2826,7 @@
       "logicFile": "built-in",
       "messageNumber": 352,
       "original": "Even in this slightly dismal part of the forest, the bushes grow well in the bright Daventry sun.",
-      "translation": "אפילו בחלק הקודר במקצת של היער הזה, השיחים גדלים היטב בשמש הבהירה של דאבנטרי.",
+      "translation": "אפילו בחלק הקודר במקצת של היער הזה, השיחים גדלים היטב בשמש הבהירה של דבנטרי.",
       "notes": "",
       "placeholders": []
     },
@@ -2946,7 +2946,7 @@
       "logicFile": "built-in",
       "messageNumber": 367,
       "original": "You've sunk your chances for saving Daventry.",
-      "translation": "הרסת את סיכוייך להציל את דאבנטרי.",
+      "translation": "הרסת את סיכוייך להציל את דבנטרי.",
       "notes": "",
       "placeholders": []
     },
@@ -3266,7 +3266,7 @@
       "logicFile": "built-in",
       "messageNumber": 407,
       "original": "Thick, cottony clouds surround the land up here, obscuring your view of Daventry far below.",
-      "translation": "עננים עבים ודמויי כותנה מקיפים את הארץ כאן, ומסתירים את נוף דאבנטרי הרחוק למטה.",
+      "translation": "עננים עבים ודמויי כותנה מקיפים את הארץ כאן, ומסתירים את נוף דבנטרי הרחוק למטה.",
       "notes": "",
       "placeholders": []
     },
@@ -3362,7 +3362,7 @@
       "logicFile": "built-in",
       "messageNumber": 419,
       "original": "There is a small, dark hole in the base of this tree.",
-      "translation": "יש חור קטן וכהה בבסיס העץ הזה.",
+      "translation": "יש חור קטן ואפל בבסיס העץ הזה.",
       "notes": "",
       "placeholders": []
     },
@@ -3594,7 +3594,7 @@
       "logicFile": "built-in",
       "messageNumber": 448,
       "original": "This is just one of the many small trees adorning Daventry's countryside.",
-      "translation": "זהו רק אחד מהעצים הקטנים הרבים המעטרים את נוף דאבנטרי.",
+      "translation": "זהו רק אחד מהעצים הקטנים הרבים המעטרים את נוף דבנטרי.",
       "notes": "",
       "placeholders": []
     },
@@ -3642,7 +3642,7 @@
       "logicFile": "built-in",
       "messageNumber": 454,
       "original": "In the distance, and far above you, you can see heavy, dense clouds in streaks across the sky.__You think they're cumulus clouds, but it's been a long time since you went to Daventry High School.",
-      "translation": "במרחק, ורחוק מעליך, אתה יכול לראות עננים כבדים וצפופים בכתמים על פני השמיים. אתה חושב שהם ענני קומולוס, אבל עבר זמן רב מאז שהלכת לתיכון דאבנטרי.",
+      "translation": "במרחק, ורחוק מעליך, אתה יכול לראות עננים כבדים וצפופים בכתמים על פני השמיים. אתה חושב שהם ענני קומולוס, אבל עבר זמן רב מאז שהלכת לתיכון דבנטרי.",
       "notes": "",
       "placeholders": []
     },
@@ -3746,7 +3746,7 @@
       "logicFile": "built-in",
       "messageNumber": 467,
       "original": "These rock formations were slowly created over thousands of years.",
-      "translation": "תצורות סלע אלו נוצרו לאט לאורך אלפי שנים.",
+      "translation": "תצורות סלע אלה נוצרו לאט במשך אלפי שנים.",
       "notes": "",
       "placeholders": []
     },
@@ -4090,7 +4090,7 @@
       "logicFile": "built-in",
       "messageNumber": 510,
       "original": "Cancel",
-      "translation": "בטל",
+      "translation": "ביטול",
       "notes": "",
       "placeholders": []
     },
@@ -4650,7 +4650,7 @@
       "logicFile": "single",
       "messageNumber": 66,
       "original": "There is nothing up there you'll need.",
-      "translation": "אין שם בפנים שום דבר שתזדקק לו.",
+      "translation": "אין שם למעלה שום דבר שתזדקק לו.",
       "notes": "",
       "placeholders": []
     },
@@ -5155,7 +5155,7 @@
       "messageNumber": 129,
       "original": "You cannot reach the door from here.",
       "translation": "אינך יכול להגיע לדלת מכאן.",
-      "notes": "",
+      "notes": "1",
       "placeholders": []
     },
     {
@@ -5163,7 +5163,7 @@
       "messageNumber": 130,
       "original": "You recall a rule prohibiting goats (except seeing-eye goats) from entering the castle.",
       "translation": "אתה זוכר חוק האוסר על תישים (למעט תישי נחייה) להיכנס לטירה.",
-      "notes": "",
+      "notes": "1",
       "placeholders": []
     },
     {
@@ -5171,7 +5171,7 @@
       "messageNumber": 131,
       "original": "That's odd.  Why aren't the guards at their posts?",
       "translation": "זה מוזר. מדוע השומרים אינם בעמדותיהם?",
-      "notes": "",
+      "notes": "1",
       "placeholders": []
     },
     {
@@ -5371,7 +5371,7 @@
       "messageNumber": 156,
       "original": "There is a hole where the rock once was.",
       "translation": "יש בור במקום בו היה הסלע.",
-      "notes": "",
+      "notes": "2",
       "placeholders": []
     },
     {
@@ -5659,7 +5659,7 @@
       "messageNumber": 192,
       "original": "There are many smooth pebbles next to the lake.",
       "translation": "יש הרבה חלוקי נחל ליד האגם.",
-      "notes": "",
+      "notes": "4",
       "placeholders": []
     },
     {
@@ -5811,7 +5811,7 @@
       "messageNumber": 211,
       "original": "In the woods to the north, you can just see what looks like an old stone well.",
       "translation": "ביער מצפון, אתה יכול לראות משהו שנראה כמו באר אבן ישנה.",
-      "notes": "",
+      "notes": "5",
       "placeholders": []
     },
     {
@@ -5899,7 +5899,7 @@
       "messageNumber": 222,
       "original": "You're not close enough to see into the log.",
       "translation": "אינך קרוב מספיק כדי לראות אל תוך בול העץ.",
-      "notes": "",
+      "notes": "6",
       "placeholders": []
     },
     {
@@ -6603,7 +6603,7 @@
       "messageNumber": 310,
       "original": "The vines aren't strong enough to be of any use to you.",
       "translation": "הגפנים אינן חזקות מספיק כדי להיות שימושיות לך.",
-      "notes": "",
+      "notes": "12",
       "placeholders": []
     },
     {
@@ -7907,7 +7907,7 @@
       "messageNumber": 473,
       "original": "A large cave is at the edge of this meadow.",
       "translation": "מערה גדולה נמצאת בקצה האחו הזה.",
-      "notes": "",
+      "notes": "22",
       "placeholders": []
     },
     {
@@ -8027,7 +8027,7 @@
       "messageNumber": 488,
       "original": "You see a fragrant patch of clover growing in this lush meadow.",
       "translation": "אתה רואה ערוגת תלתן ריחנית הגדלה באחו השופע הזה.",
-      "notes": "",
+      "notes": "24",
       "placeholders": []
     },
     {
@@ -8603,7 +8603,7 @@
       "messageNumber": 560,
       "original": "Gnarled, ancient trees loom in this dark part of the forest.",
       "translation": "עצים עתיקים ומסוקסים מתנשאים בחלק חשוך זה של היער.",
-      "notes": "",
+      "notes": "30",
       "placeholders": []
     },
     {
@@ -9602,7 +9602,7 @@
       "logicFile": "single",
       "messageNumber": 685,
       "original": "GNOME: \"Here you are.  Good luck on your quest.\"",
-      "translation": "גמד: \"הנה אתה. בהצלחה במסעך.\"",
+      "translation": "גמד: \"בבקשה, קח לך. בהצלחה במסעך.\"",
       "notes": "",
       "placeholders": []
     },
@@ -10203,7 +10203,7 @@
       "messageNumber": 760,
       "original": "There is a mushroom in the meadow on the other side of the raging river.",
       "translation": "יש פטריה באחו בצד השני של הנהר הגועש.",
-      "notes": "",
+      "notes": "47",
       "placeholders": []
     },
     {
@@ -10451,7 +10451,7 @@
       "messageNumber": 791,
       "original": "You can't climb down the rope any farther.",
       "translation": "אינך יכול לרדת בחבל עמוק יותר.",
-      "notes": "",
+      "notes": "49",
       "placeholders": []
     },
     {
@@ -10618,7 +10618,7 @@
       "logicFile": "single",
       "messageNumber": 812,
       "original": "You're too busy drowning at the moment.",
-      "translation": "אתה עסוק מדי כרגע בטביעה.",
+      "translation": "אתה עסוק מדי בטביעה כרגע.",
       "notes": "",
       "placeholders": []
     },
@@ -11490,7 +11490,7 @@
       "logicFile": "single",
       "messageNumber": 921,
       "original": "Unable to defend itself with anything more than harmless clouds of steam, the dragon rolls aside the granite boulder and slinks off in shame, leaving the mirror behind.",
-      "translation": "בלתי מסוגל להגן על עצמו ביותר מענני אדים בלתי מזיקים, הדרקון מגלגל הצידה את סלע הגרניט ומתגנב בבושה, מותיר מאחור את המראה.",
+      "translation": "כשאינו יכול להתגונן אלא בעננות אדים לא מזיקות, הדרקון מגלגל הצידה את סלע הגרניט ומתגנב בבושה, ומשאיר את המראה מאחור.",
       "notes": "",
       "placeholders": []
     },
@@ -11778,7 +11778,7 @@
       "logicFile": "single",
       "messageNumber": 957,
       "original": "You can faintly hear a commotion in the King's Chamber to the west.",
-      "translation": "אתה יכול לשמוע בקושי מהומה בחדר המלך ממערב.",
+      "translation": "ככל שאתה מתקרב, אתה שומע קולות מהומה מכיוון חדר המלך במערב.",
       "notes": "",
       "placeholders": []
     },
@@ -11794,7 +11794,7 @@
       "logicFile": "single",
       "messageNumber": 959,
       "original": "DOCTOR:  \"Our King's melancholy is too much for his heart to bear.  Perhaps if Sir Graham had returned with the three lost treasures of Daventry ...\"",
-      "translation": "הרופא: \"המלנכוליה של מלכנו גדולה מדי כדי שלבו יוכל לשאת. אולי אם סר גרהם היה חוזר עם שלושת האוצרות האבודים של דבנטרי...\"",
+      "translation": "הרופא: \"עצבותו של המלך גדולה מדי כדי שלבו יוכל לשאת. אולי אם סר גרהם היה חוזר עם שלושת האוצרות האבודים של דבנטרי...\"",
       "notes": "",
       "placeholders": []
     },
@@ -11922,7 +11922,7 @@
       "logicFile": "single",
       "messageNumber": 975,
       "original": "\"GASP!\"",
-      "translation": "\"גאפ!\"",
+      "translation": "\"שקט!\"",
       "notes": "",
       "placeholders": []
     },
@@ -13154,7 +13154,7 @@
       "logicFile": "single",
       "messageNumber": 1129,
       "original": "There is no dwarf here.",
-      "translation": "אין כאן אלף.",
+      "translation": "אין כאן גמד.",
       "notes": "",
       "placeholders": []
     },
@@ -14802,7 +14802,7 @@
       "logicFile": "single",
       "messageNumber": 1335,
       "original": "WOODCUTTER:  \"We would welcome you to our home, Sir Knight, but we have had no food for so long, my beautiful wife cannot even rise from her bed.  I fear she may die soon.\"",
-      "translation": "חוטב עצים: \"נשמח לארח אותך בביתנו, אדון אביר, אבל לא היה לנו אוכל זמן כה רב, שאשתי היפה אינה יכולה אפילו לקום ממיטתה. אני חושש שהיא עלולה למות בקרוב.\"",
+      "translation": "חוטב עצים: \"נשמח לארח אותך בביתנו, אדון אביר, אבל זמן רב שאין לנו אוכל, כך שאשתי היפה אינה יכולה אפילו לקום ממיטתה. אני חושש שהיא עלולה למות בקרוב.\"",
       "notes": "",
       "placeholders": []
     },
@@ -14970,7 +14970,7 @@
       "logicFile": "single",
       "messageNumber": 1356,
       "original": "King Edward the Benevolent, aged ruler of Daventry, has summoned you to the castle for reasons unknown.",
-      "translation": "המלך אדוארד טוב הלב, השליט המזדקן של דבנטרי, זימן אותך לטירה מסיבות לא ידועות.",
+      "translation": "המלך אדוארד טוב הלב, השליט המזדקן של דבנטרי, זימן אותך לטירה מסיבות לא ברורות.",
       "notes": "",
       "placeholders": []
     },
@@ -15874,7 +15874,7 @@
       "logicFile": "single",
       "messageNumber": 1469,
       "original": "You plant the magical beans in the fertile soil.  Suddenly, something incredible begins to happen!",
-      "translation": "אתה שותל את אפונת הקסם באדמה הפורייה. לפתע, משהו מדהים מתחיל לקרות!",
+      "translation": "אתה שותל את אפונת הקסם באדמה הפורייה. לפתע, משהו מדהים מתרחש!",
       "notes": "",
       "placeholders": []
     },
@@ -16106,7 +16106,7 @@
       "logicFile": "single",
       "messageNumber": 1498,
       "original": "The woodcutter and his wife ignore your fiddling. Perhaps they preferred their own music?",
-      "translation": "חוטב העצים ואשתו מתעלמים מנגינתך בכינור. אולי העדיפו את המוזיקה שלהם?",
+      "translation": "חוטב העצים ואשתו מתעלמים מנגינתך בכינור. אולי הם העדיפו את המוזיקה שלהם?",
       "notes": "",
       "placeholders": []
     },
@@ -16469,7 +16469,7 @@
       "logicFile": "single",
       "messageNumber": 1543,
       "original": "There are craggy rocks scattered around the forest.\\nYou hate to think of what's underneath them.",
-      "translation": "יש סלעים מחוספסים הפזורים ביער.\\nאתה שונא לחשוב מה יש מתחתם.",
+      "translation": "יש סלעים מחוספסים פזורים ביער.\\nאתה שונא לחשוב מה יש מתחתם.",
       "notes": "",
       "placeholders": []
     },
@@ -16549,7 +16549,7 @@
       "logicFile": "single",
       "messageNumber": 1553,
       "original": "CASTLE GUARD:\\n\"Greetings, Sir Graham.\\nThe King is expecting you.\\nAllow me to escort you to His Majesty's throne room.\"",
-      "translation": "שומר הטירה:\\n\"ברכות, סר גרהם.\\nהמלך מצפה לך.\\nהרשה לי ללוות אותך לאולם הכס של הוד מלכותו.\"",
+      "translation": "שומרי הטירה:\\n\"ברכות, סר גרהם.\\nהמלך מצפה לך.\\nהרשה לי ללוות אותך לאולם הכס של הוד מלכותו.\"",
       "notes": "",
       "placeholders": []
     },
@@ -16687,7 +16687,7 @@
       "logicFile": "single",
       "messageNumber": 1568,
       "original": "Score: %d of %d%13s%s%1s",
-      "translation": "`ניקוד: %d מתוך %d%13s%s%1s",
+      "translation": "ניקוד: %d מתוך %d%13s%s%1s",
       "notes": "",
       "placeholders": [
         "%d",
