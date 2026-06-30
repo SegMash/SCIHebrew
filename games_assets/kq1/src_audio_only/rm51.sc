@@ -791,11 +791,11 @@
 			)
 			(5
 				(if (gEgo has: 16) ; Magic_Shield
-					(EgoDead
+					(EgoDeadNew
 						{Your shield melted from the intensity of the dragon's flames!__Looks like the dragon made an ash out of you.}
 					)
 				else
-					(EgoDead
+					(EgoDeadNew
 						{By venturing too close to the dragon's flame, you made an ash out of yourself.}
 					)
 				)

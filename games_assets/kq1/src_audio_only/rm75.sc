@@ -1015,7 +1015,7 @@
 				(= seconds 3)
 			)
 			(6
-				(EgoDead
+				(EgoDeadNew
 					{Rats!__This was one shady character you shouldn't have tangled with.}
 				)
 				(HandsOn)

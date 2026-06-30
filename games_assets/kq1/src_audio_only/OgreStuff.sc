@@ -156,7 +156,7 @@
 			(4
 				((ScriptID 0 23) fade:) ; backSound
 				(SciAudio stop:)
-				(EgoDead {You were warned ogre and ogre again...})
+				(EgoDeadNew {You were warned ogre and ogre again...})
 			)
 			(5
 				(gMenace setMotion: 0)

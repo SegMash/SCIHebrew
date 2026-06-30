@@ -233,7 +233,7 @@
 			)
 			(6
 				(HandsOn)
-				(EgoDead 610 5)
+				(EgoDeadNew 610 5)
 				(self dispose:)
 			)
 		)

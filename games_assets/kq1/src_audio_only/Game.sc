@@ -11,6 +11,10 @@
 (use User)
 (use System)
 
+(public
+	EgoDeadNew 28
+)
+
 (procedure (PromptForDiskChange saveDisk &tmp ret [saveDevice 40] [curDevice 40] [str 40])
 	(= ret 1)
 	(DeviceInfo diGET_DEVICE gCurSaveDir @saveDevice)
@@ -47,6 +51,84 @@
 	)
 	(return ret)
 )
+
+(procedure (EgoDeadNew)
+	(HandsOff)
+	(backSound fade:)
+	(gameSound fade:)
+	(SciAudio stop:)
+	(Wait 100)
+	(gSounds eachElementDo: #stop)
+	(switch (Random 0 2)
+		(0
+			(SciAudio play: {death.mp3} 0)
+		)
+		(1
+			(SciAudio play: {death2.mp3} 0)
+		)
+		(2
+			(SciAudio play: {death3.mp3} 0)
+		)
+	)
+		
+	;(backSound
+	;	number:
+	;		(switch (Random 0 2)
+	;			(0 49)
+	;			(1 28)
+	;			(2 3)
+	;		)
+	;	loop: 1
+	;	priority: 15
+	;	init:
+	;	play:
+	;)
+	(gGame setCursor: gNormalCursor 1)
+	(repeat
+		(switch
+			(Print
+				&rest
+				#width
+				250
+				#button
+				{Restore}
+				1
+				#button
+				{ Restart }
+				2
+				#button
+				{ Quit }
+				3
+			)
+			(1
+				(gGame restore:)
+			)
+			(2
+				(gGame restart:)
+			)
+			(3
+				(= gQuit 1)
+				(break)
+			)
+		)
+	)
+)
+
+(instance gameSound of Sound
+	(properties
+		number 1
+		priority 5
+	)
+)
+
+(instance backSound of Sound
+	(properties
+		number 1
+	)
+)
+
+
+
 
 (instance cast of EventHandler
 	(properties)

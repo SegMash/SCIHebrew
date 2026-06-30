@@ -701,7 +701,7 @@
 			)
 			(6
 				(HandsOn)
-				(EgoDead 58 33)
+				(EgoDeadNew 58 33)
 				(self dispose:)
 			)
 		)
@@ -745,6 +745,9 @@
 			)
 			(2
 				(getSound init: play: self)
+				(DoSound sndSET_SOUND 0)
+				(SciAudio stop:)
+				(SciAudio play: {mirror.mp3} 0)
 				(if (not (localproc_7))
 					(Print 58 34 #at -1 20 #width 280) ; "Slowly, carefully, you take the chest without waking the giant."
 				)
@@ -761,6 +764,9 @@
 					(giantHead setScript: snorer)
 				)
 				(proc0_1)
+				(if (not (GetMenu 1282 113))
+					(DoSound sndSET_SOUND 1)
+				)
 				(HandsOn)
 				(self dispose:)
 			)
@@ -849,7 +855,7 @@
 			)
 			(8
 				(if (== (gEgo view:) 141)
-					(EgoDead 58 36)
+					(EgoDeadNew 58 36)
 				)
 				(SetScore 86 3)
 				(UpdatePebbles)

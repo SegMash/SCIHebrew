@@ -26,6 +26,7 @@
 	(if (== local1 local2)
 		(condor dispose:)
 		((ScriptID 0 23) fade:) ; backSound
+		(SciAudio stop:)
 	)
 )
 
@@ -113,8 +114,8 @@
 				(!= global131 22)
 				(not (IsFlag 100))
 				(= local2 (Random 0 4))
-				(gEgo has: 14) ; Magic_Mirror
-				(gEgo has: 1) ; Chest
+				;(gEgo has: 14) ; Magic_Mirror
+				;(gEgo has: 1) ; Chest
 			)
 			(Load rsVIEW (if (IsFlag 0) 23 else 16))
 			(Load rsVIEW (if (IsFlag 0) 17 else 15))
@@ -262,7 +263,10 @@
 			(if (== local1 0)
 				(++ local1)
 				(++ local2)
-				((ScriptID 0 23) number: 10 loop: -1 play:) ; backSound
+				;((ScriptID 0 23) number: 10 loop: -1 play:) ; backSound
+				((ScriptID 0 23) stop:) ; backSound
+				(SciAudio stop:)
+				(SciAudio play: {condorComing.mp3} -1)
 			)
 			(self
 				setScript:

@@ -613,7 +613,7 @@
 				(= seconds 9)
 			)
 			(3
-				(EgoDead {Well, well, well!__Water you going to do now?})
+				(EgoDeadNew {Well, well, well!__Water you going to do now?})
 			)
 		)
 	)
@@ -811,11 +811,11 @@
 			)
 			(5
 				(if (not global136)
-					(EgoDead
+					(EgoDeadNew
 						{After swimming for a long time, your strength ebbs and your arms and legs grow weary.__As your life swims before your eyes, you decide to...}
 					)
 				else
-					(EgoDead
+					(EgoDeadNew
 						{You splash around for awhile, but unfortunately that won't keep your head above water.__As you go down for the third time, a sense of peace washes over you...}
 					)
 				)

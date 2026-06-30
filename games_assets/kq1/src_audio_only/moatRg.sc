@@ -221,7 +221,8 @@
 				(= cycles 30)
 			)
 			(8
-				;((ScriptID 0 21) number: 50 loop: 1 play: self) ; gameSound
+				((ScriptID 0 21) number: 50 loop: 1 play: self) ; gameSound
+				(DoSound sndSET_SOUND 0)
 				;((ScriptID 0 21) stop:) ; gameSound
 				(SciAudio play: {moat.mp3} 0)
 				(moatMonster
@@ -231,12 +232,14 @@
 					setCel: 0
 					setCycle: End
 				)
-				(= cycles 30)
 			)
 			(9
 				(moatMonster setCycle: Beg self)
 			)
 			(10
+				(if (not (GetMenu 1282 113))
+					(DoSound sndSET_SOUND 1)
+				)
 				(moatMonster dispose:)
 				(EgoDeadNew {The moat monsters appreciate your good taste.})
 				(HandsOn)
@@ -632,71 +635,3 @@
 	)
 )
 
-
-(procedure (EgoDeadNew)
-	(HandsOff)
-	(backSound fade:)
-	(gameSound fade:)
-	(Wait 100)
-	(gSounds eachElementDo: #stop)
-	(switch (Random 0 0)
-		(0
-			(SciAudio play: {death.mp3} 0)
-		)
-	)
-		
-	;(backSound
-	;	number:
-	;		(switch (Random 0 2)
-	;			(0 49)
-	;			(1 28)
-	;			(2 3)
-	;		)
-	;	loop: 1
-	;	priority: 15
-	;	init:
-	;	play:
-	;)
-	(gGame setCursor: gNormalCursor 1)
-	(repeat
-		(switch
-			(Print
-				&rest
-				#width
-				250
-				#button
-				{Restore}
-				1
-				#button
-				{ Restart }
-				2
-				#button
-				{ Quit }
-				3
-			)
-			(1
-				(gGame restore:)
-			)
-			(2
-				(gGame restart:)
-			)
-			(3
-				(= gQuit 1)
-				(break)
-			)
-		)
-	)
-)
-
-(instance gameSound of Sound
-	(properties
-		number 1
-		priority 5
-	)
-)
-
-(instance backSound of Sound
-	(properties
-		number 1
-	)
-)
