@@ -377,7 +377,9 @@
 		(switch (= state newState)
 			(0
 				(Print 13 15) ; "Without warning, a wolf darts out of the bushes and runs straight for you. Look out!  Don't let him catch you."
-				((ScriptID 0 23) number: 41 loop: -1 play:) ; backSound
+				;((ScriptID 0 23) number: 41 loop: -1 play:) ; backSound
+				(SciAudio stop:)
+				(SciAudio play: {orgeDwarfWolf.mp3} 0)
 				(gMenace
 					view: 125
 					setCycle: Walk

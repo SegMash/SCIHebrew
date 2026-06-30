@@ -32,6 +32,7 @@
 	local6
 	local7
 	local8
+	local9 = -1
 )
 
 (procedure (localproc_0)
@@ -214,6 +215,9 @@
 	)
 	
 	(method (dispose)
+		(if (!= local9 -1)
+			(DoSound sndVOLUME local9)
+		)
 		(SciAudio stop:)
 		(super dispose: &rest)
 	)
@@ -517,19 +521,30 @@
 		(switch (= state newState)
 			(0
 				(giantHead cel: 0 setCycle: CT 3 1)
-				((ScriptID 0 21) number: 76 loop: 1 play: self) ; gameSound
+				(if (== local9 -1)
+					(= local9 (DoSound sndVOLUME))
+				)
+				(DoSound sndVOLUME 0)
+				((ScriptID 0 21) number: 76 loop: 2 play: self) ; gameSound
+				(SciAudio stop:)
+				(SciAudio play: {snoringPart1.mp3} 0)
 			)
 			(1
+				(= seconds 1)
 				(= cycles 10)
 			)
 			(2
 				(giantHead setCycle: End)
-				((ScriptID 0 21) number: 77 play: self) ; gameSound
+				((ScriptID 0 21) number: 77 loop: 2 play: self) ; gameSound
+				(SciAudio play: {snoringPart2.mp3} 0)
 			)
 			(3
+				(= seconds 2)
 				(= cycles 30)
+				
 			)
 			(4
+				(DoSound sndVOLUME local9)
 				(self changeState: 0)
 			)
 		)
@@ -745,7 +760,10 @@
 			)
 			(2
 				(getSound init: play: self)
-				(DoSound sndSET_SOUND 0)
+				(if (== local9 -1)
+					(= local9 (DoSound sndVOLUME))
+				)
+				(DoSound sndVOLUME 0)
 				(SciAudio stop:)
 				(SciAudio play: {mirror.mp3} 0)
 				(if (not (localproc_7))
@@ -764,9 +782,7 @@
 					(giantHead setScript: snorer)
 				)
 				(proc0_1)
-				(if (not (GetMenu 1282 113))
-					(DoSound sndSET_SOUND 1)
-				)
+				(DoSound sndVOLUME local9)
 				(HandsOn)
 				(self dispose:)
 			)

@@ -798,7 +798,9 @@
 				(tongue setScript: 0 dispose:)
 				(ratGut dispose:)
 				(slobber setScript: 0 dispose:)
-				((ScriptID 0 21) number: 67 loop: 1 play:) ; gameSound
+				;((ScriptID 0 21) number: 67 loop: 1 play:) ; gameSound
+				(SciAudio stop:)
+				(SciAudio play: {ratPart2.mp3} 0)
 				(rat view: 106 setLoop: 0 cycleSpeed: 2 setCycle: End self)
 			)
 			(3

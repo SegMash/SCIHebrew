@@ -96,7 +96,7 @@
 				;((ScriptID 0 23) number: 35 loop: -1 play:) ; backSound
 				((ScriptID 0 23) stop:) ; backSound
 				(SciAudio stop:)
-				(SciAudio play: {orgeDwarfWolf.mp3} -1)
+				(SciAudio play: {orge.mp3} -1)
 				(gMenace
 					view: 130
 					setAvoider: Avoid

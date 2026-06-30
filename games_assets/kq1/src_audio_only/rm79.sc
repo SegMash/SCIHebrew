@@ -21,6 +21,7 @@
 	local0
 	local1
 	local2
+	local9 = -1
 )
 
 (procedure (localproc_0)
@@ -33,6 +34,9 @@
 	)
 
 	(method (dispose)
+		(if (!= local9 -1)
+			(DoSound sndVOLUME local9)
+		)
 		(SciAudio stop:)
 		(SetFlag 8)
 		(super dispose: &rest)
@@ -715,8 +719,13 @@
 			(0
 				(HandsOff)
 				((ScriptID 0 23) stop:) ; backSound
-				(SciAudio stop:)
+				(if (== local9 -1)
+					(= local9 (DoSound sndVOLUME))
+				)
+				(DoSound sndVOLUME 0)
 				((ScriptID 0 21) number: 32 init: play:) ; gameSound
+				(SciAudio stop:)
+				(SciAudio play: {woodcutterGiveBowl.mp3} 0)
 				(gEgo
 					illegalBits: 0
 					ignoreActors:
@@ -769,6 +778,7 @@
 			(8
 				(body loop: 4 setPri: 8 setCycle: Fwd)
 				(HandsOn)
+				(DoSound sndVOLUME local9)
 				(SetFlag 113)
 				(self dispose:)
 			)
