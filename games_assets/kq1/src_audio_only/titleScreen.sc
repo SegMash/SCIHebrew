@@ -72,6 +72,7 @@
 			(FOR init:)
 			(CROWN init:)
 			(copyright init:)
+			(nissim init:)
 			(self setScript: showTitle)
 		)
 	)
@@ -122,6 +123,7 @@
 				(FOR dispose:)
 				(CROWN dispose:)
 				(copyright dispose:)
+				(nissim init:)
 				(= cycles 1)
 			)
 			(2
@@ -179,6 +181,15 @@
 		y 181
 		view 913
 		loop 1
+	)
+)
+
+(instance nissim of View
+	(properties
+		x 152
+		y 10
+		view 913
+		loop 2
 	)
 )
 

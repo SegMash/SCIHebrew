@@ -1,0 +1,66 @@
+WHAT IS QUEST FOR GLORY?
+
+Quest for Glonry combines the character development and combat that are typical of fantasy role-playing games with the basic adventure game concept of exploring a world and solving its puzzles. "So You Want To Be A Hero..." is the first Quest for Glory scenario.
+
+
+The essence of role-playing is that you must try to think as your character would, w'hen faced with a dilemma. In Quest for Glory I, you can choose from three basic character types — the strong fighter, the mysterious magician, or the wily thief. Each has the same goal; to be named Hero of Spielburg. Each character will, however, set about accomplishing that goal in a different way. The magician may use spells to overcome some obstacles, but might not survive a pitched battle with a monster. The thief must find a crafty way around a problem that the fighter or magic user would approach directly.
+
+Experience can be a tremendous asset to you as a hero. Your attributes will improve as you play the game. Tasks that are beyond your ability early on may become less difficult as your skills improve.
+
+Conversation is one very important part of Quest for Glory. You will meet many strange people and creatures in the Valley. To learn about the valley and your quest, it will be necessary to speak with everyone you meet. Like your character, the beings you meet will have distinct personalities, and their skill and knowledge may lie in different areas. You'll want to find out all you can.
+
+Every hero must deal with his share of foul and ferocious monsters. If you want to he a hero, you’ll have to fight or avoid them, as they don't tend to favor discussion. Each battle you fight will provide you with valuable experience, and many victories will yield treasure that you will need to buy food and equipment.
+
+A hero's life isn’t always serious, though. Between desperate encounters with terrible monsters and life and death decisions lie many light-hearted, humorous, and downright silly moments, Spielburg is a strange place with a multi-faceted personality, as you will soon see.
+
+CREATING A CHARACTER
+
+Before beginning your adventure, you’ll choose from three basic character types; The Fighter, The Magic User, or The Thief. Your selection will determine much about the sorts of obstacles you will encounter, and the means by which you will overcome them. Using your mouse, joystick, or [ Arrow ] keys, place the cursor on the title plate of the character you wish to play, then click on the title plate (press the left mouse button, press the fire button, or press [ENTER]).
+
+Each type of character comes with its own set of skills and abilities, some specific to the character type, some common to all three. Every type has pre-assigned point values for appropriate abilities. In addition, you will begin the game with a 50 point "pool" to assign to the areas in which you wish your character to be the strongest.
+
+At the top of the Skill Points screen is an area for you to type in your hero's name. Name him anything you like. If you change your mind after you have chosen a character's name, you may use the [ Backspace ] key to erase the character's name. Replace it by typing in any name you like.
+
+THE FIGHTER
+
+The Fighter depends upon his skill with weapons, his strength, and his vitality to survive the rigors of life as a hero. His weapon is his sword, and his best defense is his shield. We recommend that you play a Fighter during your first Quest for Glory' adventure.
+
+THE MAGIC USER
+
+The Magic User must rely upon his intelligence and the successful casting of magic spells, He can best protect himself by avoiding close combat.
+
+THETHIEF
+
+The Thief counts on his skills, stealth, and agility. His weapon of choice is the dagger, and he prefers to throw it from a distance. He can best defend himself in combat by dodging.
+
+ASSIGNING SKILL POINTS
+To highlight a skill, use the mouse cursor, the up and down [ Arrow ] keys, the [ TAB ] key, or move the joystick up and down. To assign points to a skill, press the right mouse button, the right [ Arrow ] key, or move the joystick to the right. Each time the right mouse button or right [Arrow ] key is pressed or the joystick is moved to the right, 5 points will be assigned to the highlighted skill. Press the left mouse button, left [Arrow] key, or move the joystick to the left to subtract 5 points from a skill. (You may not delete skill points below the original value of any given skill.)
+
+To attiiin a skill not normally available to your character type (such as lock-picking for a fighter), choose the desired skill from the skill menu and assign points using the procedure described above. The minimum skill level of 5 will require 15 points from the 'Points Available' pool. In other words, it will cost you an extra 10 points to learn the skill.
+
+Points for Health. Stamina, or Magic cannot be changed by you directly. The values for the attributes will change automatically as you gain experience, suffer damage and modify certain skills.
+
+ABlLITIES:
+	STRENGTH is important in performing physical activities, espcdaliy combat. The Fighter must be strong to be effective.
+
+	INTELLIGENCE will enable the Magic User to syccesshilly learn and cast spells, and will benefli all characters when engaged in mental activities, such as out-thinking opponents in combat.
+
+	AGILITY is important during combat, and vital to lock-picking and stealth. The Thief cannot prosper without agility.
+
+	VITALITY determines how much damage a character can sustain, and how quickly he will recover from damage iind strenuous physical activity. High vitality is particularly useful to the Fighter.
+
+	LUCK can aid you in many subtle and mysterious ways, and is especially important to the Thief.
+
+	MAG1C is the basic skill required to learn and cast magic spells.
+
+SKILLS:
+	WEAPON USE determines the characterts ability to land a successful blow in combat.
+	
+	PARRY is the ability to block an opponent's blow using a weapon or shield.
+	
+	DODGE is a skill used to avoid a blow by ducking or sidestepping it.
+	
+	STEALTH is the art of moving quickly and discreetly; taking advantage of shadows and other camouflage when sneaking around.
+	
+	PICK LOCKS is die skill that allow^s a character to iriiimph over locked doors, chests, etc, A lock-pick or Thiefs tool kit is necessary^ to use this skill.
+	

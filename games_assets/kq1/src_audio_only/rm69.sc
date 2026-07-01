@@ -131,7 +131,7 @@
 			)
 			(
 				(and
-					;(IsFlag 30)
+					(IsFlag 30)
 					(not (IsFlag 28))
 					(== (gEgo onControl: 1) 1024)
 					(not (IsFlag 1))
@@ -142,7 +142,7 @@
 			)
 			(
 				(and
-					;(IsFlag 30)
+					(IsFlag 30)
 					(not (IsFlag 28))
 					(== (gEgo onControl: 1) 1024)
 					(not (IsFlag 1))
@@ -358,7 +358,7 @@
 				(dwarf setCycle: End self)
 			)
 			(5
-				((ScriptID 0 21) fade:) ; gameSound
+				((ScriptID 0 21) stop:) ; gameSound
 				(SetFlag 28)
 				(dwarf dispose:)
 				(DoSound sndVOLUME local9)
