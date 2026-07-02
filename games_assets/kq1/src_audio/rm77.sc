@@ -259,7 +259,10 @@
 					)
 					(else
 						(Print 77 28) ; "You take the magic shield. Congratulations!"
-						((ScriptID 0 21) number: 66 play:) ; gameSound
+						;((ScriptID 0 21) number: 66 play:) ; gameSound
+						((ScriptID 0 21) stop:) ; gameSound
+						(SciAudio stop:)
+						(SciAudio play: {mirror.mp3} 0)
 						(gEgo loop: 3 setMotion: 0 get: 16) ; Magic_Shield
 						(SetScore 71 8)
 						(shield dispose:)
@@ -404,7 +407,7 @@
 				(king setMotion: MoveTo -10 173 self)
 			)
 			(9
-				(SciAudio stop:)
+				;(SciAudio stop:)
 				(king dispose:)
 				(self dispose:)
 			)

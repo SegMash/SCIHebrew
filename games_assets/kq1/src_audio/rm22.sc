@@ -20,12 +20,16 @@
 	local0
 	local1
 	local2
+	local9 = -1
 )
 
 (procedure (localproc_0)
 	(if (== local1 local2)
 		(condor dispose:)
-		((ScriptID 0 23) fade:) ; backSound
+		;((ScriptID 0 23) fade:) ; backSound
+		((ScriptID 0 23) stop:) ; backSound
+		(DoSound sndVOLUME local9)
+		(SciAudio stop:)
 	)
 )
 
@@ -40,6 +44,9 @@
 	)
 	
 	(method (dispose)
+		(if (!= local9 -1)
+			(DoSound sndVOLUME local9)
+		)
 		(if (!= gNewRoomNum 80)
 			(SciAudio stop:)
 		)
@@ -149,6 +156,7 @@
 			)
 			((== (gEgo onControl: 1) 2)
 				(FadeBackSound)
+				(SciAudio stop:)
 				(self newRoom: 50)
 			)
 			(
@@ -161,6 +169,7 @@
 					)
 				)
 				(FadeBackSound)
+				(SciAudio stop:)
 				(self newRoom: temp0)
 			)
 		)
@@ -262,7 +271,14 @@
 			(if (== local1 0)
 				(++ local1)
 				(++ local2)
+				
+				(if (== local9 -1)
+					(= local9 (DoSound sndVOLUME))
+				)
+				(DoSound sndVOLUME 0)
 				((ScriptID 0 23) number: 10 loop: -1 play:) ; backSound
+				(SciAudio stop:)
+				(SciAudio play: {condorComing.mp3} -1)
 			)
 			(self
 				setScript:

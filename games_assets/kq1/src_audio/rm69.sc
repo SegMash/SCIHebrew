@@ -21,6 +21,7 @@
 	local1
 	local2
 	local3
+	local9 = -1
 )
 
 (procedure (localproc_0 param1 param2)
@@ -86,7 +87,7 @@
 		(SetFlag 0)
 		(gEgo init:)
 		((ScriptID 0 23) stop:) ; backSound
-		((ScriptID 0 23) number: 31) ; backSound
+		;((ScriptID 0 23) number: 31) ; backSound
 		(SciAudio play: {cave.mp3} -1)
 		(proc0_1)
 		(if (not (IsFlag 28))
@@ -304,8 +305,14 @@
 	(method (changeState newState)
 		(switch (= state newState)
 			(0
+				(if (== local9 -1)
+					(= local9 (DoSound sndVOLUME))
+				)
+				(DoSound sndVOLUME 0)
 				(HandsOff)
 				((ScriptID 0 21) number: 93 loop: 1 init: play:) ; gameSound
+				(SciAudio stop:)
+				(SciAudio play: {dwarf.mp3} 0)
 				(Print 69 3) ; "Suddenly, a small dwarf runs out of the shadows and approaches you."
 				(dwarf show:)
 				(if (= local1 (< (gEgo y:) 95))
@@ -351,10 +358,15 @@
 				(dwarf setCycle: End self)
 			)
 			(5
-				((ScriptID 0 21) fade:) ; gameSound
+				((ScriptID 0 21) stop:) ; gameSound
 				(SetFlag 28)
 				(dwarf dispose:)
+				(DoSound sndVOLUME local9)
 				(HandsOn)
+				((ScriptID 0 21) stop:)
+				((ScriptID 0 23) stop:)
+				(SciAudio stop:)
+				(SciAudio play: {cave.mp3} -1)
 				(self dispose:)
 			)
 		)

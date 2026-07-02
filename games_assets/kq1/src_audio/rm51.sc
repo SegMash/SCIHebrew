@@ -791,11 +791,11 @@
 			)
 			(5
 				(if (gEgo has: 16) ; Magic_Shield
-					(EgoDead
+					(EgoDeadNew
 						{המגן שלך נמס מעוצמת להבות הדרקון! נראה שהדרקון עשה ממך אפר.}
 					)
 				else
-					(EgoDead
+					(EgoDeadNew
 						{כשהתקרבת מדי ללהבת הדרקון, עשית מעצמך אפר.}
 					)
 				)

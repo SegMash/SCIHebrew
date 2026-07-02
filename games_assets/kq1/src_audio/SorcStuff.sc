@@ -14,6 +14,10 @@
 	SorcStuff 0
 )
 
+(local
+	local9 = -1
+)
+
 (instance SorcStuff of Script
 	(properties)
 
@@ -23,6 +27,9 @@
 	)
 	
 	(method (dispose)
+		(if (!= local9 -1)
+			(DoSound sndVOLUME local9)
+		)
 		(SciAudio stop:)
 		(super dispose: &rest)
 	)
@@ -124,7 +131,15 @@
 			)
 			(4
 				(Print 800 5) ; "The sorcerer casts his Paralysis Spell, freezing you to the spot. Satisfied with his deviltry, he departs, leaving you at the mercy of the forest creatures. Let's hope there are no dangerous creatures skulking about until the spell wears off."
+				(SciAudio stop:)
+				(SciAudio play: {fairyShort.mp3} -1)
+				
+				(if (== local9 -1)
+					(= local9 (DoSound sndVOLUME))
+				)
+				(DoSound sndVOLUME 0)
 				((ScriptID 0 21) number: 90 loop: -1 play:) ; gameSound
+				
 				(gMenace view: 102 cel: 11 setCycle: Beg)
 				(gEgo loop: 1 cel: 0 cycleSpeed: 2 setCycle: End)
 				(if (IsFlag 1)
@@ -142,7 +157,6 @@
 			)
 			(5
 				((ScriptID 0 23) stop:) ; backSound
-				(SciAudio stop:)
 				(gEgo loop: 2 cel: 0 cycleSpeed: 40 setCycle: End self)
 				(gMenace setCycle: 0 hide:)
 			)
@@ -153,8 +167,10 @@
 				(= cycles 5)
 			)
 			(7
+				(SciAudio stop:)
 				(Print 800 7) ; "The Paralysis Spell has worn off. You're free to move about again, but beware of the Sorcerer's return."
 				(HandsOn)
+				(DoSound sndVOLUME local9)
 				(self dispose:)
 			)
 		)

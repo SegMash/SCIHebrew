@@ -32,6 +32,7 @@
 	local6
 	local7
 	local8
+	local9 = -1
 )
 
 (procedure (localproc_0)
@@ -214,6 +215,9 @@
 	)
 	
 	(method (dispose)
+		(if (!= local9 -1)
+			(DoSound sndVOLUME local9)
+		)
 		(SciAudio stop:)
 		(super dispose: &rest)
 	)
@@ -517,19 +521,30 @@
 		(switch (= state newState)
 			(0
 				(giantHead cel: 0 setCycle: CT 3 1)
-				((ScriptID 0 21) number: 76 loop: 1 play: self) ; gameSound
+				(if (== local9 -1)
+					(= local9 (DoSound sndVOLUME))
+				)
+				(DoSound sndVOLUME 0)
+				((ScriptID 0 21) number: 76 loop: 2 play: self) ; gameSound
+				(SciAudio stop:)
+				(SciAudio play: {snoringPart1.mp3} 0)
 			)
 			(1
+				(= seconds 1)
 				(= cycles 10)
 			)
 			(2
 				(giantHead setCycle: End)
-				((ScriptID 0 21) number: 77 play: self) ; gameSound
+				((ScriptID 0 21) number: 77 loop: 2 play: self) ; gameSound
+				(SciAudio play: {snoringPart2.mp3} 0)
 			)
 			(3
+				(= seconds 2)
 				(= cycles 30)
+				
 			)
 			(4
+				(DoSound sndVOLUME local9)
 				(self changeState: 0)
 			)
 		)
@@ -701,7 +716,7 @@
 			)
 			(6
 				(HandsOn)
-				(EgoDead 58 33)
+				(EgoDeadNew 58 33)
 				(self dispose:)
 			)
 		)
@@ -745,6 +760,12 @@
 			)
 			(2
 				(getSound init: play: self)
+				(if (== local9 -1)
+					(= local9 (DoSound sndVOLUME))
+				)
+				(DoSound sndVOLUME 0)
+				(SciAudio stop:)
+				(SciAudio play: {mirror.mp3} 0)
 				(if (not (localproc_7))
 					(Print 58 34 #at -1 20 #width 280) ; "Slowly, carefully, you take the chest without waking the giant."
 				)
@@ -761,6 +782,7 @@
 					(giantHead setScript: snorer)
 				)
 				(proc0_1)
+				(DoSound sndVOLUME local9)
 				(HandsOn)
 				(self dispose:)
 			)
@@ -849,7 +871,7 @@
 			)
 			(8
 				(if (== (gEgo view:) 141)
-					(EgoDead 58 36)
+					(EgoDeadNew 58 36)
 				)
 				(SetScore 86 3)
 				(UpdatePebbles)

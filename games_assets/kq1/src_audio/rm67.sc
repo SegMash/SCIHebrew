@@ -39,7 +39,7 @@
 		)
 		(super init:)
 		((ScriptID 0 23) stop:) ; backSound
-		((ScriptID 0 23) number: 31) ; backSound
+		;((ScriptID 0 23) number: 31) ; backSound
 		(SciAudio play: {cave.mp3} -1)
 		(switch gPrevRoomNum
 			(west

@@ -192,7 +192,9 @@
 		(switch (= state newState)
 			(0
 				(User canControl: 0)
-				((ScriptID 0 21) number: 47 loop: 1 play:) ; gameSound
+				;((ScriptID 0 21) number: 47 loop: 1 play:) ; gameSound
+				(SciAudio stop:)
+				(SciAudio play: {leprechauns47.mp3} 0)
 				(if (IsFlag 1)
 					(Print 76 0) ; "The leprechauns' magical powers detect your unseen presence."
 				)
@@ -242,7 +244,7 @@
 					(gCurRoom setScript: poofGuards)
 				else
 					((ScriptID 0 21) stop:) ; gameSound
-					(EgoDead 76 18)
+					(EgoDeadNew 76 18)
 				)
 			)
 		)
@@ -280,21 +282,26 @@
 		(switch (= state newState)
 			(0
 				(HandsOff)
-				;((ScriptID 0 21) number: 42 loop: 1 play: self) ; gameSound
-				((ScriptID 0 21) stop:) ; gameSound
 				(SciAudio stop:)
+				((ScriptID 0 21) number: 42 loop: 1 play: self) ; gameSound
+				(DoSound sndSET_SOUND 0)
 				(SciAudio play: {leprechauns42.mp3} 0)
+				;((ScriptID 0 21) stop:) ; gameSound
 				(gEgo view: 55 cycleSpeed: 1 setCycle: Fwd)
 				(g1 setMotion: 0)
 				(g2 setMotion: 0)
+				(gEgo view: 55 cycleSpeed: 1 setCycle: Fwd)
 				(= seconds 3)
 			)
 			(1
 				(g1 loop: 3 setCycle: Fwd)
 				(g2 loop: 4 setCycle: Fwd)
-				(= seconds 5)
+				(= seconds 3)
 			)
 			(2
+				(DoSound sndSET_SOUND 0)
+				(SciAudio stop:)
+				(SciAudio play: {leprechauns42.mp3} 0)
 				(Print 76 20) ; "Wonderful job! Leprechauns find fiddle music irresistible. The moment they hear the music, they begin dancing a frenzied jig."
 				(= seconds 4)
 			)
@@ -304,10 +311,12 @@
 			)
 			(4
 				(gEgo setCycle: Fwd)
-				(= seconds 2)
 			)
 			(5
-				(SciAudio stop:)
+				((ScriptID 0 21) stop:);
+				(if (not (GetMenu 1282 113))
+					(DoSound sndSET_SOUND 1)
+				)
 				(proc0_1)
 				(gEgo loop: 2)
 				(HandsOn)
