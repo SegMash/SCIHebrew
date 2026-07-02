@@ -88,7 +88,7 @@
 		(gEgo init:)
 		((ScriptID 0 23) stop:) ; backSound
 		;((ScriptID 0 23) number: 31) ; backSound
-		(SciAudio play: {cave.mp3} -1)
+		;(SciAudio play: {cave.mp3} -1)
 		(proc0_1)
 		(if (not (IsFlag 28))
 			(if (not (IsFlag 31))
@@ -191,7 +191,7 @@
 			)
 		)
 	)
-
+	
 	(method (handleEvent event)
 		(cond
 			((event claimed:)

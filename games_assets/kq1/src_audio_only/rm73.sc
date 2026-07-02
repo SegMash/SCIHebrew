@@ -35,8 +35,8 @@
 		(LoadMany rsVIEW 18 274)
 		(super init:)
 		((ScriptID 0 23) stop:) ; backSound
-		((ScriptID 0 23) number: 31) ; backSound
-		(SciAudio play: {cave.mp3} -1)
+		;((ScriptID 0 23) number: 31) ; backSound
+		;(SciAudio play: {cave.mp3} -1)
 		(proc0_1)
 		(switch gPrevRoomNum
 			(south

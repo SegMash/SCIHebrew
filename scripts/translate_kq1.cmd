@@ -12,6 +12,7 @@ REM python.exe .\scripts\scripts\replace_strings.py .\kq1_new\src .\kq1_new\src_
 
 makensis.exe .\kq1_hebrew_patch.nsi
 makensis.exe .\kq1_orchestral_score_patch.nsi
+powershell Compress-Archive -Path "games_assets\kq1\bin_audio_only\*" -DestinationPath "kq1SciAudioByNissimKhalifa.zip" -Force
 REM powershell -Command "(Get-FileHash -Algorithm MD5 'games_assets\kq1\bin\font.000').Hash.ToLower()"
 
 REM open issues:
