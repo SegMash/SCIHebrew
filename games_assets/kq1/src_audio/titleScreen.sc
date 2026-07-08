@@ -9,7 +9,6 @@
 (use Menu)
 (use Actor)
 (use System)
-(use SciAudio)
 
 (public
 	titleScreen 0

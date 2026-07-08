@@ -606,36 +606,68 @@ def save_frame_raw(frame: RBTFrame, output_dir: str):
             f.write(cel.pixels)
 
 
-def save_audio_wav(frames, output_path: str):
-    """
-    Decode audio frames and save as 11025 Hz mono 16-bit WAV.
+# ─────────────────────────────────────────────────────────────────────────────
+# Robot audio reconstruction
+# ─────────────────────────────────────────────────────────────────────────────
 
-    In Robot files every frame's audio_position satisfies audio_position % 4 == 0
-    (even channel).  Frames with audio_position % 4 == 2 have overlapping content
-    and are skipped to avoid duplicating samples and playing audio at half speed.
+ROBOT_SAMPLE_RATE = 22050
 
-    Each packet starts with an 8-byte DPCM runway decoded from carry=0 to restore
-    the accumulator to the correct level before the body samples.
+
+def build_robot_pcm_22050(frames, frame_rate: int) -> bytes:
     """
-    import wave
-    samples = bytearray()
+    Reconstruct 22050 Hz mono PCM from Robot per-frame audio packets.
+
+    Each frame stores DPCM-compressed audio for one EOS sub-channel (even or
+    odd).  The non-overlapping tail of each decoded block is placed on a shared
+    11025 Hz timeline, then upsampled to 22050 Hz with linear interpolation
+    (matching ScummVM's EOS gap-fill behaviour).
+    """
+    if frame_rate <= 0:
+        frame_rate = 15
+    effective = (ROBOT_SAMPLE_RATE // frame_rate) // 2
+
+    timeline: dict[int, int] = {}
+    max_idx = 0
     for fr in frames:
         raw = fr.audio_raw
         if not raw or len(raw) <= 8:
             continue
-        if fr.audio_position % 4 == 2:   # skip overlapping odd-indexed frames
-            continue
-        _, carry = deDPCM16_carry(raw[:8], 0)   # runway → establish carry
-        pcm, _  = deDPCM16_carry(raw[8:], carry)  # body → real audio
-        samples += pcm
+        _, carry = deDPCM16_carry(raw[:8], 0)
+        pcm, _ = deDPCM16_carry(raw[8:], carry)
+        samples = list(struct.unpack(f'<{len(pcm) // 2}h', pcm))
+        chunk = samples[-effective:] if len(samples) >= effective else samples
+        base = fr.frame_no * effective
+        for i, s in enumerate(chunk):
+            timeline[base + i] = s
+        max_idx = max(max_idx, base + len(chunk))
+
+    if max_idx == 0:
+        return b''
+
+    mono = [timeline.get(i, 0) for i in range(max_idx)]
+
+    # 11025 Hz → 22050 Hz: insert an interpolated sample after each original.
+    out: list[int] = []
+    for i, s in enumerate(mono):
+        out.append(s)
+        out.append((s + mono[i + 1]) >> 1 if i + 1 < len(mono) else s)
+
+    return struct.pack(f'<{len(out)}h', *out)
+
+
+def save_audio_wav(frames, output_path: str, frame_rate: int = 15):
+    """Decode Robot audio and save as 22050 Hz mono 16-bit WAV."""
+    import wave
+    samples = build_robot_pcm_22050(frames, frame_rate)
 
     with wave.open(output_path, 'wb') as wf:
         wf.setnchannels(1)
         wf.setsampwidth(2)
-        wf.setframerate(11025)
-        wf.writeframes(bytes(samples))
+        wf.setframerate(ROBOT_SAMPLE_RATE)
+        wf.writeframes(samples)
     n = len(samples) // 2
-    print(f"  Audio saved: {output_path}  ({n} samples @ 11025 Hz, {n/11025:.1f} s)")
+    print(f"  Audio saved: {output_path}  "
+          f"({n} samples @ {ROBOT_SAMPLE_RATE} Hz, {n/ROBOT_SAMPLE_RATE:.1f} s)")
 
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -684,32 +716,36 @@ def main():
         if len(active) > 20:
             print(f"    ... ({len(active) - 20} more not shown)")
 
-    if args.no_video:
+    if args.no_video and not args.audio:
         return
 
     os.makedirs(args.output_dir, exist_ok=True)
 
-    # Canvas size: prefer file's declared resolution, fall back to 640×480
-    cw = args.canvas_width  or (hdr.x_res if hdr.x_res > 0 else 640)
-    ch = args.canvas_height or (hdr.y_res if hdr.y_res > 0 else 480)
+    if not args.no_video:
+        # Canvas size: prefer file's declared resolution, fall back to 640×480
+        cw = args.canvas_width  or (hdr.x_res if hdr.x_res > 0 else 640)
+        ch = args.canvas_height or (hdr.y_res if hdr.y_res > 0 else 480)
 
-    frame_set = parse_frame_spec(args.frames, hdr.num_frames)
+        frame_set = parse_frame_spec(args.frames, hdr.num_frames)
 
-    print(f"\nExtracting frames to '{args.output_dir}/' ...")
-    extracted = 0
-    for frame in frames:
-        if frame_set is not None and frame.frame_no not in frame_set:
-            continue
-        save_frame_png(frame, palette, args.output_dir, cw, ch)
-        extracted += 1
-        if extracted % 100 == 0:
-            print(f"  {extracted} / {hdr.num_frames} frames written ...")
+        print(f"\nExtracting frames to '{args.output_dir}/' ...")
+        extracted = 0
+        for frame in frames:
+            if frame_set is not None and frame.frame_no not in frame_set:
+                continue
+            save_frame_png(frame, palette, args.output_dir, cw, ch)
+            extracted += 1
+            if extracted % 100 == 0:
+                print(f"  {extracted} / {hdr.num_frames} frames written ...")
 
-    print(f"  Done. {extracted} frame(s) extracted.")
+        print(f"  Done. {extracted} frame(s) extracted.")
 
     if args.audio:
-        wav_path = os.path.join(args.output_dir, 'audio.wav')
-        save_audio_wav(frames, wav_path)
+        if not hdr.has_audio:
+            print("  WARNING: file has no audio track; skipping audio.wav")
+        else:
+            wav_path = os.path.join(args.output_dir, 'audio.wav')
+            save_audio_wav(frames, wav_path, hdr.frame_rate)
 
 
 if __name__ == '__main__':

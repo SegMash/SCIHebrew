@@ -541,9 +541,11 @@
 			(3
 				(= seconds 2)
 				(= cycles 30)
+				(giantHead setCycle: End)
 				
 			)
 			(4
+				(giantHead setCycle: End)
 				(DoSound sndVOLUME local9)
 				(self changeState: 0)
 			)
@@ -779,8 +781,9 @@
 				(if (localproc_7)
 					(Print 58 35 #at -1 20 #width 280) ; "It's easy to take a magic chest from a dead giant."
 				else
-					(giantHead setScript: snorer)
+					;(giantHead setScript: snorer)
 				)
+				(giantHead setCycle: End)
 				(proc0_1)
 				(DoSound sndVOLUME local9)
 				(HandsOn)

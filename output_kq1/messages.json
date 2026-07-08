@@ -3098,7 +3098,7 @@
       "logicFile": "built-in",
       "messageNumber": 386,
       "original": "By venturing too close to the dragon's flame, you made an ash out of yourself.",
-      "translation": "כשהתקרבת מדי ללהבת הדרקון, עשית מעצמך אפר.",
+      "translation": "התקרבת יותר מדי לאש הדרקון, אתה שרוף אצלו עכשיו.",
       "notes": "",
       "placeholders": []
     },
@@ -11810,7 +11810,7 @@
       "logicFile": "single",
       "messageNumber": 961,
       "original": "KING:  \"Did ... did you succeed in your quest?\"",
-      "translation": "מלך: \"האם...האם הצלחת במשימתך?\"",
+      "translation": "המלך: \"האם...האם הצלחת במשימתך?\"",
       "notes": "",
       "placeholders": []
     },
@@ -11858,7 +11858,7 @@
       "logicFile": "single",
       "messageNumber": 967,
       "original": "KING:  \"I...I am afraid it is a little too late for me.  But you have done superbly, my Knight.  As I promised, the kingdom is yours.\"",
-      "translation": "מלך: \"אני...אני חושש שזה קצת מאוחר מדי עבורי. אבל עשית עבודה נפלאה, אבירי. כפי שהבטחתי, הממלכה היא שלך.\"",
+      "translation": "המלך: \"אני...אני חושש שזה קצת מאוחר מדי עבורי. אבל עשית עבודה נפלאה, אבירי. כפי שהבטחתי, הממלכה היא שלך.\"",
       "notes": "",
       "placeholders": []
     },
@@ -11866,7 +11866,7 @@
       "logicFile": "single",
       "messageNumber": 968,
       "original": "KING:  \"I know you will serve her well.\"",
-      "translation": "מלך: \"אני יודע שתשרת אותה היטב.\"",
+      "translation": "המלך: \"אני יודע שתשרת אותה היטב.\"",
       "notes": "",
       "placeholders": []
     },
@@ -12210,7 +12210,7 @@
       "logicFile": "single",
       "messageNumber": 1011,
       "original": "The giant did a smashing job of defeating you.",
-      "translation": "הענק עשה עבודה מצוינת בכך שניצח אותך.",
+      "translation": "הענק ניצח אותך ניצחון מוחץ.",
       "notes": "",
       "placeholders": []
     },
@@ -14058,7 +14058,7 @@
       "logicFile": "single",
       "messageNumber": 1242,
       "original": "Wonderful job!  Leprechauns find fiddle music irresistible.  The moment they hear the music, they begin dancing a frenzied jig.",
-      "translation": "עבודה נפלאה! הליפרקונים מוצאים מוזיקת כינור בלתי ניתנת לעמוד בפניה. ברגע שהם שומעים את המוזיקה, הם פוצחים בריקוד מטורף.",
+      "translation": "עבודה נפלאה! הליפרקונים נכנעים למשמע נגינת הכינור. ברגע שהם שומעים את המנגינה, הם פוצחים בריקוד מטורף.",
       "notes": "",
       "placeholders": []
     },
@@ -14066,7 +14066,7 @@
       "logicFile": "single",
       "messageNumber": 1243,
       "original": "Finally, swept away by the snappy music, the Leprechaun guards poof right out of the room.",
-      "translation": "לבסוף, נסחפים על ידי המוזיקה הקצבית, שומרי הליפרקונים נעלמים מהחדר.",
+      "translation": "לבסוף, שומרי הליפרקונים נסחפים על ידי המנגינה הקצבית ונעלמים מהחדר.",
       "notes": "",
       "placeholders": []
     },

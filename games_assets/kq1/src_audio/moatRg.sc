@@ -10,7 +10,6 @@
 (use Game)
 (use Actor)
 (use System)
-(use SciAudio)
 
 (public
 	moatRg 0
@@ -241,7 +240,7 @@
 					(DoSound sndSET_SOUND 1)
 				)
 				(moatMonster dispose:)
-				(EgoDeadNew {מפלצות החפיר מעריכות את טעמך הטוב.})
+				(EgoDeadNew {מפלצות החפיר מעריכות את הטעם הטוב שלך.})
 				(HandsOn)
 			)
 		)

@@ -3,6 +3,7 @@
 (script# 994)
 (include sci.sh)
 (use Main)
+(use LoadMany)
 (use Interface)
 (use Sound)
 (use Save)
@@ -10,6 +11,7 @@
 (use Inventory)
 (use User)
 (use System)
+(use Menu)
 
 (public
 	EgoDeadNew 28
@@ -298,7 +300,7 @@
 		(= gNewRoomNum newRoomNumber)
 		(FlushResources newRoomNumber)
 		(= temp4 (self setCursor: gWaitCursor 1))
-		(self startRoom: gCurRoomNum checkAni: setCursor: temp4 (HaveMouse))
+		(self startRoomMain: gCurRoomNum checkAni: setCursor: temp4 (HaveMouse))
 		(SetSynonyms gRegions)
 		(while ((= temp5 (Event new: evMOUSE)) type:)
 			(temp5 dispose:)
@@ -316,6 +318,202 @@
 			(Animate (gCast elements:) 0)
 			(gCast eachElementDo: #delete)
 		)
+	)
+	
+	(method (startRoomMain roomNum)
+		(LoadMany
+			0
+			985
+			982
+			972
+			988
+			980
+			978
+			977
+			975
+			974
+			971
+			970
+			969
+			973
+			966
+			965
+			964
+			962
+			956
+			976
+			959
+			955
+			949
+			991
+			986
+			983
+			611
+			600
+			608
+			779
+			784
+			782
+			781
+			780
+			615
+			898
+			899
+		)
+		(if gDebugOn
+			(= gDebugOn 0)
+			(SetDebug)
+		)
+		(if
+			(and
+				(u> (MemoryInfo 1) (+ 20 (MemoryInfo 0))) ; FreeHeap, LargestPtr
+				global118
+				(Print 0 3 #button {Debug} 1) ; "Memory fragmented."
+			)
+			(SetDebug)
+		)
+		(self startRoom: roomNum)
+		(if (and (== gPrevRoomNum 0) (not (IsFlag 40)))
+			(MenuBar draw:)
+			(SL enable:)
+		)
+		(gCurRoom picAngle: 50)
+		(if (and (IsFlag 2) (not (>= 79 gCurRoomNum 49)))
+			(gCurRoom setRegions: 600) ; rgGoat
+		else
+			(if global119
+				(proc0_13)
+			)
+			(if
+				(and
+					(OneOf
+						gCurRoomNum
+						3
+						4
+						5
+						6
+						7
+						8
+						9
+						12
+						14
+						15
+						16
+						17
+						18
+						19
+						20
+						23
+						24
+						26
+						30
+						31
+						32
+						33
+						34
+						36
+						37
+						38
+						42
+						45
+						47
+						56
+						57
+						59
+						60
+						61
+						62
+						70
+						71
+						72
+						82
+					)
+					(>= global101 1)
+				)
+				(gCurRoom setLocales: 611)
+			)
+		)
+		(if (OneOf gCurRoomNum 24 31 38)
+			(cond
+				((gEgo has: 20) ; Beans
+					(gCurRoom setRegions: 606) ; beanRg
+				)
+				((== global131 gCurRoomNum)
+					(gCurRoom setRegions: 607) ; stalkRg
+				)
+			)
+		)
+		(if (OneOf gCurRoomNum 56 57 58 59 60 61 62 72 82)
+			(gCurRoom setRegions: 610) ; rgClouds
+		)
+		(if global124
+			(gCurRoom setRegions: 616) ; rgHalo
+		)
+		(gameSound loop: 0)
+		(cond
+			(
+				(and
+					(gEgo has: 14) ; Magic_Mirror
+					(gEgo has: 1) ; Chest
+					(gEgo has: 16) ; Magic_Shield
+					(not (IsFlag 51))
+					(or (< gCurRoomNum 70) (== gCurRoomNum 83))
+					(!= gCurRoomNum 53)
+				)
+				(PlayBackSound 98)
+			)
+			((OneOf gCurRoomNum 50 66 67 68 69 73 74 75 76 77 78)
+				((ScriptID 0 23) stop:) ; backSound
+				(SciAudio stop:)
+				(SciAudio play: {cave.mp3} -1)
+				;(PlayBackSound 31)
+			)
+			((OneOf gCurRoomNum 63)
+				(PlayBackSound 73)
+			)
+			(
+				(OneOf
+					gCurRoomNum
+					3
+					9
+					10
+					11
+					12
+					13
+					15
+					16
+					19
+					21
+					22
+					24
+					27
+					28
+					29
+					30
+					31
+					35
+					36
+					38
+					40
+					44
+					45
+					46
+					48
+					95
+				)
+				(PlayBackSound 2)
+			)
+			((OneOf gCurRoomNum 1 2 25 26 39 41 42 83)
+				(PlayBackSound 52)
+			)
+			((OneOf gCurRoomNum 7 32 33 34 47)
+				(PlayBackSound 12)
+			)
+			((OneOf gCurRoomNum 4 5 6 8 17 18 20 23 37 43)
+				(PlayBackSound 68)
+			)
+		)
+		(self dispose:)
 	)
 
 	(method (startRoom roomNum)

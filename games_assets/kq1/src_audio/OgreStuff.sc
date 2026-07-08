@@ -156,7 +156,7 @@
 			(4
 				((ScriptID 0 23) fade:) ; backSound
 				(SciAudio stop:)
-				(EgoDeadNew {הוזהרת שוב ושוב...})
+				(EgoDeadNew {הוזהרת עוג פעם ועוג פעם...})
 			)
 			(5
 				(gMenace setMotion: 0)

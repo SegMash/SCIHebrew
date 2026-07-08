@@ -13,7 +13,6 @@
 (use Game)
 (use Actor)
 (use System)
-(use SciAudio)
 
 (public
 	intro 0

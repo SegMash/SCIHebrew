@@ -11,7 +11,6 @@
 (use User)
 (use Actor)
 (use System)
-(use SciAudio)
 
 (public
 	rm63 0
