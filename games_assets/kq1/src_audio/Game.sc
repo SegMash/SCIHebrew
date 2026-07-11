@@ -93,14 +93,15 @@
 				#width
 				250
 				#button
-				{Restore}
-				1
+				{ לצאת }
+				3
 				#button
-				{ Restart }
+				{ לאתחל }
 				2
 				#button
-				{ Quit }
-				3
+				{לשחזר}
+				1
+				
 			)
 			(1
 				(gGame restore:)
