@@ -66,6 +66,7 @@
 		)
 		(if (!= gPrevRoomNum 777) ; speedChecker
 			(showTitle start: 2)
+			(nissim init:)
 			(self setScript: showTitle)
 		else
 			(QUEST init:)

@@ -59,13 +59,12 @@
 		(Load rsSCRIPT 87)
 		(super init:)
 		(MenuBar hide: state: 0)
-		(SciAudio play: {mainTitle.mp3} -1)
+		((ScriptID 0 23) number: 1 loop: 1 play:) ; backSound
 		(if (!= global101 0)
 			(localproc_0)
 		)
 		(if (!= gPrevRoomNum 777) ; speedChecker
 			(showTitle start: 2)
-			(nissim init:)
 			(self setScript: showTitle)
 		else
 			(QUEST init:)
@@ -122,7 +121,6 @@
 				(FOR dispose:)
 				(CROWN dispose:)
 				(copyright dispose:)
-				(nissim init:)
 				(= cycles 1)
 			)
 			(2
@@ -138,7 +136,7 @@
 						([local1 local0] dispose:)
 					)
 				)
-				(SciAudio stop:)
+				((ScriptID 0 23) fade:) ; backSound
 				(= cycles 2)
 			)
 			(4
@@ -180,15 +178,6 @@
 		y 181
 		view 913
 		loop 1
-	)
-)
-
-(instance nissim of View
-	(properties
-		x 152
-		y 185
-		view 913
-		loop 2
 	)
 )
 
