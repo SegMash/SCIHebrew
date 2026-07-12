@@ -72,7 +72,6 @@
 			(FOR init:)
 			(CROWN init:)
 			(copyright init:)
-			(nissim init:)
 			(self setScript: showTitle)
 		)
 	)
@@ -187,7 +186,7 @@
 (instance nissim of View
 	(properties
 		x 152
-		y 10
+		y 185
 		view 913
 		loop 2
 	)

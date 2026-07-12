@@ -13,8 +13,7 @@
 )
 
 (local
-	;[local0 4] = [58 161 58 161]
-	[local0 4] = [161 58 161 58]
+	[local0 4] = [58 161 58 161]
 	[local4 4] = [138 138 157 157]
 	local8
 	local9
@@ -33,16 +32,11 @@
 
 (procedure (localproc_1)
 	(proc0_7)
-	;(Display 87 1 dsCOORD 76 149 dsFONT 4 dsCOLOR 14) ; "Introduction"
-	;(Display 87 2 dsCOORD 179 149 dsFONT 4 dsCOLOR 14) ; "Begin Game"
-	;(Display 87 3 dsCOORD 84 168 dsFONT 4 dsCOLOR 14) ; "Credits"
-	;(Display 87 4 dsCOORD 173 168 dsFONT 4 dsCOLOR 14) ; "Continue Game"
-	(Display 87 2 dsCOORD 76 141 dsFONT 4 dsCOLOR 14) ; "Begin Game"
-	(Display 87 1 dsCOORD 179 141 dsFONT 4 dsCOLOR 14) ; "Introduction"
-	(Display 87 4 dsCOORD 72 160 dsFONT 4 dsCOLOR 14) ;  "Continue Game"
-	(Display 87 3 dsCOORD 183 160 dsFONT 4 dsCOLOR 14) ;"Credits"
+	(Display 87 1 dsCOORD 76 141 dsFONT 4 dsCOLOR 14) ; "Introduction"
+	(Display 87 2 dsCOORD 179 141 dsFONT 4 dsCOLOR 14) ; "Begin Game"
+	(Display 87 3 dsCOORD 84 160 dsFONT 4 dsCOLOR 14) ; "Credits"
+	(Display 87 4 dsCOORD 173 160 dsFONT 4 dsCOLOR 14) ; "Continue Game"
 )
-
 
 (instance TitleButton of Script
 	(properties)
@@ -137,16 +131,16 @@
 			)
 			(evMOUSEBUTTON
 				(cond
-					((MousedOn b1 event)
+					((MousedOn b0 event)
 						(localproc_0 0 0)
 					)
-					((MousedOn b0 event)
+					((MousedOn b1 event)
 						(localproc_0 1 1)
 					)
-					((MousedOn b3 event)
+					((MousedOn b2 event)
 						(localproc_0 2 2)
 					)
-					((MousedOn b2 event)
+					((MousedOn b3 event)
 						(localproc_0 3 3)
 					)
 					(else
