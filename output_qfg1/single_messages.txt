@@ -3689,3 +3689,59 @@ That sentence doesn't make sense.
 You've left me responseless.
 Every hero needs a break now and then.  Have a nice nap.
 Sorry, there's not enough room to see that here.
+You need to find the key.
+The key is gone.
+The chest is far too heavy to move.
+The Kobold's large, brass key glows slightly in the dark cavern.
+The Kobold's dinner table is now bare.
+The Kobold has disappeared entirely.  You are not sure whether you killed him, or whether he escaped by some sort of spell.
+The chest contains numerous pieces of gold and silver.
+Nothing useful remains of the chest.
+You cannot see the chest, but it feels fairly large, and is too heavy to carry.
+You don't *see* a treasure chest here.
+The damp floor is too slippery for you to run safely.
+Just try to walk out of the cave while you still have time.
+How embarrassing.  You don't have a weapon with which to fight!
+You're too close to the Kobold for throwing to be practical.
+You are overcome by the power of the Kobold Wizard's magic.  You need to either practice your skills more or plan a better attack strategy.
+This section of cave has an eerie quality.
+You don't seem to be able to move.
+"The powerful Ogress Baba Yaga is the cause of all the Baron's misfortune.  She is a vile creature who knows much magic."
+You don't see any particularly interesting roots.
+There aren't any loose daggers here.
+There is a strong odor of decay and other nasty smells filling the air.  A pile of something unpleasant lies near the center of this cave.
+Get closer to the pile of junk.
+The armor is corroded and valueless.
+The Minotaur is out for the count.
+It's a box of some sort...or so the sign says.  There is a button next to the box.
+You hear a very satisfying "Snick" as your pick catches the lock just right.  Then you sense powerful magics dissipating around the lock, and your hands shake as you realize you have narrowly avoided some sort of Magical Doom.
+The door is barred on the other side.
+The Brigand leader looks tough!  This may be the toughest battle of your career so far.
+Choose a new character type?
+You may have already won a fabulous, all-expense-paid trip for two to scenic Shapeir, land of the shifting sands.  To claim your prize, simply purchase a soon-to-be-released copy of "Quest for Glory II:  Trial by Fire" at a software dealer near you.
+There appears to be a note on the door of the barber shop.
+"Even a thief can be a hero sometimes, as long as uses his skills only for good purposes.  But most thieves are far from being heroes."
+Zara ignores you.  You would do better if you showed some respect by walking up to the counter before talking to her.
+"B. - He's starting to act suspicious.  Better save this drop for emergencies. - B."
+Slink:  "Hey, Sneak, this guy's hard of hearing or something.  I told him to get a license last time he was here, and he didn't listen."
+As Slink reaches for his dagger, you draw your Thieves' Guild license. . .
+You *almost* make it.
+Slink:  "Hey, Sneak, this guy's hard of hearing or something.  I told him to stay out of our alley, and he didn't listen."
+You win by a close margin.
+Slink:  "All right, so you got your license.  How nice.  Guess we don't get to kill you right now."
+"But stay out of our alley, 'cause we got real short memories, like."
+"Just answer the question.  Shall we play again?"
+a:glory1.sav
+Congratulations!  You have successfully completed "Quest for Glory I:  So You Want To Be A Hero."  Your final score was %d of 500 possible Puzzle Points.
+In the meantime, you are already a winner!  Please insert a writeable disk in your floppy drive to save your winning Hero for use in\n"Quest for Glory II:  Trial By Fire."
+   Quest for Glory I         [score %d of 500]
+You don't have time for that now.
+You already have the key.
+You don't see a chest here.
+The fungus is slimy and firmly attached to the cave walls.  You'd better leave it there.
+The chest is empty.
+"Elsa von Spielburg was a lovely young child with braided brown hair and bright blue eyes, like her mother, the Baroness, used to have."
+"He spoke the words,\n   'Hear me, oh mighty Baron.\nYou have angered me, and thus you are cursed.\nAll that you value you shall lose;\nall that you treasure shall be taken from you.'\nThe captain then dissolved into a pool of sticky blackness."
+There is nobody else here.
+He isn't here.
+You aren't near a door.

@@ -1,0 +1,1843 @@
+Suddenly, the deadly poison Fragmentation Bug leaps out of a crack in the system, and injects you with its poison.  Alas, there is no cure, save to . . . 
+You can't get that. 
+You retrieve your shield. 
+There aren't any here. 
+You don't have time -- there's the slight matter of the monster that wants to eat you. 
+You pick up the loose daggers. 
+You retrieve your knives from the dead monster's body, and carefully wipe them clean for reuse. 
+Ok 
+That isn't a known spell. 
+Gee!  You lost your weapon! 
+You cannot open anything here. 
+No one responds. 
+I don't know what you're trying to drop. 
+Ok, you drop it. 
+There's no point in trying that here. 
+Success!  You now have an open nose. 
+You don't have an appropriate tool. 
+It's not for sale. 
+You're welcome! 
+That's OK. 
+Hi! 
+Bye! 
+You're not close enough to a door. 
+You open the music box, which plays Beethoven's "Fur Elise."  After listening to it for a bit, you close the box. 
+You don't have a box to open. 
+No one hears you knocking. 
+You don't need to. 
+You have no reason to do that. 
+Search what? 
+You don't find anything interesting. 
+You don't see any here. 
+Please try a different way of saying that. 
+I'm not sure what you're trying to do. 
+Go ahead.  Just do it. 
+You're not close enough. 
+You've already done that. 
+You don't have it. 
+You don't know how to cast spells. 
+How about a slice of quiche? 
+Ten silver coins equal a gold coin in value. 
+Each gold coin is worth 10 silver coins. 
+Standard adventuring rations. 
+Root of a Mandrake plant. 
+A large, metallic key. 
+A heavy, one-handed broadsword. 
+Daggers for throwing and close-in fighting. 
+Armor made of leather boiled in wax. 
+A strong (and heavy) iron shield. 
+Blank pieces of paper. 
+Small apples from last Fall's harvest. 
+Vegetables from the Centaur farmers. 
+This gem glows with a magic of its own. 
+A lovely alabaster flower vase. 
+A heavy golden candelabra. 
+The gaudily-ornamented music box plays "Fur Elise". 
+A finely-made silver candlestick 
+A fine golden ring. 
+Seed of the Spore-Spitting Spirea. 
+Small rocks, suitable for throwing. 
+A flask of beautiful flowers. 
+An Acme Lock Pick. 
+Tool kit with several types of lockpicks. 
+Your Thieves' Guild License. 
+An empty flask with a cork stopper. 
+Soft green Meep fur. 
+A flask of genuine Fairy Dust. 
+Crystal clear water in a glass flask. 
+Magic mushrooms.  Or maybe toadstools. 
+Claws from a Cheetah-Centaur. 
+Troll beard with hairs as tough as wire. 
+Chainmail Armor (*very* heavy!) 
+A potion to restore Health Points. 
+A potion to restore Magic Points. 
+A potion to restore Stamina Points. 
+aa 
+bb 
+A potion for dispelling enchantments. 
+An oil to protect you from the Living Dead. 
+A mirror with a face (not yours) on it. 
+Acorn from the Dryad's tree. 
+Detect Magic 
+Calm 
+Flame Dart 
+You drink a flask of water.  It tastes great. 
+(Less filling, too!) 
+Perhaps you could tell me which potion you want to drink. 
+You have no potions. 
+That isn't drinkable. 
+It's not clear how you want to use that. 
+You don't have any of those. 
+You can't.  You don't have any. 
+You don't have any vegetables. 
+You aren't carrying any rations. 
+Ugh.  You don't want to eat *that*. 
+The scroll is no longer here. 
+You see no scroll here. 
+The stone has the words "Guruka's Peace" carved upon the top.  Funny.  You thought it said something else the last time you looked at it. 
+The stone has the words "Erana's Peace" carved upon the top.  Maybe you need glasses. 
+To the south, you see the deep forest through which you came to this meadow. 
+The large stone appears to be ancient and deliberately placed. 
+You see no holes. 
+Go over to the tree and pick some. 
+The lovely blossoms should stay on the tree. 
+The smell reminds you of laughter. 
+The rock faces are slippery with melted snow, and there is no need to climb the little tree. 
+The atmosphere here is peaceful and calm.   There is no need to throw anything. 
+There are none here to search. 
+The Ogre's body must have been carried away during the night by some marauding beasties. 
+However, there is a dead Ogre here. 
+However, there is a very large Ogre here. 
+There is nobody here. 
+There are no locks here. 
+It's already unlocked. 
+The lock is beyond your current skill. 
+There's nothing like that here. 
+You need to get closer to the dead Ogre. 
+The lock on the Ogre's chest clicks open. 
+They're like stalagmites, but they go the other way. 
+They're like stalactites, but they go the other way. 
+The stalactites, stalagmites, and cave walls glow from a phosphorescent fungus growing there. 
+The stalactites grow slowly. 
+...or are they stalagmites? 
+The stalagmites grow slowly. 
+...or are they stalactites? 
+The light from outside illuminates the cave opening. 
+The baron's in his castle. 
+There is no sign of the Baronet or the bear. 
+You don't see any people -- just that bear. 
+On one side of this cavern is a creature which looks like a large bear. 
+There is no sign of the bear or his chains. 
+You can't see very well. 
+There is a manacle and chain attached to the bear's leg. 
+I just don't know what to tell you. 
+Better not.  You might make the bear angry. 
+That won't help you. 
+No food fights in here.  It already smells like a monkey cage. 
+The walls are too slimy to climb. 
+There is no magic in the cave. 
+The magic about the bear's manacle is too great for your Open spell. 
+You'd better not.  The bear isn't wearing a flea collar. 
+The Flame Dart has spoiled the bear's appetite. 
+Its hunger diminished, the bear takes a new attitude toward you. 
+You need a magical key. 
+Sorry, this lock is enchanted.  You'll need a magical key. 
+Boy, that smarts!  Your last thoughts, although trivial, gently nudge you toward infinity.  "I wonder if the bear's paws were clean.........." 
+Boy, that smarts!  Your last thoughts, although trivial, gently loft you toward infinity.  "I wonder if the bear's paws were clean.........." 
+You seem to have bumped into an unseen object on the cave floor. 
+You examine it by touch.  It feels like a wooden chest. 
+It must have been made invisible by the Kobold. 
+That would not be appropriate here. 
+To the north and west are steep cliffs.   There are some unusual plants growing out of the side of the cliffs. 
+To the south and east is the forest from which you came. 
+If you had a sword, you might be able to do that. 
+You don't think you can climb any further up the cliff. 
+You're already on the ground. 
+It's not that easy. 
+That's really not a good idea. 
+At least, they're pretty when they're not dead. 
+That's one mean Ogress! 
+The glass seems to distort the view of the outside world. 
+It's a plain wooden kitchen cupboard. 
+The kitchen knives look old but sharp. 
+The pile of straw covered by a blanket must be the occupant's bed. 
+You cannot see the witch anywhere. 
+You might as well be talking to yourself. 
+Your magic is useless here. 
+The small hut has a beamed ceiling. 
+The floor is tidy, with a pile of straw in one corner. 
+"I'm moving as fast as I can!" 
+It looks a lot like the slime that was eating away the barstool at the tavern. 
+You've never seen anything like it.  It looks quite unhealthy. 
+The skulls on top of the fence have eerily glowing eyes. 
+You can see nothing through the windows of the hut. 
+Too much work. 
+Huh? 
+Ok, go ahead and say the rhyme. 
+"The deal is made, then.  A glowing gem in exchange for an opportunity to see Baba Yaga herself." 
+"Give me my gem!!" 
+"Hey, it's your life!" 
+"What kind of hero are you?  Can't even find a little glowing gem for me to see with!" 
+"Just answer the question, will ya?" 
+"Do you have my gem?" 
+"Do you want back in?" 
+"Is it a deal or not?" 
+"Right!" 
+"Not until you get my gem!" 
+"Hey!  Where's your manners?  Let me tell you something, here!" 
+"Wait a minute...I'll get around to that." 
+"You kept your end of the deal, all right!" 
+"What's to tell?  You've seen her for yourself." 
+"Baba Yaga is the most powerful Ogress around.  If you have any brains (and it looks like you don't), you'll stay away from her." 
+"Some hero YOU are!  Don't know what an Ogre is.  Just check out Baba Yaga!" 
+"It's just the right color!" 
+"I wish I had some." 
+"I'm thrilled to have some!" 
+"The bone brains on top of the fence are Baba Yaga's spies.  That's why THEY have glowing eyes." 
+"It's not much, but I call it home." 
+"The rhyme is:  'Hut of brown, now sit down'." 
+"My time is important, and I'm very busy, as you can well see.  Ask me about something important." 
+"Did you get it?  Did you get my glowing gem???" 
+You see snow and feel a cold wind blowing from the east. 
+The air is crisp here and you can see your breath as you walk. There is a path leading up to a dark mountain, atop which is precariously perched a purple house. 
+The path seems to be carved out of the rock.  It forms a steep trail up to the house on the mountain. 
+All of the mountains you can see are covered with snow except for the one to which the path leads. 
+The drifts of snow look several feet high in some places. 
+Looking north, you see the strange house nestled on its craggy peak.  It is hard to see much at this distance.  All you can tell is that the house is very large, very purple, and very strange. 
+To the east is the forest. 
+You see the surrounding mountains. 
+The clouds skirt the mountain edges. 
+There is a rocky path through the snow. 
+The magical aura around this place prevents you from casting a flame dart. 
+The cliff walls are steep, and it's a long way to the snow fields below. 
+You can see the mist flowing around the edges of the Wolf's Bane Peaks. 
+Below you, the snow glistens. 
+Looking down and to the south, you see the tortuous path you climbed to get here. You'd hate to have to do that again. 
+Looking below you to the west, you can see the Baron's Castle surrounded by the forest. 
+It's about time the gargoyle opened the door for you. 
+You'd like to look at it more closely, if only the gargoyle would let you. 
+You feel as though you have just scaled the Matterhorn in full armor.  What a climb! 
+The climb seems much longer this time, but you made it! 
+"BEAT IT, BUB!" 
+"WRONG!" 
+"NO THIEVES ALLOWED!" 
+The Wizard is not running an inn. 
+"THAT'S NOT NICE!" 
+"IS THIS A YES OR NO QUESTION?" 
+"WHAT IS THE BARON'S FIRST NAME?" 
+"WHOSE SPELL PROTECTS THE TOWN?" 
+"GOOD.  YOU'RE NOT A THIEF!" 
+THAT IS CORRECT. 
+THE WIZARD WILL NOW SEE YOU. 
+Through the portal to the east is a large formal dining room. 
+Against the east wall, you see a bookcase and a desk, above which is hung a dragon's head trophy.  These are on either side of a doorway, above which hangs a shield. 
+Leaning against the west wall is a mummy case.  Above that hangs an ancient tapestry. 
+The wall is plain.  You see nothing but the front door of the house. 
+Above the staircase hangs a portrait, flanked by decorative wall hangings.  In an alcove on the landing stands a suit of armor. 
+There is a table up against the staircase wall, and on the wall hangs an onklunk. 
+The Ball of Light floats magically over the center of the room. 
+Oh my!  It's a Dunking Dragon!  You thought they were only to be found in myths and legends. 
+It is a standard roll-top desk.  There is nothing on it. 
+You have no idea what it is, but it has the words "Lytton P. D." inscribed upon it. 
+This is an excerpt from the Rosella Stone!  There is a picture next to the message. 
+By golly, it's a rare Peruvian Onklunk! 
+This item appears to be an ebony chest. It could contain anything. 
+The table is bare, except for a stuffed bird which faces the door. 
+The shield looks like it belonged to one of those "Once and Future" kings. 
+An adumbrated wall hanging.  It's design evokes thoughts of ancient times and battles past. 
+There are two finely crafted chairs, one larger than the other. 
+Beneath the "Dunking Dragon" is an old steamer trunk. 
+The only actual door visible is the door leading back outside. 
+The staircase connects the upstairs to the downstairs. 
+The pattern is obscured by age. 
+The high ceiling has ornate sconcing and scrollwork. 
+Purple planking? 
+The wizard does not run an inn. 
+"Those rooms are forbidden!" 
+To the west, the Baron's castle can be seen, surrounded by forest. 
+The cheese looks awful, but Fenrus seems to enjoy it. 
+WOW!  A Real Hero! 
+The ceiling is domed and ornately decorated. 
+As you look down, you realize the steepness of the staircase you ascended to get here.  Either the wizard is a fitness fanatic, or he uses a lot of "teleport" spells. 
+You're strange!  Erasmus hasn't told the punchline yet. 
+YUK-YUK-YUK-GUFFAW! 
+A-HYUK, A-HYUK, A-HYUK.  GAWRSH! 
+Tee-Hee-Hee! 
+(Snicker!)  (Chuckle!)  (Titter!) 
+This is a serious game, Rosella! 
+The chairs are rather large.  But then again, so is Erasmus. 
+You must first develop more skill in the magical arts. 
+It would be best to wait until Erasmus puts down his cup of tea before asking any more questions. 
+I told you to be more interesting!  You may go now. 
+Well, if you really must go... 
+My feet are killing me. 
+Our hero looks really lost. 
+Our hero looks a little lost. 
+Have I been here before? 
+There is nobody to open the portcullis. 
+The castle looms over the gatehouse and looks rather impressive. 
+You see the road leading past the Healer's house. 
+You see the forest. 
+"As you can see, the gate is open." 
+"I will not open for a faceless voice. Come out where I can see you." 
+"If you wish." 
+"As you can see, the gate is closed." 
+Don't keep everybody waiting with idle talk. 
+"Hay is for horses." 
+"I'm here!  What do you want?" 
+"What?" 
+"Then go, before I close the portcullis." 
+"Sorry.  I wasn't listening.  Could you repeat youself?" 
+"OK." 
+Go ahead. 
+"That's me. I guard the portcullis day after day." 
+"The portcullis is the metal grate that bars the entrance to the castle yard. 
+"My Lord is busy organizing his troops." 
+"Ten years ago the Baron's daughter, Elsa, was stolen away by magic.  Five years back, the Baronet Barnard von Spielburg went on a hunt from which he did not return." 
+"This was all clearly part of Baba Yaga's curse." 
+"The Baronet is busy hibernating." 
+"He rode off one morning and his horse returned without him.  The horse had been raked by the claws of some large animal.  There is still a reward offered for the safe return of the Baronet, but I fear he is dead." 
+"Elsa von Spielburg was a lovely young child with braided blond hair and bright blue eyes, like her mother, the Baroness, used to have." 
+"Even the jester, Yorick, joined the search for her.  The Baron sent a troup of guards to storm Baba Yaga's hut, but I think their skulls sit atop her fence now." 
+"Elsa von Spielburg would be about eighteen now." 
+"The stablekeeper could use a strong young person to help clean out the stable.  It does not pay much, but it is good, honest work.  If you would like to take the job, just ask me to open the portcullis." 
+"This powerful Ogress is the cause of all the Baron's misfortune.  She is a vile creature who knows much magic." 
+"There is still a reward of 50 gold offered for the safe return of the Baronet and Elsa von Spielburg." 
+"The brigands are protected by a magic user.  Not much is known about him, but he seems to use more magic potions and powders than spells." 
+"The leader of the brigands must be a good strategist.  He has organized and led many raids which result in much treasure and little loss on the part of the brigands.  Without their leader, the brigands would soon flee." 
+"There are now too few guards to take out the brigands, who still rob our people and drive away the traders.  They hide somewhere near the edge of this valley." 
+"This was once a very wealthy valley.  Many merchants have been robbed by the brigands.  There is a merchant in town who could tell you about his recent loss." 
+"Spielburg Valley was once a prosperous and peaceful place before the Baron lost his family.  Now the Baron will not leave his castle and has no idea of the ruin this land has come to." 
+"The gatehouse is a shelter and resting place for the guards." 
+"Everybody talks about the weather, but nobody does anything about it." 
+"The Weapons Master often practices in the castle courtyard.  He gives lessons in the art of swordplay.  The lessons are expensive, but well worth the price." 
+"I wouldn't know about that, I don't get around much these days." 
+The castle of the Baron Stefan von Spielburg, Lord of the valley. 
+The gatehouse is a massive structure which houses the guards. 
+The gatehouse is a massive structure. 
+This is the barracks area. 
+The castle is northeast of here 
+You see the castle and the guards. 
+You see the main courtyard of the castle and the stables beyond. 
+Along the wall to the southeast is the gatehouse.  A line of bushes partially obscure a defensive pit along the wall. 
+You can see the barracks and a man sitting in front of them. 
+You're not close enough.  He's hard of hearing. 
+"If you want to fight, go talk to the Weapons Master." 
+As you approach the guard with your weapon, he jumps up and opens the barracks door as he yells for help.  Four guards playing cards inside the barracks quickly grab their weapons and overwhelm you.  As you are dragged into the castle and down into the dungeon, you realize that was probably not quite the right thing to do. 
+Just a fence. 
+This is the forest that surrounds the castle. 
+You are in the courtyard of Castle Spielburg. 
+Nobody there. 
+He isn't here at the moment. 
+What you see, along with what you smell, gives the impression that the building on the east side of the courtyard contains the stables. 
+On the west side of the courtyard is a building that looks like soldier's barracks. 
+As a matter of fact, there's a soldier sleeping in front of it now. 
+The door to the Baron's castle is well guarded. 
+As you look back at the castle gate, you see a line of bushes along the south wall and the gatehouse and portcullis. 
+The castle's stable looks like it holds about six horses.  It could use some cleaning up. 
+The moon lights the Baron's courtyard. 
+It is a beautiful day. 
+The castle is across the courtyard to the northeast. 
+The stable marks the eastern boundary of the Baron's courtyard. 
+Across the main courtyard to the west are the soldiers' barracks. 
+"If you put in a day's work, and you wanna take a nap, it's OK with me." 
+"These horses, they act just like animals or somethin'." 
+"Sure!  C'mon in and grab a rake." 
+"Don't tire me out with a bunch of questions.  I don't need your comments, either.  Can't you see what a hard life I have?" 
+"Sorry, the Baron's horses aren't for sale." 
+"Neigh!"  says the horse. 
+"Well, if you don't want to answer..." 
+"That's what I'm asking YOU about, nimrod." 
+"Quit fidgeting and answer me...yes or no!" 
+You face the main doors of the Baron's keep. 
+The castle grounds look like no one has taken care of them.  The castle is still impressive close up, but it looks rather dirty 
+You see the castle and the guards 
+Along the wall to the southeast, you can see the stables. 
+You see the main courtyard of the castle. 
+Along the wall to the southwest, you can see the barracks. 
+The doors are guarded by Frederick and Pierre. 
+Plays a mean horn.  A member in good standing of the musicians guild. 
+You don't think the guards would allow you to do so. 
+No sooner do you draw your weapon then the guards have their weapons out and quickly disarm you.  It seems that they practice with the Baron's Weapons Master.  They promptly drag you into the castle and down into the dungeon, which is not a very likely spot for the attainment of hero status. 
+The horns are tarnished and starting to corrode. 
+The guards are ignoring you. 
+He's very proud of his moustache, but don't mention his bald spot 
+Doorway to castle great hall. 
+The torch lights the way to the Baron's Hall. 
+You can't reach the windows from these trees. 
+Weeds grow profusely, but nobody notices. 
+These flagstones are from a rock quarry in eastern Germany. 
+Well...maybe the flagstones are from western Germany. 
+Flagstones from Europe? 
+Granite from our very own mountains? 
+I don't know! 
+"Says you." 
+"This is the castle of the Baron Stefan von Spielburg." 
+"I can't help you on that." 
+"Looks like meathead is sulking.  If I talk to you anymore he'll get even with me." 
+"We cannot leave our post." 
+"You will have to see the Baron to get his permission." 
+The Baron is busy and will see no one. 
+The Baronet is in the castle recovering from his ordeal and will see no one. 
+"The Baronet Barnard von Spielburg is missing." 
+"The stable is off to my left." 
+"My name is Pierre.  I'm one of the Baron's personal guards." 
+"It is not our place to answer questions." 
+"Spot?  What spot?" 
+"Why thank you.  Your manners have improved." 
+You seem to see movement, but you are not certain what is over there. 
+The rocks look as if they were deliberately piled. 
+You see forest. 
+You see a Goblin, a small but dangerous humanoid. 
+You see a small cave concealed in the rocks.  The cave is not big enough for you to enter.  This is where the Goblins hide. 
+You can not see a cave. 
+Something about the bushes here gives you a very bad feeling. 
+You're not close to anything matching that description. 
+You find a small cave concealed in the rocks, just big enough for the Goblins to come through. 
+Nothing here, but you're HOT! 
+Nothing here, but you're warm. 
+Nothing here, you're warm. 
+Nothing here, you're cold. 
+Nothing here, you're frigid. 
+The cave opening is too small and the rocks are too hard for you to be able to enter. 
+The rocks are too large and heavy to move. 
+You can't do that.  Maybe in the next game.  We're getting behind schedule. 
+Looks like no one has the stomach to fight you. 
+The rock are too large and heavy to move. 
+"You'll fight all right." 
+Looking at the Centaur's muscles, his hoe, and his four gleaming hooves, you get the feeling that hostility is not the best of ideas. 
+There's a world of difference between a horse and a Centaur! 
+The Centaur is half man, half horse. 
+Go ahead.  Ask him something. 
+"They nearly killed me.  My right leg was broken, and there is no pride for a Centaur who cannot run." 
+"If it had not been for the unlikely intervention of their leader, I would be dead." 
+"Our stand is in the northeast corner of Spielburg.  The produce is not of the finest this time of year, but you will not find better than Pferdefedern fruit come harvest time." 
+We grow fine fruit in our little orchard, and sell it at our stand in town.  There you will find fresh cherries in the spring, peaches in summer, and apples in the fall." 
+"I'm afraid I can't tell you much about that." 
+You're not in a good spot for climbing the wall. 
+The forest surrounds the farmer's small fields and orchard. 
+The crops have yet to be planted.  There are only a few weeds and some grasses at edge of the forest. 
+You can see the roofs of Spielburg beyond the town wall. 
+You can see a small house. 
+Beyond the farmer's orchard, you see the forest. 
+You can't tell what it is from down on the ground. 
+It looks like a golden ring, flashing in the sunlight. 
+The ring appears to be made of fine gold. 
+You retrieve the ring you dropped. 
+You'll think of something. 
+Go check out the nest. 
+How can you get something you can't see?. 
+Climb the tree first. 
+There's nothing out on the limb to risk your neck over. 
+It'll be tough. 
+Ooooops! 
+You think about it, but you decide to keep it in your pack. 
+You don't have a clear shot. 
+Move to a better position. 
+That spell is no longer useful here. 
+You hear the inside bolt slide open. 
+"Come on in." 
+You don't have a rock to throw. 
+You throw a rock into the air... 
+Wait to see if you hit something. 
+That won't accomplish anything. 
+You don't see any good hand or foot holds on this side of the tree.  Maybe it's better on the other side. 
+You're already up the tree. 
+You're not in a position to climb down. 
+Climb what? 
+You don't want to climb that. 
+The healer might be able to use them, but you can't. 
+It's gone. 
+It's been destroyed. 
+On either side of the road are a large oak and a hut. 
+The road itself leads north to a castle in the distance and south to the crossroads. 
+The apothecary bottle indicates that the occupant is skilled with potions. 
+There is a nest on a single limb that seems to reach out toward the hut. 
+The oak tree has one dead limb. 
+The hut's roof is made of thatched straw. 
+To the south is the crossroads in front of the town gate. 
+You pay the Healer for the potion and put it away. 
+Whatever is boiling there is either soup or some sort of potion. 
+It looks like a ladder. 
+You can look but don't touch. 
+"Those fairies are cute, but they play rough!" 
+"It is shaped in gold like a braid of the herb Althelas with entwined leaves." 
+"I don't know how I lost it.  I hardly ever take it off." 
+"You already have your reward." 
+"I will pay you for Cheetaur claws, Troll beard, magic mushrooms, and flowers from Erana's Peace." 
+"I use them to make my potions." 
+Magic Potions restore the energy needed to cast spells." 
+"I make up potions that heal injuries.  I will be happy to sell you a Healing Potion if you like." 
+"I use flowers from Erana's Peace to the north in nearly all my potions.  They have some of the magic of the place even when they are dried." 
+"I will pay you five silvers for a flask full of flowers." 
+"I use the mushrooms from a fairy ring to make Magic Potions." 
+"I will pay you one gold for some." 
+"The Cheetaur looks like a cross between a panther and a man.  It is vicious and tough.  Unless you are a very tough fighter, you had best try to get away from it.  If you do manage to kill it, then I will pay you five silvers for each claw." 
+"The Trolls around here are tough monsters that cannot stand the light of day and so are found at night or in caves.  They are very difficult to kill, but I will pay two healing potions for the beard of a Troll." 
+"I have heard that the Dryad of the woods knows a Dispel Potion to disenchant people with spells upon them." 
+"I will pay you one silver for each empty flask you bring me so I can use it for more potions.  Waste not, want not, I always say." 
+"Well, my name is Amelia Appleberry, but mostly I am just known as the Healer around here." 
+"Almost due north of here is the meadow called Erana's Peace.  It is a very magical area and it is a place of safety.  It is beautiful all year, for the flowers are always in bloom." 
+"I'm sorry, I just don't know much about that.  Perhaps you should ask someone else." 
+The Healer makes some sort of arcane gesture over the flask of water, then smiles. 
+"Flying Water. how clever." 
+I don't have any use for that. 
+Cheesecloth. 
+The makings of various potions. 
+Iron holder fit for a lit torch. 
+This and that. 
+Ingredients. 
+Petrified icicles and greens. 
+"What can I do for you?  I can sell you potions if you like.  I also buy spell components if you are interested in gathering some for me." 
+"Don't mind me, I always have so much to do around here." 
+You say to the Healer "I have been to visit the Dryad of the Woods.  She gave me a Magic Acorn and told me the formula for a potion to dispel enchantments!" 
+"Here is the Potion of Dispel!  Use it by splashing it on the victim of a magic spell.  Mind you, this won't work if the spell is caused by a magic item rather than a cast spell." 
+"Thank you so much.  Oh, I'm so happy to have my ring back!" 
+"Annoy me not over matters so minor." 
+The mountains rise quickly from this point and are covered with snow. 
+The snow has melted in most of the forest, but here it is still heavy. 
+"Oops!"  you say.  "I guess I don't have any fruit for you.  Sorry!" 
+"In matters of magic, I am your master; Seek not to slay me with sendings so small." 
+This large rock covers a Meep hole. 
+A furry blue Meep 
+A furry purple Meep 
+A furry green Meep 
+Try going over to where the Meeps are if you really want to hack them into little furry bits. 
+You don't have a rock 
+The Meeps would not appreciate it if you tried to take their fur -- the weather here is still very cold. 
+You don't see a Spell Scroll here. 
+You don't see any baby Meeps at the moment. 
+The scroll is blank now, but once contained the Detect Magic spell. 
+You don't see any Meeps to talk to at the moment. 
+"We use rocks for doors.  They keep us dry and warm." 
+"Hey, go ahead, take it. It's yours." 
+Why, that's me! 
+Man, those rocks are tough! 
+Hiya, hiya.  Really pleased to meetcha. 
+"Hey, there ya go.  Hope it helps ya." 
+"Hey, sorry I couldn't help ya." 
+Gosh, I don't seem to have anything like that left.  Really sorry 'bout that. 
+You pick up the pile of soft green fur and carefully place it in your pack. 
+As the ghosts suck the life out of your body, and you crumple into the dust of the old graveyard, you think unspeakable thoughts of torture and torment directed at programmers, game designers, and vicious artists named Kenn. 
+The carving on the gravestones, for the most part, seems to have been intentionally defaced and worn with time. 
+You sense what nobody needed to tell you:  SOMETHING is making those spirits fly around, and it isn't the wind. 
+You can't see the bottom of the hole before you. 
+You see transparent, decaying, writhing, slimy, undead fragments of undulating ectoplasm! 
+There is a very large and very dead tree which hovers over the graveyard. 
+You see the rotted remains of a picket fence. 
+What at first appears to be a ladder turns out to be the rotted remains of a picket fence. 
+You don't see it. 
+You haven't found it yet. 
+It appears that you have company in the graveyard tonight. 
+You stepped into a hole whose depth is unfathomable.  As you fall ever downward, you feel icy fingers clutching at you, and you think: "How could I be so careless?" 
+The town gate is locked for the night. 
+The gate is open. 
+The town gate is closed. 
+The road from town branches here.  The eastern fork is the road which brought you into this valley. 
+The town wall is made of very sturdy carved rock.  The sign has been carved from wood. 
+Its a road. 
+Heavy forest looms to the south. 
+Bruno is big and a tough fighter.  He's also very adept at throwing daggers. 
+Next to the town's wall, you notice a man who appears to be waiting for someone. 
+Bruno hangs around the town gates.  He will sell information. 
+It looks like a particularly deadly weapon, and the thief handles it with great skill. 
+Bruno nods and makes the countersign.  "Ya need ta talk to Sneak about the password.  Ya can find him in the alley at night." 
+You had better talk with him and find out how much he wants for his information. 
+"For another silver, I can tell ya about where to go to find the Baron, Baba Yaga, or some goblins who have a lot of treasure. So if ya want some information, hand me some cash." 
+(Specify how many gold coins to give him.) 
+"What's this for?" 
+"Don't get me wrong.  I'll take it!" 
+You don't have enough money. 
+"For ten golds, I'll tell ya where to find some of the robbers what have been robbing people coming into the valley." 
+"Okay, whaddaya wanna know?" 
+"Go south and you'll see a hollow log.  Then head west until ya can go south again.  Then go east until you can go south again.  From there, go west.  Them brigands just love visitors." 
+"Nobody knows much about the leader." 
+"For ten gold, I'll tell ya where some of those robbers are that're robbin' folks as they come inta the valley." 
+"Just call me Bruno.  That was an easy silver." 
+"She's an ugly hag who knows some magic.  She lives in a weird house." 
+"Her place is due west of the Baron's place.  Can't miss it.  And for two gold, I'll tell ya how to get into her hut." 
+"The little pests are just nothwest of the cemetery.  They're a bunch of wimps." 
+"Hey, I just know what I know.  If you want other info, ask someone else." 
+hi 
+"For a gold, well, I can tell where the Thieves' Guild is hidden." 
+"You talk'n ta me?" 
+The forest deepens north and south of you.  To the east, the road twists it's way up the mountain.  To the west, the road is hidden by trees. 
+For a moment there, you thought you saw something. You can't see anything now. 
+It seems to be a simple spring trap and you can easily open it. 
+The trap seems to be caught on something. 
+You can see no sign of a trap here. 
+The fox seems to have a foot caught in a trap. 
+The fox is gone. 
+You must free the fox first. 
+Walk over to the trap. 
+You don't see the trap now.  It seems to have vanished. 
+There's no one here to fight. 
+You would need a sword. 
+Yep.  It's open, all right. 
+That's not worth any game points, and will not make the fox feel any better. 
+You are in a clearing at the edge of the forest. The road you have been following is completely blocked by a very recent avalanche. 
+The meadow clearing in which you stand is grassy; the road is densely packed and slightly muddy. 
+The low-lying bushes form tight tangles of shrubbery between the trees. 
+A tumbled pattern of rocks can be seen at the forest's edge. 
+The ragged peaks of the snow-covered mountains can be seen clearly. The pass, however, is blocked by very recent avalanches. 
+There are no caves here. 
+Climbing would serve no purpose right now. 
+Hi, Kris! 
+Hi, little kid! 
+Hi, Max! 
+Hi, Bridgette! 
+What for?  There's no one to dance with. 
+What for? 
+You know all about it, now. 
+Don't be greedy.  You already have some. 
+There aren't any of those around. 
+You see trees and brush. 
+You eat a few of the lovely mushrooms. 
+The objects on the ground are a brigand's shield and spear. 
+The dead brigand's shield is not worth your while. 
+The only daggers around here are the ones you've thrown at the target. 
+There are no useable spears near you. 
+These bushes are full of thorns. You decide not to risk it. 
+Some marauding beast must have taken the brigand's body away. 
+You see nothing like that here. 
+The wall and buildings of Spielburg can be seen over the heavy brush.  An old target leans against the town wall. 
+You see a couple of hard-looking characters talking.  One looks like a thief; the other appears to be a fighter of some sort. 
+"Seems the "hero" wandering around here has her leery.  She thinks he's going to go for the gold on her head." 
+"Don't lose it.  I got the only other one.  Yull haveta search the rock for the keyhole.  It's hidden good.  And remember the 'word'." 
+"Oh yeah, sure." 
+"What is it?" 
+You're too close to the target for it to be a challange. 
+You have no daggers to throw. 
+You can't get any daggers. 
+For a moment there, you thought you saw something.  But nothing is there now. 
+She tells you:  "It's not nice to fool Mother Nature." 
+"Please.  Just answer my question." 
+The rocks to the north look too steep. 
+"Perhaps the farmer has dates in his field." 
+"I beg your pardon?" 
+You think better of burning up the woods. 
+You cannot look at what you cannot see. 
+There is a rock wall northwest of the large oak tree. 
+You see no such animal. 
+The brush and undergrowth has formed an impassable thicket. 
+You see thick brush, rocks, and heavy woods to the north.  A large oak tree dominates the view. 
+You see a clearing back the way you came. 
+"I am the Dryad, keeper of the woods.  Are you one with the woods?" 
+Your spell has no effect. 
+The stag seems to be magically protected. 
+You don't see a stag here. 
+You see no Antwerps here. 
+Where to? There is no escaping the hurtling blue blob. 
+There is a roaring sound off to the east. 
+You'll have to climb down to do that. 
+A river plunges for more than a hundred feet down the face of a cliff.  A doorway has been built into the side of the cliff. 
+You see slick, vertical cliff walls. 
+You don't see a ladder here. 
+you don't have a flask 
+The water comes from melting snow.  This early in the season, it's much too cold to swim. 
+The door is securely locked. 
+The door is so securely locked that it defies your abilities to unlock it. 
+You're in front of the door already.  You don't need to climb any farther. 
+"Just a minute!  Just a minute!" 
+You see a chair. 
+The cave is cold and clammy and it smells like mildew and wet dog hair in here! 
+The walls are covered with phosphorescent fungus. 
+The phosphorescent fungus glows eerily in the cave's dim light. 
+"Me guest bed is the straw in the corner over there. You're welcome to stay the night since you've shared your rations. When you want to sleep, just say so." 
+"Me guest bed is the straw in the corner over there. You're welcome to come back and sleep tonight since you've shared your rations." 
+You can't share what you don't have. 
+Get closer to the bed of straw. 
+You are already sitting... on your brain, perhaps? 
+You're not sitting. 
+The 'ermit wouldn't like that. 
+Despite your intentions, you can't bring yourself to spend any more time playing with the talkative 'Enry. 
+You spend an hour at the game while 'Enry talks.  You've obviously made his day. 
+You should sit down first. 
+You see no scroll. 
+It's not polite to steal from your 'airy little 'ost. 
+"Well, see'en as I don't get out much, I don't know much." 
+The only Antwerp known in these parts has split... into parts. 
+Antwerps are on the endangered species list.  They are rarely seen. 
+You do not find anything nearby. 
+You aren't close enough to a lock. 
+You have no weapon with which to fight the Antwerp. 
+He's on a diet. 
+Ok, you say Hiden Goseke. 
+Go ahead. If you dare. 
+By golly, it's an Antwerp! 
+The Antwerp plays rough. 
+You see a flock of geese as it passes overhead. 
+You see the reflection of a flock of geese as it passes overhead. 
+It must be your imagination.  What would a submarine be doing in a fantasy adventure?  Perhaps you'd rather be playing `Code Name: Iceman' -- it has a submarine. 
+You don't have anything in which to carry the water. 
+There is a strong odor of decay and other more unpleasant smells filling the air.  A pile of something unpleasant lies near the center of this cave. 
+The water has been polluted by various other disgusting liquids. 
+It looks as if someone has piled up bones, bits of armor, and things you can't quite make out and probably don't want to know about. It smells disgusting. 
+The Troll lies dying upon the slimy floor of the cave. 
+A dead Troll lies in a pool of blue blood. 
+You need to get closer to the dead Troll. 
+The password is for the hidden passage, not the troll's home. 
+Get closer to the pile. 
+You don't need it. 
+This Troll looks as though he'd rather eat YOU! 
+You hear the constant "drip... drip..." of water, and the unmistakeable sound of something breathing nearby. 
+There is nothing here to dazzle. 
+There is nothing here to use that spell on. 
+The cave troll is dead. 
+Before you can notice him, a Troll sneaks up behind you, and the encounter begins. 
+The Troll's brute force was too much for your skull. 
+There is nothing of value on the Troll. 
+You dig around in the pile until the odor almost makes you sick. 
+You find nothing more of value. 
+You find 30 silvers and 5 gold. 
+There is no beard hair left on the Troll. 
+You cut some beard hair and put it away. 
+A large Troll looms before you, a snarl on his lips. 
+There's no need for the password now. 
+The large Troll looks as though he'd rather eat YOU! 
+There is nothing here to use it on. 
+The rock walls look steep. 
+It is difficult to see them because of the cliff walls, but you think you can make out something or things behind the logs. 
+From what you can see, you realize that you are in a very dangerous situation. 
+You see archers perched on the cliffs. 
+You see sheer cliff walls. 
+You see a suspicious pile of logs blocking the passage in this canyon. 
+You see where the canyon turns north. 
+The only way to climb is over the logs and you're not in a good place for that. 
+Looks like the archers are running short on arrows. 
+A brigand archer! 
+Sheer cliff walls form a narrow box canyon where the brigands have built a fortress. 
+The gate appears to be fastened somehow on the inside. 
+You see that where the steep cliff walls meet the fortress, there is a pile of gravel.  Once away from the secret passage exit, the fortress is entirely obscured by rocks and brush. 
+The cliff to the west looks too sheer to climb.  There is a bush growing close to the cliff. 
+You see what must be the log walls and gate of the brigand fortress. 
+You see where the sheer cliff walls meet the fortress wall with a pile of rocks. 
+The walls of the canyon turn to the west.  You can see a large Minotaur patrolling the canyon. 
+The logs of the wall are too slick, and there is no place to get a good hold on them.  You'll have to try somewhere else. 
+You don't have enough climbing skill to scale the wall. 
+You're not in a good spot for climbing. 
+You must get closer. 
+The gate is closed. 
+Unless you're Rubber Man you'll have to get closer. 
+Bell to alert gate guard. 
+Sign reading "Ring Bell". 
+Gate to fortress.  A very strong gate. 
+Bush, a good place to hide. 
+A good place to hide. 
+The Minotaur seems to have very sensitive hearing.  He looks around every time the bush rustles. 
+You quickly search the dead Minotaur and find nothing. 
+Wait a minute. 
+Why bother? 
+You get the feeling that you're not alone. 
+There is nothing near that you can get over. 
+The door is open. 
+This is no time for casual conversation. 
+You're too busy trying not to become a human pincushion. 
+Rug with message "Step Here". 
+These rolled-up rugs are spares for use when the rug at the left is lost. 
+A rope tautly strung. 
+Sturdy looking bridge with one support pole across the chasm. 
+Sturdy looking bridge with two support poles across the chasm.  A message reading "Cross Here" is on this bridge. 
+Chasm across the room.  The only safe passage is across the bridges. 
+Door to some other room. 
+Window showing vague outlines and shapes. 
+Some kind of cabinet showing a flip top secured by a hasp. 
+Some kind of cabinet. 
+The stuff that dreams are made of.  Left here by some somnambulistic brigand. 
+This was not the ending you had in mind when you read the manual on "How to be a Hero".  Either you just aren't ready to take on this situation, or there's got to be a better way to accomplish your mission. 
+The flying Wallendas have nothing on you. 
+You're not in a good spot. 
+It's too late for that. 
+"Brigands over all!"  Egotistical bunch, aren't they? 
+You're too busy. 
+"ME" sees you preparing to throw and... 
+Why would you want to throw that? 
+It's "ME". 
+The arrow points to "ME". 
+It's an exit...or is it an entrance? 
+The arrow points to a door.  Who could've guessed? 
+The arrow points to a door.  How secret is that? 
+A sign points to a door.  The egress? 
+It's a box of some sort...or so the sign says. 
+It's a sign, but you'll have to be closer to read it. 
+You can't do that from where you're standing. 
+You can't do it. 
+Used to belong to Bogey. 
+You see loot from brigand raids stacked against the walls. 
+You see a desk.  On the desk is a book and a mirror. 
+He's not here. 
+You sense a strong magical aura on the brigand leader. 
+The hand mirror on the desk radiates a powerful magical aura. 
+You sense magical auras from the large carpet and several other objects in the room, but you don't have time to investigate. 
+There are no rocks here. 
+There are no more potions here. 
+You don't have time to take anything else. 
+Take only those things that will serve your quest.  Your time is limited. 
+You do not have any rocks. 
+Uh oh!  The Kobold doesn't look very calm. 
+Well, you THOUGHT all was calm.  Maybe it was just YOU that got calmed.  Or maybe the Kobold just CALMLY blasted you into oblivion.  Maybe he really doesn't want to talk about it. 
+You lost your concentration when you contemplated changing fighting modes.  The Kobold managed to blast you out of the game. 
+The power of the Kobold Wizard's magic overcomes you.  The best defense against such power would have been a good strategy. 
+As you look across this section of the cave, you see a Kobold resting on a ledge across from you. 
+"You go! You no stay here!" 
+"No talk!  You GO!" 
+There is a strong aura of magic around the key you have taken from the Kobold. 
+There is a strong aura of magic around the key hanging from the Kobold's neck. 
+There is magic in the key left behind by the Kobold. 
+You see the outline of a chest glowing in a corner of the cavern. 
+You can detect faint glimmerings of magic from the remains of the exploded chest. 
+There is no magic here any more. 
+He's not a happy Kobold. 
+Quit sightseeing and watch what you're doing! 
+Later!  Later! 
+Of course! 
+In other words, keep fighting! 
+You're a little too busy at the moment. 
+You weren't able to take the full force of the blast from the magically booby-trapped Kobold's chest. 
+Wow!  The chest must've been booby-trapped.  You can really feel the damage from the blast. 
+The invisible chest's invisible lid lifts. 
+You add ten gold and sixty silver pieces to your money pouch. 
+You hack and pry at the chest, but it seems to be stronger than you are. 
+Your fingers shift slightly, and... 
+A simple yes or no will suffice. 
+Ahhhhhh! 
+Since you are a practitioner of the magical arts, you might be interested in a little game I have. 
+I'll teach you the Dazzle spell if you win.  You do want to play, don't you? 
+Wonderful!  Then you can play a game of Mage's Maze with me. 
+Too bad.  You really can't play the game without it.  You can buy a learning scroll at Zara's magic shop in town. 
+"Fetch" is a useful spell for catching and retrieving small objects at a distance. 
+The "Trigger" spell is used to set off an existing spell, just like pulling the spell's "trigger". 
+For example, if a chest has a magical trap on it, you can set off the trap by casting a "Trigger" spell. 
+Put a fire trap, for example, on a chest.  When someone tries to open it, the thief will go up in smoke! 
+Tell our hero here what happens when you forget and try to open the chest yourself. 
+I only got singed the last time.  Nothing major. 
+It looks to me from up here as if she missed the back part of the alley, and the spell applies only to areas in town above the ground. 
+Pretty shoddy work, if you ask me! 
+Zara has a real flair for the theatric.  Her method of greeting customers at her shop is showy but effective. 
+She started it!  I just wanted to give her a taste of her own medicine. 
+It's a shame she still beats you! 
+What am I, chopped liver?  Am I invisible or something that you talk about me behind my front? 
+It's hard to take you seriously when you wear that silly hat! 
+That's not a magic mirror. 
+No, but it does show a strange face.  Have you looked in it lately? 
+Oh.  That's right! 
+However, in order to be a wizard, you need to have undergone initiation into the "Wizard's Institute of Technocery" in the South. 
+Does that mean you tease pickles? 
+Isn't that like the vampire who likes to take necks out for a good time? 
+It means, my dear Fenrus, that a necromancer is someone who deals with the dead. 
+Canasta with cadavers? 
+Spades with shades? 
+Oh! 
+That one usually floors me, but I'm going to brush it aside before I'm swept away with laughter. 
+(Gag!) 
+The cupboard contains a variety of dishware and eating utensils. 
+The fireplace is cold and lifeless, the grate in front now only an ornament. 
+The guards stand stiffly at attention behind the Baron's table. 
+The long tables are covered with dusty tablecloths. 
+Through the door, you can see the hallway through which you entered, and the stairs leading down to the main entrance. 
+That would be inappropriate behavior here. 
+The floor has not been cleaned in some time. 
+"Just ask about anything you wish to know." 
+"I see that it is getting late." 
+"Zauberberg, the 'magic mountain', is the home of Erasmus, a kindly, but rather eccentric, wizard.  Zauberberg is directly east of here." 
+"My beautiful little daughter was stolen away ten years ago by Baba Yaga's magic." 
+"She has never been found, despite all the searching that has been done for her." 
+"My wife has been gone for many years." 
+"She died giving birth to Elsa, my daughter." 
+"As I entered the cave, the Kobold ordered ME to get out." 
+"I informed it that I was Baronet Barnard von Spielburg, and heir to the lands and all within.  I ordered it to bow before me." 
+"Then it cast a spell upon me, and I remember very little after that." 
+As you can plainly see, Barnard is back to his old self, thanks to you. 
+"Now that my son is back, I have much to do.  Kindly restrict your questions to matters of import." 
+"That is of no importance to your quest, and time is short." 
+"A 'ermit is one wot lives alone, far away from them wot talks too much or asks too many questions.  'Ermits are shy, quiet types wot don't say much.  Me brother 'Arry 'ardly says a word in a year.  Me sister 'Ortense 'asn't spoken since she were six.  I never talks at all.  Yes, we 'ermits nose how to keep a mouth shut." 
+"I'm 'enry.  'Enry the eighth I is.  Me farther was an 'Enry and 'is farther was an 'Enry and 'is farther was an 'Enry and 'is farther was an 'Enry and 'is farther was an 'Enry and 'is farther was an 'Enry and 'is farther was an 'Enry. And every one was an 'ermit." 
+Confidently, you cast the Calm spell. 
+Why, how cute!  You cast the Calm spell, and the monster visibly relaxed.  Why, now it's calmly and relaxedly ripping you to shreds and eating you. 
+You see a door . 
+The door you came through is the only object you see. 
+The chandelier is firmly attached to the rope in order to lower it to light the candles. 
+The massive candelabra certainly seems to get in the way. 
+It says, "Brigands over all" (only in German). 
+The rope is heavy and very sturdy.  It is secured to the chandelier. 
+You don't dare; the brigands are coming. 
+The door is locked from the other side. 
+You're not near a door. 
+That wasn't at all helpful. 
+There are no rocks in here. 
+The door is closed, but has no lock. 
+The door is locked. 
+Get closer to the chair. 
+The door is closed but has no lock. 
+The candelabra won't budge. 
+It's much too heavy to carry.  You can barely move it. 
+Just keep a cool head and be logical.  You don't need to run or sneak. 
+"I am sorry, but I'm much too broken to talk about such things right now.  I have lost everything!" 
+The merchant consumes your meal in record time. 
+He then procedes to finish your drink in one gulp. 
+You can't give what you don't have. 
+The merchant finishes your drink in one gulp. 
+It is the merchant's hat. 
+It is the merchant's turban. 
+"There were about twelve brigands, including a Minotaur, if you can believe it!  Their leader was wearing a hooded cloak.  I could not see the face, but he had a high-pitched voice.  There was also some sort of warlock who giggled a lot." 
+"Although worn with age, the brigand leader's cloak must have, at one time, been an exquisite garment.  No doubt it was stolen, as were all of my goods!" 
+"Perhaps it was my eyes that deceived me, but I could swear there was Gnome blood in that odd magician." 
+"The magician who travels with the brigands is no wizard." 
+"It is my hat." 
+"It is my turban." 
+"Oh, I cannot bear to talk about my family at this sad time!" 
+"You must not have heard of the brigands who prey upon the innocent and unwary." 
+"All that I once owned is gone, alas!" 
+"Who would have thought that there could be such trouble entering this valley during the off-season?" 
+"My good friends Shema and Shameen, owners of this inn, are the finest of all the Katta people that ever graced Shapeir!  But for their kindness, I would have starved long since." 
+"If you have never seen such a beast before, you may count yourself lucky.  It is like a giant of a man with a bull's head." 
+"Two weeks ago, I was about to become wealthy beyond my dreams.  I, Abdulla Doo, would be the first merchant into the valley this year.  But my life was shattered by those vile brigands!" 
+"The band of brigands ambushed us just as we crossed the pass into the valley. They first used some magic which blinded us.  Then they overwhelmed my six guards and my assistants." 
+"All of my trade goods were taken from me, right before my very eyes!  Why the brigand leader spared my life, I do not know.  I am now but a beggar, living off the generosity of my friends." 
+"Ah, Shapeir!  Beautiful land of golden sands and shining sun! The heart of civilization!  Alas, she is plagued with fierce Djinni and Efreets, who seek to drive all men and Kattas from the land." 
+"Alas, had I known magic, perhaps I could have turned the tide against those abominable brigands.  Their magic did not seem so strong, but they outnumbered my poor caravan by two to one!" 
+"My guards are all gone, killed or run away like dogs!  I, too, would be lying dead had not the strange brigand leader spared my life, for what reason I know not!" 
+"If you help recover my treasure, I will take you, Shameen, and Shema back to our land by way of the flying carpet.  Shapeir needs powerful heros, too!" 
+You thank Shema and pay her. 
+Not until you're through with Shema. 
+Beyond the bear, the cave seems to continue. 
+The bear is gone.  All that is left is the body of a dead man. 
+The bear is gone. 
+The man is gone. 
+You see the brigand leader.  From the look in her eyes you've only got seconds to live. 
+Casting a spell isn't useful now. 
+She's not in a talking mood. 
+Not a good idea. 
+No time for that. 
+You think that you can fight the brigand leader?  You'd best think of some other plan. 
+How embarrassing, to get this far and then fail to see the trip rope.  How did they get that Antwerp up there? 
+There is a small sign which reads "Booby Trap".  You are now in a pitiful situation as you hear the brigands approach to see the booby they've caught.  You think to yourself, "If it looks like a trap, and it feels like a trap, then maybe it IS a trap". 
+You seem to be having a rugged time of it.  You've had a terrible ca-tapestry. 
+There are two notes. 
+There is a sign on the blue carpet which reads, "Step Here". 
+There is a sign on the right bridge which reads, "Cross Here". 
+This is not what you expected the brigands' fortress to look like in your imagination.  The barracks with the open half-doors to the east and west are fairly normal looking.  The carpet lying near the gate, however, is a bit odd.  The small chasm in the middle of this yard with the bridge across it seems strange, too.  There are two blockades near the gate and some barriers near the north. 
+That's interesting.  There seems to be a pit trap under the carpet. 
+The carpets look rather new, perhaps recently stolen from the merchant in town.  There is a sign on the blue carpet which reads, "Step Here". 
+The barracks have open half-doors and you can hear noise behind them. 
+The chasm is about six feet across and ten feet deep. 
+There is a dark rope stretched tautly across the path.  It can easily be avoided by stepping over it. 
+The bridge looks sturdy resting on its pole across the chasm. 
+The bridge looks sturdy resting on its poles across the chasm.  There is a sign on it which reads, "Cross Here". 
+Sturdy looking bridge with two support poles across the chasm.  A sign that reads: "Cross Here" is atop the bridge. 
+There are two bridges which cross the chasm. 
+The sacks seem to be full of grain. 
+The barrels look like empty wine casks. 
+Nothing but cobwebs. 
+You see a rope tautly strung about 6 inches off the floor. 
+Don't -- you'll get dizzy. 
+The building to the north has a window and a single door. 
+You can see the fortress wall and the open gate. 
+You can see the fortress wall and the closed gate. 
+You're not near any window 
+Yep, it's a door all right 
+An empty cabinet. 
+You don't have much time to look at toys. 
+The cabinet seems to have some kind of hasp. 
+Get close for a good look. 
+The rope is securely fastened and is pretty useless anyway. 
+It's already open. 
+Points Available 
+Are you sure you want to start over? 
+Name : 
+Strength 
+Intelligence 
+Agility 
+Vitality 
+Puzzle Points 
+Experience 
+Health Points 
+Stamina Points 
+Magic Points 
+Weapon Use 
+Parry 
+Dodge 
+Stealth 
+Pick Locks 
+Throwing 
+Climbing 
+You Are Carrying: 
+Nothing 
+. . . and more 
+Gold Coins 
+Silver Coins 
+Weight Carried 
+Max Weight 
+MP 
+No rest for the weary.  Something's after you! 
+All the excitement of the battle has caused you to lose your appetite. 
+You only think you can smell that. 
+Cheetaur claws are very rare except on Cheetaurs. 
+You already have the Troll's beard. 
+That's not easy to do, especially since this is not a Troll. 
+You look all around, but you can't find any of those. 
+There is nothing here to fight. 
+Maybe that creature is magical. 
+Hero Status 
+Enemy Status 
+You cannot make the arcane gestures to cast spells while carrying a shield. 
+This might not be the best time for practicing non-combat spells. 
+Go ahead! 
+You're too close. 
+You don't have time for that. 
+You ARE! 
+You're not fighting, you're PRACTICING! 
+"Do not ramble, my friend" 
+"Will you pay?" 
+"Will you fight?" 
+"I'm sorry.  Since you have no skill in parrying blows, you would receive no benefit from my instruction." 
+The weapon master carries a blunted practice sword, in the belief that students retain more of their learning if they survive the practice sessions. 
+"Fighting is both an art and a skill." 
+"It is a skill in the use of the muscle strength and agility's control." 
+"It is an art in the out-witting and out-maneuvering of the opponent." 
+"I am, of course, a most skilled artist." 
+"Do you fight?" 
+"If you were a swordsman skilled in both attack and parry, we could have had a practice bout." 
+"I am the Weapon Master." 
+"The Baronet had some minor talent with weapons, but he was too impatient.  If he had but listened and learned what I teach, he would never have been lost." 
+"I never use a shield or armor under most circumstances.  It only gets in the way of my agility and dodging ability.  It is best used by those who are strong, but not swift or agile." 
+"En garde!" shouts the Weapon Master... 
+"Enough!" cries the Weapon Master. 
+"Be more aware of the angle with which your weapon approaches your opponent.  The thrust bites quick and deep, but the swing will do more damage if it connects." 
+"The art of dancing would be a good skill for you to practice, my friend.  The balance of the body over the rapidly moving feet has won many a contest." 
+"Put your attention to the control of your legs when you duck a swing.  Your springiness makes you seem to bounce, and a good opponent (like myself) will always take advantage of the opening." 
+You're mad as heck, and you're not going to take it anymore.  As a matter of fact, you CAN'T take it anymore.  Restore your strength and health and try again. 
+You're mad as heck, and you just won't take it anymore.  As a matter of fact, you CAN'T take it anymore.  Start over, and remember to keep up your strength and health. 
+NOT NOW!! 
+It's a little sign that reads: "Do not read this sign under any circumstances. 
+Your bug doesn't have any hands.  This makes throwing anything out of the question. 
+Looks like all you can do is wriggle. 
+Better concentrate on the game. 
+"Well I'll huff, and I'll puff, and I'll smash the gate down." 
+Yuck! 
+Dance?? 
+Dance! 
+Dance!! 
+Hee, Hee! 
+Ooooh! 
+Wowie! 
+Do not!! 
+Do too! 
+Fairies! 
+Fairies? 
+Yuckie! 
+How rude! 
+Dance!  Dance!! 
+Do not! 
+Am not! 
+Are too! 
+You! 
+No, You! 
+Mikey! 
+How rude!! 
+Now you're really going to get it!! 
+What an insult!! 
+You'll just have to dance!! 
+Have to dance!! 
+Dance for us!! 
+Dance!!! 
+Will you dance for us?? 
+Dance?  Dance?? 
+Dance??? 
+C'mon now! That's HARDLY a heroic action! 
+GADZOOKS! 
+I'm sorry, but this game has a PG rating. 
+You didn't really say that, did you? 
+I'm not programmed to do that sort of thing! 
+That wouldn't be appropriate. 
+The pressure gets to you after a while, doesn't it? 
+Didn't your Momma teach you any better than that? 
+ODS BODKINS! 
+b 
+You see nothing special. 
+It is just as it appears. 
+It looks pretty normal. 
+It's not important. 
+c 
+"Yes, the weather does what the weather will do, does it not?" 
+"Surely you jest!" 
+"I'm not sure that I understand you" 
+"You seem to be talking without saying very much." 
+"Beg pardon?" 
+d 
+Of all the places to click on, you had to choose THIS one! 
+If there was something interesting and informative at this location on the screen, we would certainly have put up a much more interesting and informative message than this one. 
+You have reached the residence of Mr. and Mrs. Pixel.  We are unable to come to the screen right now, but if you leave your game and character at the sound of the beep... 
+Yes!  You have found a cleverly hidden representation of the Starship You-Know Who! 
+You may have already won a fabulous, all-expense-paid trip for two to scenic Shapeir, land of the shifting sands.  To claim your prize, simply purchase a soon-to-be-released copy of "Hero's Quest II:  Trial by Fire" at a software dealer near you. 
+Congratulations!  By clicking at this spot on the screen, you have initiated an irreversible process that will destroy all life as we know it.  Have a nice day! 
+e 
+f 
+g 
+h 
+i 
+Day is dawning 
+It is mid-morning 
+It is midday 
+It is mid-afternoon 
+Sunset approaches 
+The night is still young 
+It is the middle of the night 
+It is not yet dawn 
+Why, you feel better already! 
+Otto and the Sheriff have retired for the evening. 
+The Sheriff calls out behind you:  "Just a friendly suggestion, but whatever you do, don't drink the Dragon's Breath.  Not even Otto can drink Dragon's Breath!" 
+There's no hint of the Ogre. 
+You see no sign of the Sheriff. 
+The Sign of the Scissors above the door, along with the striped pole, indicates that the building contains a Barber Shop. 
+A typical barber's pole. 
+The town gate is made of sturdy logs. 
+It stands open. 
+It is closed, locked, and barred. 
+There's a sign on the door of the barber shop, informing whoever reads it that the barber is out to lunch.  The door is locked. 
+The barber must keep odd lunch hours. 
+There are signs over each of the buildings informing you of their purpose. 
+Searching a law enforcer is a bad idea. 
+There's a sign on the door of the barber's shop, informing whoever reads it that the barber is out to lunch. The door is locked. 
+The town gate is standing wide open, as it does every day. 
+The sturdy town gate is completely locked and barred, as it is every evening. 
+Only the Sheriff can unlock the gate. 
+The Barber Shop appears to be closed. There's a note hanging from the doorknob. 
+"I am Sheriff Schultz Meistersson. This is Otto Von Goon, my assistant. What do you call yourself? " 
+It goes up and down...up and down...up and down...up and down..... 
+The Sheriff's pipe is a truly impressive hand-carved ivory pipe. 
+The Sheriff informs you that he's much too busy for idle chit-chat. 
+"Just walk around and find out for yourself." 
+The Sheriff replies, "Why, that's me!" 
+The Sheriff says, "You think I'm going to tell you everything I know about everything? Go look around and find things out for yourself." 
+You suddenly realize that you don't have enough money to purchase what you want. 
+Blustering, you say to Shema:  "Your prices are too high for me!" 
+As your face turns scarlet with embarrassment, Shema smiles and says: 
+"We are sorry not to be able to show more generosity, but we, too, are victims of hard and evil times." 
+One of the tables must have been made for some tall folks, perhaps Goons, Ogres, or Centaurs. 
+The door with the window in it must be the door to the kitchen.  The other door goes elsewhere in the Inn. 
+The walls have an ancient, solid look, well-worn and comfortable. 
+The heavy timbers look substantial. 
+The oak planking is well-worn, and the carpet is clean, but becoming threadbare. 
+The mantle above the hearth is a solid slab of wood.  There is nothing on it. 
+The fireplace tools are placed neatly by the hearth, along with the proprietor. 
+The beverage is more fragrant than most. 
+You practically licked the inside of the cup.  That was delicious. 
+You have no cup. 
+The food looks unusual, but smells delicious. 
+The plates on the wall are strictly for decoration.  Dishes with food on them are much more useful, if you're hungry. 
+For all that this door appears to be free to swing back and forth, it doesn't budge when you try to open it. 
+The door appears to be stuck fast. 
+For what? 
+The aromas are enticing. 
+You're already standing. 
+Move closer to the chair. 
+You're already sitting down. 
+If you're hungry, order a meal. 
+If you're hungry, you should sit down and order a meal. 
+You haven't been served yet. 
+Both meal and drink have been consumed. 
+If you're thirsty, order a drink. 
+If you're thirsty, you should sit down and order something to drink. 
+The drink you ordered is all gone. 
+You have already ordered. 
+You're not hungry. 
+Shema will be back soon. 
+"The tavern is located in the northwest corner of our town." 
+"The Guild Hall is just down the street from here." 
+"Zara's magic shop is next door to my Inn.  You can't miss it." 
+"I have run this inn for three years now, with Shema." 
+"We had thought to return to Shapeir, my homeland, with Abdulla Doo, but Alas, Fate has decreed otherwise." 
+I have little knowledge of these things.  Perhaps if you shop around..." 
+"The world is filled with many kinds of creatures, both good and bad." 
+"Although in this valley I now have friends, I miss my homeland terribly." 
+"My apologies, Wanderer, but for such drink you must go to the tavern at the other end of town." 
+"Hot spice.  Hot!  I hope you like!" 
+"Work of an adventurous sort is available.  You must go to the Hall of the Adventurer's Guild." 
+"I am Shameen, mate of Shema, innkeeper to the town of Spielburg." 
+"Shema is my mate and the light of my life. If you sit down, she will be happy to serve you." 
+"I am but a poor unfortunate, forced to seek my fortune in this cold land, far from my homeland, Shapeir, and my people." 
+"We of the Katta know only low and simple spells." 
+"Alas, this humble innkeeper is ignorant of that about which you ask." 
+"A thousand pardons!  I am a fool and have no answer for your question." 
+"Forgive me, that I am unable to speak with knowledge on that subject." 
+Shema, mate of Shameen the innkeeper. 
+"It is my pleasure to serve you." 
+"Then you shall order food or drink." 
+"I am so sorry.  I do not understand." 
+"Then please enjoy our table and our fire." 
+"We have very good stew of newborn lamb along with honey chicken for a mere 3 silvers." 
+"We also have a tea of the rarest herbs, which will quench the thirst of the desert.  Each is only one silver." 
+"For that sort of beverage you must go to the tavern." 
+"I am called Shema, mate of Shameen, your humble servant." 
+"Shameen is of the oldest and finest ancestry of the Katta people." 
+"Shapeir is a land of desert sands, flowers, fruit, and beauty.  How I wish to return." 
+She merely blushes, as if embarrassed.  She appears to be very shy. 
+You just did. 
+"Please pay for your order after I bring it." 
+"With great pleasure will I serve you a fine meal." 
+"I will fetch that which will satisfy your thirst." 
+"I am sorry that our inn has not what you desire." 
+The food tastes surprisingly good. 
+This table must have been made for some tall folks, perhaps Goons, Ogres, or Centaurs. 
+She seems to have retired...or maybe she's at the tavern. 
+This (door?) doesn't have a visible lock. 
+Turn around and go on in. 
+The door appears to be locked.  It also appears that the occupant is taking her nap at the bottom of the stairs right now. 
+Not only does this building look weird, but it feels weird to be near it. 
+The fence around the Little Old Lady's house looks like it's made of wrought iron. 
+It would seem that the strangely decorated building is involved in the magic trade. 
+Flames? What flames?  You don't see any flames. 
+She's deeply asleep in her rocker. 
+In it sits the Little Old Lady, asleep. 
+Get closer for a good look. 
+You never saw a purple Saurus before you came to Spielburg, but it looks like a really stupid monster.  The plaque reads:  "Saurus slain by Hans Halfwitten". 
+It looks like it must have been a particularly nasty Troll.  You wouldn't want to meet him in a dark forest.  The plaque reads:  "Troll slain by Wolfgang Abenteuer". 
+This crossbreed of eagle and lion could have torn a man apart when it was alive.  The plaque reads: "Gryphon slain by Wolfgang Abenteuer". 
+Even in death, this monster remains awesome.  The plaque reads: "Dragon slain by Baron Stefan von Spielburg". 
+The head is like a panther's, but with a strong human-like quality.  It is still rather frightening.  The plaque reads:  "Cheetaur slain by Wolfgang Abenteuer". 
+This is certainly a weird one! You've never seen anything quite like it.  The plaque reads: "Antwerp slain by Two Guys From Andromeda". 
+The desk drawers are empty. 
+There is no way to close the desk. 
+On the desk are an old but ornate leather-bound book and a quill pen in the ink bottle. 
+You see an ordinary pen and ink. 
+You figure that the black head must belong to the Cheetaur, and you have no idea what the four-eyed creature might be.  You are also not quite sure why the Moose head is considered traditional, but every Guild Hall seems to have one. 
+He already is. 
+"Oh, my young friend!  What shall we talk about?  I have so many stories.  Just ask me about something." 
+"Ja.  What with the baron losing his son and daughter, all the monsters, Baba Yaga, and now the brigands, it has been one thing after another." 
+"Baron von Spielburg was once a brave protector of our valley.  We used to adventure together when we were younger.  No brigand or monster would dare show his face here if the Baron had not angered Baba Yaga.  Now it is said that he goes nowhere and sees no one." 
+"Elsa was a beautiful eight-year-old child with blonde hair and sky-blue eyes.  She was the Baron's pride and joy." 
+"Ten years ago she was carried off by something which came over the wall and flew off with her.  The search for her lasted many years, but at last everyone gave up." 
+"Everyone, that is, except for the Baron's Jester, Yorick." 
+"This is, of course, where an adventurer can find out where there is a need for someone brave and courageous.  There are jobs on the bulletin board over there." 
+"It is also a good place to talk about adventures on a cold afternoon.  We used to play cards here once a week, as well, but there are too few adventurers in Spielburg anymore.  They all died at the hands of monsters or brigands, or they just became too old." 
+"You can see some of the types of monsters that live around here if you look at our walls." 
+"There is a reward for anyone who can stop the brigands by capturing or killing their leaders.  The information is on the bulletin board." 
+"Oh, those are nothing.  Anyone can kill a Saurus." 
+"It's been a while since Schultz and I killed the one on the wall.  It is fortunate that few Trolls remain; they're deadly." 
+"Watch out for Cheetaurs.  I bear the scars of my last fight with one to this day." 
+"I can still see Stefan von Spielburg charging forward on his black horse.  He slew the one whose head adorns the wall above our fireplace.  The other one flew off." 
+"People say that they can sometimes see that other dragon flying high overhead, but it has never dared attack us again." 
+"One year, this valley was overrun by those odd and terrible monsters.  Schultz and I fought long and hard to eliminate them completely.  We might have failed even so, had it not been for those two peculiar tourists who came to our aid." 
+"They certainly were strange." 
+"That's where the tourists said they came from.  Must be some place up North -- I sure never heard of it." 
+"Not much of an adventurer, but he did kill one Saurus before he made the mistake of tangling with an Ogre." 
+"A Goon is a lot like an Ogre, not as tough, but a little smarter.  We have two Goons in town, Otto and Crusher." 
+"I'm sorry.  I only know what's written on the poster." 
+"The Healer's house is just north of the crossroads outside of town." 
+"You know, that reminds me very little of the time old Schultz and I......." 
+"Wait a minute. It'll come to me." 
+The smell of lavender and dust fills your nose as you walk in.  This reminds you of a great aunt's house you once visited.  The couch looks every bit as uncomfortable as your aunt's. 
+Just wait. He'll catch up to you 
+A string of pearls seems to have fallen into the bag among the knitting. You take the pearls, of course. 
+You find 3 silvers that have fallen down into the cushions. 
+Call Mayflower! 
+Nothing up there. 
+The rug is blue, and the floor has recently been painted red. 
+The house is tidy, but there is a layer of dust over everything. 
+The oval rug is blue to match the walls. 
+The door to the upstairs room. 
+The walls are a deep shade of blue. 
+The fire is out, but the heat from the hearth is still felt in the room. 
+On the mantle sits an ordinary hurricane lamp which provides the only light in the room. 
+There is a lace doily on the wooden table. 
+There is a lace doily in the center of the wooden table and a pair of silver candlesticks on either side of it. 
+The doily is lacy and shows fine workmanship. It is slightly yellow with age. 
+Cute but NOISY!. 
+The cage is covered, and you can't see the bird. 
+Against the wall, there is a small wooden desk with a potted plant on it. The desk has one drawer. 
+It's a rubber plant. 
+The Coleus plant has brightly colored leaves. 
+On the desk there is a plant which looks like some kind of violet. In the corner is a taller, leafy house plant. 
+There are no drugs here. 
+It's part of the stairs. 
+The little cat is wearing a cheap rhinestone collar. 
+Kitty, you'd better not be bothering the little birdie again! 
+You find 1 silver in the desk drawer. You find nothing else of any value to you. 
+The cat seems to want something. 
+The cat seems more insistent than before. 
+Purrrrrrrr! 
+KITTY!!! 
+Tall shelves with books and odds and ends suited to magic line the walls.  In front of you is a counter with a pentagram embossed on the front.  The ceiling and the far wall are mysterious indeed.  There is a strange symbol on the floor. 
+A toaster oven, very rarely used (electricity not invented yet). 
+A frog. 
+Dried up Mantray (Manta jerky). 
+You don't see any living creatures. 
+The walls are covered with shelves full of interesting and very unusual objects.  The back wall behind the counter seems to be not a wall at all, but perhaps an extension of some unearthly place. 
+The titles are totally unfamiliar to you. 
+Aside from the pentagram on the front, there is nothing unusual about the counter. 
+There is no one here to sell you anything. 
+"My name is Zara.  This is my shop." 
+"I am both human and Faery Folk.  I draw my Power from both." 
+"Monsters stay out of town, and I stay in.  They are of no concern to me." 
+"What I sell here are merely tools to help those who have power.  You may purchase restorative potions and scrolls from which you may learn spells if you have the potential." 
+"Upon von Spielburg and all his clan, this Curse I now demand:  What I will shall come full measure, so shall ye lose all that ye treasure." 
+"Erasmus is a Wizard and a Spellcaster who knows much about this area.  He lives in a tower eastward of town.  He can be very helpful if approached properly, but he has a strange sense of humor." 
+"It is a steep mountain to the northeast." 
+"Secrets are made to be kept." 
+"We can sell you spell learning scrolls and enchanted potions." 
+"We have Healing, Vigor, and Power Potions." 
+Just look at the shelves. 
+"We are entities of Magic and Power.  Matters such as that are of little importance." 
+"We choose only to answer questions which interest us.  Do not persist with uninteresting questions." 
+"We shall not waste our time further." 
+"You may choose from the Fetch, Open, or Flame Dart Spells." 
+"You may choose from the Healing, Vigor, or Power Potions." 
+"I do not sell such things to such as you." 
+"I am Zara, and my companion is Damiano." 
+"The items in this shop are designed for those skilled in the use of magic.  We have very little for ones such as you who have not been initiated, but what we have could prove useful." 
+It's a frog. 
+Impressive design, but merely decorative. 
+Paraphernalia and apparatus. 
+Darned if I know! 
+A simple but prosperous-looking edifice it is.  It looks like it might provide some staples that would prove useful to a traveler. 
+There is no response.  The store must be closed for the evening. 
+The creature in charge of the Farmer's Mart is a rather lovely and shy-looking young centaur. 
+This appears to be a Market street.  In the corner is a fruit and vegetable stand, or Farmer's Mart.  Next to it is a dry goods store, and next to that is a house.  Across the street you see the back of the barber's shop and the Sheriff's office. 
+You see the backs of buildings. 
+"I will be happy to take your silver.  Please pick out what you want." 
+"As you wish, sir." 
+"We have many kinds of fresh vegetables for sale today.  There are lettuce, carrots, potatoes, and turnips right from the ground at five for a silver.  They are very good for you!" 
+"It is much too early in the season for those.  Sorry." 
+"I'm sorry, but the cherry harvest is not yet in.  But we will have very nice cherries two months from now." 
+"There are still some apples left from last season in the barrel.  You may buy ten for a silver, since they are so small.  We will have fresh cherries in a couple of months." 
+"They have twice robbed my Father of his money, and they have tried to steal our food this winter.  That is because we farm outside of town.  They would not dare to try that in town.  The Sheriff would stop them fast!" 
+"We have some land to the north of town.  It isn't very big, but we grow many things.  You should be here during the harvest time.  Then you would see many fruits and vegetables." 
+"You know...in the autumn!  But then, perhaps you have never been a farmer." 
+"The Healer lives in a nice little cottage on the North road, near my Father's fields.  She is a very nice woman." 
+"My Father is Heinrich Pferdefedern, who works our farm just north of town." 
+"I am sorry.  I do not get about very much, and I do not really know about many things." 
+If you want to buy something, go over to the vendor. 
+"As I told you, sir, it is too early in the season.  You would not want to buy any." 
+"I'm afraid I can't help you with that, sir." 
+"Just pick out what you would like to purchase, then you can pay me." 
+The barrel contains potent looking potatoes more suited to throwing than eating. 
+The small apples give off a sweet but pungent odor. 
+Carrots are good for night vision and lower one's cholesterol. 
+The turnips seem to blush with pride.  You wonder if the farmer has been using Alar. 
+Lettuce and other leafy plants. 
+The pretty young centaur looks at you and says, "Good day, and welcome to Spielburg!  Do you wish to buy some nice fresh fruits or vegetables?" 
+However, this was not a good place to sleep.  You're stiff and sore all over and your wallet feels very light.  You give the Hilde the centaur a suspicious look, but you are too sore to pursue the matter. 
+The room is dark and still. 
+You see items which may be interesting and probably valuable. 
+The candelabra looks like it is made of gold. 
+The vase on the mantle might be worth taking. 
+There is also an odd little box on the table. 
+How anyone manages to dust a CEILING is beyond you. 
+The floor is covered with expensive wall-to-wall carpeting not common in this time period. 
+The walls look like they've been recently painted. 
+Somebody has a green thumb. 
+There isn't any. 
+There once was a music box on the table, but you took it. 
+The mantle is a single heavy timber. 
+A vase sits on the mantle. 
+Over the safe is a charming portrait of the Sheriff and his wife. 
+You took it.  Remember? 
+The vase is carved from alabaster and could be worth some money, although it would take up a lot of space in your pack. 
+Most silvers look alike, and they are all the same weight. 
+Safe? You don't see a safe. 
+Get closer if you want to look into the safe. 
+There is no need to do that. 
+It's already in your pack. 
+The vase is on the mantle. 
+You place the vase back on the mantle. 
+You quickly close the box and toss it into your pack. 
+Nothing like that is visible to you. 
+There might be something like that inside the wall safe. 
+You take the fifty silvers, and put the empty bag back in the safe. 
+The safe is already open. 
+The safe is securely locked. 
+Where? 
+What for? It's open! 
+It's not open. 
+The little box is safely tucked away in your pack. You can open it up later. 
+Oh, no! You won't do THAT again! 
+The little box is safely tucked away in your pack. It is already closed. 
+You quickly shut the lid on the music box! 
+Faintly, you hear: "Nkaawww...prrrrrt... honk...zup-zup-zup-buh-buh-buh-phweep. 
+If you were a person who liked that sort of food, you'd love this smell! 
+It would be more pleasant if it wasn't mixed with the odor of sauerkraut. 
+What a mixture! 
+It's a potted plant. 
+An overstuffed couch. 
+An overstuffed chair. 
+You're not close enough to the counter to see behind it. 
+The leather armor is more like barding, designed to be used under clothing.  The chain mail is much heavier, and looks very strong. 
+There are a variety of items of the sort an adventurer might need. 
+Go ahead. Talk to him. 
+"I can also sell you food or empty flasks for carrying liquids or powders." 
+"Oh, no, I don't carry that sort of thing here.  If you want to get drunk, try the tavern." 
+"Oh, this book?  It's about an adventurer who is trying to become a Hero.  The title is 'A Hero's Death'." 
+"Oh, you don't want those.  They're for the people who live here in town.  Adventurers just need adventuring equipment." 
+I have pigs feet, brooms, rakes, handles, pots, teapots, eggs, linen, flour, etc.." 
+"I'm sorry, I don't have any of those for sale." 
+"I carry weapons, armor, daggers, rations, ale flasks, and various food stuffs." 
+"Aw, you wouldn't want to buy that." 
+"Oh, I'm sorry!" the shopkeeper blurts out.  "I didn't notice you coming in." 
+"Well, my adventurer friend!  Would you like to make another purchase?" 
+"Well, my adventurer friend!  Would you like to make a purchase this time?" 
+"You may be in luck.  I carry a modest amount of adventurer's equipment behind the counter.  Would you like to make a purchase?" 
+"Now what was that you wanted again?" 
+Well, look around anyway.  You may find something you could use." 
+You see broom and rake handles in this barrel. 
+Flasks, very useful for storing liquids. 
+An unornamented but exceptionally sturdy shield. 
+Pickled Saurus eggs. 
+Linen coarsely woven from the fibers of spore spitting Spirea plants. 
+Bags of flour. 
+Pickled pigs feet. 
+Jars of beets and sauerkraut. 
+Tea imported all the way from Shapeir. 
+Salt from the desert east of the mountains. 
+Sugar from dried figs. 
+Salted, dried Saurus. 
+Locally grown pepper. 
+Wild honey from the forest. 
+There are several signs above the various establishments on this street, indicating the nature of their business. 
+You are in the northwest corner of town. There are a Butcher's Shop and a Bakery on the north side of the street. Across from them are the backs of buildings on the next street over. 
+The Butcher's shop seems to be closed. 
+Which shop do you mean? 
+The building looks old, dark, and a little seedy. 
+You can hear sounds of hammering from inside.  The door is securely locked, and no one responds to your knock. 
+There are signs affixed to the door knobs. 
+You can't see into any windows from where you're standing. 
+You can hear sounds of hammering from inside.  It must be some sort of workshop. 
+The Tavern in the corner looks rather rundown. 
+There's nothing there. 
+You pick up and read the note. 
+You don't have anything like that to look at. 
+The bartender frowns on customers who spit in his establishment. 
+You're not close enough to a barstool. 
+Separate yourself from that stool first. 
+Wait for the drink you just ordered. 
+Go ahead and drink up, first.  You paid for it! 
+But you're not sitting down! 
+The bartender bellows, "Sit down first!" 
+"OK. What'll you have?" 
+The bartender says, "One well-aged house brew, coming up!" 
+The bartender says, "One mug of my fine Troll's Sweat, coming up!" 
+The bartender is emphatic as he tells you, "If you want a mug of Dragon's Breath, house rules say it'll have to be cash up front!" 
+That ain't beer! 
+That isn't Troll's Sweat! 
+That isn't Dragon's Breath! 
+"B. - Meet me at the old archery range south of town at noon -- urgent! - B." 
+"Crusher, escort this squealer off the premises!" 
+"Yes...what?" 
+"No...what?" 
+The bartender shows little interest in small talk. 
+Look buddy...don't get personal! 
+The baker says, "There's a lake to the south which has a huge fish, but its pretty dangerous." 
+The butcher says, "There's a river to the south which has some good-sized trout. 
+They don't seem to be paying any attention to you. 
+These guys are so intent on their game that they don't want to open their mouths on any other subject. 
+It looks like these guys aren't playing with a full deck. 
+The bartender calls to Crusher:  "Hey, he's not one of us!  Take care of him!" 
+Good idea, but you're in the wrong movie. 
+You thank the bartender and pay him for your beverage. 
+The man on the west side of the table is wearing a blood-stained apron, like a butcher. 
+The man on the east has on a baker's hat. 
+This goon looks really tough and mean. He's not someone to pick a fight with. 
+So this is where the barber goes to lunch! The guy's had so much liquid diet, he looks embalmed. 
+Not a pleasant sight! 
+The world-famous Troll's Sweat is always fresh. 
+Dragon's Breath is the house specialty, and it's Crusher's personal favorite. 
+Nothing but a dirty floor. 
+This dark, seedy place is less than you expected of a Thieves' Guild. 
+You feel uneasy about the sinister mood here. 
+"I don't have time to talk to unlicensed scum.  Pay your guild license fee, and then we can talk." 
+"I can't hear you.  Please come a little closer to the window." 
+It looks like an oversized, well-used dartboard. 
+The shadowy figure behind the door is Boris, the cashier and fence for the Guild. 
+The floor is surprisingly clean, compared to that of the bar upstairs. 
+The plaster is chipping in several places. 
+"Go up to the window, please." 
+"We only deal in cash here." 
+You can't fence something you don't have. 
+"We have no interest in those." 
+"Let's see now... deducting the Guild cut, and allowing for resale markup, that comes to..." 
+"A dagger is a thief's best friend, and throwing from a distance is the safest and best way to use it.  If you think you are good enough, perhaps we could play a little game." 
+"We use the specially designed Dag-Nab-It board you can see there on the wall." 
+"We could start small, perhaps five silvers a game, perhaps even less.  Of course, we can wager more if you think you can take me." 
+"Where else but here can one mingle freely with others of our chosen profession, sharing tips and secrets?  Where else can you safely fence stolen items?" 
+"Where else can you ask questions like these and not get thrown into jail or attacked?  The Guild is truly your home away from home." 
+"My advice is, don't get caught." 
+"Otto is the Sheriff's goon.  He shouldn't give you any trouble unless you happen to stand in his way." 
+"I am known as 'The Chief'.  But you can call me 'Chief'." 
+"These non-union cretins are giving thieves a bad name.  I'm sure they have a spy planted in our organization, but I don't know who it is." 
+"There is certainly a traitor in our midst." 
+"I have had beginners before, but this Guild reached a new low when you joined.  Child, you are a thief.  Stealing is how you make a living.  So go out there and steal something and hopefully you'll get, umm, that is, you *won't* get caught." 
+"We will gladly sell you a lock pick for a modest fee.  However, for the true professional, nothing will do but the Guild-Approved Acme Thief Tool Kit.  This kit will allow you to pick anything with a little practice, and is a real steal at only one hundred silvers.  Just talk to Boris." 
+"Now that has to be one of the stupidest things anyone has ever asked me." 
+"My name is Sam.  I've lived here for five years now, and I think I'll be heading on once the pass clears of snow.  There's supposed to be some good begging towns to the south." 
+"A beggar gets cash only when others get cash, and nobody's got much money here right now." 
+"I remember when people used to stroll around town at night.  Now, the only people out late are the thieves.  And outside of town, man, you don't dare go out there after dark.  The Night Gaunts'll get you for sure." 
+"The most dangerous monsters come out at night.  I'd stay inside then if I were you." 
+"Thieves prowl the streets at night.  They don't bother me because I have nothing to steal.  The brigands are worse.  They sure hurt business; no one's getting rich but them." 
+This grubby place must be an alley.  You feel a strange, cold feeling here.  You see some discarded barrels, and a beggar holds out a bowl towards you. 
+A thin man with very patched clothing holds out an empty bowl. 
+The beggar's bowl contains your donation. 
+The beggar's bowl looks sadly empty. 
+This barrel reeks of Troll's Sweat. 
+Although a beggar, the man in the alley appears to be sober. 
+You can't.  The beggar is holding onto it with an iron grip. 
+You reach in your pocket, and suddenly realize that you have no money to give. 
+"Silver for the poor." 
+This place seems sinister at night. You see a strangely glowing object at the far end of the alley. 
+These two men may be smiling at you, but they don't seem very friendly. 
+He may be short, but the dagger makes him look 7 feet tall. 
+The florid face tells you that this thief is a regular at the "Aces and Eights" tavern. 
+A whiff of Troll's Sweat indicates that this barrel is from the "Aces and Eights" tavern. 
+You're too far away from the back wall. 
+"Aw, now look what ya done.  You made poor Slink run out of patience." 
+"You mean to say that the first customer we've had in months is a fellow thief?  And here I thought we were going to make some money." 
+Slink: "Thanks, it's been a pleasure doing business with you.  You can find your way out, I'm sure.  But better hurry before my dagger starts to slip." 
+Before you can begin to use any magic, the thieves decide that you're up to no good. 
+Slink says, "That coin light spell gets them every time.  See that dagger?  The next one is centered on your back.  Give Sneak there your cash and you walk out of here.  It's a simple trade, your life for your money." 
+Slink:  "Hey, Sneak, this guy's hard of hearing or something.  I told him to get a license last time he was here, and he didn't listen.  Let's teach him a little lesson about listening to his betters." 
+Too much beer. 
+As dirt goes, it's pretty dirty. 
+It's in the kegs. 
+Mighty frothy. Looks OK. 
+Looks lean, mean, and green. 
+The fumes hurt your eyes. 
+The man on the west side of the table is wearing a blood-stained apron, like a butcher. The man on the east has on a baker's hat. They seem to be deeply involved in their game. 
+You can't see the game very well from where you are. 
+They seem to be using an "Old Maid" deck. 
+There are several. 
+That looks mighty nasty! 
+There are three bar stools at the bar. 
+There seems to be something slimy spilled on top of the stool, and it is eating into the wood.  You think perhaps you should sit on the next stool over. 
+"Let's finish this game first." 
+You killed a goblin. 
+You've taken out the brigand, but... oh, no!  Here comes another one! 
+a:hq1_hero.sav 
+CONGRATULATIONS!!  You have successfully completed "Hero's Quest I:  So You Want To Be A Hero" with the maximum possible score, 500 of 500!!  We welcome you to the ranks of the few, the proud, the True Heroes! 
+If you have not already done so, we encourage you to play "Hero's Quest I" again with the other two character types; many of the puzzles are different, or have alternate solutions. 
+The save character file has been created.  Save this disk for use with "Hero's Quest II:  Trial By Fire" from Sierra On-Line. 
+n 
+Your spells seem to have no effect here. 
+That would be a very bad idea.  Someone would hear you playing the Sheriff's music box, and you would probably be arrested. 
+Pine needles, moss, and early spring grasses cover the forest floor. 
+A tumbled pattern of rocks and boulders leads upwards to the steep cliffs and peaks of the mountain range surrounding this small valley. 
+Looking through the surrounding woods, you occasionally are able to catch a glimpse of the snow-capped mountain peaks. 
+Let's see how much fun you have pulling splinters from your lips. 
+You might be near a graveyard! 
+There are no ghosts here to look at. 
+Pine needles, moss and early spring grasses cover the forest floor. 
+The low-lying bushes form tight tangles between the trees. 
+The valley floor is covered by fine, moist soil with few large rocks. 
+There aren't any. 
+That isn't drinkable -- it's an oil. 
+The great house of Baron Stefan von Spielburg rises on a low hillock over the courtyard and castle walls. 
+There are guard towers at regular intervals around the castle wall. 
+It's a gate that raises and lowers. 
+The castle walls are thick and massive.  There is a walkway around the rampart for the guards to patrol. 
+The main courtyard is a broad, grassy area with a large octagonal area of flagstone paving in the center. 
+The flagstones are from a rock quarry in eastern Germany. 
+Granite from our very own moutains? 
+You've already opened all that can be opened in here. 
+You're too busy right now! 
+There are no spells left to trigger. 
+The Kobold is still blind from your last Dazzle spell.  Act quickly! 
+Ding, dong, the Kobold's dead.  Why bother? 
+One thing at a time, hero! 
+Just walk over and get what you want. 
+The Kobold's magic blocks your spell. 
+Shhhh!  You'll probably just wake up the Kobold. 
+It'd just make the Kobold madder. 
+Perhaps something more potent than a rock is in order. 
+You have no weapon. 
+There is no one to fight here anymore. 
+You're already fighting! 
+Now's not a good time to attempt to communicate. 
+Too late for that now! 
+Your footsteps echo loudly in this cave.  You'd better practice some more before you'll be able to sneak in here. 
+This part of the cavern is spacious and multi-leveled. 
+Resting on a rocky platform above the cave floor is a Kobold, one of the race of ugly, miserly magicians. 
+There seems to be a crude table at the base of the platform. 
+There is a lot of activity at present. 
+The Kobold seems agitated. 
+Looking back the way you came, you see a faint reflection of the distant sunlight from the cave entrance. 
+Something is lying in a pile on the table.  Mushrooms?  Toadstools?? 
+They look almost edible... if you're a Kobold. 
+There are numerous gold and silver pieces in the chest. 
+Where the chest was, you see many pieces of silver and gold. 
+The chest is invisible. 
+You don't see anything like that. 
+You once had a key. 
+The key around the creature's neck seems to emit light.  You strongly suspect that it is magical in nature. 
+The key lies on the stone where you last saw the Kobold. 
+The key is no longer there!   Perhaps you should have gotten it while you had the chance. 
+The strange creature is wearing ragged clothes. 
+There is what looks like a key hanging around its neck. 
+The creature does not seem pleased to see you. 
+This creature is DANGEROUS! 
+He's gone. 
+The key doesn't open the chest. It must be for something else. 
+What is the purpose? 
+How? 
+You attempt to smash your way into the invisible chest! 
+You can see no lock to pick. 
+You have no way of doing that. 
+You attempt to pick the lock on the invisible chest.  This'll be tricky! 
+You retrieve the key you dropped. 
+The key is no longer here. 
+You'll have to be careful if you want to get the key! 
+You'll have to kill the Kobold first. 
+You take the key. 
+You pick up several of them and put them away. 
+It's too heavy. 
+How are you going to do that? 
+There is no treasure to take. 
+Yep, that's a door, all right. 
+The shades are drawn. 
+The windows appear to be locked.  You certainly don't want to break them and attract attention. 
+You can't pick a lock without a lockpick. 
+The town gate's open.  There's no need to climb over.  Besides, you'd make people nervous. 
+There's no good place to climb the wall here. 
+You climb over the town wall. 
+There is an absence of the usual litter associated with town streets. This hamlet is kept very clean. 
+The town wall is made of the same rock as the surrounding mountains.It appears to be very sturdy. 
+It keeps the occupants of the building dry when it rains. 
+If you look past the town wall, you can see the mountains through which you journeyed to arrive here. 
+That doesn't appear to be a proper sentence. 
+That sentence doesn't make sense. 
+You've left me responseless. 
+Every hero needs a break now and then.  Have a nice nap. 
+You need to find the key. 
+The chest is far too heavy to move. 
+The Kobold's large, brass key glows slightly in the dark cavern. 
+The Kobold's dinner table is now bare. 
+The Kobold has disappeared entirely.  You are not sure whether you killed him, or whether he escaped by some sort of spell. 
+The chest contains numerous pieces of gold and silver. 
+Nothing useful remains of the chest. 
+You cannot see the chest, but it feels fairly large, and is too heavy to carry. 
+You don't *see* a treasure chest here. 
+The damp floor is too slippery for you to run safely. 
+Just try to walk out of the cave while you still have time. 
+How embarrassing.  You don't have a weapon with which to fight! 
+You're too close to the Kobold for throwing to be practical. 
+This section of cave has an eerie quality. 
+You don't seem to be able to move. 
+You don't see any particularly interesting roots. 
+There aren't any loose daggers here. 
+There is a strong odor of decay and other nasty smells filling the air.  A pile of something unpleasant lies near the center of this cave. 
+Get closer to the pile of junk. 
+The armor is corroded and valueless. 
+The Minotaur is out for the count. 
+You hear a very satisfying "Snick" as your pick catches the lock just right.  Then you sense powerful magics dissipating around the lock, and your hands shake as you realize you have narrowly avoided some sort of Magical Doom. 
+The door is barred on the other side. 
+The Brigand leader looks tough!  This may be the toughest battle of your career so far. 
+Choose a new character type? 
+You may have already won a fabulous, all-expense-paid trip for two to scenic Shapeir, land of the shifting sands.  To claim your prize, simply purchase a soon-to-be-released copy of "Quest for Glory II:  Trial by Fire" at a software dealer near you. 
+There appears to be a note on the door of the barber shop. 
+"Even a thief can be a hero sometimes, as long as uses his skills only for good purposes.  But most thieves are far from being heroes." 
+Zara ignores you.  You would do better if you showed some respect by walking up to the counter before talking to her. 
+"B. - He's starting to act suspicious.  Better save this drop for emergencies. - B." 
+As Slink reaches for his dagger, you draw your Thieves' Guild license. . . 
+You *almost* make it. 
+Slink:  "Hey, Sneak, this guy's hard of hearing or something.  I told him to stay out of our alley, and he didn't listen." 
+You win by a close margin. 
+Slink:  "All right, so you got your license.  How nice.  Guess we don't get to kill you right now." 
+"But stay out of our alley, 'cause we got real short memories, like." 
+"Just answer the question.  Shall we play again?" 
+a:glory1.sav 
+Congratulations!  You have successfully completed "Quest for Glory I:  So You Want To Be A Hero."  Your final score was %d of 500 possible Puzzle Points. 
+In the meantime, you are already a winner!  Please insert a writeable disk in your floppy drive to save your winning Hero for use in\n"Quest for Glory II:  Trial By Fire." 
+You already have the key. 
+You don't see a chest here. 
+The chest is empty. 
+"He spoke the words,\n   'Hear me, oh mighty Baron.\nYou have angered me, and thus you are cursed.\nAll that you value you shall lose;\nall that you treasure shall be taken from you.'\nThe captain then dissolved into a pool of sticky blackness." 
+There is nobody else here. 
+He isn't here. 
+You aren't near a door. 
+Suddenly, you hear voices, seeming to come from everywhere at once.  They all sound like Baba Yaga, and they all say:\n"Wheeeeeere's myyyyyy\nMaaaandraaaaake Rooooooooooooot????" 
+The software you are now using was produced\nthrough the efforts of many people:\ndesigners, artists, programmers, musicians,\nand lots of other hard-working folks.\r\nIf you make copies of this software for any\nreason other than to make a personal backup,\nyou are not only breaking the law, but raising\nthe cost of software for all legitimate users.\r\nPLEASE\nDO NOT MAKE ILLEGAL COPIES OF THIS GAME ! 
+Oh, by the way . . .  You will need the information contained in the printed documentation to successfully complete this game.\r\nIn other words, it's not just the law . . .\nIt's a good idea. 
+You eat some vegetables.  You think they would have been better saved for cows or horses.\nReal Heros eat preserved dry rations. 
+Congratulations!\nYou have discovered the first bug in this game. 
+Two witches had two watches.\nWhich witch would watch which watch?\nWhich watch would which witch watch?\n(Is that too witchy watchy for you???) 
+"Powers of Night,\nShadows of Day\nHeed now my Words!\nHenceforth you STAY!" 
+"Hero sandwiches?\nI had something more formal in mind." 
+"Ah...that's it!\nFrog Legs Fricassee." 
+"Hear me, oh Powers\nOf Klatha and Mana!\nTurn now my guest\nInto species called Rana!" 
+"Powers that rule\nOver regions soggy:\nChange this creature\nBack into a froggy!" 
+"What have you DONE to me?\nHow DARE you use my own spell against me?\nI'll, I'll....Oh oh!" 
+"Hear me, Oh Element of Air and Wind.\nGive me the power to save my own skin." 
+"Hear me, oh Powers\nOf Mana and More:\nTurn this fool back\nAs he was before." 
+"YOU DON'T GIVE UP EASILY,\nDO YOU?" 
+"CAN YOU HEAR ME?\nYOU HAVE THREE QUESTIONS." 
+"HE WHO WOULD THE WIZARD SEE\nFIRST MUST ANSWER QUESTIONS THREE." 
+ASKING QUESTIONS\nIS *MY* JOB, BUB! 
+"WHAT IS THE MEAN AIRSPEED\nOF AN UNLADEN SWALLOW?" 
+"WHAT IS THE MEANING OF LIFE,\nTHE UNIVERSE, AND EVERYTHING?" 
+"IS IT FURTHER TO SHAPEIR,\nOR BY CAMEL?" 
+GO DIRECTLY UP TO THE TOWER.\nDO NOT DALLY! 
+You can make out the runes imprinted on the\nstrange device:  "Acme Toy Co." 
+The suit of armor was made for someone much taller than you.   The plaque underneath it reads:\n  "Bequeathed by Colonel Gulden Dijon." 
+Dredging up your ancient Egyptian,\nyou translate the hieroglyphs:\n  "She of the golden hair." 
+Just answer the question:\nYes or No? 
+HO-HO-HO-HEE-HEE-HEE\n HA-HA-HA! 
+You seem to know all of my punchlines, so...\nto SPELL with you! 
+"He spoke the words,\n   'Hear me, oh mighty Baron.\nThou hast angered me, and thus you are cursed.\nAll that you value you shall lose;\nall that you treasure shall be taken from you.'\nThe captain then dissolved into a pool of sticky blackness." 
+"The Potions will cost you: \n            Healing Potion 40 silvers \n            Magic Potion 60 silvers \n            Vigor Potion 20 silvers \n            Undead Unguent 100 silvers." 
+"Thank you.  I often use flowers from Erana's Peace in potion making.  Here are your silvers."\nYou put them away. 
+"These are very nice.  I'll dry them and grind them into a powder.  Let me think...oh yes! I said these are worth a gold.  Here you are."\nYou put it away. 
+"Do you mean to tell me that you actually managed to kill a Cheetaur?  You're quite a hero, aren't you?  Here is your money.\nYou might think about purchasing a Healing Potion in case you have to fight such monsters again." 
+"Don't tell me you actually killed a Troll?  Why, you are really amazing.  I haven't had any Troll's Beard for a long time.  Here are two Healing Potions for the beard."\nYou put them away. 
+"Brauggi I be, to boast of my boldness,\r\nStrong as the storm that sends forth the snow.\r\nFiercer in fighting than foes in their fury,\r\nFear now this Frost Giant fighter and flee!" 
+"Find me some fruit for to mellow my mead horn,\r\nGift I will give of a gem that now glows --\r\nJewel from Jotunheim, flare of the frost flame,\r\nFetch to me fruit that will fill up my fists!" 
+"Near now is North, for the winter has wandered,\r\nBringing this brave one to barter so bold.\r\nI journey from Jotunheim, home of the giants,\r\nSource of all snowstorms, the sender of sleet." 
+"Hollow my food house,\r\n        for my hunt has been hindered,\r\nBy having to hurry here from my home." 
+"Highpoint of harvest, the finest of flavor,\r\nApples or oranges, peaches or pears." 
+"Mead is the mother's milk, mighty yet mellow,\r\nThat brings joy to Giants and madness to men." 
+"Glow of the frost flame that fills up the night field,\r\nA jewel that is flawless, the finest of gems." 
+"Bored I become when the banter so blindly\r\nSpeaks of the subjects I care not about." 
+"Waste not my wits, for I weary of words;\r\nMy axe it is asking for action and more." 
+"Far from the frost field, fares forth this fighter,\r\nHunger has hurled me hither from home.\r\nMy name it is known in the Northlands as Brauggi,\r\nBarter with blade's clash, or bargain with me." 
+Fruit you have found, to fill all my food stores,\nThus filled the bargain, my gem you have bought.\nBrauggi has bartered, and all has been answered;\nThe mead it may mellow, and now I head home. 
+"Fiercer than frost's bite, my fury is fearless,\r\nMy axe it is edged as is the ice.\r\nThis warrior is willing to wield now the war drum,\r\nThe battleaxe blazes and bellows for blood." 
+"Courage you carry, but skill it is scanty;\r\nFace not this foe before fiercer you fight." 
+"All dressed up\nand nowhere to go." 
+"Here lies Lester Moore\nGored six times by a wild boar." 
+Let's see...root..root...\nI know I put that root SOMEwhere! 
+That acorn tasted awfully bitter...\njust like an ordinary acorn. 
+The Warlock ruminates:\n"Now where did I put that mirror...\nwas it on the desk in Elsa's office?" 
+"DOOR"\n"SECRET ENTRANCE"\n"EXIT"\n"ME"\n"BOX" 
+You curl up for a nice little nap.\nThe brigands break down the door.\nYou wake up dead. 
+C'mon!  He's not going to KILL you...\nis he? 
+Baba Yaga is good at curses and shape-\nchanging spells.  She has a nasty temper, so it's best to stay on her good side. 
+For myself, I prefer to master all aspects of Magic unlike the narrow-\nminded specialists. 
+Do you know what you get when a Tyranno-\nsaurus running eastward meets a Tyranno-\nsaurus running westward? 
+Tyranno-\nsaurus wrecks! 
+Do you know what's big, purple, and eats ungefaehr-\nliche dinge? 
+Big, purple ungefaehr-\nliche dinge eaters! 
+Large purple ungefaehr-\nliche dinge eaters are all too common in the forest these days. 
+"Please move away\nfrom the door." 
+"The prophecy stated,\n     Comes a hero from the East,\n     Free the man from in the beast;\n     Bring the child from out the band;\n     Drive the curser from the land." 
+It was a tough battle, and you lost.\nNever fear!  All you have to do is restore your game, and...\nWhat do you mean, "Restore WHAT game?" 
+You see a sign that reads, "Beware of Porcupine".  That's odd, you don't see a ...\nYou do, however, see many archers leaning over the chasm edge with arrows pointed toward you.  You now have a funny feeling you know who the porcupine is going to be in a few minutes. 
+TAB to move around,\nArrows to adjust values. 
+"If you would like a stretcher, my weak, tired friend...\nYou seem a shadow of the person who began this little lesson." 
+'DING DING DING DING....' \n"Well, maybe the brigands aren't such inhospitable creatures after all." 
+Now, Oh-Soon-To-Be-Supper...\nI don't suppose you have a name?" 
+"I need the root of a mandrake plant\nthat grows in the graveyard.  Will you be\na sweet and fetch me some?" 
+"Hear what I say\nAnd hear me right:\nMandrake must be pulled\nAt precisely Midnight!" 
+"This I tell you\nAnd this I say:\nReturn with the root\nEre the break of next day." 
+"Hear what I say\nAnd know I don't lie:\nBring back the root\nOr else you will die!!" 
+"Spirits of Mist\nAnd Creatures of Bog:\nTransform my guest\nTo the shape of a Frog." 
+"This I vow:\nStay there now!" 
+"Creatures of Bog\nAnd Spirits of Fog:\nReturn the true form\nTo this rather dumb Frog." 
+We're sorry, but the pixel you clicked on is not in service at this time.  Please check your mouse and click again.\nThank you! 
+This is a pixel.\nThis is only a pixel.\nIf this had been a REAL picture element, you would have seen a REAL message. 
+There is a place between shadow and substance...\nbetween reality and imagination...\nbut THIS isn't it! 
+Key commands:\nALT-S Show cast\nALT-M Show Memory\nALT-T Teleport\nALT-V Visual\nALT-P Priority\nALT-C Control\nALT-I Get InvItem\nALT-B Set Ego's Bucks\nALT-K Set one of Ego's sKills\nALT-X Make Ego eXtra special\n 
+view: %d\nx:%d y:%d\n%s %s illB=$%x 
+ego\nx:%d y:%d\nloop:%d\ncel:%d 
+Isn't it hard to tear your eyes away?\n"PYROMANIA." 
+Help! Burglars! Sheriff! Help!\nKitty! Kitty! 
+Reward for return of lost ring.\nInquire at the Healer's. 
+This poster is rather dusty and faded.\nThe picture is of a small child with braids.\r\n"Reward of 50 gold coins for the safe return of\nElsa von Spielburg.\nInquire at Spielburg Castle gates." 
+Reward of 30 gold coins for the\nCapture or Death\nof the Brigand Warlock.\nDescription:  short, ugly, and\nwears brightly colored robes.\nHas habit of laughing continually.\r\nInquire at Spielburg Castle gates. 
+Wanted:  Brigand Leader.\nDescription:  Unknown appearance, wears a cloak.\nMust provide proof of leader's identity.\r\nReward of 60 gold coins and title of Hero of the Realm.\nInquire at Spielburg Castle gates. 
+Notice:  Spell components needed.\nCash or trade for potions.\nInquire at the Healer's. 
+This poster seems to have been here a while.\nIt has a picture of a handsome, but\narrogant young man.\r\n"Reward of 50 gold coins for information\nleading to the return of\nBaronet Barnard von Spielburg.\nInquire at Spielburg Castle gates." 
+There is some fairly loud snoring going on in this room. You hear:\n"Brckawwwww...zup-zup-zup-zup-zzzzz." 
+Very faintly, you hear snoring:\n"Prrrrrt...prrrrrt...prrrrrt." 
+"Hey! This is an honest establishment!  You\nwant me to ask Crusher?" 
+"We've got some of the finest ale\nin the valley, only 1 silver." 
+"Our world-famous Troll's Sweat is\nalways fresh and it's only 5 silvers." 
+"The Dragon's Breath is our specialty,\nand it's Crusher's personal favorite.  It's very hard to\ncome by, so it'll cost you 25 silver, cash up front." 
+Someone has carved into the bottom of the table\n" G. MEISTER slept here". 
+Stealing from a dagger-throwing thief?\nThat's a dangerous (and stupid) idea! 
+It's a vessel made of staves, headings and hoops. \nMore commonly known as a barrel. 
+Thus the hero from the East\nFreed the man from form of beast\nSaved beauty from the brigand's band\nAnd forced the Ogress to flee the land. 
+You have defeated the brigands\nAnd become a true Hero of Spielburg 
+The brigand band has been dispersed\nTheir treasure has been reimbursed. 
+So with the Kattas and the Merchant\nYou board a magic carpet to the land of Shapeir. 
+And so with Kattas and Abdulla Doo\nYou bid the valley a fond adieu. 
+Unfortunately, since the Baron is still\ncursed, and Baba Yaga remains to work her evil deeds, terror will continue to rule the land. 
+Script and Whip:\nLori Ann Cole 
+Vicious Art:\nKenn Nishiuye 
+Silly Stuff:\nJeff Crowe 
+Next Generation\nGraphics:\nJerry Moore 
+Marathon Coding\nand Rude Puns:\nBob Fischbach 
+Algorithmic Gyrations:\nLarry Scott 
+Cameo Coding:\nJerry Shaw 
+Insidious System\nSoftware:\nCorey Cole 
+Magical Mystical Music:\nMark Seibert 
+Underground Art:\nCindy Walker 
+Yogic Sympathy\nand Support:\nGuruka Singh Khalsa 
+Promotional Considerations:\r\nErasmus' Rootin' Tootin' Root Beer\nSpielburg Chamber of Commerce\nShapeir Magic Carpet Tours\nFamous Adventurer's Correspondence\nSchool for Heroes 
+In the meantime, you are already a winner!  Please insert a writeable disk in your floppy drive to save your winning Hero for use in\n"Hero's Quest II:  Trial By Fire." 
+Thank you for playing "Hero's Quest I:  So You Want To Be A Hero," and congratulations again on winning.  We'll see you again soon in\n"Hero's Quest II:  Trial By Fire." 
+%s\nis not a valid directory 
+Written and Directed by:\nLORI ANN COLE\r\nIllustrated by:\nKENN NISHIUYE, JERRY MOORE,\nJEFF CROWE and CINDY WALKER\r\nProgrammed by:\nBOB FISCHBACH, COREY COLE,\nLARRY SCOTT and JERRY SHAW\r\nOriginal Music by:\nMARK SEIBERT\r\nVersion %s\nCopyright 1989 Sierra On-Line, Inc. 
+Development System by:\nJEFF STEPHENSON, ROBERT E. HEITMAN,\nPABLO GHENIS, STUART GOLDSTEIN,\nand COREY COLE\r\nQuality Assurance by:\nMIKE PICKHINKE,\nSHARON HOBAN-SMITH,\nGodzilla, Genghis Khan,\nand the rest of the gang. 
+      DURING THE GAME:\nClick at the top of the screen or press ESC to use the menus. Additional shortcuts are shown there.\nClick Right or Shift-Click Left Mouse\nButton on an object to look at it.\r\n     IN TYPING WINDOWS:\nArrows, Home and End move the cursor, or click anywhere with the mouse. Ctrl-C clears the line.\r\n     IN DIALOG WINDOWS:\nSelect the outlined item with <Enter> and\nuse Tab and Shift-Tab to move between \nchoices. \nOr click with the mouse to select an item.\r\nESC always cancels.  
+\nYou can change your mind\n   if you have one. 
+%s\n[Collection of size %d] 
+%s\n[List of size %d] 
+%s\n[Set of size %d] 
+   So You Want To Be A Hero  [score %d of 500] 
+You will not need to use the word "%s" in this game. 
+%s on day %d. 
+%c 
+Silver Coin%c 
+Gold Coin%c 
+Food Ration%c 
+Large Brass Key%c 
+Broadsword%c 
+Dagger%c 
+Leather Armor%c 
+Shield%c 
+Piece%c of Paper 
+Small apple%c 
+Glowing Gem%c 
+Alabaster Vase%c 
+Candelabra%c 
+Music Box%c 
+Silver Candlestick%c 
+String%c of Pearls 
+Gold Ring%c 
+Spirea Seed%c 
+Small Rock%c 
+Beautiful Flower%c 
+Thief's Tool Kit%c 
+Thief's Guild License%c 
+Empty Flask%c 
+Handful%c of Green Fur 
+Flask%c of Fairy Dust 
+Flask%c of Water 
+Chainmail Armor%c 
+Potion%c of Healing 
+Potion%c of Magic Power 
+Flask%c of Undead Unguent 
+Hand Mirror%c 
+%s 
+"Well, you seem to have beginner's luck.  It only took you %d game%s to win.  Hmph.  It usually takes at least %d tries for anyone less than a full Wizard to defeat me." 
+Oh, you want %s?  I think I have %s somewhere around here. 
+By golly, It's %s! 
+%s, you're in big trouble! 
+Have you learned the %s spell yet? 
+Do you know how to cast the %s spell? 
+He's dead, %s. 
+%d 
+%d / %d 
+%d# 
+%d/%d 
+Our Hero has %d silvers. 
+Good luck in your quest, %s. 
+"Got any %d's?" 
+"%d silvers.  Here you are." 
+You now have %d gold and %d silver coins. 
+"The password is '%s'." 
+         Dag-Nab-It  [score %d of 500] 
+Congratulations!  You have successfully completed "Hero's Quest I:  So You Want To Be A Hero."  Your final score was %d of 500 possible Puzzle Points. 
+Could not create file -- %s. 
+%2x 
+%s needs an 'at:' method. 
+%ssg.dir 
+File: %s 
+I don't understand "%s". 
+Please insert your %s disk in drive %s. 
