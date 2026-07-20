@@ -463,7 +463,7 @@
 				)
 				(PlayBackSound 98)
 			)
-			((OneOf gCurRoomNum 50 66 67 68 69 73 74 75 76 77 78)
+			((OneOf gCurRoomNum 50 66 67 68 69 73 74 76 77 78)
 				((ScriptID 0 23) stop:) ; backSound
 				(SciAudio stop:)
 				(SciAudio play: {cave.mp3} -1)

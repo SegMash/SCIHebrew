@@ -9306,7 +9306,7 @@
       "logicFile": "single",
       "messageNumber": 648,
       "original": "GNOME: \"How in the world did you think of that?  That's not even close.\"",
-      "translation": "גמד: \"איך בכלל חשבת על זה? זה אפילו לא קרוב.\"",
+      "translation": "ננס: \"איך בכלל חשבת על זה? זה אפילו לא קרוב.\"",
       "notes": "",
       "placeholders": []
     },
@@ -9314,7 +9314,7 @@
       "logicFile": "single",
       "messageNumber": 649,
       "original": "You weren't invited into the gnome's house.",
-      "translation": "לא הוזמנת לבית הגמד.",
+      "translation": "לא הוזמנת לבית הננס.",
       "notes": "",
       "placeholders": []
     },
@@ -9322,7 +9322,7 @@
       "logicFile": "single",
       "messageNumber": 650,
       "original": "There's a rock over by the bush, but this rock is nothing compared to the one the gnome lives in!",
-      "translation": "יש סלע ליד השיח, אבל הסלע הזה הוא כלום לעומת הסלע שבו גר הגמד!",
+      "translation": "יש סלע ליד השיח, אבל הסלע הזה הוא כלום לעומת הסלע שבו גר הננס!",
       "notes": "",
       "placeholders": []
     },
@@ -9330,7 +9330,7 @@
       "logicFile": "single",
       "messageNumber": 651,
       "original": "The gnome's house is carved right into the rock between three trees.",
-      "translation": "בית הגמד חצוב בסלע בין שלושה עצים.",
+      "translation": "בית הננס חצוב בסלע בין שלושה עצים.",
       "notes": "",
       "placeholders": []
     },
@@ -9338,7 +9338,7 @@
       "logicFile": "single",
       "messageNumber": 652,
       "original": "The broad leaves provide shade for the gnome during the hot summer months.",
-      "translation": "העלים הרחבים מספקים צל לגמד במהלך חודשי הקיץ החמים.",
+      "translation": "העלים הרחבים מספקים צל לננס במהלך חודשי הקיץ החמים.",
       "notes": "",
       "placeholders": []
     },
@@ -9346,7 +9346,7 @@
       "logicFile": "single",
       "messageNumber": 653,
       "original": "The roots of the three trees grow freely around the gnome's house.",
-      "translation": "שורשי שלושת העצים גדלים בחופשיות סביב בית הגמד.",
+      "translation": "שורשי שלושת העצים גדלים בחופשיות סביב בית הננס.",
       "notes": "",
       "placeholders": []
     },
@@ -9354,7 +9354,7 @@
       "logicFile": "single",
       "messageNumber": 654,
       "original": "This hole, carved into the side of the rock, is the entrance to the gnome's home.  It's too dark inside to make out any details, and the gnome probably prefers it that way.",
-      "translation": "הפתח הזה, החצוב בדופן הסלע, הוא הכניסה לביתו של הגמד. חשוך מדי בפנים מכדי להבחין בפרטים כלשהם, והגמד כנראה מעדיף זאת כך.",
+      "translation": "הפתח הזה, החצוב בדופן הסלע, הוא הכניסה לביתו של הננס. חשוך מדי בפנים מכדי להבחין בפרטים כלשהם, והננס כנראה מעדיף זאת כך.",
       "notes": "",
       "placeholders": []
     },
@@ -9362,7 +9362,7 @@
       "logicFile": "single",
       "messageNumber": 655,
       "original": "The wizened gnome went inside his house.",
-      "translation": "הגמד הזקן נכנס לביתו.",
+      "translation": "הננס הזקן נכנס לביתו.",
       "notes": "",
       "placeholders": []
     },
@@ -9370,7 +9370,7 @@
       "logicFile": "single",
       "messageNumber": 656,
       "original": "You see a wizened old gnome sitting in front of his house, whittling.",
-      "translation": "אתה רואה גמד זקן ומקומט יושב מול ביתו, ומגלף.",
+      "translation": "אתה רואה ננס זקן ומקומט יושב מול ביתו, ומגלף.",
       "notes": "",
       "placeholders": []
     },
@@ -9378,7 +9378,7 @@
       "logicFile": "single",
       "messageNumber": 657,
       "original": "You are speaking with a wizened old gnome.",
-      "translation": "אתה מדבר עם גמד זקן ומקומט.",
+      "translation": "אתה מדבר עם ננס זקן ומקומט.",
       "notes": "",
       "placeholders": []
     },
@@ -9386,7 +9386,7 @@
       "logicFile": "single",
       "messageNumber": 658,
       "original": "You see a wizened old gnome walking to his house.",
-      "translation": "אתה רואה גמד זקן ומקומט הולך לביתו.",
+      "translation": "אתה רואה ננס זקן ומקומט הולך לביתו.",
       "notes": "",
       "placeholders": []
     },
@@ -9394,7 +9394,7 @@
       "logicFile": "single",
       "messageNumber": 659,
       "original": "Why?  The gnome has done nothing to you.",
-      "translation": "למה? הגמד לא עשה לך דבר.",
+      "translation": "למה? הננס לא עשה לך דבר.",
       "notes": "",
       "placeholders": []
     },
@@ -9402,7 +9402,7 @@
       "logicFile": "single",
       "messageNumber": 660,
       "original": "The gnome isn't here.",
-      "translation": "הגמד איננו כאן.",
+      "translation": "הננס איננו כאן.",
       "notes": "",
       "placeholders": []
     },
@@ -9418,7 +9418,7 @@
       "logicFile": "single",
       "messageNumber": 662,
       "original": "The gnome spun that gold out of straw! You can't take it, but don't worry. If you needed it, the gnome would give it to you.",
-      "translation": "הגמד טווה את הזהב הזה מקש! אינך יכול לקחת אותו, אבל אל דאגה. אם היית צריך אותו, הגמד היה נותן לך אותו.",
+      "translation": "הננס טווה את הזהב הזה מקש! אינך יכול לקחת אותו, אבל אל דאגה. אם היית צריך אותו, הננס היה נותן לך אותו.",
       "notes": "",
       "placeholders": []
     },
@@ -9426,7 +9426,7 @@
       "logicFile": "single",
       "messageNumber": 663,
       "original": "The spinning wheel helps the gnome make his living. Please don't take it.",
-      "translation": "גלגל הטוויה עוזר לגמד להתפרנס. בבקשה אל תיקח אותו.",
+      "translation": "גלגל הטוויה עוזר לננס להתפרנס. בבקשה אל תיקח אותו.",
       "notes": "",
       "placeholders": []
     },
@@ -9434,7 +9434,7 @@
       "logicFile": "single",
       "messageNumber": 664,
       "original": "Only gnomes know how to do that.",
-      "translation": "רק גמדים יודעים לעשות את זה.",
+      "translation": "רק ננסים יודעים לעשות את זה.",
       "notes": "",
       "placeholders": []
     },
@@ -9442,7 +9442,7 @@
       "logicFile": "single",
       "messageNumber": 665,
       "original": "Now what in the world would you do with a gnome?",
-      "translation": "מה בכלל היית עושה עם גמד?",
+      "translation": "מה בכלל היית עושה עם ננס?",
       "notes": "",
       "placeholders": []
     },
@@ -9450,7 +9450,7 @@
       "logicFile": "single",
       "messageNumber": 666,
       "original": "GNOME: \"Ooooh, very close, very close!  But not quite right!\"",
-      "translation": "גמד: \"אווו, קרוב מאוד, קרוב מאוד! אבל לא לגמרי!\"",
+      "translation": "ננס: \"אווו, קרוב מאוד, קרוב מאוד! אבל לא לגמרי!\"",
       "notes": "",
       "placeholders": []
     },
@@ -9458,7 +9458,7 @@
       "logicFile": "single",
       "messageNumber": 667,
       "original": "The gnome is busy whittling, and doesn't notice you.",
-      "translation": "הגמד עסוק בגילוף, ואינו מבחין בך.",
+      "translation": "הננס עסוק בגילוף, ואינו מבחין בך.",
       "notes": "",
       "placeholders": []
     },
@@ -9474,7 +9474,7 @@
       "logicFile": "single",
       "messageNumber": 669,
       "original": "GNOME: \"Please, keep guessing, won't you?\"",
-      "translation": "גמד: \"אנא המשך לנחש.\"",
+      "translation": "ננס: \"אנא המשך לנחש.\"",
       "notes": "",
       "placeholders": []
     },
@@ -9482,7 +9482,7 @@
       "logicFile": "single",
       "messageNumber": 670,
       "original": "GNOME: \"Really, Sir Graham!\"",
-      "translation": "גמד: \"באמת, סר גרהם!\"",
+      "translation": "ננס: \"באמת, סר גרהם!\"",
       "notes": "",
       "placeholders": []
     },
@@ -9490,7 +9490,7 @@
       "logicFile": "single",
       "messageNumber": 671,
       "original": "The gnome momentarily pauses in response to the mysterious voice, then resumes his whittling.",
-      "translation": "הגמד עוצר לרגע בתגובה לקול המסתורי, ואז ממשיך לגלף.",
+      "translation": "הננס עוצר לרגע בתגובה לקול המסתורי, ואז ממשיך לגלף.",
       "notes": "",
       "placeholders": []
     },
@@ -9498,7 +9498,7 @@
       "logicFile": "single",
       "messageNumber": 672,
       "original": "GNOME: \"You still haven't guessed my name!\"",
-      "translation": "גמד: \"עדיין לא ניחשת את השם שלי!\"",
+      "translation": "ננס: \"עדיין לא ניחשת את השם שלי!\"",
       "notes": "",
       "placeholders": []
     },
@@ -9506,7 +9506,7 @@
       "logicFile": "single",
       "messageNumber": 673,
       "original": "The gnome can't hear you from there!",
-      "translation": "הגמד לא יכול לשמוע אותך משם!",
+      "translation": "הננס לא יכול לשמוע אותך משם!",
       "notes": "",
       "placeholders": []
     },
@@ -9514,7 +9514,7 @@
       "logicFile": "single",
       "messageNumber": 674,
       "original": "GNOME: \"Where did you get that idea?  That's not even close!\"",
-      "translation": "גמד: \"מאיפה הבאת את הרעיון הזה? זה אפילו לא קרוב!\"",
+      "translation": "ננס: \"מאיפה הבאת את הרעיון הזה? זה אפילו לא קרוב!\"",
       "notes": "",
       "placeholders": []
     },
@@ -9522,7 +9522,7 @@
       "logicFile": "single",
       "messageNumber": 675,
       "original": "GNOME: \"You have only one guess left, Sir Graham!\"",
-      "translation": "גמד: \"נותר לך רק ניחוש אחד, סר גרהם!\"",
+      "translation": "ננס: \"נותר לך רק ניחוש אחד, סר גרהם!\"",
       "notes": "",
       "placeholders": []
     },
@@ -9530,7 +9530,7 @@
       "logicFile": "single",
       "messageNumber": 676,
       "original": "The gnome momentarily pauses in response to the mysterious voice, then resumes his whittling",
-      "translation": "הגמד עוצר לרגע בתגובה לקול המסתורי, ואז ממשיך לגלף.",
+      "translation": "הננס עוצר לרגע בתגובה לקול המסתורי, ואז ממשיך לגלף.",
       "notes": "",
       "placeholders": []
     },
@@ -9538,7 +9538,7 @@
       "logicFile": "single",
       "messageNumber": 677,
       "original": "The gnome is busy whittling, and doesn't hear your guess.  Move closer and give it another try.",
-      "translation": "הגמד עסוק בגילוף, ואינו שומע את ניחושך. התקרב ונסה שוב.",
+      "translation": "הננס עסוק בגילוף, ואינו שומע את ניחושך. התקרב ונסה שוב.",
       "notes": "",
       "placeholders": []
     },
@@ -9546,7 +9546,7 @@
       "logicFile": "single",
       "messageNumber": 678,
       "original": "GNOME: \"That's right!  Outstanding!  I didn't think you were THAT clever.\"",
-      "translation": "גמד: \"זה נכון! מעולה! לא חשבתי שאתה כל כך חכם.\"",
+      "translation": "ננס: \"זה נכון! מעולה! לא חשבתי שאתה כל כך חכם.\"",
       "notes": "",
       "placeholders": []
     },
@@ -9554,7 +9554,7 @@
       "logicFile": "single",
       "messageNumber": 679,
       "original": "GNOME: \"As a reward for your sharp intellect, here are some beans.  They're no ordinary beans, but it's up to you to find out why.\"",
-      "translation": "גמד: \"כפרס על האינטלקט החד שלך, הנה כמה גרגרי אפונה. זו לא אפונה רגילה, ואת זאת תצטרך לגלות בעצמך.\"",
+      "translation": "ננס: \"כפרס על האינטלקט החד שלך, הנה כמה גרגרי אפונה. זו לא אפונה רגילה, ואת זאת תצטרך לגלות בעצמך.\"",
       "notes": "",
       "placeholders": []
     },
@@ -9562,7 +9562,7 @@
       "logicFile": "single",
       "messageNumber": 680,
       "original": "GNOME: \"Somebody as smart as yourself should have no problem at all.  <giggle>\"",
-      "translation": "גמד: \"למישהו חכם כמוך לא אמורה להיות בעיה בכלל. <צחקוק>\"",
+      "translation": "ננס: \"למישהו חכם כמוך לא אמורה להיות בעיה בכלל. <צחקוק>\"",
       "notes": "",
       "placeholders": []
     },
@@ -9570,7 +9570,7 @@
       "logicFile": "single",
       "messageNumber": 681,
       "original": "GNOME: \"Well, step over here so I can give them to you.\"",
-      "translation": "גמד: \"ובכן, התקרב לכאן על מנת שאוכל לתת לך אותם.\"",
+      "translation": "ננס: \"ובכן, התקרב לכאן על מנת שאוכל לתת לך אותם.\"",
       "notes": "",
       "placeholders": []
     },
@@ -9578,7 +9578,7 @@
       "logicFile": "single",
       "messageNumber": 682,
       "original": "GNOME: \"You didn't guess my name, but I am still going to help you, Sir Graham.\"",
-      "translation": "גמד: \"לא ניחשת את שמי, אבל אני עדיין אעזור לך, סר גרהם.\"",
+      "translation": "ננס: \"לא ניחשת את שמי, אבל אני עדיין אעזור לך, סר גרהם.\"",
       "notes": "",
       "placeholders": []
     },
@@ -9586,7 +9586,7 @@
       "logicFile": "single",
       "messageNumber": 683,
       "original": "GNOME: \"Take this golden key.  It will aid you on your quest, Sir Graham, but it's up to you to find out how!\"",
-      "translation": "גמד: \"קח את מפתח הזהב הזה. הוא יעזור לך במסעך, סר גרהם, אבל תצטרך לגלות בעצמך כיצד!\"",
+      "translation": "ננס: \"קח את מפתח הזהב הזה. הוא יעזור לך במסעך, סר גרהם, אבל תצטרך לגלות בעצמך כיצד!\"",
       "notes": "",
       "placeholders": []
     },
@@ -9594,7 +9594,7 @@
       "logicFile": "single",
       "messageNumber": 684,
       "original": "GNOME: \"Well, step over here so I can give it to you.\"",
-      "translation": "גמד: \"ובכן, התקרב לכאן על מנת שאוכל לתת לך את זה.\"",
+      "translation": "ננס: \"ובכן, התקרב לכאן על מנת שאוכל לתת לך את זה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -9602,7 +9602,7 @@
       "logicFile": "single",
       "messageNumber": 685,
       "original": "GNOME: \"Here you are.  Good luck on your quest.\"",
-      "translation": "גמד: \"בבקשה, קח לך. בהצלחה במסעך.\"",
+      "translation": "ננס: \"בבקשה, קח לך. בהצלחה במסעך.\"",
       "notes": "",
       "placeholders": []
     },
@@ -9610,7 +9610,7 @@
       "logicFile": "single",
       "messageNumber": 686,
       "original": "GNOME: \"Er, pardon me, Sir Graham, but you're blocking my home.  I have other adventurers to help and other puzzles to pose!\"",
-      "translation": "גמד: \"אה, סלח לי, סר גרהם, אבל אתה חוסם לי את הבית. יש לי הרפתקנים אחרים לעזור להם וחידות אחרות לתת להם!\"",
+      "translation": "ננס: \"אה, סלח לי, סר גרהם, אבל אתה חוסם לי את הבית. יש לי הרפתקנים אחרים לעזור להם וחידות אחרות לתת להם!\"",
       "notes": "",
       "placeholders": []
     },
@@ -9618,7 +9618,7 @@
       "logicFile": "single",
       "messageNumber": 687,
       "original": "GNOME: \"Thank you, Sir Graham.\"",
-      "translation": "גמד: \"תודה לך, סר גרהם.\"",
+      "translation": "ננס: \"תודה לך, סר גרהם.\"",
       "notes": "",
       "placeholders": []
     },
@@ -9626,7 +9626,7 @@
       "logicFile": "single",
       "messageNumber": 688,
       "original": "GNOME: \"So, you've come back!  Good for you, Sir Graham!\"",
-      "translation": "גמד: \"אז, חזרת! כל הכבוד לך, סר גרהם!\"",
+      "translation": "ננס: \"אז, חזרת! כל הכבוד לך, סר גרהם!\"",
       "notes": "",
       "placeholders": []
     },
@@ -9634,7 +9634,7 @@
       "logicFile": "single",
       "messageNumber": 689,
       "original": "GNOME: \"Welcome, Sir Graham.  I have been expecting you.\"",
-      "translation": "גמד: \"ברוך הבא, סר גרהם. ציפיתי לך.\"",
+      "translation": "ננס: \"ברוך הבא, סר גרהם. ציפיתי לך.\"",
       "notes": "",
       "placeholders": []
     },
@@ -9642,7 +9642,7 @@
       "logicFile": "single",
       "messageNumber": 690,
       "original": "GNOME: \"I have something that will be of great use to you.  But first, Sir Graham, you must answer this riddle.  I'll give you three guesses.  What is my name?\"",
-      "translation": "גמד: \"יש לי משהו מאוד שימושי בשבילך. אבל קודם לכן, סר גרהם, אתה חייב לענות על החידה הזאת. אתן לך שלושה ניחושים. מה שמי?\"",
+      "translation": "ננס: \"יש לי משהו מאוד שימושי בשבילך. אבל קודם לכן, סר גרהם, אתה חייב לענות על החידה הזאת. אתן לך שלושה ניחושים. מה שמי?\"",
       "notes": "",
       "placeholders": []
     },
@@ -9650,7 +9650,7 @@
       "logicFile": "single",
       "messageNumber": 691,
       "original": "GNOME: \"It's been delightful chatting with you, Sir Graham.   I get so few visitors... Perhaps it's the fault of that thickheaded troll.\"",
-      "translation": "גמד: \"היה תענוג לשוחח איתך, סר גרהם. אני מקבל כל כך מעט מבקרים... אולי זו אשמתו של הטרול הטיפש הזה.\"",
+      "translation": "ננס: \"היה תענוג לשוחח איתך, סר גרהם. אני מקבל כל כך מעט מבקרים... אולי זו אשמתו של הטרול הטיפש הזה.\"",
       "notes": "",
       "placeholders": []
     },
@@ -9674,7 +9674,7 @@
       "logicFile": "single",
       "messageNumber": 694,
       "original": "It is of no use to keep guessing the gnome's name.",
-      "translation": "אין טעם להמשיך ולנחש את שמו של הגמד.",
+      "translation": "אין טעם להמשיך ולנחש את שמו של הננס.",
       "notes": "",
       "placeholders": []
     },
@@ -9682,7 +9682,7 @@
       "logicFile": "single",
       "messageNumber": 695,
       "original": "GNOME: \"You have only one guess left.\"",
-      "translation": "גמד: \"נותר לך רק ניחוש אחד.\"",
+      "translation": "ננס: \"נותר לך רק ניחוש אחד.\"",
       "notes": "",
       "placeholders": []
     },
@@ -9690,7 +9690,7 @@
       "logicFile": "single",
       "messageNumber": 696,
       "original": "GNOME: \"You still have two guesses.\"",
-      "translation": "גמד: \"עדיין נותרו לך שני ניחושים.\"",
+      "translation": "ננס: \"עדיין נותרו לך שני ניחושים.\"",
       "notes": "",
       "placeholders": []
     },
@@ -9698,7 +9698,7 @@
       "logicFile": "single",
       "messageNumber": 697,
       "original": "This is the gnome's spinning wheel.",
-      "translation": "זהו גלגל הטוויה של הגמד.",
+      "translation": "זהו גלגל הטוויה של הננס.",
       "notes": "",
       "placeholders": []
     },

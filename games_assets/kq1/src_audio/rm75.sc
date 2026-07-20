@@ -68,6 +68,9 @@
 			(if (and (gEgo has: 8) (IsFlag 9)) ; Empty_Water_Bucket
 				(Load rsVIEW 50)
 			)
+		else
+			(SciAudio stop:)
+			(SciAudio play: {cave.mp3} -1)
 		)
 		(self
 			style:
