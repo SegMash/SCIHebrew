@@ -427,7 +427,7 @@
 			((super handleEvent: event))
 			((proc802_2 event {בקתה חומה})
 				(cond
-					((IsFlag 172)
+					((or (not local2) (IsFlag 172))
 						(HighPrint 22 6) ; "Nothing happens."
 					)
 					((proc802_1 (User inputLineAddr:) {רדי לאדמה})
@@ -528,7 +528,7 @@
 							)
 						)
 					)
-					((Said 'yes,no')
+					((Said 'yes,no,please')
 						(HighPrint 22 27) ; "Huh?"
 					)
 					((Said 'say,recite,talk/rhyme,hut')
@@ -569,7 +569,7 @@
 			(evSAID
 				(if (> global114 1)
 					(cond
-						((Said 'yes')
+						((or (Said 'yes,please,deal') (Said 'make/deal'))
 							(= global114 0)
 							(switch global323
 								(0
@@ -632,7 +632,7 @@
 					)
 				)
 				(cond
-					((Said 'talk[/*]')
+					((Said 'talk')
 						(bonehead setScript: boneTalk)
 					)
 					((Said 'open[<gate]')
@@ -650,7 +650,7 @@
 								(HighPrint 22 40) ; "Hey! Where's your manners? Let me tell you something, here!"
 								(bonehead setScript: boneTalk)
 							)
-							((Said '/deal')
+							((Said '//deal')
 								(switch global323
 									(0
 										(HighPrint 22 41) ; "Wait a minute...I'll get around to that."
@@ -670,17 +670,17 @@
 									)
 								)
 							)
-							((Said '/baba')
+							((Said '//baba')
 								(if (IsFlag 11)
 									(HighPrint 22 43) ; "What's to tell? You've seen her for yourself."
 								else
 									(HighPrint 22 44) ; "Baba Yaga is the most powerful Ogress around. If you have any brains (and it looks like you don't), you'll stay away from her."
 								)
 							)
-							((Said '/ogress')
+							((Said '//ogress')
 								(HighPrint 22 45) ; "Some hero YOU are! Don't know what an Ogre is. Just check out Baba Yaga!"
 							)
-							((Said '/gem')
+							((Said '//gem')
 								(switch global323
 									(0
 										(bonehead setScript: boneTalk)
@@ -699,31 +699,32 @@
 									)
 								)
 							)
-							((Said '/eye')
+							((Said '//eye')
 								(if (< global323 4)
 									(HighPrint 22 48) ; "I wish I had some."
 								else
 									(HighPrint 22 49) ; "I'm thrilled to have some!"
 								)
 							)
-							((Said '/skull')
+							((Said '//skull')
 								(HighPrint 22 50) ; "The bone brains on top of the fence are Baba Yaga's spies. That's why THEY have glowing eyes."
 							)
-							((Said '/gate')
+							((Said '//gate')
 								(HighPrint 22 51) ; "It's not much, but I call it home."
 							)
-							((Said '/fence')
+							((Said '//fence')
 								(HighPrint 22 52) ; "You've seen one, you've seen them all, I say."
 								(HighPrint 22 53) ; "Of course, most fences aren't poisoned on top!"
 							)
-							((Said '/hut,house')
+							((Said '//hut,house')
 								(HighPrint 22 54) ; "Baba Yaga's hut will squat down if you say the rhyme."
 							)
-							((Said '/rhyme')
+							((Said '//rhyme')
 								(HighPrint 22 55) ; "The rhyme is: 'Hut of brown, now sit down'."
 							)
-							((Said '/*')
+							(else
 								(HighPrint 22 56) ; "My time is important, and I'm very busy, as you can well see. Ask me about something important."
+								(event claimed: 1)
 							)
 						)
 					)

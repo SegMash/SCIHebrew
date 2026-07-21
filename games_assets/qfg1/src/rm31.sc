@@ -290,7 +290,7 @@
 				(cond
 					(global313
 						(cond
-							((Said 'yes')
+							((Said 'yes,please')
 								(if (== (++ local262) 4)
 									(proc31_8)
 									(= local1 2)
@@ -338,12 +338,12 @@
 						(= local1 6)
 						(= local0 1)
 					)
-					((Said 'fight,hit,cut,kill,throw[/*]')
+					((Said 'fight,hit,cut,kill,throw')
 						(= local1 3)
 						(SetFlag 154)
 						(= local0 1)
 					)
-					((Said 'cast[/*]')
+					((Said 'cast')
 						(= local1 4)
 						(SetFlag 154)
 						(= local0 1)
@@ -403,83 +403,88 @@
 						else
 							(= local263 1)
 							(cond
-								((or (Said '/open') (Said '/spell<open'))
+								((or (Said '//open') (Said '//spell<open'))
 									(self setScript: (ScriptID 132 0)) ; openTalk
 								)
-								((or (Said '/fetch') (Said '/spell<fetch'))
+								((or (Said '//fetch') (Said '//spell<fetch'))
 									(self setScript: (ScriptID 132 1)) ; fetchTalk
 								)
-								((or (Said '/trigger') (Said '/spell<trigger'))
+								(
+									(or
+										(Said '//trigger')
+										(Said '//spell<trigger')
+									)
 									(self setScript: (ScriptID 132 2)) ; triggerTalk
 								)
-								((or (Said '/dazzle') (Said '/spell<dazzle'))
+								((or (Said '//dazzle') (Said '//spell<dazzle'))
 									(self setScript: (ScriptID 132 3)) ; dazzleTalk
 								)
-								((Said '/trap')
+								((Said '//trap')
 									(self setScript: (ScriptID 132 4)) ; trapTalk
 								)
-								((Said '/erana')
+								((Said '//erana')
 									(self setScript: (ScriptID 133 0)) ; eranaTalk
 								)
 								(
 									(or
-										(Said '/protection,peace,hamlet')
-										(Said '/spell<protection,peace,erana')
+										(Said '//protection,peace,hamlet')
+										(Said '//spell<protection,peace,erana')
 									)
 									(self setScript: (ScriptID 133 1)) ; peaceTalk
 								)
-								((Said '/zara')
+								((Said '//zara')
 									(self setScript: (ScriptID 133 2)) ; zaraTalk
 								)
-								((Said '/baba')
+								((Said '//baba')
 									(self setScript: (ScriptID 133 3)) ; babaTalk
 								)
-								((Said '/curse')
+								((Said '//curse')
 									(self setScript: (ScriptID 133 4)) ; curseTalk
 								)
-								((Said '/countercurse')
+								((Said '//countercurse')
 									(self setScript: (ScriptID 133 5)) ; counterCurseTalk
 								)
-								((Said '/fenrus,familiar')
+								((Said '//fenrus,familiar,fenrus')
 									(self setScript: (ScriptID 133 6)) ; fenrusTalk
 								)
-								((Said '/enry,enry,ermit,ermit')
+								((Said '//enry,enry,ermit,ermit')
 									(self setScript: (ScriptID 133 7)) ; hermitTalk
 								)
-								((Said '/initiate,institute')
+								((Said '//initiate,institute')
 									(self setScript: (ScriptID 133 8)) ; initiationTalk
 								)
-								((Said '/mirror>')
+								((Said '//mirror>')
 									(self setScript: (ScriptID 134 0)) ; mirrorTalk
 								)
-								((Said '/wizard,user,caster,mage,mage')
+								((Said '//wizard,user,caster,mage,mage')
 									(self setScript: (ScriptID 134 1)) ; wizardTalk
 								)
-								((Said '/nincompoop')
+								((Said '//nincompoop')
 									(self setScript: (ScriptID 134 2)) ; poopTalk
 								)
-								((Said '/necromancer')
+								((Said '//necromancer')
 									(self setScript: (ScriptID 134 3)) ; deadTalk
 								)
-								((Said '/magic,technocery')
+								((Said '//magic,technocery')
 									(self setScript: (ScriptID 134 4)) ; magicTalk
 								)
-								((Said '/game,maze')
+								((Said '//game,maze')
 									(self setScript: (ScriptID 134 5)) ; gameTalk
 								)
-								((Said '/warlock')
+								((Said '//warlock')
 									(proc31_5 5 31 23)
 								)
-								((Said '/spell,scroll')
+								((Said '//spell,scroll')
 									(proc31_5 7 31 24)
 								)
-								((Said '/bandit')
+								((Said '//bandit')
 									(proc31_5 9 31 25)
 								)
-								((Said '/erasmus')
+								((Said '//erasmus')
 									(proc31_5 4 31 26)
 								)
-								((Said '/*')
+								(else
+									(event claimed: 1)
 									(= local263 0)
 									(if (== (++ local261) 6)
 										(= local1 1)
@@ -724,11 +729,11 @@
 					(4
 						(proc31_5 4 31 31)
 					)
-					(5
-						(proc31_5 4 31 32)
-					)
 					(6
 						(proc31_5 4 31 31)
+					)
+					(else
+						(proc31_5 4 31 32)
 					)
 				)
 			)

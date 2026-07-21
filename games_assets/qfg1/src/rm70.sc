@@ -79,7 +79,11 @@
 (procedure (localproc_0 &tmp temp0)
 	(for ((= temp0 0)) (< temp0 5) ((++ temp0))
 		(= [local54 temp0] (aFaeryWindow new:))
-		([local54 temp0] color: [local44 temp0] back: [local49 temp0])
+		(if (< global211 8)
+			([local54 temp0] color: 0 back: 15)
+		else
+			([local54 temp0] color: [local44 temp0] back: [local49 temp0])
+		)
 	)
 )
 
@@ -230,7 +234,7 @@
 			(Load rsTEXT 296)
 			(LoadMany rsSOUND 40 64)
 		)
-		(LoadMany rsVIEW 510 77)
+		(LoadMany rsVIEW 510 72)
 		(if local1
 			(localproc_5)
 			(localproc_0)
@@ -358,7 +362,7 @@
 		(if (== (event type:) evSAID)
 			(if (> local4 1)
 				(cond
-					((Said 'yes,dance')
+					((Said 'yes,please,dance')
 						(= local4 0)
 						(= local107 1)
 						(= local82 (+ (= local80 local91) 8))
@@ -431,7 +435,7 @@
 						(if (and local1 (== local4 0))
 							(= local109 1)
 							(cond
-								((Said '/mushroom,toadstool,ring')
+								((Said '//mushroom,toadstool,ring')
 									(localproc_2)
 									(= local107 1)
 									(= local82 (+ (= local80 local100) 8))
@@ -439,7 +443,7 @@
 									(self setScript: faeryTalk)
 								)
 								((or (Said '/dust[<faerie,about]') (Said '/faerie<dust') (Said '/about<dust'))
-									(if (or local88 (gEgo has: 28)) ; faerie dust
+									(if (or local88 (IsFlag 689))
 										(HighPrint 70 6) ; "You know all about it, now."
 									else
 										(localproc_2)
@@ -449,28 +453,29 @@
 										(self setScript: faeryTalk)
 									)
 								)
-								((Said '/faerie,magic')
+								((Said '//faerie,magic')
 									(localproc_2)
 									(= local107 1)
 									(= local82 (+ (= local80 local101) 7))
 									(= local81 12)
 									(self setScript: faeryTalk)
 								)
-								((Said '/forest')
+								((Said '//forest')
 									(localproc_2)
 									(= local107 1)
 									(= local82 (+ (= local80 local102) 6))
 									(= local81 13)
 									(self setScript: faeryTalk)
 								)
-								((Said '/dryad')
+								((Said '//dryad')
 									(localproc_2)
 									(= local107 1)
 									(= local82 (+ (= local80 local103) 6))
 									(= local81 14)
 									(self setScript: faeryTalk)
 								)
-								((Said '[/*]')
+								(else
+									(event claimed: 1)
 									(= local109 0)
 									(if (IsFlag 188)
 										(= local107 1)
@@ -564,8 +569,8 @@
 								)
 								((Said '/dust[<faerie]')
 									(cond
-										((gEgo has: 28) ; faerie dust
-											(HighPrint 70 12) ; "Don't be greedy. You already have some."
+										((IsFlag 689)
+											(HighPrint 70 12) ; "Don't be greedy. We already gave you some."
 										)
 										(local88
 											(HighPrint 70 13) ; "Perhaps you should be better prepared to get some fairy dust next time."
@@ -1085,7 +1090,7 @@
 			(0
 				(HandsOff)
 				(= local88 1)
-				(gEgo view: 77 loop: 1 cel: 0 setCycle: CT 3 1 self)
+				(gEgo view: 72 loop: 0 cel: 0 setCycle: CT 3 1 self)
 			)
 			(1
 				(TimePrint 5 70 29) ; "You hold out your hand...what else could you do?"
@@ -1115,7 +1120,6 @@
 							(gEgo has: 34) ; healing
 							(gEgo has: 35) ; mana potion
 							(gEgo has: 36) ; vigor potion
-							(gEgo has: 37) ; hero potion
 							(gEgo has: 39) ; grease
 						)
 						(TimePrint 8 70 31) ; "You realize that you need something such as an empty flask to put this fairy dust into."

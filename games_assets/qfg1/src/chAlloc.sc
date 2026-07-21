@@ -377,7 +377,7 @@
 (instance statDial of Dialog
 	(properties
 		nsBottom 189
-		nsRight 320
+		nsRight 319
 	)
 )
 
@@ -392,6 +392,7 @@
 (instance chAlloc of Rm
 	(properties
 		picture 401
+		style 100
 	)
 
 	(method (init &tmp temp0 temp1 temp2)
@@ -507,22 +508,7 @@
 		(while temp1
 			(cond
 				((or (not (= temp0 (statDial doit:))) (== temp0 canButton))
-					(if
-						(==
-							(= temp0
-								(Print ; "Are you sure you want to start over?"
-									203
-									3
-									150
-									{Start Over}
-									1
-									150
-									{Keep Going}
-									2
-								)
-							)
-							1
-						)
+					(if (== (= temp0 (Print 203 3 #button {Yes} 1 #button {No} 2)) 1) ; "Choose a new character type?"
 						(= temp1 0)
 						(= temp2 202)
 					)
@@ -534,10 +520,10 @@
 								(Print ; "You still have points to allocate."
 									203
 									4
-									150
+									#button
 									{Start the Game}
 									1
-									150
+									#button
 									{Use More Points}
 									2
 								)

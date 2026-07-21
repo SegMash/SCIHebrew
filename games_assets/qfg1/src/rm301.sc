@@ -403,84 +403,84 @@
 					((Said 'ask>')
 						(= local5 1)
 						(cond
-							((Said '/tavern,bar')
+							((Said '//tavern,bar')
 								(HighPrint 301 48) ; "The tavern is located in the northwest corner of our town."
 							)
-							((Said '/abenteuer,hall[<club,about]')
+							((Said '//abenteuer,hall[<club,about]')
 								(HighPrint 301 49) ; "The Guild Hall is just down the street from here."
 							)
-							((Said '/zara,magic,shop')
+							((Said '//zara,magic,shop')
 								(HighPrint 301 50) ; "Zara's magic shop is next door to my Inn. You can't miss it."
 							)
-							((Said '/hotel,(fable<hero),replace,journey')
+							((Said '//hotel,(fable<hero),replace,journey')
 								(HighPrint 301 51) ; "I have run this inn for three years now, with Shema."
 								(HighPrint 301 52) ; "We had thought to return to Shapeir, my homeland, with Abdulla Doo, but Alas, Fate has decreed otherwise."
 							)
-							((Said '/room,bed,nap,rest,lodging,cost')
+							((Said '//room,bed,nap,rest,lodging,cost')
 								(HighPrint 301 53) ; "Very nice room. Very soft beds, finest in town. Only five silvers a night."
 							)
 							(
 								(Said
-									'/food,lamb,chicken,soup,drink,breakfast,coffee,tea'
+									'//food,lamb,chicken,soup,drink,breakfast,coffee,tea'
 								)
 								(HighPrint 301 44) ; "Very good food, very good drink, finest in town. Sit, rest, you will be served by my Shema."
 							)
 							(
 								(Said
-									'/weapon,blade,dagger,shield,equipment,armor'
+									'//weapon,blade,dagger,shield,equipment,armor'
 								)
 								(HighPrint 301 54) ; "I have little knowledge of these things. Perhaps if you shop around...""
 							)
-							((Said '/abdulla,man')
+							((Said '//abdulla,man')
 								(if (gCast contains: (ScriptID 166 0)) ; merchant
 									(HighPrint 301 55) ; "Poor Abdulla sits. He tries to forget his loss in food and drink. I think he will not be sorry if you join him at his table."
 								else
 									(HighPrint 301 56) ; "My friend, Abdulla, is recovering from his robbery last week. He should be here around suppertime."
 								)
 							)
-							((Said '/monster,ogre,goon,centaur')
+							((Said '//monster,ogre,goon,centaur')
 								(HighPrint 301 57) ; "The world is filled with many kinds of creatures, both good and bad."
 							)
-							((Said '/hamlet,valley')
+							((Said '//hamlet,valley')
 								(HighPrint 301 58) ; "Although in this valley I now have friends, I miss my homeland terribly."
 							)
-							((Said '/ale,sweat,breath,wine')
+							((Said '//ale,sweat,breath,wine')
 								(HighPrint 301 59) ; "My apologies, Wanderer, but for such drink you must go to the tavern at the other end of town."
 							)
-							((Said '/robbery,loss,alm,gold,silver')
+							((Said '//robbery,loss,alm,gold,silver')
 								(HighPrint 301 60) ; "Alas, the brigands stole all of Abdulla's wealth and mine own when they robbed his caravan. Now I am forced to stay in this wet, cold land."
 							)
-							((Said '/loot,caravan,destiny')
+							((Said '//loot,caravan,destiny')
 								(HighPrint 301 61) ; "I hoped to return to my homeland with the profits Abdulla, Shema, and I would make from the caravan. Now, I fear, we will remain here unless someone defeats the brigands and returns our stolen treasures."
 							)
-							((Said '/spice')
+							((Said '//spice')
 								(HighPrint 301 62) ; "Hot spice. Hot! I hope you like!"
 							)
-							((Said '/home,desert,south,land')
+							((Said '//home,desert,south,land')
 								(HighPrint 301 63) ; "We live far to the south in the desert lands. Someday, we may yet return there."
 							)
-							((Said '/labor,hero,adventure,hall,abenteuer')
+							((Said '//labor,hero,fame,adventure,hall,abenteuer')
 								(HighPrint 301 64) ; "Work of an adventurous sort is available. You must go to the Hall of the Adventurer's Guild."
 							)
-							((Said '/bandit')
+							((Said '//bandit')
 								(HighPrint 301 65) ; "I know little about them except that they must be wealthy now."
 							)
-							((Said '/name')
+							((Said '//name')
 								(HighPrint 301 66) ; "I am Shameen, mate of Shema, innkeeper to the town of Spielburg."
 							)
-							((Said '/shema,companion')
+							((Said '//shema,companion,mate,wife,woman')
 								(HighPrint 301 67) ; "Shema is my mate and the light of my life. If you sit down, she will be happy to serve you."
 							)
-							((Said '/katta,cat,people,sand')
+							((Said '//katta,cat,people,sand')
 								(HighPrint 301 68) ; "We Katta are a race of desert dwellers, wanderers of the endless sands.""
 							)
-							((Said '/shameen,keeper,innkeeper,owner')
+							((Said '//shameen,keeper,innkeeper,owner,you')
 								(HighPrint 301 69) ; "I am but a poor unfortunate, forced to seek my fortune in this cold land, far from my homeland, Shapeir, and my people."
 							)
-							((Said '/magic,spell,potion,wand,scroll')
+							((Said '//magic,spell,potion,wand,scroll')
 								(HighPrint 301 70) ; "We of the Katta know only low and simple spells."
 							)
-							((Said '/*')
+							((Said '//*')
 								(= local5 0)
 								(switch local0
 									(0
@@ -575,7 +575,7 @@
 						((Said 'talk/shema,girl,katta,cat,hostess')
 							(HighPrint 301 75) ; "It is my pleasure to serve you."
 						)
-						((Said 'yes')
+						((Said 'yes,please')
 							(if global114
 								(HighPrint 301 76) ; "Then you shall order food or drink."
 								(= global114 0)
@@ -594,32 +594,29 @@
 						)
 						((Said 'ask>')
 							(cond
-								((Said '/food,breakfast,lamb,chicken,soup')
+								((Said '//food,breakfast,lamb,chicken,soup')
 									(HighPrint 301 79) ; "We have very good stew of newborn lamb along with honey chicken for a mere 3 silvers."
 								)
-								((Said '/drink,coffee,tea')
+								((Said '//drink,coffee,tea')
 									(HighPrint 301 80) ; "We have rich black coffee, freshly ground and brewed as only my people do. Such coffee will bring you to your full alertness."
 									(HighPrint 301 81) ; "We also have a tea of the rarest herbs, which will quench the thirst of the desert. Each is only one silver."
 								)
-								((Said '/ale,wine,sweat,breath')
+								((Said '//ale,wine,sweat,breath')
 									(HighPrint 301 82) ; "For that sort of beverage you must go to the tavern."
 								)
-								((Said '/spice')
+								((Said '//spice')
 									(HighPrint 301 62) ; "Hot spice. Hot! I hope you like!"
 								)
-								((Said '/name,shema')
+								((Said '//name,shema')
 									(HighPrint 301 83) ; "I am called Shema, mate of Shameen, your humble servant."
 								)
-								((Said '/shameen')
+								((Said '//shameen')
 									(HighPrint 301 84) ; "Shameen is of the oldest and finest ancestry of the Katta people."
 								)
-								(
-									(Said
-										'/katta,desert,people,home,sand,sun,south'
-									)
+								((Said '//desert,home,sand,sun,south')
 									(HighPrint 301 85) ; "Shapeir is a land of desert sands, flowers, fruit, and beauty. How I wish to return."
 								)
-								((Said '/*')
+								((Said '//*')
 									(HighPrint 301 86) ; "She merely blushes, as if embarrassed. She appears to be very shy."
 								)
 							)
@@ -673,6 +670,7 @@
 									(HighPrint 301 91) ; "Very well."
 									(shema setScript: (ScriptID 169 0)) ; goingIn
 								)
+								((Said '<up>'))
 								((Said '*')
 									(HighPrint 301 92) ; "I am sorry that our inn has not what you desire."
 								)

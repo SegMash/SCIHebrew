@@ -60,11 +60,11 @@
 			((and (== (event type:) evSAID) local2)
 				(= seconds 0)
 				(cond
-					((Said 'yes/')
+					((Said 'yes,please')
 						(= local1 0)
 						(self cue:)
 					)
-					((Said 'no/')
+					((Said 'no')
 						(self cue:)
 					)
 					(else
@@ -132,7 +132,7 @@
 				(= cycles 10)
 			)
 			(10
-				(Print 131 3 #at 225 85 #width 90 #mode 1 #title { פנרוס } #dispose #time 3) ; "Cheese, please!"
+				(Print 131 3 #at 219 85 #width 90 #mode 1 #title { פנרוס } #dispose #time 3) ; "Cheese, please!"
 				(gEgo setCycle: End)
 				(= seconds 2)
 			)

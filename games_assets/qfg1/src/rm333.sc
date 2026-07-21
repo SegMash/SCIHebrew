@@ -131,28 +131,28 @@
 						(event claimed: 1)
 						(HighPrint 333 2) ; "About time I got back to work. Alms for the poor. Alms!"
 					)
-					((Said '/name,beggar')
+					((Said '//name,beggar')
 						(HighPrint 333 3) ; "My name is Sam. I've lived here for five years now, and I think I'll be heading on once the pass clears of snow. There's supposed to be some good begging towns to the south."
 					)
-					((Said '/beg')
+					((Said '//beg')
 						(HighPrint 333 4) ; "A beggar gets cash only when others get cash, and nobody's got much money here right now."
 					)
-					((Said '/alm,alm')
+					((Said '//alm,alm')
 						(HighPrint 333 5) ; "There's honest work up at the Baron's castle, I hear. But begging's my business."
 					)
-					((Said '/night,dark')
+					((Said '//night,dark')
 						(HighPrint 333 6) ; "I remember when people used to stroll around town at night. Now, the only people out late are the thieves. And outside of town, man, you don't dare go out there after dark. The Night Gaunts'll get you for sure."
 					)
-					((Said '/monster')
+					((Said '//monster')
 						(HighPrint 333 7) ; "The most dangerous monsters come out at night. I'd stay inside then if I were you."
 					)
-					((Said '/gaunt')
+					((Said '//gaunt')
 						(HighPrint 333 8) ; "Nobody's ever lived to tell what the Night Gaunts are. I sure don't want to find out."
 					)
-					((Said '/bandit,thief,thief')
+					((Said '//bandit,thief,thief')
 						(HighPrint 333 9) ; "Thieves prowl the streets at night. They don't bother me because I have nothing to steal. The brigands are worse. They sure hurt business; no one's getting rich but them."
 					)
-					((Said '/baron,castle,labor,job')
+					((Said '//baron,castle,labor,job')
 						(HighPrint 333 10) ; "You can get a job cleaning the Baron's stable, I understand. It's good work if you want to build up your muscles or have a place to spend the night, but you won't get rich. I'd rather beg, myself."
 					)
 					(else

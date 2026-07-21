@@ -126,6 +126,7 @@
 			(if (gEgo has: 39) ; grease
 				(HighPrint 5 12) ; "You feel a tingling sensation as you rub the unguent all over your body."
 				(SetFlag 168)
+				(ClearFlag 164)
 				(= global220 150)
 				(gEgo use: 39) ; grease
 				(gEgo get: 26) ; empty bottle

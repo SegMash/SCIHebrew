@@ -91,28 +91,28 @@
 							(SetFlag 273)
 							(gEgo use: 38) ; disenchant potion
 							(leader setScript: leaderToElsa)
-							(HighPrint 172 0) ; "You throw the Dispel Potion on the brigand leader."
+							(LowPrint 172 0) ; "You throw the Dispel Potion on the brigand leader."
 						else
-							(HighPrint 172 1) ; "Good idea, but you don't have that potion."
+							(LowPrint 172 1) ; "Good idea, but you don't have that potion."
 						)
 					)
 					((Said 'look>')
 						(if (or (Said '[<at,around][/!*]') (Said '/man,woman'))
-							(HighPrint 172 2) ; "You see the brigand leader. From the look in her eyes you've only got seconds to live."
+							(LowPrint 172 2) ; "You see the brigand leader. From the look in her eyes you've only got seconds to live."
 						)
 					)
 					((Said 'cast')
-						(HighPrint 172 3) ; "Casting a spell isn't useful now."
+						(LowPrint 172 3) ; "Casting a spell isn't useful now."
 					)
 					((Said 'ask')
-						(HighPrint 172 4) ; "She's not in a talking mood."
+						(LowPrint 172 4) ; "She's not in a talking mood."
 					)
 					((Said 'fight')
-						(HighPrint 172 5) ; "Not a good idea."
+						(LowPrint 172 5) ; "Not a good idea."
 					)
 					(else
 						(event claimed: 1)
-						(HighPrint 172 6) ; "No time for that."
+						(LowPrint 172 6) ; "No time for that."
 					)
 				)
 			)
@@ -127,6 +127,7 @@
 	(method (changeState newState)
 		(switch (= state newState)
 			(0
+				(HandsOff)
 				(SolvePuzzle 713 35)
 				(SetCursor gTheCursor 0)
 				(elsaChange init: play:)
@@ -159,13 +160,17 @@
 	(method (changeState newState)
 		(switch (= state newState)
 			(0
-				(= cycles 20)
+				(= cycles 1)
 			)
 			(1
-				(HighPrint 172 7) ; "You think that you can fight the brigand leader? You'd best think of some other plan."
-				(= cycles 30)
+				(gGame setCursor: gNormalCursor (HaveMouse))
+				(= seconds 3)
 			)
 			(2
+				(LowPrint 172 7) ; "The Brigand leader looks tough! This may be the toughest battle of your career so far."
+				(= seconds 3)
+			)
+			(3
 				(gCurRoom newRoom: 97)
 			)
 		)

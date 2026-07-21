@@ -103,6 +103,7 @@
 	(properties
 		view 60
 		loop 5
+		illegalBits 0
 	)
 
 	(method (handleEvent event)
@@ -110,16 +111,16 @@
 			((super handleEvent: event))
 			((and (== (event type:) evMOUSEBUTTON) (MouseClaimed self event 3))
 				(cond
-					((not (script state:))
+					((and (== loop 5) (== cel 0))
 						(HighPrint 60 0) ; "This large rock covers a Meep hole."
 					)
 					((== loop 0)
 						(HighPrint 60 1) ; "A furry blue Meep"
 					)
-					((== loop 1)
+					((and (== loop 1) (== view 60))
 						(HighPrint 60 2) ; "A furry purple Meep"
 					)
-					((== loop 2)
+					(else
 						(HighPrint 60 3) ; "A furry green Meep"
 					)
 				)
@@ -177,6 +178,13 @@
 		view 61
 		loop 5
 		illegalBits 0
+	)
+)
+
+(instance converse of Sound
+	(properties
+		number 75
+		priority 1
 	)
 )
 
@@ -258,7 +266,7 @@
 			(switch gHowFast
 				(0 2)
 				(1 3)
-				(2 4)
+				(else 4)
 			)
 		)
 		(meepSound number: (SoundFX 55) init:)
@@ -266,6 +274,9 @@
 		(thudSound number: (SoundFX 58) init:)
 		(throwSound number: (SoundFX 31) init:)
 		(localproc_1)
+		(if (< global211 8)
+			(meepWin color: 0 back: 15)
+		)
 		(gDirHandler addToFront: self)
 		(gMouseHandler addToFront: self)
 	)
@@ -690,7 +701,8 @@
 			(switch gHowFast
 				(0 4)
 				(1 8)
-				(2 16)
+				(2 12)
+				(else 16)
 			)
 		)
 		(HandsOff)
@@ -785,12 +797,12 @@
 				(= seconds 2)
 			)
 			(1
-				(meepSound number: (SoundFX 75) loop: -1 play:)
+				(converse number: (SoundFX 75) loop: -1 priority: 10 play:)
 				(TimePrint 7 60 40) ; "You hear squeaky muttering from beneath the ground. It seems the Meeps are having quite a discussion about you."
 				(= seconds 7)
 			)
 			(2
-				(meepSound stop: loop: 1)
+				(converse stop: loop: 1 priority: 1)
 				([local2 3] setScript: bossRises)
 				(client setScript: 0)
 			)
@@ -815,8 +827,26 @@
 				(HandsOff)
 				(= local43 30)
 				(= local35 1)
+				(if (gEgo inRect: 115 104 130 145)
+					(gEgo
+						ignoreBlocks: bossBlock
+						illegalBits: 0
+						ignoreActors:
+						setMotion: MoveTo 135 125 self
+					)
+				else
+					(= cycles 4)
+				)
+			)
+			(1
+				(gEgo
+					observeBlocks: bossBlock
+					illegalBits: $8080
+					ignoreActors: 0
+				)
 				([local18 3] setCycle: 0 stopUpd: hide:)
 				(client
+					ignoreActors:
 					view: 61
 					setLoop: 2
 					cel: 0
@@ -830,7 +860,7 @@
 				)
 				(thudSound number: 54 play:)
 				(bossRock
-					ignoreActors: 1
+					ignoreActors:
 					setLoop: 5
 					cel: 0
 					posn: 130 94
@@ -839,24 +869,30 @@
 					setMotion: MoveTo 140 54 self
 				)
 			)
-			(2
+			(3
 				(client setLoop: 1 cel: 0 setPri: 8 cycleSpeed: 2 setCycle: Fwd)
 				(bossRock setMotion: MoveTo 145 114 self)
 				(if (or local33 (IsFlag 305))
 					(localproc_0 4 60 41) ; "Hiya, hiya. Nice to seeya 'gain."
 				else
-					(localproc_0 4 60 42) ; "Hiya, hiya. Really pleased to meetcha."
+					(localproc_0 4 60 42) ; "Hiya, hiya. Pleased to meetcha."
 					(SetFlag 305)
 					(= local33 1)
 				)
 			)
-			(3
+			(4
 				(thudSound number: (SoundFX 58) play:)
-				(bossRock setCycle: 0 setCel: 0 setPri: -1 stopUpd:)
+				(bossRock
+					ignoreActors: 0
+					setCycle: 0
+					setCel: 0
+					setPri: -1
+					stopUpd:
+				)
 				(= cycles 6)
 			)
-			(4
-				(client setCycle: 0 cel: 3 stopUpd:)
+			(5
+				(client ignoreActors: 0 setCycle: 0 cel: 3 stopUpd:)
 				(if (not local40)
 					(meepHead init:)
 					(= local40 1)
@@ -864,7 +900,7 @@
 				(meepHead posn: 130 110 z: 1 setPri: 8 setCycle: Fwd)
 				(= seconds 2)
 			)
-			(5
+			(6
 				(meepHead setCycle: 0 stopUpd:)
 				(= local43 30)
 				(= local35 0)
@@ -886,9 +922,9 @@
 					(meepHead dispose:)
 				)
 				([local2 3]
+					ignoreActors: 1
 					setLoop: 2
 					cel: 0
-					setPri: -1
 					setCycle: CT 2 1
 					setMotion: MoveTo 130 114 self
 				)
@@ -898,7 +934,7 @@
 				(= seconds 3)
 			)
 			(2
-				([local2 3] setLoop: 0 cel: 0 posn: 130 127)
+				([local2 3] ignoreActors: 0 setLoop: 0 cel: 0 posn: 130 127)
 				(client setScript: 0)
 			)
 		)
@@ -975,8 +1011,8 @@
 					setLoop: (local38 loop:)
 					cel: 0
 					setPri: 7
-					ignoreActors:
 					illegalBits: 0
+					ignoreActors:
 					posn: 133 110
 					init:
 					setCycle: 0
@@ -1021,18 +1057,23 @@
 						[local96 register]
 					)
 				)
-				(= seconds 2)
+				(if (gEgo inRect: 100 124 160 136)
+					(gEgo setMotion: MoveTo 165 125 self)
+				else
+					(self cue:)
+				)
 			)
 			(1
-				(self setScript: bossHides self)
-			)
-			(2
-				(if (gEgo inRect: 100 122 160 136)
-					(gEgo setMotion: MoveTo 165 123)
-				)
+				(DirLoop gEgo (GetAngle (gEgo x:) (gEgo y:) 130 114))
 				(= seconds 2)
 			)
+			(2
+				(self setScript: bossHides self)
+			)
 			(3
+				(= seconds 2)
+			)
+			(4
 				(gEgo loop: 1)
 				(if
 					(or
@@ -1044,7 +1085,7 @@
 						)
 					)
 					(localproc_0 5 60 46) ; "Gosh, I don't seem to have anything like that left. Really sorry 'bout that."
-					(= state 6)
+					(= state 7)
 					(= seconds 5)
 				else
 					(= local41 (Random 2 4))
@@ -1054,48 +1095,40 @@
 					(= cycles 10)
 				)
 			)
-			(4
-				(= temp0
-					(switch (Random 0 4)
-						(1
-							(if local44 0 else 1)
-						)
-						(3
-							(if
-								(or
-									local45
-									(== register 3)
-									(IsFlag 228)
-									(not [gEgoStats 12]) ; magic
-								)
-								0
-							else
-								3
-							)
-						)
-						(else 0)
-					)
-				)
+			(5
 				(if local41
+					(= temp0 0)
+					(if (and (not local44) (== (Random 0 3) 1))
+						(= temp0 1)
+					)
+					(if
+						(and
+							(== register 2)
+							(not local45)
+							[gEgoStats 12] ; magic
+							(not (IsFlag 228))
+						)
+						(= temp0 3)
+					)
 					(self setScript: throwObj self temp0)
 				else
-					(self changeState: 6)
+					(self changeState: 7)
 				)
 			)
-			(5
+			(6
 				(-- local41)
 				(++ local42)
-				(= state 3)
+				(= state 4)
 				(= cycles 5)
 			)
-			(6
+			(7
 				(-- local47)
 				(self setScript: throwObj self register)
 			)
-			(7
+			(8
 				(self setScript: bossReturns self)
 			)
-			(8
+			(9
 				(= local29 0)
 				(HandsOn)
 				(client setScript: 0)

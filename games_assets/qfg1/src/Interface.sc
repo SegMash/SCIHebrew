@@ -23,7 +23,13 @@
 
 (procedure (MousedOn obj event theMods)
 	(cond
-		((!= (event type:) 1) 0)
+		(
+			(or
+				(!= (event type:) 1)
+				(and (obj respondsTo: #signal) (& (obj signal:) $0080))
+			)
+			0
+		)
 		((and (>= argc 3) theMods (== (& (event modifiers:) theMods) 0)) 0)
 		((obj respondsTo: #nsLeft)
 			(InRect
@@ -47,200 +53,179 @@
 	(Print txt #icon v l c &rest)
 )
 
-(procedure (Print args &tmp temp0 temp1 temp2 temp3 temp4 temp5 temp6 temp7 temp8 temp9 temp10 temp11 [temp12 6] temp18 temp19 temp20 temp21 [temp22 1000])
-	(= temp11 (GetPort))
-	(= temp6 (= temp7 -1))
-	(= temp9 (= temp8 (= temp18 (= temp19 (= temp2 (= temp3 (= temp20 0)))))))
-	((= temp0 (Dialog new:)) window: gHSW name: {PrintD})
-	(= temp1 (DText new:))
+(procedure (Print args &tmp theDialog textI iconI editI ret i atX atY fixWidth keepIt default curPort [buttons 6] buttonWide buttonsUsed butAtX [buffer 1000])
+	(= atX (= atY -1))
+	(= keepIt (= fixWidth (= buttonWide (= iconI (= editI (= buttonsUsed 0))))))
+	((= theDialog (Dialog new:)) window: gHSW name: {PrintD})
+	(= textI (DText new:))
 	(cond
 		((u< [args 0] 1000)
-			(GetFarText [args 0] [args 1] @temp22)
-			(= temp5 2)
+			(GetFarText [args 0] [args 1] @buffer)
+			(= i 2)
 		)
 		([args 0]
-			(StrCpy @temp22 [args 0])
-			(= temp5 1)
+			(StrCpy @buffer [args 0])
+			(= i 1)
 		)
 		(else
-			(= temp22 0)
-			(= temp5 0)
+			(= buffer 0)
+			(= i 0)
 		)
 	)
-	(temp1 text: @temp22 moveTo: 4 4 font: gUserFont setSize:)
-	(temp0 add: temp1)
-	(for ((= temp5 temp5)) (< temp5 argc) ((++ temp5))
-		(switch [args temp5]
+	(textI text: @buffer moveTo: 4 4 font: gUserFont setSize:)
+	(theDialog add: textI)
+	(for ((= i i)) (< i argc) ((++ i))
+		(switch [args i]
 			(30
-				(++ temp5)
-				(temp1 mode: [args temp5])
+				(++ i)
+				(textI mode: [args i])
 			)
 			(33
-				(++ temp5)
-				(temp1 font: [args temp5] setSize: temp8)
+				(++ i)
+				(textI font: [args i] setSize: fixWidth)
 			)
 			(70
-				(= temp8 [args (++ temp5)])
-				(temp1 setSize: temp8)
+				(= fixWidth [args (++ i)])
+				(textI setSize: fixWidth)
 			)
 			(25
-				(++ temp5)
-				(temp0 time: [args temp5])
+				(++ i)
+				(theDialog time: [args i])
 			)
 			(80
-				(++ temp5)
-				(temp0 text: [args temp5])
+				(++ i)
+				(theDialog text: [args i])
 			)
 			(67
-				(= temp6 [args (++ temp5)])
-				(= temp7 [args (++ temp5)])
+				(= atX [args (++ i)])
+				(= atY [args (++ i)])
 			)
 			(83
 				(Animate (gCast elements:) 0)
 			)
 			(41
-				(++ temp5)
-				((= temp3 (DEdit new:)) text: [args temp5])
-				(++ temp5)
-				(temp3 max: [args temp5] setSize:)
+				(++ i)
+				((= editI (DEdit new:)) text: [args i])
+				(++ i)
+				(editI max: [args i] setSize:)
 			)
 			(81
-				((= [temp12 temp20] (DButton new:))
-					text: [args (++ temp5)]
-					value: [args (++ temp5)]
+				((= [buttons buttonsUsed] (DButton new:))
+					text: [args (++ i)]
+					value: [args (++ i)]
 					setSize:
 				)
-				(+= temp18 (+ ([temp12 temp20] nsRight:) 4))
-				(++ temp20)
-			)
-			(150
-				((= [temp12 temp20] (DButton new:))
-					text: [args (++ temp5)]
-					value: [args (++ temp5)]
-					setSize:
-				)
-				(+= temp19 (+ ([temp12 temp20] nsBottom:) 4))
-				(++ temp20)
+				(+= buttonWide (+ ([buttons buttonsUsed] nsRight:) 4))
+				(++ buttonsUsed)
 			)
 			(82
-				(if (IsObject [args (+ temp5 1)])
-					(= temp2 ([args (+ temp5 1)] new:))
-					(temp2 setSize:)
-					(+= temp5 1)
+				(if (IsObject [args (+ i 1)])
+					(= iconI ([args (+ i 1)] new:))
+					(iconI setSize:)
+					(+= i 1)
 				else
-					(= temp2 (DIcon new:))
-					(temp2
-						view: [args (+ temp5 1)]
-						loop: [args (+ temp5 2)]
-						cel: [args (+ temp5 3)]
+					(= iconI (DIcon new:))
+					(iconI
+						view: [args (+ i 1)]
+						loop: [args (+ i 2)]
+						cel: [args (+ i 3)]
 						setSize:
 					)
-					(+= temp5 3)
+					(+= i 3)
 				)
 			)
 			(88
 				(if gModelessDialog
 					(gModelessDialog dispose:)
 				)
-				(= temp9 temp0)
+				(= keepIt theDialog)
 			)
 			(35
-				(++ temp5)
-				(temp0 window: [args temp5])
+				(++ i)
+				(theDialog window: [args i])
 			)
 		)
 	)
-	(if temp2
-		(temp2 moveTo: 4 4)
-		(temp1 moveTo: (+ 4 (temp2 nsRight:)) (temp1 nsTop:))
-		(temp0 add: temp2)
+	(if iconI
+		(iconI moveTo: 4 4)
+		(textI moveTo: (+ 4 (iconI nsRight:)) (textI nsTop:))
+		(theDialog add: iconI)
 	)
-	(temp0 setSize:)
-	(if temp3
-		(temp3 moveTo: (temp1 nsLeft:) (+ 4 (temp1 nsBottom:)))
-		(temp0 add: temp3 setSize:)
+	(theDialog setSize:)
+	(if editI
+		(editI moveTo: (textI nsLeft:) (+ 4 (textI nsBottom:)))
+		(theDialog add: editI setSize:)
 	)
-	(cond
-		(temp18
-			(= temp21
-				(if (> temp18 (temp0 nsRight:))
-					4
-				else
-					(- (temp0 nsRight:) temp18)
-				)
-			)
-			(for ((= temp5 0)) (< temp5 temp20) ((++ temp5))
-				([temp12 temp5] moveTo: temp21 (temp0 nsBottom:))
-				(temp0 add: [temp12 temp5])
-				(= temp21 (+ 4 ([temp12 temp5] nsRight:)))
-			)
-		)
-		(temp19
-			(= temp21 (+ (temp0 nsTop:) 4))
-			(for ((= temp5 0)) (< temp5 temp20) ((++ temp5))
-				([temp12 temp5] moveTo: (temp0 nsRight:) temp21)
-				(temp0 add: [temp12 temp5])
-				(= temp21 (+ 4 ([temp12 temp5] nsBottom:)))
-			)
+	(= butAtX
+		(if (> buttonWide (theDialog nsRight:))
+			4
+		else
+			(- (theDialog nsRight:) buttonWide)
 		)
 	)
-	(temp0 setSize: center:)
-	(if (and temp2 (not (StrLen @temp22)))
-		(temp2
+	(for ((= i 0)) (< i buttonsUsed) ((++ i))
+		([buttons i] moveTo: butAtX (theDialog nsBottom:))
+		(theDialog add: [buttons i])
+		(= butAtX (+ 4 ([buttons i] nsRight:)))
+	)
+	(theDialog setSize: center:)
+	(if (and iconI (not (StrLen @buffer)))
+		(iconI
 			moveTo:
 				(/
 					(-
-						(- (temp0 nsRight:) (temp0 nsLeft:))
-						(- (temp2 nsRight:) (temp2 nsLeft:))
+						(- (theDialog nsRight:) (theDialog nsLeft:))
+						(- (iconI nsRight:) (iconI nsLeft:))
 					)
 					2
 				)
 				4
 		)
 	)
-	(temp0
+	(theDialog
 		moveTo:
-			(if (== -1 temp6)
-				(temp0 nsLeft:)
+			(if (== -1 atX)
+				(theDialog nsLeft:)
 			else
-				temp6
+				atX
 			)
-			(if (== -1 temp7)
-				(temp0 nsTop:)
+			(if (== -1 atY)
+				(theDialog nsTop:)
 			else
-				temp7
+				atY
 			)
 	)
-	(if (not temp2)
-		(temp1 setSize: (- (- (temp0 nsRight?) (temp0 nsLeft?)) (* 2 4)))
+	(if (not iconI)
+		(textI setSize: (- (- (theDialog nsRight?) (theDialog nsLeft?)) (* 2 4)))
 	)
-	(temp0 open: (if (temp0 text:) 4 else 0) (if temp9 15 else -1))
-	(if temp9
+	(= curPort (GetPort))
+	(theDialog open: (if (theDialog text:) 4 else 0) (if keepIt 15 else -1))
+	(if keepIt
 		(= global62 (GetPort))
-		(SetPort temp11)
-		(return (= gModelessDialog temp9))
+		(SetPort curPort)
+		(return (= gModelessDialog keepIt))
 	)
 	(if
 		(and
-			(= temp10 (temp0 firstTrue: #checkState 1))
-			(not (temp0 firstTrue: #checkState 2))
+			(= default (theDialog firstTrue: #checkState 1))
+			(not (theDialog firstTrue: #checkState 2))
 		)
-		(temp10 state: (| (temp10 state:) $0002))
+		(default state: (| (default state:) $0002))
 	)
-	(if (== (= temp4 (temp0 doit: temp10)) -1)
-		(= temp4 0)
+	(if (== (= ret (theDialog doit: default)) -1)
+		(= ret 0)
 	)
-	(for ((= temp5 0)) (< temp5 temp20) ((++ temp5))
-		(if (== temp4 [temp12 temp5])
-			(= temp4 (temp4 value:))
+	(for ((= i 0)) (< i buttonsUsed) ((++ i))
+		(if (== ret [buttons i])
+			(= ret (ret value:))
 			(break)
 		)
 	)
-	(if (not (temp0 theItem:))
-		(= temp4 1)
+	(if (not (theDialog theItem:))
+		(= ret 1)
 	)
-	(temp0 dispose:)
-	(return temp4)
+	(theDialog dispose:)
+	(return ret)
 )
 
 (procedure (GetNumber string default &tmp [theLine 40])
@@ -273,7 +258,6 @@
 	)
 
 	(method (hide)
-		(= state 0)
 		(DrawMenuBar 0)
 	)
 
@@ -664,7 +648,7 @@
 
 	(method (open wtype pri)
 		(if (and (PicNotValid) gCast)
-			(RedrawCast)
+			(Animate (gCast elements:) 0)
 		)
 		(= window (window new:))
 		(window
@@ -685,8 +669,8 @@
 		(self eachElementDo: #draw)
 	)
 
-	(method (doit def &tmp temp0 temp1 temp2 temp3 temp4 temp5)
-		(= temp0 0)
+	(method (doit def &tmp done event ret eatMice lastTick)
+		(= done 0)
 		(= busy 1)
 		(self eachElementDo: #init)
 		(if theItem
@@ -703,36 +687,36 @@
 			(theItem select: 1)
 		)
 		(if (not theItem)
-			(= temp3 60)
-			(= temp4 (GetTime))
+			(= eatMice 60)
+			(= lastTick (GetTime))
 		else
-			(= temp3 0)
+			(= eatMice 0)
 		)
-		(= temp2 0)
-		(while (not temp2)
+		(= ret 0)
+		(while (not ret)
 			(self eachElementDo: #cycle)
-			(GlobalToLocal (= temp1 (Event new:)))
-			(if temp3
-				(-- temp3)
-				(if (== (temp1 type:) evMOUSEBUTTON)
-					(temp1 type: evNULL)
+			(GlobalToLocal (= event (Event new:)))
+			(if eatMice
+				(-- eatMice)
+				(if (== (event type:) evMOUSEBUTTON)
+					(event type: evNULL)
 				)
-				(while (== temp4 (GetTime))
+				(while (== lastTick (GetTime))
 				)
-				(= temp4 (GetTime))
+				(= lastTick (GetTime))
 			)
-			(= temp2 (self handleEvent: temp1))
-			(temp1 dispose:)
+			(= ret (self handleEvent: event))
+			(event dispose:)
 			(self check:)
-			(if (or (== temp2 -1) (not busy))
-				(= temp2 0)
+			(if (or (== ret -1) (not busy))
+				(= ret 0)
 				(EditControl theItem 0)
 				(break)
 			)
 			(Wait 1)
 		)
 		(= busy 0)
-		(return temp2)
+		(return ret)
 	)
 
 	(method (check &tmp thisSeconds)

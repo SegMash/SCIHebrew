@@ -146,13 +146,13 @@
 		(if
 			(and
 				4
+				(User canInput:)
+				(not (event claimed:))
+				local10
 				(or
 					(== (event message:) (User echo:))
 					(<= KEY_SPACE (event message:) $007f)
 				)
-				(not global104)
-				local10
-				(!= (event message:) KEY_ESCAPE)
 			)
 			(event claimed: 1)
 			(if (User getInput: event)
@@ -191,10 +191,6 @@
 												)
 												(proc802_1
 													(User inputLineAddr:)
-													{red}
-												)
-												(proc802_1
-													(User inputLineAddr:)
 													{pink}
 												)
 												(proc802_1
@@ -221,6 +217,10 @@
 												(proc802_1
 													(User inputLineAddr:)
 													{hero}
+												)
+												(proc802_1
+													(User inputLineAddr:)
+													{glory}
 												)
 												(proc802_1
 													(User inputLineAddr:)
@@ -322,6 +322,10 @@
 														(User inputLineAddr:)
 														{forty-two}
 													)
+													(proc802_1
+														(User inputLineAddr:)
+														{cherr}
+													)
 												)
 												(askQuestions changeState: 0)
 											else
@@ -330,9 +334,15 @@
 										)
 										(3
 											(if
-												(proc802_1
-													(User inputLineAddr:)
-													{yes}
+												(or
+													(proc802_1
+														(User inputLineAddr:)
+														{yes}
+													)
+													(proc802_1
+														(User inputLineAddr:)
+														{כן}
+													)
 												)
 												(askQuestions changeState: 0)
 											else
@@ -341,9 +351,15 @@
 										)
 										(4
 											(if
-												(proc802_1
-													(User inputLineAddr:)
-													{maybe}
+												(or
+													(proc802_1
+														(User inputLineAddr:)
+														{maybe}
+													)
+													(proc802_1
+														(User inputLineAddr:)
+														{אולי}
+													)
 												)
 												(askQuestions changeState: 0)
 											else
@@ -427,7 +443,7 @@
 				(cond
 					((Said 'look>')
 						(cond
-							((Said '/house,mansion,north')
+							((Said '[<at,around][/!*,house,mansion,north]')
 								(HighPrint 29 0) ; "You see the purple home of someone who must enjoy its precarious perch upon the peak."
 							)
 							((Said '/gargoyle,creature')

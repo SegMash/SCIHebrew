@@ -3,13 +3,13 @@
 (script# 332)
 (include sci.sh)
 (use Main)
+(use n341)
 (use LoadMany)
 (use RFeature)
 (use Sound)
 (use Motion)
 (use Game)
 (use Inventory)
-(use Menu)
 (use Actor)
 (use System)
 
@@ -147,7 +147,7 @@
 			((super handleEvent: event))
 			(
 				(or
-					(Said 'fight,hit,cut,kill[/*]')
+					(Said 'fight,hit,cut,kill')
 					(Said 'throw/boulder,dagger')
 					(Said 'cast')
 				)
@@ -394,68 +394,68 @@
 							(event claimed: 1)
 							(localproc_1)
 						)
-						((Said '/dagger,throw')
+						((Said '//dagger,throw')
 							(HighPrint 332 40) ; "A dagger is a thief's best friend, and throwing from a distance is the safest and best way to use it. If you think you are good enough, perhaps we could play a little game."
 						)
-						((Said '/board')
+						((Said '//board')
 							(HighPrint 332 41) ; "We use the specially designed Dag-Nab-It board you can see there on the wall."
 						)
-						((Said '/game,dagnabit,practice,play,rule')
+						((Said '//game,dagnabit,practice,play,rule')
 							;(proc341_0)
 						)
-						((Said '/bet')
+						((Said '//bet')
 							(HighPrint 332 42) ; "We could start small, perhaps five silvers a game, perhaps even less. Of course, we can wager more if you think you can take me."
 						)
-						((Said '/thief,grab,stealing')
+						((Said '//thief,grab,stealing')
 							(HighPrint 332 43) ; "There are only a few members of our Guild still around here. With the snow and the brigands keeping away the tourists, it's hard to earn a decent living."
 						)
-						((Said '/club,club,member')
+						((Said '//club,club,member')
 							(HighPrint 332 44) ; "Where else but here can one mingle freely with others of our chosen profession, sharing tips and secrets? Where else can you safely fence stolen items?"
 							(HighPrint 332 45) ; "Where else can you ask questions like these and not get thrown into jail or attacked? The Guild is truly your home away from home."
 						)
-						((Said '/fink')
+						((Said '//fink')
 							(HighPrint 332 46) ; "Those who do not pay their union dues are the lowest form of life."
 						)
-						((Said '/due,due,cost')
+						((Said '//due,due,cost')
 							(HighPrint 332 8) ; "A Thief's license will cost you 25 silvers. You will need a license to use any of our services."
 						)
-						((Said '/advice')
+						((Said '//advice')
 							(HighPrint 332 47) ; "My advice is, don't get caught."
 						)
-						((Said '/secret')
+						((Said '//secret')
 							(HighPrint 332 48) ; "Now that would be telling."
 						)
-						((Said '/fence,sale,loot,item')
+						((Said '//fence,sale,loot,item')
 							(HighPrint 332 49) ; "Just give your stolen items to Boris and you will be suitably recompensed. Or, in terms more suited to your apparent intellect, you get cash for your loot."
 						)
-						((Said '/boris')
+						((Said '//boris')
 							(HighPrint 332 50) ; "Boris is our accountant."
 						)
-						((Said '/bouncer,goon')
+						((Said '//bouncer,goon')
 							(HighPrint 332 51) ; "Crusher is our personnel manager."
 						)
-						((Said '/otto')
+						((Said '//otto')
 							(HighPrint 332 52) ; "Otto is the Sheriff's goon. He shouldn't give you any trouble unless you happen to stand in his way."
 						)
-						((Said '/meisterson')
+						((Said '//meisterson')
 							(HighPrint 332 53) ; "The Sheriff provides a useful service in this town. He arrests anyone too stupid or unlucky to be a good thief."
 						)
-						((Said '/name,boss,master')
+						((Said '//name,boss,master')
 							(HighPrint 332 54) ; "I am known as 'The Chief'. But you can call me 'Chief'."
 						)
-						((Said '/bandit')
+						((Said '//bandit')
 							(HighPrint 332 55) ; "These non-union cretins are giving thieves a bad name. I'm sure they have a spy planted in our organization, but I don't know who it is."
 						)
-						((Said '/spy')
+						((Said '//spy')
 							(HighPrint 332 56) ; "There is certainly a traitor in our midst."
 						)
-						((Said '/hamlet,hamlet')
+						((Said '//hamlet,hamlet')
 							(HighPrint 332 57) ; "There are a few places around town where a clever and skilled thief can make some silver. Perhaps even you could steal something."
 						)
-						((Said '/stealing,stealing,labor')
+						((Said '//stealing,stealing,labor')
 							(HighPrint 332 58) ; "I have had beginners before, but this Guild reached a new low when you joined. Child, you are a thief. Stealing is how you make a living. So go out there and steal something and hopefully you'll get, umm, that is, you *won't* get caught."
 						)
-						((Said '/hasp,lockpick,implement,kit')
+						((Said '//hasp,lockpick,implement,kit')
 							(HighPrint 332 59) ; "We will gladly sell you a lock pick for a modest fee. However, for the true professional, nothing will do but the Guild-Approved Acme Thief Tool Kit. This kit will allow you to pick anything with a little practice, and is a real steal at only one hundred silvers. Just talk to Boris."
 						)
 						(else
@@ -477,7 +477,6 @@
 		(switch (= state newState)
 			(0
 				(HandsOff)
-				(proc997_1 0)
 				(EgoGait 0 0) ; walking
 				(gEgo
 					illegalBits: 0

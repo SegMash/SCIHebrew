@@ -274,9 +274,7 @@
 								(= [gInvNum 1] 0) ; silver
 								(= [gInvNum 2] 0) ; gold
 								(HighPrint 334 28) ; "Slink: "Thanks, it's been a pleasure doing business with you. You can find your way out, I'm sure. But better hurry before my dagger starts to slip.""
-								(if (or [gEgoStats 8] [gEgoStats 9]) ; stealth, pick locks
-									(SolvePuzzle 606 -10)
-								)
+								(SolvePuzzle 606 -10 2)
 								(= local1 1)
 								(= register 200)
 							)
@@ -336,20 +334,37 @@
 			(5
 				(cond
 					((not (IsFlag 126))
+						(SetFlag 126)
 						(HighPrint 334 32) ; "Slink says, "That coin light spell gets them every time. See that dagger? The next one is centered on your back. Give Sneak there your cash and you walk out of here. It's a simple trade, your life for your money.""
 						(HandsOn)
 					)
-					((and (IsFlag 123) (not (gEgo has: 25))) ; thief certificate
-						(HighPrint 334 33) ; "Slink: "Hey, Sneak, this guy's hard of hearing or something. I told him to get a license last time he was here, and he didn't listen. Let's teach him a little lesson about listening to his betters.""
-						(HandsOff)
+					((not (IsFlag 123))
+						(HighPrint 334 33) ; "Slink: "Why, how nice to see you again. I do hope (for your sake) you brought us some nice shiny new silver.""
+						(HandsOn)
+					)
+					((not (gEgo has: 25)) ; thief certificate
+						(HighPrint 334 34) ; "Slink: "Hey, Sneak, this guy's hard of hearing or something. I told him to get a license last time he was here, and he didn't listen.""
+						(HighPrint 334 35) ; "Let's teach him a little lesson about listening to his betters."
+						(self changeState: 7)
+					)
+					((IsFlag 299)
+						(HighPrint 334 36) ; "As Slink reaches for his dagger, you draw your Thieves' Guild license. . ."
+						(HighPrint 334 37) ; "You *almost* make it."
+						(HighPrint 334 38) ; "Slink: "Hey, Sneak, this guy's hard of hearing or something. I told him to stay out of our alley, and he didn't listen.""
+						(HighPrint 334 35) ; "Let's teach him a little lesson about listening to his betters."
 						(self changeState: 7)
 					)
 					(else
-						(HighPrint 334 34) ; "Slink: "Why, how nice to see you again. I do hope (for your sake) you brought us some nice shiny new silver.""
+						(HighPrint 334 36) ; "As Slink reaches for his dagger, you draw your Thieves' Guild license. . ."
+						(HighPrint 334 39) ; "You win by a close margin."
+						(HighPrint 334 40) ; "Slink: "All right, so you got your license. How nice. Guess we don't get to kill you right now.""
+						(HighPrint 334 41) ; "But stay out of our alley, 'cause we got real short memories, like."
+						(SetFlag 299)
+						(= local1 1)
+						(= register 200)
 						(HandsOn)
 					)
 				)
-				(SetFlag 126)
 			)
 			(6
 				(sneak setLoop: 7 cel: 0)
@@ -369,7 +384,7 @@
 				)
 			)
 			(9
-				(EgoDead 334 35 80 { Erana missed this spot. } 82 800 0 0) ; "Perhaps you shouldn't explore dark alleys at night unless you are looking for trouble. Or perhaps you should look in your manual to learn how to deal with thieves."
+				(EgoDead 334 42 80 { Erana missed this spot. } 82 800 0 0) ; "Perhaps you shouldn't explore dark alleys at night unless you are looking for trouble. Or perhaps you should look in your manual to learn how to deal with thieves."
 			)
 		)
 	)

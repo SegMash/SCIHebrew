@@ -65,14 +65,15 @@
 		(if (or (== gPrevRoomNum 97) (== gPrevRoomNum 89))
 			(SetFlag 253)
 		)
-		(if (not (IsFlag 253))
-			(rock init: stopUpd:)
-		)
 		(if (SetFlag 84)
 			(SetFlag 348)
 		)
 		(NormalEgo)
 		(gEgo init:)
+		(if (not (IsFlag 253))
+			(gEgo illegalBits: $8040)
+			(rock init: stopUpd:)
+		)
 		(if (= local0 (not (or (IsFlag 206) (IsFlag 204))))
 			(antwerp init: loop: 3 setScript: bounceAndLook)
 			(LoadMany rsVIEW 590 513 502 503 510 84)
@@ -88,29 +89,6 @@
 					(Load rsVIEW 512)
 				)
 			)
-		)
-		(if (gEgo knows: 20) ; dazzleSpell
-			(Load rsVIEW 521)
-			(Load rsSCRIPT 106)
-		)
-		(if (gEgo knows: 23) ; flameDartSpell
-			(Load rsVIEW 522)
-			(Load rsSCRIPT 100)
-		)
-		(if (gEgo knows: 22) ; calmSpell
-			(Load rsVIEW 521)
-			(Load rsSCRIPT 104)
-		)
-		(if (gEgo knows: 17) ; openSpell
-			(Load rsVIEW 521)
-		)
-		(if (gEgo has: 7) ; dagger
-			(Load rsVIEW 524)
-			(Load rsSCRIPT 101)
-		)
-		(if (gEgo has: 21) ; boulder
-			(Load rsVIEW 510)
-			(Load rsSCRIPT 102)
 		)
 		(switch gPrevRoomNum
 			(89
@@ -186,7 +164,7 @@
 							)
 							((Said '[<at][/boulder,boulder]')
 								(cond
-									((not (gEgo inRect: 0 70 50 100))
+									((not (gEgo inRect: 0 72 66 102))
 										(HighPrint 84 7) ; "The rocks were left here by some receding glacier."
 									)
 									((IsFlag 253)
@@ -197,31 +175,31 @@
 									)
 								)
 							)
-							((Said '/cave,entrance')
+							((or (Said '/cave,entrance') (Said '<in'))
 								(if (IsFlag 253)
-									(HighPrint 84 8) ; "There is a narrow cave entrance among the rocks."
+									(HighPrint 84 10) ; "There is a narrow cave entrance among the rocks. Inside, you see a dark passage through the hillside."
 								else
-									(HighPrint 84 10) ; "You see nothing like that here."
+									(HighPrint 84 11) ; "You see nothing like that here."
 								)
 							)
 							((Said '/door,keyhole,hasp')
-								(if (gEgo inRect: 0 70 50 100)
+								(if (gEgo inRect: 0 72 66 102)
 									(HighPrint 84 9) ; "You find a keyhole concealed in a crack in the rock."
 								else
-									(HighPrint 84 11) ; "You do not find anything nearby."
+									(HighPrint 84 12) ; "You do not find anything nearby."
 								)
 							)
 							((or (Said '<up') (Said '/sky'))
-								(HighPrint 84 12) ; "The sky is clear."
+								(HighPrint 84 13) ; "The sky is clear."
 							)
 							((or (Said '<down') (Said '/ground,grass'))
-								(HighPrint 84 13) ; "The grass is luscious, just the thing for hungry herbivores."
+								(HighPrint 84 14) ; "The grass is luscious, just the thing for hungry herbivores."
 							)
 							((Said '/south,west')
-								(HighPrint 84 14) ; "The way is impassable. Sheer rock cliffs rise to serious heights."
+								(HighPrint 84 15) ; "The way is impassable. Sheer rock cliffs rise to serious heights."
 							)
 							((Said '/east,north')
-								(HighPrint 84 15) ; "The forest extends to the east and north."
+								(HighPrint 84 16) ; "The forest extends to the east and north."
 							)
 						)
 					)
@@ -229,14 +207,14 @@
 						(switch (= temp30 (SaidSpell event))
 							(18
 								(if (CastSpell temp30)
-									(HighPrint 84 16) ; "You detect no magic here."
+									(HighPrint 84 17) ; "You detect no magic here."
 								)
 							)
 							(20
 								(if (CastSpell temp30)
 									(CastDazzle)
 									(if local0
-										(HighPrint 84 17) ; "Antwerps aren't dazzled easily."
+										(HighPrint 84 18) ; "Antwerps aren't dazzled easily."
 									)
 								)
 							)
@@ -256,12 +234,12 @@
 							)
 							(17
 								(cond
-									((not (gEgo inRect: 0 70 50 100))
-										(HighPrint 84 18) ; "You aren't close enough to a lock."
+									((not (gEgo inRect: 0 72 66 102))
+										(HighPrint 84 19) ; "You aren't close enough to a lock."
 									)
 									((CastSpell temp30)
 										(if (IsFlag 252)
-											(HighPrint 84 19) ; "It's already unlocked."
+											(HighPrint 84 20) ; "It's already unlocked."
 										else
 											(self setScript: sMagicRock)
 										)
@@ -279,6 +257,8 @@
 						)
 						(if (ThrowKnife temp31)
 							(if (gCast contains: antwerp)
+								(+= global271 global272)
+								(= global272 0)
 								(LookAt gEgo antwerp)
 								(RedrawCast)
 							)
@@ -316,8 +296,8 @@
 								(antwerp setScript: fightAntwerp)
 							)
 							(else
-								(HighPrint 84 20) ; "You have no weapon with which to fight the Antwerp."
-								(HighPrint 84 21) ; "However, you bravely attack the bouncing beast with your bare hands."
+								(HighPrint 84 21) ; "You have no weapon with which to fight the Antwerp."
+								(HighPrint 84 22) ; "However, you bravely attack the bouncing beast with your bare hands."
 								(gEgo setScript: bareHandAttack)
 							)
 						)
@@ -328,13 +308,13 @@
 						)
 						(cond
 							((IsFlag 206)
-								(HighPrint 84 22) ; "The only Antwerp known to these parts, split ...into parts."
+								(HighPrint 84 23) ; "The only Antwerp known to these parts, split ...into parts."
 							)
 							((IsFlag 204)
 								(HighPrint 84 5) ; "The Antwerp seems to have flown the coop."
 							)
 							(else
-								(HighPrint 84 23) ; "He's on a diet."
+								(HighPrint 84 24) ; "He's on a diet."
 							)
 						)
 					)
@@ -343,29 +323,30 @@
 							(Said 'unlock,lockpick,free/door,boulder,hasp,keyhole')
 							(Said 'use/key,lockpick')
 							(Said 'open/hasp,keyhole')
+							(Said 'put,fill<in/key/hasp')
 						)
 						(cond
-							((not (gEgo inRect: 0 70 50 100))
-								(HighPrint 84 24) ; "You don't see any locks nearby."
+							((not (gEgo inRect: 0 72 66 102))
+								(HighPrint 84 25) ; "You don't see any locks nearby."
 							)
 							((IsFlag 252)
-								(HighPrint 84 19) ; "It's already unlocked."
+								(HighPrint 84 20) ; "It's already unlocked."
 							)
 							((and (gEgo has: 5) (IsFlag 245)) ; key
-								(HighPrint 84 25) ; "The lock in the rock clicks open."
+								(HighPrint 84 26) ; "The lock in the rock clicks open."
 								(SetFlag 252)
 							)
 							((not (CanPickLocks))
-								(HighPrint 84 26) ; "You'd have a much easier time of this if you had the key."
+								(HighPrint 84 27) ; "You'd have a much easier time of this if you had the key."
 							)
 							((TrySkill 9 85 global189) ; pick locks
-								(HighPrint 84 27) ; "Ah, got it! The lock in the rock clicks open."
+								(HighPrint 84 28) ; "Ah, got it! The lock in the rock clicks open."
 								(SetFlag 252)
 							)
 							(else
-								(HighPrint 84 28) ; "The lock is beyond your present skill. It might help if you had the key."
+								(HighPrint 84 29) ; "The lock is beyond your present skill. It might help if you had the key."
 								(if (not (gEgo has: 24)) ; thief kit
-									(HighPrint 84 29) ; "... Or at least a better set of tools."
+									(HighPrint 84 30) ; "... Or at least a better set of tools."
 								)
 							)
 						)
@@ -376,32 +357,33 @@
 								(if (TrySkill 0 40 0) ; strength
 									(rock setScript: sMoveRock)
 								else
-									(HighPrint 84 30) ; "You are not strong enough yet to open the rock door."
+									(HighPrint 84 31) ; "You are not strong enough yet to open the rock door."
 								)
 							else
-								(HighPrint 84 31) ; "Despite your mightiest efforts, the rock does not move."
+								(HighPrint 84 32) ; "Despite your mightiest efforts, the rock does not move."
 							)
 						else
-							(HighPrint 84 32) ; "The rock door has already been opened."
+							(HighPrint 84 33) ; "The rock door has already been opened."
 						)
 					)
 					((or (Said 'say,yell<hiden/goseke') (Said 'hiden/goseke'))
 						(if
 							(and
-								(gEgo inRect: 0 70 50 100)
+								(IsFlag 235)
+								(gEgo inRect: 0 72 66 102)
 								(IsFlag 253)
 								(not (IsFlag 247))
 								(not (IsFlag 250))
 							)
 							(SetFlag 247)
 							(SolvePuzzle 702 5)
-							(HighPrint 84 33) ; "You hear the sound of someone...or something...moving deeper into the cave to let you pass."
+							(HighPrint 84 34) ; "You hear the sound of someone...or something...moving deeper into the cave to let you pass."
 						else
-							(HighPrint 84 34) ; "Ok, you say Hiden Goseke."
+							(HighPrint 84 35) ; "Ok, you say Hiden Goseke."
 						)
 					)
 					((Said 'enter/cave,entrance')
-						(HighPrint 84 35) ; "Go ahead. If you dare."
+						(HighPrint 84 36) ; "Go ahead. If you dare."
 					)
 				)
 			)
@@ -422,7 +404,7 @@
 	)
 
 	(method (getHurt)
-		(HighPrint 84 36) ; "That's funny. It bounced right off."
+		(HighPrint 84 37) ; "That's funny. It bounced right off."
 	)
 
 	(method (doit)
@@ -442,7 +424,7 @@
 		(switch (event type:)
 			(evMOUSEBUTTON
 				(if (MouseClaimed antwerp event 3)
-					(HighPrint 84 37) ; "By golly, it's an Antwerp!"
+					(HighPrint 84 38) ; "By golly, it's an Antwerp!"
 				)
 			)
 			(evSAID
@@ -452,7 +434,7 @@
 						(Said
 							'play/[antwerp,monster,creature,bouncer,animal,beast]'
 						)
-						(HighPrint 84 38) ; "The Antwerp plays rough."
+						(HighPrint 84 39) ; "The Antwerp plays rough."
 					)
 				)
 			)
@@ -760,6 +742,9 @@
 					(self changeState: 5)
 				else
 					(NormalEgo)
+					(if (not (IsFlag 253))
+						(gEgo illegalBits: $8040)
+					)
 					(= local4 45)
 					(if (< (gEgo x:) (antwerp x:))
 						(if (> 226 (+ (antwerp x:) local4))
@@ -838,7 +823,7 @@
 			(6
 				(EgoDead ; "The old ticker just couldn't keep going. Maybe you shouldn't have missed the annual visit with your local Healer."
 					84
-					39
+					40
 					82
 					517
 					2
@@ -858,15 +843,15 @@
 		(switch (= state newState)
 			(0
 				(HandsOff)
-				(TimePrint 5 84 40) ; "Cockily, you loosen up to fight."
+				(TimePrint 5 84 41) ; "Cockily, you loosen up to fight."
 				(antwerp setMotion: MoveTo 114 96)
 				(gEgo ignoreActors: setMotion: MoveTo 250 100 self)
 			)
 			(1
 				(gEgo
 					view: 502
-					cel: 0
 					setLoop: (if local11 0 else 2)
+					cel: 0
 					cycleSpeed: 2
 					setCycle: End self
 				)
@@ -912,7 +897,7 @@
 			(7
 				(gEgo
 					cel: 0
-					setLoop: (if local11 4 else 2)
+					setLoop: (if local11 4 else 3)
 					setCycle: End self
 				)
 			)
@@ -923,14 +908,14 @@
 				else
 					(gEgo
 						view: 502
+						setLoop: (if local11 0 else 3)
 						cel: 5
-						setLoop: (if local11 0 else 2)
 						setCycle: Beg self
 					)
 				)
 			)
 			(9
-				(TimePrint 4 84 41) ; "Confident and loose, you approach the Antwerp."
+				(TimePrint 4 84 42) ; "Confident and loose, you approach the Antwerp."
 				(NormalEgo)
 				(gEgo
 					setLoop: 1
@@ -943,8 +928,8 @@
 			(10
 				(gEgo
 					view: 502
-					cel: 0
 					setLoop: (if local11 0 else 2)
+					cel: 0
 					moveSpeed: 0
 					cycleSpeed: 0
 					setCycle: End self
@@ -970,7 +955,7 @@
 				(gEgo cel: 0 setCycle: End self)
 			)
 			(13
-				(gEgo loop: (if local11 1 else 7) cel: 0)
+				(gEgo loop: (if local11 1 else 8) cel: 0)
 				(antwerp setCycle: End setMotion: MoveTo 114 96 self)
 			)
 			(14
@@ -1003,7 +988,7 @@
 			)
 			(18
 				(antwerp setMotion: MoveTo 114 96 self)
-				(gEgo loop: (if local11 1 else 7) cel: 0)
+				(gEgo loop: (if local11 1 else 8) cel: 0)
 			)
 			(18
 				(antSound number: (SoundFX 9) play:)
@@ -1030,16 +1015,19 @@
 			(22
 				(gEgo
 					view: 502
-					cel: (if local11 5 else 2)
 					setLoop: (if local11 0 else 3)
+					cel: (if local11 5 else 2)
 					setCycle: Beg self
 				)
 			)
 			(23
 				(NormalEgo)
+				(if (not (IsFlag 253))
+					(gEgo illegalBits: $8040)
+				)
 				(SetFlag 204)
 				(HandsOn)
-				(TimePrint 3 84 42) ; "Holy Mackerel!"
+				(TimePrint 3 84 43) ; "Holy Mackerel!"
 			)
 		)
 	)
@@ -1095,6 +1083,7 @@
 			)
 			(2
 				(EgoGait 0 0) ; walking
+				(gEgo illegalBits: $8000)
 				(HandsOn)
 				(SolvePuzzle 701 10)
 				(SetFlag 253)
@@ -1123,9 +1112,10 @@
 				(SetFlag 252)
 				(EgoGait 0 0) ; walking
 				(if (< [gEgoStats 17] 50) ; openSpell
-					(HighPrint 84 43) ; "Your spell has unlocked the lock on the rock, but it is not yet powerful enough to open the rock door."
+					(HighPrint 84 44) ; "Your spell has unlocked the lock on the rock, but it is not yet powerful enough to open the rock door."
 					(HandsOn)
 					(NormalEgo)
+					(gEgo illegalBits: $8040)
 					(client setScript: 0)
 				else
 					(rock
@@ -1168,6 +1158,8 @@
 	(method (changeState newState)
 		(switch (= state newState)
 			(0
+				(= local0 0)
+				(SetFlag 204)
 				(antwerp setCycle: End self)
 			)
 			(1
@@ -1181,12 +1173,9 @@
 					setCycle: Beg
 					setMotion: MoveTo 200 -10 self
 				)
-				(= local0 0)
-				(SetFlag 204)
 			)
 			(2
-				(HandsOn)
-				(HighPrint 84 44) ; "You seem to have scared the Antwerp with your behavior."
+				(HighPrint 84 45) ; "You seem to have scared the Antwerp with your behavior."
 			)
 		)
 	)

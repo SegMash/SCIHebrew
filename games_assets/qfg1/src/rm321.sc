@@ -305,7 +305,7 @@
 							)
 						)
 					)
-					((Said 'look>')
+					((Said 'look,search>')
 						(cond
 							((Said '[<at,around][/!*,room,house]')
 								(cond
@@ -650,7 +650,7 @@
 							)
 						)
 					)
-					((Said 'unlock,lockpick/safe,hasp')
+					((Said 'unlock,lockpick,crack/safe,hasp')
 						(cond
 							((not local5)
 								(localproc_0 321 48) ; "Where?"
@@ -690,6 +690,7 @@
 								(NotClose)
 							)
 							(else
+								(ClearFlag 184)
 								(= local6 0)
 								(safeDoor setCel: 0)
 							)

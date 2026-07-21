@@ -253,17 +253,23 @@
 					(Said 'look,read/note,sign,door,shop,shop')
 					(MouseClaimed onBarberNote event 3)
 				)
-				(if (== (gEgo onControl: 1) 4096)
-					(HighPrint 300 14) ; "There's a sign on the door of the barber shop, informing whoever reads it that the barber is out to lunch. The door is locked."
-					(if (> gTimeOfDay 4)
-						(HighPrint 300 15) ; "The barber must keep odd lunch hours."
+				(cond
+					((== (gEgo onControl: 1) 4096)
+						(HighPrint 300 14) ; "There's a sign on the door of the barber shop, informing whoever reads it that the barber is out to lunch. The door is locked."
+						(if (> gTimeOfDay 4)
+							(HighPrint 300 15) ; "The barber must keep odd lunch hours."
+						)
 					)
-				else
-					(HighPrint 300 16) ; "There are signs over each of the buildings informing you of their purpose."
+					((== (event type:) evMOUSEBUTTON)
+						(HighPrint 300 16) ; "There appears to be a note on the door of the barber shop."
+					)
+					(else
+						(HighPrint 300 17) ; "There are signs over each of the buildings informing you of their purpose."
+					)
 				)
 			)
 			((Said 'search/man,meisterson,goon,otto')
-				(HighPrint 300 17) ; "Searching a law enforcer is a bad idea."
+				(HighPrint 300 18) ; "Searching a law enforcer is a bad idea."
 			)
 			(else
 				(switch (event type:)
@@ -273,22 +279,22 @@
 								(cond
 									((& (gEgo onControl: 1) $2000)
 										(if (< gTimeOfDay 4)
-											(HighPrint 300 18) ; "The door appears to be locked, and breaking into the Sheriff's office might evoke the wrath of Otto Von Goon."
+											(HighPrint 300 19) ; "The door appears to be locked, and breaking into the Sheriff's office might evoke the wrath of Otto Von Goon."
 										else
-											(HighPrint 300 19) ; "You'd better not. The Goon would probably try to strangle you with his yo-yo if he thought you were going into the Sheriff's office without permission."
+											(HighPrint 300 20) ; "You'd better not. The Goon would probably try to strangle you with his yo-yo if he thought you were going into the Sheriff's office without permission."
 										)
 									)
 									((& (gEgo onControl: 1) $1000)
-										(HighPrint 300 20) ; "There's a sign on the door of the barber's shop, informing whoever reads it that the barber is out to lunch. The door is locked."
+										(HighPrint 300 21) ; "There's a sign on the door of the barber's shop, informing whoever reads it that the barber is out to lunch. The door is locked."
 										(if (> gTimeOfDay 4)
 											(HighPrint 300 15) ; "The barber must keep odd lunch hours."
 										)
 									)
 									((& (gEgo onControl: 1) $0400)
 										(if (>= gTimeOfDay 6)
-											(HighPrint 300 21) ; "The door is locked."
+											(HighPrint 300 22) ; "The door is locked."
 										else
-											(HighPrint 300 22) ; "Turn around."
+											(HighPrint 300 23) ; "Turn around."
 										)
 									)
 									(else
@@ -298,23 +304,23 @@
 							)
 							((Said 'close,hasp,bar/gate')
 								(if (local2 cel:)
-									(HighPrint 300 23) ; "That's the Sheriff's job."
+									(HighPrint 300 24) ; "That's the Sheriff's job."
 								else
-									(HighPrint 300 24) ; "The gate is already closed."
+									(HighPrint 300 25) ; "The gate is already closed."
 								)
 							)
 							((Said 'open/gate')
 								(if (local2 cel:)
-									(HighPrint 300 25) ; "The town gate is standing wide open, as it does every day."
+									(HighPrint 300 26) ; "The town gate is standing wide open, as it does every day."
 								else
-									(HighPrint 300 26) ; "The sturdy town gate is completely locked and barred, as it is every evening."
+									(HighPrint 300 27) ; "The sturdy town gate is completely locked and barred, as it is every evening."
 								)
 							)
 							((Said 'unlock,unbar/gate')
 								(if (local2 cel:)
-									(HighPrint 300 25) ; "The town gate is standing wide open, as it does every day."
+									(HighPrint 300 26) ; "The town gate is standing wide open, as it does every day."
 								else
-									(HighPrint 300 27) ; "Only the Sheriff can unlock the gate."
+									(HighPrint 300 28) ; "Only the Sheriff can unlock the gate."
 								)
 							)
 							((Said 'look>')
@@ -324,14 +330,14 @@
 											'[<at,around][/!*,street,hamlet,building]'
 										)
 										(if gNight
-											(HighPrint 300 28) ; "Spielburg remains colorful, even at night."
+											(HighPrint 300 29) ; "Spielburg remains colorful, even at night."
 										else
 											(localproc_0)
 										)
 									)
 									((Said '/barbershop,shop[<barber]')
 										(if (> (gEgo x:) 125)
-											(HighPrint 300 29) ; "The Barber Shop appears to be closed. There's a note hanging from the doorknob."
+											(HighPrint 300 30) ; "The Barber Shop appears to be closed. There's a note hanging from the doorknob."
 										else
 											(HighPrint 300 7) ; "You can't see it."
 										)
@@ -349,7 +355,7 @@
 (instance entranceScript of Script
 	(properties)
 
-	(method (changeState newState)
+	(method (changeState newState &tmp [temp0 100])
 		(switch (= state newState)
 			(0
 				(HandsOff)
@@ -378,16 +384,16 @@
 				(gEgo setMotion: MoveTo 187 167 self)
 			)
 			(4
-				(HighPrint 300 30) ; "The man with the pipe greets you."
-				(HighPrint 300 31) ; "Welcome to our town. You are lucky to have made it down from the mountains before the snow blocked the pass again. It's gotten pretty dangerous outside of town, I understand."
-				(HighPrint 300 32) ; "Many monsters have been trapped around here with the late snow. Between them and the brigands, we certainly could use a Hero around here."
-				(HighPrint 300 33) ; "I am Sheriff Schultz Meistersson. This is Otto Von Goon, my assistant. What do you call yourself?"
+				(HighPrint 300 31) ; "The man with the pipe greets you."
+				(HighPrint 300 32) ; "Welcome to our town. You are lucky to have made it down from the mountains before the snow blocked the pass again. It's gotten pretty dangerous outside of town, I understand."
+				(HighPrint 300 33) ; "Many monsters have been trapped around here with the late snow. Between them and the brigands, we certainly could use a Hero around here."
+				(HighPrint 300 34) ; "I am Sheriff Schultz Meistersson. This is Otto Von Goon, my assistant. What do you call yourself?"
 				(HandsOn)
-				(GetInput @global401 50 {од щок?})
+				(GetInput @global401 45 {од щок?})
 				(if (== (StrLen @global401) 0)
-					(Format @global401 300 34) ; "Unknown Hero"
+					(Format @global401 300 35) ; "Unknown Hero"
 				)
-				(HighPrint 300 35 @global401) ; "Good luck in your quest, %s."
+				(HighPrint (Format @temp0 300 36 @global401)) ; "Good luck in your quest, %s."
 			)
 		)
 	)
@@ -395,12 +401,14 @@
 
 (instance sheriff of Act
 	(properties
+		y 128
+		x 152
 		view 300
 		loop 3
+		illegalBits 0
 	)
 
 	(method (init)
-		(self illegalBits: 0)
 		((= local6 (Prop new:))
 			view: 300
 			loop: 5
@@ -452,6 +460,9 @@
 		)
 		(gMouseHandler add: self)
 		(super init:)
+		(if (== gHowFast 0)
+			(self hide:)
+		)
 	)
 
 	(method (handleEvent event)
@@ -462,16 +473,16 @@
 					(Said 'look/deputy,otto,goon,assistant')
 					(MouseClaimed onGoon event 3)
 				)
-				(HighPrint 300 36) ; "There's more than a hint of Ogre about this strange and bulky character. He seems cheerful, though."
+				(HighPrint 300 37) ; "There's more than a hint of Ogre about this strange and bulky character. He seems cheerful, though."
 			)
 			((or (Said 'look/meisterson,man') (MouseClaimed onSheriff event 3))
-				(HighPrint 300 37) ; "Schultz appears to be an affable old coot, content to smoke his pipe. There's a hardness behind his eyes, however, that gives you reason to believe that he's no pushover."
+				(HighPrint 300 38) ; "Schultz appears to be an affable old coot, content to smoke his pipe. There's a hardness behind his eyes, however, that gives you reason to believe that he's no pushover."
 			)
 			((or (Said 'look/yo,yo') (MouseClaimed onYoyo event 3))
-				(HighPrint 300 38) ; "It goes up and down...up and down...up and down...up and down....."
+				(HighPrint 300 39) ; "It goes up and down...up and down...up and down...up and down....."
 			)
 			((or (Said 'look/pipe') (MouseClaimed onPipe event 3))
-				(HighPrint 300 39) ; "The Sheriff's pipe is a truly impressive hand-carved ivory pipe."
+				(HighPrint 300 40) ; "The Sheriff's pipe is a truly impressive hand-carved ivory pipe."
 			)
 			(else
 				(switch (event type:)
@@ -479,14 +490,14 @@
 						(cond
 							((Said 'talk/meisterson,man')
 								(if (gEgo inRect: 100 100 242 171)
-									(HighPrint 300 40) ; "The Sheriff informs you that he's much too busy for idle chit-chat."
+									(HighPrint 300 41) ; "The Sheriff informs you that he's much too busy for idle chit-chat."
 								else
 									(NotClose)
 								)
 							)
-							((Said 'talk/goon,otto,deputy,assistant')
+							((Said 'talk,ask/goon,otto,deputy,assistant')
 								(if (gEgo inRect: 100 100 242 171)
-									(HighPrint 300 41) ; "Otto only expresses himself physically."
+									(HighPrint 300 42) ; "Otto only expresses himself physically."
 								else
 									(NotClose)
 								)
@@ -498,68 +509,68 @@
 								)
 								(= local10 1)
 								(cond
-									((Said '/hamlet')
+									((Said '//hamlet')
 										(= local10 0)
-										(HighPrint 300 42) ; "Just walk around and find out for yourself."
+										(HighPrint 300 43) ; "Just walk around and find out for yourself."
 									)
-									((Said '/hero,adventure,adventuring')
-										(HighPrint 300 43) ; "You'll need to talk to the Baron about that. Or go ask Wolfgang down at the Guild Hall, which is just down the street."
-										(HighPrint 300 44) ; "So maybe you're going to be a hero? Well, we could surely use one around here, what with all the brigands."
+									((Said '//hero,adventure,adventuring')
+										(HighPrint 300 44) ; "You'll need to talk to the Baron about that. Or go ask Wolfgang down at the Guild Hall, which is just down the street."
+										(HighPrint 300 45) ; "So maybe you're going to be a hero? Well, we could surely use one around here, what with all the brigands."
 									)
-									((Said '/bandit,robbery')
-										(HighPrint 300 45) ; "There's a whole band of brigands hiding out somewhere in the mountains around us. They robbed a merchant just last week. Got a fair amount of treasure, I hear."
+									((Said '//bandit,robbery')
+										(HighPrint 300 46) ; "There's a whole band of brigands hiding out somewhere in the mountains around us. They robbed a merchant just last week. Got a fair amount of treasure, I hear."
 									)
-									((Said '/name')
-										(HighPrint 300 46) ; "I am Sheriff Schultz Meistersson, and this is Otto Von Goon, my assistant."
+									((Said '//name')
+										(HighPrint 300 47) ; "I am Sheriff Schultz Meistersson, and this is Otto Von Goon, my assistant."
 									)
-									((Said '/meisterson')
-										(HighPrint 300 47) ; "The Sheriff replies, "Why, that's me!""
+									((Said '//meisterson')
+										(HighPrint 300 48) ; "The Sheriff replies, "Why, that's me!""
 									)
-									((Said '/abdulla')
-										(HighPrint 300 48) ; "The one who was robbed? He's staying at the Inn, I believe."
+									((Said '//abdulla')
+										(HighPrint 300 49) ; "The one who was robbed? He's staying at the Inn, I believe."
 									)
-									((Said '/hotel')
-										(HighPrint 300 49) ; "Go talk to the Innkeeper. He will help you there."
+									((Said '//hotel')
+										(HighPrint 300 50) ; "Go talk to the Innkeeper. He will help you there."
 									)
-									((Said '/hill')
-										(HighPrint 300 50) ; "You should know. You came down from there."
+									((Said '//hill')
+										(HighPrint 300 51) ; "You should know. You came down from there."
 									)
-									((Said '/danger')
-										(HighPrint 300 51) ; "My friend," the Sheriff says, "this world's filled with dangers. Sometimes I think it might be better to choose your danger, rather than sitting around, waiting for it, as I seem to do."
-										(HighPrint 300 52) ; "But enough of this philosophical rambling. I am content enough to be Sheriff of Spielburg."
+									((Said '//danger')
+										(HighPrint 300 52) ; "My friend," the Sheriff says, "this world's filled with dangers. Sometimes I think it might be better to choose your danger, rather than sitting around, waiting for it, as I seem to do."
+										(HighPrint 300 53) ; "But enough of this philosophical rambling. I am content enough to be Sheriff of Spielburg."
 									)
-									((Said '/prisoner')
-										(HighPrint 300 53) ; "It's simple. When somone breaks the law, and we catch them, we hold them prisoner."
+									((Said '//prisoner')
+										(HighPrint 300 54) ; "It's simple. When somone breaks the law, and we catch them, we hold them prisoner."
 									)
-									((Said '/loot')
-										(HighPrint 300 54) ; "Obtaining treasure involves putting yourself in danger. If you're brave, foolish, or lucky, you might get some treasure."
+									((Said '//loot')
+										(HighPrint 300 55) ; "Obtaining treasure involves putting yourself in danger. If you're brave, foolish, or lucky, you might get some treasure."
 									)
-									((Said '/monster')
-										(HighPrint 300 55) ; "The monsters come down from the mountains every winter, but they're usually gone by now. The Baron just doesn't have enough men to handle them."
-										(HighPrint 300 56) ; "Wolfgang is the one to talk to about monsters. He's had a lot of experience with them."
+									((Said '//monster')
+										(HighPrint 300 56) ; "The monsters come down from the mountains every winter, but they're usually gone by now. The Baron just doesn't have enough men to handle them."
+										(HighPrint 300 57) ; "Wolfgang is the one to talk to about monsters. He's had a lot of experience with them."
 									)
-									((Said '/baron,castle')
-										(HighPrint 300 57) ; "Baron Stefan keeps mostly to himself at his castle north of here. We haven't seen him here in town for years."
+									((Said '//baron,castle')
+										(HighPrint 300 58) ; "Baron Stefan keeps mostly to himself at his castle north of here. We haven't seen him here in town for years."
 									)
-									((Said '/abenteuer,master')
-										(HighPrint 300 58) ; "Wolfgang, down at the Guild hall, is the one to talk to about monsters. He's had a lot of experience with them."
+									((Said '//abenteuer,master')
+										(HighPrint 300 59) ; "Wolfgang, down at the Guild hall, is the one to talk to about monsters. He's had a lot of experience with them."
 									)
-									((Said '/goon,otto,deputy,assistant,help')
-										(HighPrint 300 59) ; "Otto is a big help to me," the Sheriff tells you. "He's very smart for a Goon. His prisoners only suffer a few broken bones when he grabs them."
-										(HighPrint 300 60) ; "It took a bit of doing to teach him to bring prisoners back alive, but he hardly ever forgets, now."
+									((Said '//goon,otto,deputy,assistant,help')
+										(HighPrint 300 60) ; "Otto is a big help to me," the Sheriff tells you. "He's very smart for a Goon. His prisoners only suffer a few broken bones when he grabs them."
+										(HighPrint 300 61) ; "It took a bit of doing to teach him to bring prisoners back alive, but he hardly ever forgets, now."
 									)
-									((Said '/labor,(hall[<club,about])')
-										(HighPrint 300 61) ; "The Guild Hall is at the Southwest corner of town. If you're looking for work, that's a good place to go."
+									((Said '//labor,(club[<hall,about])')
+										(HighPrint 300 62) ; "The Guild Hall is at the Southwest corner of town. If you're looking for work, that's a good place to go."
 									)
 									(
 										(Said
-											'/magic,zara,spell,potion,scroll,wand,(shop<magic)'
+											'//magic,zara,spell,potion,scroll,wand,(shop<magic)'
 										)
-										(HighPrint 300 62) ; "Just next to the Inn is a small Magic Shop. The owner, Zara, will let you in if you have some abilities in that area. She's a strange one, all right!"
+										(HighPrint 300 63) ; "Just next to the Inn is a small Magic Shop. The owner, Zara, will let you in if you have some abilities in that area. She's a strange one, all right!"
 									)
-									((Said '/*')
+									((Said '//*')
 										(= local10 0)
-										(HighPrint 300 63) ; "The Sheriff says, "You think I'm going to tell you everything I know about everything? Go look around and find things out for yourself.""
+										(HighPrint 300 64) ; "The Sheriff says, "You think I'm going to tell you everything I know about everything? Go look around and find things out for yourself.""
 									)
 								)
 								(if local10
@@ -583,13 +594,7 @@
 				(local5 hide: stopUpd:)
 				(local6 hide: stopUpd:)
 				(local7 hide: stopUpd:)
-				(sheriff
-					posn: 152 128
-					startUpd:
-					cycleSpeed: 2
-					show:
-					setCycle: End self
-				)
+				(sheriff startUpd: cycleSpeed: 2 show: setCycle: End self)
 			)
 			(1
 				(sheriff setCycle: Beg self)
@@ -745,14 +750,14 @@
 			)
 			(1
 				(NormalEgo)
-				(HighPrint 300 64) ; "However, this was not a good place to sleep. You're stiff and sore all over and your wallet feels very light."
+				(HighPrint 300 65) ; "However, this was not a good place to sleep. You're stiff and sore all over and your wallet feels very light."
 				(= [gInvNum 1] 0) ; silver
 				(= [gInvNum 2] 0) ; gold
 				(HandsOn)
 				(= cycles 2)
 			)
 			(2
-				(HighPrint 300 65) ; "As safe as our streets are, you still should not sleep on them. It is a good way to get robbed."
+				(HighPrint 300 66) ; "As safe as our streets are, you still should not sleep on them. It is a good way to get robbed."
 			)
 		)
 	)

@@ -3,7 +3,6 @@
 (script# 65)
 (include sci.sh)
 (use Main)
-(use Interface)
 (use LoadMany)
 (use RFeature)
 (use Motion)
@@ -132,7 +131,7 @@
 							(HighPrint 65 8) ; "The town gate is wide open. You would look silly climbing the wall."
 						)
 					)
-					((Said 'look/!*')
+					((or (Said 'look<down') (Said 'look[/road,ground,!*]'))
 						(HighPrint 65 9) ; "The road from town branches here. The eastern fork is the road which brought you into this valley."
 					)
 					((Said 'look>')
@@ -147,8 +146,8 @@
 									(HighPrint 65 12) ; "What can be seen of the sky through the trees is bright and clear."
 								)
 							)
-							((or (Said '<down') (Said '/ground,road'))
-								(HighPrint 65 13) ; "Its a road."
+							((Said '/tree')
+								(HighPrint 65 13) ; "You can see pines, cedars, birches and other trees frequently associated with mountain forests."
 							)
 							((Said '/south')
 								(HighPrint 65 14) ; "Heavy forest looms to the south."
@@ -196,6 +195,7 @@
 
 	(method (doit)
 		(cond
+			((== script knifeEgo))
 			(
 				(and
 					local4
@@ -203,7 +203,6 @@
 						(and (<= 162 (gEgo x:) 223) (<= 67 (gEgo y:) 84))
 						(and (<= 100 (gEgo x:) 203) (<= 84 (gEgo y:) 155))
 					)
-					(!= knifeEgo script)
 				)
 				(self setScript: knifeEgo)
 			)
@@ -212,9 +211,9 @@
 					local4
 					(< (gEgo x:) 100)
 					(> (gEgo y:) 84)
-					(!= brunoWines script)
+					(!= whiner script)
 				)
-				(self setScript: brunoWines)
+				(self setScript: whiner)
 			)
 		)
 		(super doit:)
@@ -275,7 +274,7 @@
 						(= local9 1)
 						(bruno setScript: knifeEgo)
 					)
-					((and local7 (Said 'ask/'))
+					((and local7 (Said 'ask'))
 						(if (Random 0 1)
 							(HighPrint 65 24) ; "Give me dough- ya know."
 						else
@@ -286,7 +285,7 @@
 					((Said 'buy/info')
 						(HighPrint 65 26) ; "You had better talk with him and find out how much he wants for his information."
 					)
-					((and (not local8) (Said 'ask/'))
+					((and (not local8) (Said 'ask'))
 						(= local7 1)
 						(HighPrint 65 27) ; "What's in it for me? If ya give me a silver, I might have a bit of info you can use."
 					)
@@ -333,6 +332,7 @@
 						)
 						(if (Purchase 100)
 							(if (= local3 100)
+								(= local6 1)
 								(= local2 1)
 								(HighPrint 65 32) ; "Go south and you'll see a hollow log. Then head west until ya can go south again. Then go east until you can go south again. From there go west. Them brigands just love vistors."
 							else
@@ -346,6 +346,7 @@
 					((or (Said 'pay,give/gold<2') (Said 'pay,give/alm<gold<2'))
 						(if (Purchase 20)
 							(if (== local3 20)
+								(= local6 1)
 								(HighPrint 65 36) ; "I seen her one time yelling out to the house, 'Hut of brown, now sit down.' That's one spooky dame, let me tell you."
 							else
 								(HighPrint 65 33) ; "What's this for?"
@@ -395,6 +396,7 @@
 							)
 							(20
 								(if (Purchase 20)
+									(= local6 1)
 									(HighPrint 65 36) ; "I seen her one time yelling out to the house, 'Hut of brown, now sit down.' That's one spooky dame, let me tell you."
 									(HighPrint 65 37) ; "For ten golds, I'll tell ya where to find some of the robbers what have been robbing people coming into the valley."
 									(= local3 100)
@@ -405,6 +407,7 @@
 							)
 							(100
 								(if (Purchase 100)
+									(= local6 1)
 									(= local2 1)
 									(HighPrint 65 41) ; "Go south and you'll see a hollow log. Then head west until ya can go south again. Then go east until you can go south again. From there, go west. Them brigands just love visitors."
 								else
@@ -414,14 +417,14 @@
 							)
 						)
 					)
-					((Said 'talk,ask/hut,house,chicken,rhyme')
+					((Said 'talk,ask//hut,house,chicken,rhyme')
 						(HighPrint 65 42) ; "For two gold, I'll tell ya how to get into old Baba Yaga's hut."
 						(= local3 20)
 					)
-					((Said 'talk,ask/leader')
+					((Said 'talk,ask//leader')
 						(HighPrint 65 43) ; "Nobody knows much about the leader."
 					)
-					((Said 'talk,ask/bandit')
+					((Said 'talk,ask//bandit,(lair<bandit)')
 						(HighPrint 65 44) ; "For ten gold, I'll tell ya where some of those robbers are that're robbin' folks as they come inta the valley."
 						(= local3 100)
 					)
@@ -429,66 +432,64 @@
 						(if local0
 							(= local0 0)
 							(cond
-								((Said '/name,handle,thief,bruno')
+								((Said '//name,handle,thief,bruno')
 									(= local6 1)
 									(HighPrint 65 45) ; "Just call me Bruno. That was an easy silver."
 								)
-								((Said '/baba,baba,ogress,baba')
+								((Said '//baba,baba,ogress,baba')
 									(= local6 1)
 									(HighPrint 65 46) ; "She's an ugly hag who knows some magic. She lives in a weird house."
 									(HighPrint 65 47) ; "Her place is due west of the Baron's place. Can't miss it. And for two gold, I'll tell ya how to get into her hut."
 									(= local3 20)
 								)
-								((Said '/baron')
+								((Said '//baron')
 									(= local6 1)
 									(HighPrint 65 48) ; "Ya just take the road north from here past the Healer's and go till ya get to his castle."
 								)
-								((Said '/goblin')
+								((Said '//goblin')
 									(= local6 1)
-									(HighPrint 65 49) ; "The little pests are just nothwest of the cemetery. They're a bunch of wimps."
+									(HighPrint 65 49) ; "The little pests are just northwest of the cemetery. They're a bunch of wimps."
 								)
-								((Said '/cemetery')
+								((Said '//cemetery')
 									(= local6 1)
 									(HighPrint 65 50) ; "It's due west of town. Nice place to visit, but I wouldn't want to stay, if ya know what I mean."
 								)
-								((Said '/breath<dragon')
+								((Said '//breath<dragon')
 									(HighPrint 65 51) ; "Everyone loves Dragon's Breath."
 								)
-								((Said '/meisterson,otto')
+								((Said '//meisterson,otto')
 									(HighPrint 65 52) ; "The Sheriff and the goon are pals.  Otto even lives with the Sheriff and his wife."
 								)
-								((Said '/bouncer,bouncer')
+								((Said '//bouncer,bouncer')
 									(HighPrint 65 53) ; "He's a pal of mine. He usually hangs out in the bar. A real sweet guy. Give him a slap on the back for me."
 								)
-								((Said '/password')
+								((Said '//password')
 									(HighPrint 65 54) ; "The thieves' password? Sorry, I can't risk losing my thief license. Chief wouldn't like it if I blabbed that to the likes'a you."
 									(= local0 1)
 								)
-								((Said '/boss')
+								((Said '//boss')
 									(HighPrint 65 55) ; "He's the only one in the valley who can beat me at daggers."
 								)
-								((Said '/healer')
+								((Said '//healer')
 									(HighPrint 65 56) ; "She's got some good potions. Her hut is just to the north of here."
 								)
-								((Said '/warlock')
+								((Said '//warlock')
 									(HighPrint 65 57) ; "He's some kinda magic user. And he laughs alot. That's all I know."
 								)
-								((Said '/antwerp')
+								((Said '//antwerp')
 									(HighPrint 65 58) ; "Hahahaha! Yeh, the antwerp is a good monster for you to fight. It loves to play."
 								)
-								((Said '/monster')
+								((Said '//monster')
 									(HighPrint 65 59) ; "Lots'a monsters in this valley. Most of 'em are wimps, though."
 								)
-								((Said '[/*]')
+								(else
+									(event claimed: 1)
 									(= local0 1)
 									(HighPrint 65 60) ; "Hey, I just know what I know. If you want other info, ask someone else."
 								)
-								(else
-									(Print 65 61) ; "hi"
-								)
 							)
 							(if (and (!= local3 20) (not local0))
-								(HighPrint 65 62) ; "For a gold, well, I can tell where the Thieves' Guild is hidden."
+								(HighPrint 65 61) ; "For a gold, well, I can tell where the Thieves' Guild is hidden."
 								(= local3 10)
 							)
 						else
@@ -501,12 +502,12 @@
 									(HighPrint 65 25) ; "A little silver might loosen my lip."
 								)
 							else
-								(HighPrint 65 63) ; "You talk'n ta me?"
+								(HighPrint 65 62) ; "You talk'n ta me?"
 							)
 						)
 					)
 					((Said '/hello')
-						(HighPrint 65 63) ; "You talk'n ta me?"
+						(HighPrint 65 62) ; "You talk'n ta me?"
 					)
 				)
 			)
@@ -548,7 +549,7 @@
 		(cond
 			((super handleEvent: event))
 			((or (MouseClaimed self event 3) (Said 'look/gate,fence'))
-				(HighPrint 65 64) ; "The town gates are closed and barred at night."
+				(HighPrint 65 63) ; "The town gates are closed and barred at night."
 			)
 		)
 	)
@@ -573,8 +574,8 @@
 	(method (handleEvent event)
 		(cond
 			((super handleEvent: event))
-			((or (MouseClaimed self event 3) (Said 'look/sign,hamlet,board'))
-				(HighPrint 65 65) ; "The carved wooden sign reads "SPIELBURG.""
+			((or (MouseClaimed self event 3) (Said 'look,read/sign,hamlet,board'))
+				(HighPrint 65 64) ; "The carved wooden sign reads "SPIELBURG.""
 			)
 		)
 	)
@@ -606,10 +607,10 @@
 	(method (changeState newState)
 		(switch (= state newState)
 			(0
+				(HandsOff)
 				(bruno setLoop: 5 cel: 0 cycleSpeed: 2 setCycle: CT 4 1 self)
 			)
 			(1
-				(HandsOff)
 				(knife1
 					setLoop: 7
 					illegalBits: 0
@@ -658,7 +659,7 @@
 				(if local9
 					(EgoDead ; "He saw you casting a spell, and he already had a dagger in his hand. It doesn't pay to try to fight someone who uses poisoned daggers."
 						65
-						66
+						65
 						82
 						517
 						2
@@ -669,7 +670,7 @@
 				else
 					(EgoDead ; "It takes too long to draw your weapon against someone with a dagger in his hand. It doesn't pay to try to fight someone who uses poisoned daggers."
 						65
-						67
+						66
 						82
 						517
 						2
@@ -683,7 +684,7 @@
 	)
 )
 
-(instance brunoWines of Script
+(instance whiner of Script
 	(properties)
 
 	(method (changeState newState)
@@ -695,22 +696,22 @@
 			(1
 				(switch local5
 					(0
-						(HighPrint 65 68) ; "Why dontcha leave me alone? I ain't done nothin'."
+						(HighPrint 65 67) ; "Why dontcha leave me alone? I ain't done nothin'."
 					)
 					(1
-						(HighPrint 65 69) ; "Hey, I'm just trying to make a buck. No need to give me a hard time."
+						(HighPrint 65 68) ; "Hey, I'm just trying to make a buck. No need to give me a hard time."
 					)
 					(2
-						(HighPrint 65 70) ; "You look nervous. Why dontcha take a walk and cool off."
+						(HighPrint 65 69) ; "You look nervous. Why dontcha take a walk and cool off."
 					)
 					(3
-						(HighPrint 65 71) ; "Bug off."
+						(HighPrint 65 70) ; "Bug off."
 					)
 					(4
-						(HighPrint 65 72) ; "I think I hear your momma calling you."
+						(HighPrint 65 71) ; "I think I hear your momma calling you."
 					)
 					(5
-						(HighPrint 65 73) ; "Your boot's untied."
+						(HighPrint 65 72) ; "Your boot's untied."
 					)
 					(6
 						(= local5 -1)

@@ -38,7 +38,7 @@
 		(HandsOff)
 		(super init:)
 		(SL enable:)
-		(gEgo view: 800 loop: 0 cel: 2 posn: 160 75 init:)
+		(gEgo view: 301 loop: 5 cel: 6 posn: 160 75 init:)
 		(self setScript: rm302Script)
 	)
 )
@@ -54,7 +54,7 @@
 			(1
 				(EgoSleeps 6 0)
 				(= temp0
-					{ישן בפונדק מעשי הגבורה.\nהשינה מרפאה ומרעננת אותך.}
+					{ישן בפונדק עלילות גיבור.\nהשינה מרפאה ומרעננת אותך.}
 				)
 				(= temp1 (if (< global211 16) 15 else 13))
 				(Display temp0 dsFONT 300 dsWIDTH 200 dsCOORD 80 133 dsCOLOR temp1)

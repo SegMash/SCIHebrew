@@ -43,15 +43,15 @@
 
 (procedure (localproc_0 param1)
 	(if (Purchase param1)
-		(HighPrint 331 67) ; "You thank the bartender and pay him for your beverage."
+		(HighPrint 331 68) ; "You thank the bartender and pay him for your beverage."
 	else
 		(localproc_1)
 	)
 )
 
 (procedure (localproc_1)
-	(HighPrint 331 68) ; "You inform the bartender that you seem to be temporarily strapped for funds."
-	(HighPrint 331 69) ; "He says, "Hey Crusher! Get this deadbeat bum outta here!""
+	(HighPrint 331 69) ; "You inform the bartender that you seem to be temporarily strapped for funds."
+	(HighPrint 331 70) ; "He says, "Hey Crusher! Get this deadbeat bum outta here!""
 	(crusher setScript: (ScriptID 337 0)) ; crusherThrows
 )
 
@@ -88,20 +88,20 @@
 		(crusher init:)
 		(ClearFlag 113)
 		(cond
-			((>= global134 4)
+			((or (>= global134 6) (and (> global134 0) (not (IsFlag 161))))
 				(SetFlag 113)
 			)
 			((IsFlag 261)
-				(= global134 4)
+				(= global134 6)
 				(SetFlag 113)
 			)
-			((IsFlag 235)
+			((and (IsFlag 235) (== global134 3))
+				(= global134 4)
+			)
+			((and (IsFlag 161) (<= global134 1))
 				(= global134 2)
 			)
-			((and (IsFlag 161) (== global134 0))
-				(= global134 1)
-			)
-			(else
+			((== global134 3)
 				(SetFlag 113)
 			)
 		)
@@ -197,7 +197,7 @@
 						(= local2 1)
 						(++ global134)
 						(SolvePuzzle 731 2)
-						(HighPrint 331 1) ; "You pick up and read the note."
+						(HighPrint 331 1) ; "You pick up the note."
 						(rm331Script changeState: 2)
 					)
 				else
@@ -268,7 +268,7 @@
 					(HighPrint 331 13) ; "You'll have to get the bartender's attention first."
 				)
 			)
-			((Said 'order,buy,ask/drink')
+			((or (Said 'order,buy,get/drink') (Said 'ask//drink'))
 				(if local1
 					(if (not (IsFlag 254))
 						(HighPrint 331 14) ; "The bartender bellows, "Sit down first!""
@@ -279,7 +279,7 @@
 					(HighPrint 331 13) ; "You'll have to get the bartender's attention first."
 				)
 			)
-			((Said '[order,buy,ask]/ale')
+			((or (Said '[order,buy,get]/ale') (Said 'ask//ale'))
 				(if local1
 					(cond
 						((not (IsFlag 254))
@@ -298,7 +298,11 @@
 					(HighPrint 331 18) ; "You'll need the bartender's help on that one."
 				)
 			)
-			((Said '[order,buy,ask]/sweat[<troll]')
+			(
+				(or
+					(Said '[order,buy,get]/sweat[<troll]')
+					(Said 'ask//sweat[<troll]')
+				)
 				(if local1
 					(cond
 						((not (IsFlag 254))
@@ -317,7 +321,11 @@
 					(HighPrint 331 20) ; "Sounds potent, but you'd better go see the bartender if you want some."
 				)
 			)
-			((or (Said '[order,buy,ask]/breath[<dragon]') (Said '[order,buy,ask]/dragon[<breath]'))
+			(
+				(or
+					(Said '[order,buy,ask]/breath[<dragon]')
+					(Said '[order,buy,ask]/dragon[<breath]')
+				)
 				(if local1
 					(cond
 						((not (IsFlag 254))
@@ -426,12 +434,19 @@
 				(proc339_1 1 1)
 			)
 			(2
-				(HighPrint 331 34 83) ; "You smooth out the piece of paper and read:"
-				(if (== global134 2)
-					(HighPrint 331 35 83) ; "B. - Meet me at the old archery range south of town at noon -- urgent! - B."
-				else
-					(HighPrint 331 36 83) ; "B. - That new adventurer is getting too nosy. Deal with him. - B."
-					(HighPrint 331 37) ; "Oh, isn't that nice! Sounds like you're going to be invited to a card game."
+				(HighPrint 331 34) ; "You smooth out the piece of paper and read:"
+				(cond
+					((== global134 1)
+						(HighPrint 331 35) ; "B. - He's starting to act suspicious. Better save this drop for emergencies. - B."
+					)
+					((== global134 3)
+						(HighPrint 331 36) ; "B. - Meet me at the old archery range south of town at noon -- urgent! - B."
+					)
+					(else
+						(HighPrint 331 37) ; "B. - That new adventurer is getting too nosy. Deal with him. - B."
+						(HighPrint 331 38) ; "Oh, isn't that nice! Sounds like you're going to be invited to a card game."
+						(= global134 6)
+					)
 				)
 			)
 		)
@@ -492,65 +507,69 @@
 		(switch (event type:)
 			(evMOUSEBUTTON
 				(if (MouseClaimed bartender event 3)
-					(HighPrint 331 38) ; "The bartender looks tough from his crewcut to his boots. The only thing soft about him is his tattoo, which says "MAMA"."
+					(HighPrint 331 39) ; "The bartender looks tough from his crewcut to his boots. The only thing soft about him is his tattoo, which says "MAMA"."
 				)
 			)
 			(evSAID
 				(if local1
 					(cond
-						((Said 'yes')
+						((Said 'yes,please')
 							(if (> local5 0)
-								(HighPrint 331 39) ; "Crusher, escort this squealer off the premises!"
+								(HighPrint 331 40) ; "Crusher, escort this squealer off the premises!"
 								(crusher setScript: (ScriptID 337 0)) ; crusherThrows
 							else
-								(HighPrint 331 40) ; "Yes...what?"
+								(HighPrint 331 41) ; "Yes...what?"
 							)
 						)
 						((Said 'no')
 							(if (> local5 0)
-								(HighPrint 331 41) ; "OK."
+								(HighPrint 331 42) ; "OK."
 							else
-								(HighPrint 331 42) ; "No...what?"
+								(HighPrint 331 43) ; "No...what?"
 							)
 						)
 						((Said 'talk>')
 							(cond
 								((Said '/man,bartender')
-									(HighPrint 331 43) ; "The bartender shows little interest in small talk."
+									(HighPrint 331 44) ; "The bartender shows little interest in small talk."
 								)
 								((Said '/bum,barber')
-									(HighPrint 331 44) ; "The drunken barber at the end of the bar isn't in any shape to talk, at least not coherently."
+									(HighPrint 331 45) ; "The drunken barber at the end of the bar isn't in any shape to talk, at least not coherently."
 								)
 							)
 						)
 						((Said 'ask>')
 							(cond
-								((or (Said '/thief') (Said '/club<thief'))
-									(HighPrint 331 45) ; "Hey! This is an honest establishment! You want me to ask Crusher?"
+								(
+									(or
+										(Said '//thief')
+										(Said '//club<thief[<about]')
+									)
+									(HighPrint 331 46) ; "Hey! This is an honest establishment! You want me to ask Crusher?"
 									(= local5 40)
 								)
-								((Said '/drink,cost')
-									(HighPrint 331 46) ; "We've got some of the finest ale in the valley, only 1 silver."
-									(HighPrint 331 47) ; "Our world-famous Troll's Sweat is always fresh and it's only 5 silvers."
-									(HighPrint 331 48) ; "The Dragon's Breath is our specialty, and it's Crusher's personal favorite. It's very hard to come by, so it'll cost you 25 silver, cash up front."
+								((Said '//drink,cost')
+									(HighPrint 331 47) ; "We've got some of the finest ale in the valley, only 1 silver."
+									(HighPrint 331 48) ; "Our world-famous Troll's Sweat is always fresh and it's only 5 silvers."
+									(HighPrint 331 49) ; "The Dragon's Breath is our specialty, and it's Crusher's personal favorite. It's very hard to come by, so it'll cost you 25 silver, cash up front."
 								)
 								((or (Said '/sweat[<troll,about]') (Said '/troll[<sweat,about]'))
-									(HighPrint 331 47) ; "Our world-famous Troll's Sweat is always fresh and it's only 5 silvers."
+									(HighPrint 331 48) ; "Our world-famous Troll's Sweat is always fresh and it's only 5 silvers."
 								)
-								((Said '/ale')
-									(HighPrint 331 46) ; "We've got some of the finest ale in the valley, only 1 silver."
+								((Said '//ale')
+									(HighPrint 331 47) ; "We've got some of the finest ale in the valley, only 1 silver."
 								)
 								((or (Said '/breath[<dragon,about]') (Said '/dragon[<breath,about]')) 
-									(HighPrint 331 48) ; "The Dragon's Breath is our specialty, and it's Crusher's personal favorite. It's very hard to come by, so it'll cost you 25 silver, cash up front."
+									(HighPrint 331 49) ; "The Dragon's Breath is our specialty, and it's Crusher's personal favorite. It's very hard to come by, so it'll cost you 25 silver, cash up front."
 								)
-								((Said '/mama,tattoo')
-									(HighPrint 331 49) ; "Look buddy...don't get personal!"
+								((Said '//mama,tattoo')
+									(HighPrint 331 50) ; "Look buddy...don't get personal!"
 								)
-								((Said '/bouncer,goon')
-									(HighPrint 331 50) ; "He don't like his personal affairs discussed. My advice is not to do anything that'll get him upset."
+								((Said '//bouncer,goon,ogre')
+									(HighPrint 331 51) ; "He don't like his personal affairs discussed. My advice is not to do anything that'll get him upset."
 								)
-								((Said '/*')
-									(HighPrint 331 51) ; "This is a bar. I serve drinks. You want a drink, order one. You want answers to stupid questions, GET OUT!"
+								((Said '//*')
+									(HighPrint 331 52) ; "This is a bar. I serve drinks. You want a drink, order one. You want answers to stupid questions, GET OUT!"
 								)
 							)
 						)
@@ -570,25 +589,25 @@
 				(cond
 					((Said 'ask>')
 						(cond
-							((Said '/fish,trout,south,lake,river,water')
+							((Said '//fish,trout,south,lake,river,water')
 								(if local4
-									(HighPrint 331 52) ; "The baker says, "There's a lake to the south which has a huge fish, but its pretty dangerous.""
+									(HighPrint 331 53) ; "The baker says, "There's a lake to the south which has a huge fish, but its pretty dangerous.""
 									(= local4 0)
 								else
-									(HighPrint 331 53) ; "The butcher says, "There's a river to the south which has some good-sized trout."
+									(HighPrint 331 54) ; "The butcher says, "There's a river to the south which has some good-sized trout."
 									(= local4 1)
 								)
 							)
-							((Said '/*')
-								(HighPrint 331 54) ; "They don't seem to be paying any attention to you."
+							((Said '//*')
+								(HighPrint 331 55) ; "They don't seem to be paying any attention to you."
 							)
 						)
 					)
 					((Said 'talk/man,man,butcher,baker,player,gambler')
-						(HighPrint 331 55) ; "These guys are so intent on their game that they don't want to open their mouths on any other subject."
+						(HighPrint 331 56) ; "These guys are so intent on their game that they don't want to open their mouths on any other subject."
 					)
 					((Said 'look/card,deck,player,butcher,baker')
-						(HighPrint 331 56) ; "It looks like these guys aren't playing with a full deck."
+						(HighPrint 331 57) ; "It looks like these guys aren't playing with a full deck."
 					)
 				)
 			)
@@ -601,11 +620,11 @@
 				(= cycles (Random 20 40))
 			)
 			(1
-				(HighPrint (Format @temp0 331 57 (Random 1 1000))) ; "Got any %d's?"
+				(HighPrint (Format @temp0 331 58 (Random 1 1000))) ; "Got any %d's?"
 				(= cycles (Random 10 20))
 			)
 			(2
-				(HighPrint 331 58) ; "Go FISH!"
+				(HighPrint 331 59) ; "Go FISH!"
 				(self changeState: 0)
 			)
 		)
@@ -629,7 +648,7 @@
 			((not (gEgo inRect: 0 125 140 170)))
 			((proc802_2 event (Format @temp0 257 global270))
 				(if (and (not [gEgoStats 8]) (not [gEgoStats 9])) ; stealth, pick locks
-					(HighPrint 331 59) ; "The bartender calls to Crusher: "Hey, he's not one of us! Take care of him!""
+					(HighPrint 331 60) ; "The bartender calls to Crusher: "Hey, he's not one of us! Take care of him!""
 					(self setScript: (ScriptID 337 0)) ; crusherThrows
 				else
 					(self setScript: (ScriptID 337 1)) ; crusherEscorts
@@ -637,29 +656,29 @@
 			)
 			((!= (event type:) evSAID))
 			((Said 'show,make/sign[<thief]')
-				(HighPrint 331 60) ; "Oh yeah? What's the password?"
+				(HighPrint 331 61) ; "Oh yeah? What's the password?"
 			)
-			((Said 'ask/thief,club')
-				(HighPrint 331 61) ; "Uh oh! It looks like you got Crusher upset!"
+			((Said 'ask//thief,club')
+				(HighPrint 331 62) ; "Uh oh! It looks like you got Crusher upset!"
 				(self setScript: (ScriptID 337 0)) ; crusherThrows
 			)
 			((Said '[say,give,use]/password')
-				(HighPrint 331 62) ; "Oh yeah? So what is it?"
+				(HighPrint 331 63) ; "Oh yeah? So what is it?"
 			)
 			((Said '[say]/swordfish')
-				(HighPrint 331 63) ; "Good idea, but you're in the wrong movie."
+				(HighPrint 331 64) ; "Good idea, but you're in the wrong movie."
 				(self setScript: (ScriptID 337 0)) ; crusherThrows
 			)
-			((or (Said 'talk/man,goon,bouncer') (Said 'ask/*'))
+			((or (Said 'talk/man,goon,bouncer') (Said 'ask//*'))
 				(switch local6
 					(0
-						(HighPrint 331 64) ; "The goon seems to be ignoring you."
+						(HighPrint 331 65) ; "The goon seems to be ignoring you."
 					)
 					(1
-						(HighPrint 331 65) ; "As you ask him questions, the goon's eyes darken."
+						(HighPrint 331 66) ; "As you ask him questions, the goon's eyes darken."
 					)
 					(2
-						(HighPrint 331 66) ; "Uh oh! It looks like you got Crusher upset!"
+						(HighPrint 331 67) ; "Uh oh! It looks like you got Crusher upset!"
 						(self setScript: (ScriptID 337 0)) ; crusherThrows
 					)
 				)
@@ -756,7 +775,7 @@
 				(= cycles 2)
 			)
 			(8
-				(HighPrint 331 70 83) ; "Whaddaya want?"
+				(HighPrint 331 71) ; "Whaddaya want?"
 				(if (IsFlag 254)
 					(User canInput: 1)
 				else
@@ -764,6 +783,7 @@
 				)
 			)
 			(9
+				(User canInput: 0)
 				(if (== (gEgo loop:) 3)
 					(gEgo loop: 2 cel: 0 stopUpd:)
 					((ScriptID 331 5) show:) ; head
@@ -803,6 +823,7 @@
 						(self cue:)
 					)
 					(3
+						(User canInput: 1)
 						((ScriptID 331 1) setScript: (ScriptID 335 0)) ; DB, breathScript
 					)
 				)
@@ -839,7 +860,8 @@
 					setLoop: (if (== global336 2) 0 else 1)
 					cel: 0
 				)
-				(HighPrint 331 71) ; "There ya go!"
+				(HighPrint 331 72) ; "There ya go!"
+				(User canInput: 1)
 				(if (< global336 3)
 					(switch global336
 						(1
@@ -1022,7 +1044,7 @@
 		(cond
 			((super handleEvent: event))
 			((MouseClaimed onPaper event 3)
-				(HighPrint 331 72) ; "You see a crumpled piece of paper under the stool."
+				(HighPrint 331 73) ; "You see a crumpled piece of paper under the stool."
 			)
 		)
 	)
@@ -1043,7 +1065,7 @@
 				(if (IsFlag 254)
 					(head setCel: 2)
 				)
-				(HighPrint 331 73) ; "The man on the west side of the table is wearing a blood-stained apron, like a butcher."
+				(HighPrint 331 74) ; "The man on the west side of the table is wearing a blood-stained apron, like a butcher."
 			)
 		)
 	)
@@ -1064,7 +1086,7 @@
 				(if (IsFlag 254)
 					(head setCel: 2)
 				)
-				(HighPrint 331 74) ; "The man on the east has on a baker's hat."
+				(HighPrint 331 75) ; "The man on the east has on a baker's hat."
 			)
 		)
 	)
@@ -1082,7 +1104,7 @@
 		(cond
 			((super handleEvent: event))
 			((MouseClaimed onGoon event 3)
-				(HighPrint 331 75) ; "This goon looks really tough and mean. He's not someone to pick a fight with."
+				(HighPrint 331 76) ; "This goon looks really tough and mean. He's not someone to pick a fight with."
 			)
 		)
 	)
@@ -1100,7 +1122,7 @@
 		(cond
 			((super handleEvent: event))
 			((MouseClaimed onTableTop event 3)
-				(HighPrint 331 76) ; "Looks like some kind of card game."
+				(HighPrint 331 77) ; "Looks like some kind of card game."
 			)
 		)
 	)
@@ -1118,7 +1140,7 @@
 		(cond
 			((super handleEvent: event))
 			((MouseClaimed onTrapDoor event 3)
-				(HighPrint 331 77) ; "There appears to be a trapdoor beneath the goon, but he's blocking it very effectively."
+				(HighPrint 331 78) ; "There appears to be a trapdoor beneath the goon, but he's blocking it very effectively."
 			)
 		)
 	)
@@ -1136,7 +1158,7 @@
 		(cond
 			((super handleEvent: event))
 			((MouseClaimed onTableBottom event 3)
-				(HighPrint 331 78) ; "Someone has carved into the bottom of the table " G. MEISTER slept here"."
+				(HighPrint 331 79) ; "Someone has carved into the bottom of the table " G. MEISTER slept here"."
 			)
 		)
 	)
@@ -1157,7 +1179,7 @@
 				(if (IsFlag 254)
 					(head setCel: 1)
 				)
-				(HighPrint 331 79) ; "So this is where the barber goes to lunch! The guy's had so much liquid diet, he looks embalmed."
+				(HighPrint 331 80) ; "So this is where the barber goes to lunch! The guy's had so much liquid diet, he looks embalmed."
 			)
 		)
 	)
@@ -1176,7 +1198,7 @@
 			((super handleEvent: event))
 			((MouseClaimed onStool2 event 3)
 				(if (IsFlag 254)
-					(HighPrint 331 80) ; "Yup, You're sitting on a stool."
+					(HighPrint 331 81) ; "Yup, You're sitting on a stool."
 				else
 					(HighPrint 331 7) ; "Looks like the only place to sit is at the bar."
 				)
@@ -1197,7 +1219,7 @@
 		(cond
 			((super handleEvent: event))
 			((MouseClaimed onStool3 event 3)
-				(HighPrint 331 81) ; "Not a pleasant sight!"
+				(HighPrint 331 82) ; "Not a pleasant sight!"
 			)
 		)
 	)
@@ -1215,7 +1237,7 @@
 		(cond
 			((super handleEvent: event))
 			((MouseClaimed onKeg1 event 3)
-				(HighPrint 331 82) ; "The world-famous Troll's Sweat is always fresh."
+				(HighPrint 331 83) ; "The world-famous Troll's Sweat is always fresh."
 			)
 		)
 	)
@@ -1233,7 +1255,7 @@
 		(cond
 			((super handleEvent: event))
 			((MouseClaimed onKeg2 event 3)
-				(HighPrint 331 83) ; "Dragon's Breath is the house specialty, and it's Crusher's personal favorite."
+				(HighPrint 331 84) ; "Dragon's Breath is the house specialty, and it's Crusher's personal favorite."
 			)
 		)
 	)
@@ -1251,7 +1273,7 @@
 		(cond
 			((super handleEvent: event))
 			((MouseClaimed onKeg3 event 3)
-				(HighPrint 331 84) ; "Some of the finest ale in the valley."
+				(HighPrint 331 85) ; "Some of the finest ale in the valley."
 			)
 		)
 	)
@@ -1269,7 +1291,7 @@
 		(cond
 			((super handleEvent: event))
 			((MouseClaimed onFloor event 3)
-				(HighPrint 331 85) ; "Nothing but a dirty floor."
+				(HighPrint 331 86) ; "Nothing but a dirty floor."
 			)
 		)
 	)

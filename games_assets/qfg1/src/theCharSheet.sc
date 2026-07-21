@@ -9,7 +9,6 @@
 	theCharSheet 0
 )
 
-
 (procedure (localproc_0 &tmp temp0)
 	(for ((= temp0 0)) (< temp0 25) ((++ temp0))
 		(= [gOldStats temp0] [gEgoStats temp0])
@@ -59,7 +58,7 @@
 		nsTop 0
 		nsLeft 0
 		nsBottom 189
-		nsRight 320
+		nsRight 319
 		theWindow 0
 		useWindow 0
 		showBars 0
@@ -88,7 +87,7 @@
 		(super init: &rest)
 		(Load rsVIEW 802)
 		(if useWindow
-			(= theWindow (NewWindow nsTop nsLeft nsBottom nsRight {} 0 15 0 15))
+			(= theWindow (NewWindow nsTop nsLeft nsBottom nsRight {} 0 -1 0 15))
 		)
 		(= temp0 26)
 		(if (!= gHeroType 0) ; Fighter

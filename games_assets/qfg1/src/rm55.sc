@@ -163,6 +163,9 @@
 		)
 		(SL enable:)
 		(NormalEgo)
+		(if (< global211 8)
+			(healerWin color: 0 back: 15)
+		)
 		(bird setScript: preening)
 		(self setScript: egoEnters)
 	)
@@ -265,10 +268,10 @@
 					((Said 'talk,ask>')
 						(= local6 1)
 						(cond
-							((Said '/ring<faerie,faerie')
+							((Said '//ring<faerie,faerie')
 								(HighPrint 55 22) ; "Those fairies are cute, but they play rough!"
 							)
-							((Said '/ring')
+							((Said '//ring')
 								(if (IsFlag 230)
 									(HighPrint 55 23) ; "It is shaped in gold like a braid of the herb Althelas with entwined leaves."
 								else
@@ -276,117 +279,117 @@
 									(HighPrint 55 24) ; "I don't know how I lost it. I hardly ever take it off."
 								)
 							)
-							((Said '/prize')
+							((Said '//prize')
 								(if (IsFlag 230)
 									(HighPrint 55 25) ; "You already have your reward."
 								else
 									(HighPrint 55 26) ; "I will give six golds to the person who returns my ring. It was a gift when I graduated from the college of Healing."
 								)
 							)
-							((Said '/component,material')
+							((Said '//component,material')
 								(HighPrint 55 27) ; "I will pay you for Cheetaur claws, Troll beard, magic mushrooms, and flowers from Erana's Peace."
 							)
-							((Said '/herb')
+							((Said '//herb')
 								(HighPrint 55 28) ; "I use them to make my potions."
 							)
-							((or (Said '/healing<potion') (Said '/healing'))
+							((or (Said '//healing<potion') (Said '//healing') (Said '//heal<potion'))
 								(HighPrint 55 29) ; "This potion is used to heal damage and keep wounds from getting worse. It has gotten pretty dangerous around here, and a Healing Potion can be quite useful in a serious situation."
 							)
-							((Said '/vigor<potion')
+							((Said '//vigor<potion')
 								(HighPrint 55 30) ; "Vigor Potion is used to revitalize yourself after vigorous exercise.  It helps to restore stamina."
 							)
-							((Said '/magic<potion')
-								(HighPrint 55 31) ; "Magic Potions restore the energy needed to cast spells.""
+							((or (Said '//magic<potion') (Said '//power<potion'))
+								(HighPrint 55 31) ; "Magic Potions restore the energy needed to cast spells."
 							)
-							((Said '/disenchant<potion')
+							((Said '//disenchant<potion')
 								(localproc_0)
 							)
-							((or (Said '/healing<potion') (Said '/healing'))
+							((or (Said '//healing<potion') (Said '//healing'))
 								(HighPrint 55 32) ; "I make up potions that heal injuries. I will be happy to sell you a Healing Potion if you like."
 							)
-							((Said '/potion')
+							((Said '//potion')
 								(HighPrint 55 33) ; "I make and sell Healing Potions, Magic Potions, Vigor Potions and Undead Unguent."
 								(localproc_2 55 34) ; "The Potions will cost you:       Healing Potion 40 silvers       Magic Potion 60 silvers       Vigor Potion 20 silvers       Undead Unguent 100 silvers."
 							)
-							((Said '/grease,grease,ghoul')
+							((Said '//grease,grease,ghoul')
 								(HighPrint 55 35) ; "Undead Unguent is used to drive off the minor undead such as zombies or floating spirits. It doesn't last long, so you should use it only when you are anticipating an encounter with such things."
 							)
-							((Said '/zombie')
+							((Said '//zombie')
 								(HighPrint 55 36) ; "There are not too many zombies in this land... too damp, I suppose. There are some floating spirits, I have heard."
 							)
-							((Said '/ghost')
+							((Said '//ghost')
 								(HighPrint 55 37) ; "Floating Spirits are the ghosts which usually hang around graveyards at night. They are dangerous, so don't go near them unless you use Undead Unguent first."
 							)
-							((Said '/stamina')
+							((Said '//stamina')
 								(HighPrint 55 38) ; "Stamina is a measure of the energy the body uses as you work or play."
 							)
-							((Said '/fur')
+							((Said '//fur')
 								(HighPrint 55 39) ; "I've never heard of a monster around here with green fur. Rare things are sometimes by their nature magical."
 							)
 							((or (Said '/faerie,dust') (Said '/faerie[<noword]'))
 								(HighPrint 55 40) ; "Fairy Dust obviously comes from fairies. They dance around mushroom rings when it is night. Fairies are magical beings, so be careful around them."
 							)
-							((Said '/flower')
+							((Said '//flower')
 								(HighPrint 55 41) ; "I use flowers from Erana's Peace to the north in nearly all my potions. They have some of the magic of the place even when they are dried."
 								(if (>= 1 global261)
 									(HighPrint 55 42) ; "I will pay you five silvers for a flask full of flowers."
 								)
 							)
-							((Said '/mushroom')
+							((Said '//mushroom')
 								(HighPrint 55 43) ; "I use the mushrooms from a fairy ring to make Magic Potions."
 								(if (>= 2 global262)
 									(HighPrint 55 44) ; "I will pay you one gold for some."
 								)
 							)
-							((Said '/claw,cheetaur')
+							((Said '//claw,cheetaur')
 								(HighPrint 55 45) ; "The Cheetaur looks like a cross between a panther and a man. It is vicious and tough. Unless you are a very tough fighter, you had best try to get away from it. If you do manage to kill it, then I will pay you five silvers for each claw."
 							)
-							((Said '/beard,troll')
+							((Said '//beard,troll')
 								(HighPrint 55 46) ; "The Trolls around here are tough monsters that cannot stand the light of day and so are found at night or in caves. They are very difficult to kill, but I will pay two healing potions for the beard of a Troll."
 							)
-							((Said '/dryad')
+							((Said '//dryad')
 								(HighPrint 55 47) ; "I have heard that the Dryad of the woods knows a Dispel Potion to disenchant people with spells upon them."
 							)
-							((Said '/water<fly')
+							((Said '//water<fly')
 								(HighPrint 55 48) ; "I'm not sure what kind of water that is."
 							)
-							((Said '/acorn[<magic,about]')
+							((Said '//acorn[<magic,about]')
 								(HighPrint 55 49) ; "The only place you can get a magic acorn from is a Dryad's oak tree."
 							)
-							((Said '/bottle')
+							((Said '//bottle')
 								(HighPrint 55 50) ; "I will pay you one silver for each empty flask you bring me so I can use it for more potions. Waste not, want not, I always say."
 							)
-							((or (Said '/name,handle') (Said '/woman,healer'))
+							((Said '//name,handle,woman,healer')
 								(HighPrint 55 51) ; "Well, my name is Amelia Appleberry, but mostly I am just known as the Healer around here."
 							)
-							((Said '/bird,creature,lizard')
+							((Said '//bird,creature,lizard')
 								(HighPrint 55 52) ; "Oh, that's my pet, Pterry, the pterosaur. He has a girl friend, Pteresa, who has a nest in the oak outside my door. Pterry keeps me company and listens to my chatter as I work."
 							)
-							((Said '/lizard')
+							((Said '//lizard')
 								(HighPrint 55 53) ; "They are a species of flying lizard. I understand they can grow quite large in the south."
 							)
-							((Said '/baron')
+							((Said '//baron')
 								(HighPrint 55 54) ; "Poor man, he hasn't been the same since his son and daughter were taken from him."
 							)
-							((Said '/barnard,barnard')
+							((Said '//barnard,barnard')
 								(HighPrint 55 55) ; "He was just a young dashing man when he last rode off and never returned."
 							)
-							((Said '/elsa,daughter')
+							((Said '//elsa,daughter')
 								(HighPrint 55 56) ; "The dear child, I can still picture her with her beautiful blond hair done up in braids. She was so sweet. It's hard to believe she's gone."
 							)
-							((Said '/bandit')
+							((Said '//bandit')
 								(HighPrint 55 57) ; "Those brutes! I'm always having to heal someone they've beaten up and robbed. I hate thieves and brigands."
 							)
-							((Said '/centaur,farmer,heinrich')
+							((Said '//centaur,farmer,heinrich')
 								(HighPrint 55 58) ; "Would you believe the brigands almost killed him a while back? Fortunately their leader made them bring Heinrich here where I could heal him."
 							)
-							((Said '/(peace<erana),erana')
+							((Said '//(peace<erana),erana')
 								(HighPrint 55 59) ; "Almost due north of here is the meadow called Erana's Peace. It is a very magical area and it is a place of safety. It is beautiful all year, for the flowers are always in bloom."
 							)
-							((Said '/magic')
+							((Said '//mana,magic,power')
 								(HighPrint 55 60) ; "I have the skill to use my magic to create potions. I am a bit proud about it. Not everyone can do that, you know."
 							)
-							((Said '/mandrake,root')
+							((Said '//mandrake,root')
 								(HighPrint 55 61) ; "Mandrake root is used in a variety of spells, mostly for evil purposes. Mandrake must be pulled from a deadman's grave at midnight. The root is particularly powerful."
 							)
 							(else
@@ -399,7 +402,7 @@
 							(SolvePuzzle 668 2)
 						)
 					)
-					((Said 'give,offer,sell,show>')
+					((Said 'give,offer,sell,show,replace>')
 						(cond
 							((or (Said '/ring') (Said '/gold<ring'))
 								(if (gEgo has: 19) ; healer's ring
@@ -464,7 +467,7 @@
 										((< 2 global262)
 											(HighPrint 55 67) ; "Thank you, but I have enough mushrooms."
 										)
-										((IsFlag 174)
+										((IsFlag 148)
 											(HighPrint 55 68) ; "You have ruined the mushrooms with toadstools. I can not buy your mushrooms."
 										)
 										(else
@@ -551,7 +554,7 @@
 										)
 										(= local5 10)
 										(healer setScript: healerPleased)
-										(HighPrint 55 80) ; "Flying Water. how clever."
+										(HighPrint 55 80) ; "Flying Water. How clever."
 										(++ global263)
 										(gEgo use: 29) ; water
 										(SetFlag 222)
@@ -617,7 +620,7 @@
 							((Said '/healing<potion')
 								(localproc_3 34 40)
 							)
-							((Said '/magic<potion')
+							((or (Said '/magic<potion') (Said '/power<potion'))
 								(localproc_3 35 60)
 							)
 							((Said '/grease[<ghost,ghoul]')
