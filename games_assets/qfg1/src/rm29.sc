@@ -145,14 +145,15 @@
 	(method (handleEvent event &tmp temp0 temp1 [temp2 10])
 		(if
 			(and
-				4
+				;4
 				(User canInput:)
 				(not (event claimed:))
 				local10
-				(or
-					(== (event message:) (User echo:))
-					(<= KEY_SPACE (event message:) $007f)
-				)
+				;(or
+				;(== (event message:) (User echo:))
+					;(<= KEY_SPACE (event message:) $007f)
+					;(< (event message:) 0)
+				;)
 			)
 			(event claimed: 1)
 			(if (User getInput: event)
@@ -232,7 +233,7 @@
 												)
 												(proc802_1
 													(User inputLineAddr:)
-													{אשף}
+													{תהילה}
 												)
 											)
 											(askQuestions changeState: 0)
@@ -400,6 +401,10 @@
 													(proc802_1
 														(User inputLineAddr:)
 														{ארנה}
+													)
+													(proc802_1
+														(User inputLineAddr:)
+														{אראנה}
 													)
 												)
 												(askQuestions changeState: 0)
@@ -825,7 +830,7 @@
 								)
 							)
 						else
-							(switch (Random 1 3)
+							(switch (Random 1 2)
 								(1
 									(= local8 1)
 									(localproc_0 4 280 29 41)
@@ -834,10 +839,10 @@
 									(= local8 2)
 									(localproc_0 4 280 29 42)
 								)
-								(3
-									(= local8 3)
-									(localproc_0 4 280 29 43)
-								)
+								;(3
+								;	(= local8 3)
+								;	(localproc_0 4 280 29 43)
+								;)
 							)
 						)
 					)

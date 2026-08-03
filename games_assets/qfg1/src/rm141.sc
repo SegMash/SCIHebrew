@@ -38,7 +38,7 @@
 (instance sonWin of SysWindow
 	(properties
 		color 8
-		title {הבארונט אומר:}
+		title {ֳהבארונט אומר:}
 	)
 
 	(method (open &tmp temp0)
@@ -637,17 +637,17 @@
 					((Said '//baroness,wife')
 						(Say baronTalk 141 40 141 41) ; "My wife has been gone for many years."
 					)
-					((Said '//bandit')
-						(Say baronTalk 141 42 141 43 141 44 141 45) ; "If I had more guards, I would wipe the brigands out myself, now that I have my son at my side."
-					)
 					((Said '//yorick,jester')
 						(Say baronTalk 141 46) ; "Yorick was my court jester, a man of infinite jest. He went off to find my daughter, but alas, poor Yorick never returned."
 					)
 					((Said '//prize')
 						(Say baronTalk 141 47) ; "I have offered substantial rewards for the return of my son and my daughter, as well as for capturing or killing the leader and warlock of the brigands."
 					)
-					((Said '//leader')
+					((or (Said '//leader') (Said '/bandit<leader') (Said '//bandit[<leader]'))
 						(Say baronTalk 141 48 141 49) ; "There have always been brigands around, but until their new leader and the warlock showed up a few years ago, they were not much of a problem."
+					)
+					((Said '//bandit')
+						(Say baronTalk 141 42 141 43 141 44 141 45) ; "If I had more guards, I would wipe the brigands out myself, now that I have my son at my side."
 					)
 					((Said '//warlock')
 						(Say baronTalk 141 50) ; "As if this valley hasn't been plagued with enough evil magic users! From what I have heard, his magic isn't powerful, but he uses it effectively."

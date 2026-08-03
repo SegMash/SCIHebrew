@@ -392,7 +392,7 @@
 					)
 					((Said 'get>')
 						(cond
-							((or (Said '/fur[<green]') (Said '/green<fur'))
+							((or (Said '/fur') (Said '/green<fur'))
 								(if local46
 									(if (== (gEgo onControl: 1) 16384)
 										(gEgo setScript: getThing 0 2)
@@ -532,7 +532,7 @@
 						(= local30 1)
 						(= local43 30)
 						(cond
-							((and local26 (not local28) (Said '/meep<green'))
+							((and local26 (not local28) (Said '//meep<green'))
 								(= local30 0)
 								([local2 3] setScript: bossRises)
 							)
@@ -552,26 +552,26 @@
 									)
 								)
 							)
-							((Said '/boulder')
+							((Said '//boulder')
 								(localproc_0 5 60 33) ; "We use rocks for doors. They keep us dry and warm."
 							)
-							((Said '/meep,creature,animal')
+							((Said '//meep,creature,animal')
 								(localproc_0 5 60 34) ; "We are happy Meeps, living in our happy holes. Don't worry. Be happy!"
 							)
-							((Said '/apple,apple,stuff,junk')
+							((Said '//apple,apple,stuff,junk')
 								([local2 3] setScript: throwThings 0 0)
 							)
-							((Said '/green<fur')
+							((or (Said '//green<fur') (Said '/green<fur'))
 								(if local46
 									(localproc_0 5 60 35) ; "Hey, go ahead, take it. It's yours."
 								else
 									([local2 3] setScript: throwThings 0 2)
 								)
 							)
-							((Said '/fur[<noword]')
+							((Said '//fur')
 								(localproc_0 7 60 36) ; "Hey, like fur is good stuff, keeps us warm. Mine's the best -- it's like green, you know?"
 							)
-							((Said '/scroll,spell,magic,detect')
+							((Said '//scroll,spell,magic,detect')
 								(if local45
 									(localproc_0 5 60 35) ; "Hey, go ahead, take it. It's yours."
 								else

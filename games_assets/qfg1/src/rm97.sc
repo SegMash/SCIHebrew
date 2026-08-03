@@ -603,11 +603,11 @@
 				(= cycles 10)
 			)
 			(1
-				(localproc_0 {Elsa} 97 32)
-				(localproc_0 {Elsa} 97 33)
-				(localproc_0 {Elsa} 97 34)
-				(localproc_0 {Elsa} 97 35)
-				(localproc_0 {Elsa} 97 36)
+				(localproc_0 {אלסה} 97 32)
+				(localproc_0 {אלסה} 97 33)
+				(localproc_0 {אלסה} 97 34)
+				(localproc_0 {אלסה} 97 35)
+				(localproc_0 {אלסה} 97 36)
 				(= cycles 1)
 			)
 			(2
@@ -621,21 +621,21 @@
 				(= local4 1)
 			)
 			(3
-				(localproc_0 {Yorick} 97 37)
-				(localproc_0 {Yorick} 97 38)
-				(localproc_0 {Yorick} 97 39)
+				(localproc_0 {יוריק} 97 37)
+				(localproc_0 {יוריק} 97 38)
+				(localproc_0 {יוריק} 97 39)
 				(= cycles 2)
 			)
 			(4
-				(localproc_0 {Elsa} 97 40)
-				(localproc_0 {Elsa} 97 41)
-				(localproc_0 {Elsa} 97 42)
-				(localproc_0 {Elsa} 97 43)
+				(localproc_0 {אלסה} 97 40)
+				(localproc_0 {אלסה} 97 41)
+				(localproc_0 {אלסה} 97 42)
+				(localproc_0 {אלסה} 97 43)
 				(= cycles 2)
 			)
 			(5
 				(tromp number: (SoundFX 66) init: loop: 4 play:)
-				(localproc_0 {Yorick} 97 44)
+				(localproc_0 {יוריק} 97 44)
 				(= cycles 2)
 			)
 			(6
@@ -682,7 +682,7 @@
 				)
 			)
 			(11
-				(EgoDead 97 46 82 516 0 9 80 {Wearing out your welcome.}) ; "Thinking about all that treasure cost you time and more. Some folks just don't know when to leave."
+				(EgoDead 97 46 82 516 0 9 80 {ומנצלים את הכנסת האורחים}) ; "Thinking about all that treasure cost you time and more. Some folks just don't know when to leave."
 			)
 		)
 	)
@@ -727,7 +727,7 @@
 				(= cycles 1)
 			)
 			(6
-				(EgoDead 97 48 82 503 0 7 80 {One thrust...and that's it???}) ; "The brigand leader is deadly with a sword. The magic spell that possesses her makes her an invincible warrior."
+				(EgoDead 97 48 82 503 0 7 80 {דקירה אחת... וזהו???}) ; "The brigand leader is deadly with a sword. The magic spell that possesses her makes her an invincible warrior."
 			)
 		)
 	)

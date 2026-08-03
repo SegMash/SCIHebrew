@@ -442,15 +442,38 @@
 									(= local81 11)
 									(self setScript: faeryTalk)
 								)
-								((or (Said '/dust[<faerie,about]') (Said '/faerie<dust') (Said '/about<dust'))
-									(if (or local88 (IsFlag 689))
-										(HighPrint 70 6) ; "You know all about it, now."
-									else
-										(localproc_2)
-										(= local107 1)
-										(= local82 (+ (= local80 local98) 22))
-										(= local81 9)
-										(self setScript: faeryTalk)
+								((or (Said '//faerie<dust') (Said '/faerie<dust'))
+								;((Said '//dust[<faerie,about]')
+									;(if (or local88 (IsFlag 689))
+									;	(HighPrint 70 6) ; "You know all about it, now."
+									;else
+									;	(localproc_2)
+									;	(= local107 1)
+									;	(= local82 (+ (= local80 local98) 22))
+									;	(= local81 9)
+									;	(self setScript: faeryTalk)
+									;)
+									(cond
+										((IsFlag 689)
+											(HighPrint 70 12) ; "Don't be greedy. We already gave you some."
+										)
+										(local88
+											(HighPrint 70 13) ; "Perhaps you should be better prepared to get some fairy dust next time."
+										)
+										((not local1)
+											(HighPrint 70 14) ; "Where could you possibly get that?"
+										)
+										((not local3)
+											(HighPrint 70 15) ; "Maybe you should ask the Fairies for some. That would be the polite thing to do."
+										)
+										(else
+											(= local107 1)
+											(= local82
+												(+ (= local80 local98) 22)
+											)
+											(= local81 9)
+											(self setScript: faeryTalk)
+										)
 									)
 								)
 								((Said '//faerie,magic')
