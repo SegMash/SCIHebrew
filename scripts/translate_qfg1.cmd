@@ -20,5 +20,5 @@ REM commands to create mapping file for built-in messages and to replace in gog 
 REM python.exe .\scripts\text\map_files.py .\output_qfg1\built-in-messages.txt .\output_qfg1\built-in-messages_hebrew.txt .\output_qfg1\built-in-mapping.txt
 REM python.exe .\scripts\scripts\replace_strings.py .\qfg1_gog\src .\qfg1_gog\src_heb .\output_qfg1\built-in-mapping.txt
 
-REM makensis.exe .\qfg1_hebrew_patch.nsi
+makensis.exe .\qfg1_hebrew_patch.nsi
 REM powershell -Command "(Get-FileHash -Algorithm MD5 'games_assets\qfg1\bin\font.000').Hash.ToLower()"
