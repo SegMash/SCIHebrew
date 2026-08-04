@@ -155,12 +155,13 @@
 				(= local7 1)
 			)
 			((Said 'help,rule')
-				;(proc341_0)
+				(proc341_0)
 			)
 			(
 				(or
 					(Said 'bet,dagnabit')
 					(Said 'play/!*,game,dagnabit,dagger,dart')
+					(Said 'ask>/game')
 				)
 				(gCurRoom newRoom: 340) ; dagNabIt
 			)
@@ -401,7 +402,7 @@
 							(HighPrint 332 41) ; "We use the specially designed Dag-Nab-It board you can see there on the wall."
 						)
 						((Said '//game,dagnabit,practice,play,rule')
-							;(proc341_0)
+							(proc341_0)
 						)
 						((Said '//bet')
 							(HighPrint 332 42) ; "We could start small, perhaps five silvers a game, perhaps even less. Of course, we can wager more if you think you can take me."

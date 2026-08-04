@@ -120,7 +120,7 @@
 				(gGame restore:)
 			)
 			(516
-				(if (Print 997 3 #button {לשחזר} 1 #button {להמשיך} 0 #icon 800 1 3) ; "You can change your mind  if you have one."
+				(if (Print 997 3 #button {להתחיל מחדש} 1 #button {להמשיך} 0 #icon 800 1 3) ; "You can change your mind  if you have one."
 					(gGame restart:)
 				)
 			)

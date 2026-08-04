@@ -71,15 +71,15 @@
 						@temp0
 						55
 						3
-						(if (IsFlag 218) {} else { \nFairy Dust})
-						(if (IsFlag 219) {} else { \nGreen Fur})
+						(if (IsFlag 218) {} else { \nאבקת פיות})
+						(if (IsFlag 219) {} else { \nפרווה ירוקה})
 						(if (IsFlag 220)
 							{}
 						else
-							{ \nFlowers from Erana's Peace}
+							{ \nפרחים מהשלווה של אירנה}
 						)
-						(if (IsFlag 221) {} else { \nMagic Acorn})
-						(if (IsFlag 222) {} else { \nFlying Water})
+						(if (IsFlag 221) {} else { \nבלוט קסום})
+						(if (IsFlag 222) {} else { \nמים נופלים})
 					)
 				)
 			)
@@ -292,19 +292,19 @@
 							((Said '//herb')
 								(HighPrint 55 28) ; "I use them to make my potions."
 							)
-							((Said '//potion<heal,healing')
+							((or (Said '//healing<potion') (Said '//healing') (Said '//heal<potion'))
 								(HighPrint 55 29) ; "This potion is used to heal damage and keep wounds from getting worse. It has gotten pretty dangerous around here, and a Healing Potion can be quite useful in a serious situation."
 							)
-							((Said '//potion<vigor,stamina')
+							((Said '//vigor<potion')
 								(HighPrint 55 30) ; "Vigor Potion is used to revitalize yourself after vigorous exercise.  It helps to restore stamina."
 							)
-							((Said '//potion<mana,magic,power')
+							((or (Said '//magic<potion') (Said '//power<potion'))
 								(HighPrint 55 31) ; "Magic Potions restore the energy needed to cast spells."
 							)
-							((Said '//potion<disenchant')
+							((Said '//disenchant<potion')
 								(localproc_0)
 							)
-							((Said '//potion<heal,healing')
+							((or (Said '//healing<potion') (Said '//healing'))
 								(HighPrint 55 32) ; "I make up potions that heal injuries. I will be happy to sell you a Healing Potion if you like."
 							)
 							((Said '//potion')
@@ -323,10 +323,10 @@
 							((Said '//stamina')
 								(HighPrint 55 38) ; "Stamina is a measure of the energy the body uses as you work or play."
 							)
-							((Said '//fur')
+							((or (Said '//fur[<green]') (Said '//green<fur') (Said '//fur'))
 								(HighPrint 55 39) ; "I've never heard of a monster around here with green fur. Rare things are sometimes by their nature magical."
 							)
-							((Said '//faerie,dust')
+							((or (Said '//faerie,dust') (Said '//dust[<faerie]') (Said '//faerie<dust') (Said '//faerie[<noword]'))
 								(HighPrint 55 40) ; "Fairy Dust obviously comes from fairies. They dance around mushroom rings when it is night. Fairies are magical beings, so be careful around them."
 							)
 							((Said '//flower')
@@ -350,7 +350,7 @@
 							((Said '//dryad')
 								(HighPrint 55 47) ; "I have heard that the Dryad of the woods knows a Dispel Potion to disenchant people with spells upon them."
 							)
-							((Said '//water<fly')
+							((Said '//fly<water')
 								(HighPrint 55 48) ; "I'm not sure what kind of water that is."
 							)
 							((Said '//acorn[<magic,about]')
@@ -404,7 +404,7 @@
 					)
 					((Said 'give,offer,sell,show,replace>')
 						(cond
-							((Said '/ring')
+							((or (Said '/ring') (Said '/gold<ring'))
 								(if (gEgo has: 19) ; healer's ring
 									(if
 										(>
@@ -510,7 +510,7 @@
 									(DontHave)
 								)
 							)
-							((Said '/dust[<faerie]')
+							((or (Said '/dust[<faerie]') (Said '/faerie<dust'))
 								(if (gEgo has: 28) ; faerie dust
 									(= local5 10)
 									(healer setScript: healerPleased)
@@ -531,7 +531,7 @@
 									(DontHave)
 								)
 							)
-							((Said '/water[<floating]')
+							((or (Said '/water[<floating]') (Said '/floating<water'))
 								(cond
 									((not (gEgo has: 29)) ; water
 										(DontHave)
@@ -563,7 +563,7 @@
 									)
 								)
 							)
-							((Said '/fur')
+							((or (Said '/fur[<green]') (Said '/green<fur'))
 								(if (gEgo has: 27) ; green fur
 									(= local5 10)
 									(healer setScript: healerPleased)
@@ -614,19 +614,19 @@
 							((Said '/potion[<!*]')
 								(HighPrint 55 86) ; "You'll have to be more specific."
 							)
-							((Said '/potion<vigor,stamina')
+							((Said '/vigor<potion')
 								(localproc_3 36 20)
 							)
-							((Said '/potion<heal,healing')
+							((Said '/healing<potion')
 								(localproc_3 34 40)
 							)
-							((Said '/potion<mana,magic,power')
+							((or (Said '/magic<potion') (Said '/power<potion'))
 								(localproc_3 35 60)
 							)
-							((or (Said '/ghoul[<grease]') (Said '/grease'))
+							((Said '/grease[<ghost,ghoul]')
 								(localproc_3 39 100)
 							)
-							((Said '/potion<disenchant')
+							((Said '/disenchant<potion')
 								(localproc_0)
 							)
 							((Said '/bottle')

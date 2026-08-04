@@ -7,6 +7,8 @@ python scripts\text\translate_texts.py c:\devTools\SCICompanion-3.2.4.0\qfg1_rec
 
 python.exe .\scripts\vocab\vocab_import.py output_qfg1 EGA games_assets\qfg1\bin_new
 
+python.exe .\output_qfg1\patch_text_000.py games_assets\qfg1\bin_new\text.000 games_assets\qfg1\bin_new\text.000
+
 copy games_assets\qfg1\bin_new\text.* EGA
 REM copy games_assets\qfg1\bin\script.* EGA
 copy games_assets\qfg1\bin_new\view.* EGA
