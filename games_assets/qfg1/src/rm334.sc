@@ -223,7 +223,7 @@
 						(HandsOff)
 						(self changeState: 7)
 					)
-					((or (Said 'show,make,give/sign[<thief]') (Said 'show,make,give/thief[<sign]'))
+					((Said 'show,make,give/thief[<sign]')
 						(cond
 							(local1
 								(HighPrint 334 19) ; "The thieves seem to be ignoring you."

@@ -623,7 +623,7 @@
 							((or (Said '/magic<potion') (Said '/power<potion'))
 								(localproc_3 35 60)
 							)
-							((Said '/grease[<ghost,ghoul]')
+							((Said '/ghost,ghoul[<grease]')
 								(localproc_3 39 100)
 							)
 							((Said '/disenchant<potion')
