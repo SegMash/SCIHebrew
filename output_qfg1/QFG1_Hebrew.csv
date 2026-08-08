@@ -102,7 +102,7 @@ Yep, it is. ","אתה ממשמש בכיסיך בחשש שמא הכסף נעלם ואיננו.
 120,1,18,0,1,99,127,32,127,You remain amazed at the number and versatility of the little gimcracks and thingamabobs inside your thief's tool kit.,אתה קופא בתדהמה מול מספרם ורבגוניותם של מיני הסדקית והמה-שמם הגודשים את ערכת הגנבים שלך.,
 120,1,19,0,1,99,127,32,127,The picture on your thief's license doesn't look a bit like you.,התמונה המתנוססת על רישיון הגנב שלך אינה דומה לך בכהוא זה.,
 120,1,47,0,1,99,127,32,127,"You try on the troll beard, but the goat-like smell convinces you to remain clean-shaven for a while. ","אתה מודד את זקן הטרול, אולם צחנת העיזים העזה משכנעת אותך להישאר מגולח למשעי בתקופה הקרובה.",
-120,1,41,0,1,99,127,32,127,The vase makes an even worse hat than the candelabra.,כובע האגרטל נראה עליך אפילו יותר גרוע ממנורת הקנים.,
+120,1,41,0,1,99,127,32,127,The vase makes an even worse hat than the candelabra.,כובע האגרטל נראה עליך אפילו יותר גרוע מחנוכיה.,
 120,1,33,0,1,99,127,32,127,"You eat some vegetables.  You think they would have been better saved for cows or horses.
 Real Heroes eat preserved dry rations.",אתה בולס כמה ירקות. חולף בך הרהור כי מוטב לשמור אותם לפרות ולסוסים. גיבורים אמיתיים אוכלים מזון משומר יבש.,"שיניתי ללשמור אותם, לשומרם קצת רשמי ומוזר"
 120,1,2,0,1,99,127,186,127,"Mumble, mumble... overworked... mumble... underpaid... mumble, mumble... no control over my life... ",פטפוט שמפטפוט... עובד קשה מדי... פטפוט... לא משלמים לי מספיק על זה... שמפטפוט... לא שולט בחיים שלי...,
@@ -115,7 +115,7 @@ Real Heroes eat preserved dry rations.",אתה בולס כמה ירקות. חולף בך הרהור כי מוט
 121,1,12,0,1,99,89,111,117,"Aggressive, aren't you?","נהיית לנו אגרסיבי, אה?",
 121,1,17,0,1,99,119,97,110,"Picky, picky, picky.","בררן, בררן, בררן.",
 121,1,26,0,1,99,32,116,104,"You fought so hard for this key, you just can't bear to part with it.","נלחמת בעוז למען המפתח הזה, אתה פשוט לא מסוגל להיפרד ממנו.",
-121,1,42,0,1,99,108,108,101,"You might be able to get some money for the candelabra, but, other than that, it's useless.","יתכן שתקבל כמה פרוטות תמורת מנורת הקנים, אבל, פרט לכך, היא חסרת כל ערך.",
+121,1,42,0,1,99,108,108,101,"You might be able to get some money for the candelabra, but, other than that, it's useless.","יתכן שתקבל כמה פרוטות תמורת חנוכיה, אבל, פרט לכך, היא חסרת כל ערך.",
 13,1,1,0,1,99,69,69,67,There is a cave entrance large enough to admit a man.,יש פתח במערה שגדול מספיק למעבר אדם.,"זו לא ממש המשמעות, אפשר לשנות ל""יש פתח במערה שגדול מספיק למעבר אדם."""
 13,2,42,1,1,99,42,67,67,It's already closed.,זה כבר פתוח.,
 13,2,44,1,1,99,66,67,66,It's already closed.,זה כבר פתוח.,
@@ -695,7 +695,7 @@ It's a good idea.","הי, דרך אגב... אתם תזדקקו למידע הכלול במסמך המודפס על מנת לה
 206,3,0,0,25,99,101,102,47,You pick up your %s.,אתה אוסף את %s שלך.,
 206,3,42,0,1,99,108,97,110,candelabra,מנורת קנים,יחיד לא מיודע
 ,,,1,,,,,,,מנורות קנים,רבים לא מיודע
-,,,2,,,,,,,מנורת הקנים,יחיד מיודע
+,,,2,,,,,,,חנוכיה,יחיד מיודע
 ,,,3,,,,,,,מנורות הקנים,רבים מיודע
 206,3,44,0,1,99,109,0,48,pair of candlesticks,זוג פמוטים,יחיד לא מיודע
 ,,,1,,,,,,,זוגות פמוטים,רבים לא מיודע
@@ -2401,7 +2401,7 @@ Inquire at Spielburg Castle gates.""","נראה שמודעה זו תלויה פה כבר זמן מה. תמונת
 320,12,0,0,2,99,152,25,82,Square stones make up the walkway.,אבנים מרובעות מהוות שביל קטן.,
 320,13,1,0,1,99,177,25,80,It is a simple but prosperous-looking general store.  It looks like it might provide some staples that would prove useful to a traveler (such as if an adventuring party asks you to join them).,זאת חנות מכולת פשוטה למראה אך נראה כי בעליה עושה חיל. ניתן להשיג בה מגוון סיכות העשויות להועיל לנווד המצוי (כגון כאלה עם פרסומות למפלגת ההרפתקנות).,
 320,14,1,0,1,99,21,26,203,You can see very little through the window.,אפשר לראות מעט מאוד דרך החלון.,
-321,1,1,0,1,99,0,32,105,The candelabra looks like it is made of solid gold.,נראה שמנורת הקנים עשוייה זהב טהור.,
+321,1,1,0,1,99,0,32,105,The candelabra looks like it is made of solid gold.,נראה שחנוכיה עשוייה זהב טהור.,
 321,2,1,0,1,99,97,110,100,Only the Shadow knows for sure.,,
 321,3,1,1,1,99,32,97,110,Looks like solid oak.,נראה כמו עץ אלון.,
 321,3,1,2,1,99,101,108,108,You've looked in there already.,כבר הסתכלת שם.,
@@ -2445,7 +2445,7 @@ Inquire at Spielburg Castle gates.""","נראה שמודעה זו תלויה פה כבר זמן מה. תמונת
 321,15,0,0,16,99,24,7,32,You've already robbed the desk.,כבר שדדת את שולחן הכתיבה.,
 321,15,0,0,17,99,31,7,111,"You'd better shut the safe, first.",קודם כל סגור את הכספת.,
 321,15,0,0,18,99,39,7,32,You place the vase carefully in your pack beneath your cape.,אתה מניח את האגרטל בזהירות בין חפציך מתחת לשכמייתך.,
-321,15,0,0,19,99,46,7,101,You place the candelabra carefully in your pack beneath your cape.,אתה מניח את מנורת הקנים בזהירות בין חפציך מתחת לשכמייתך.,
+321,15,0,0,19,99,46,7,101,You place the candelabra carefully in your pack beneath your cape.,אתה מניח את חנוכיה בזהירות בין חפציך מתחת לשכמייתך.,
 321,15,0,0,20,99,52,7,102,You quickly toss the box into your pack.,אתה תוחב את התיבה בחופזה אל תוך תרמילך.,
 321,15,0,0,21,99,59,7,104,"There is some fairly loud snoring going on in this room. You hear:
 ""Brckawwwww...zup-zup-zup-zup-zzzzz.""","סדרת נחירות קולנית מתחוללת שם בחדר. אתה שומע: ""ברקההההה... זפ-זפ-זפ-זפ-זזזזז.""",
@@ -2461,7 +2461,7 @@ Inquire at Spielburg Castle gates.""","נראה שמודעה זו תלויה פה כבר זמן מה. תמונת
 321,15,0,9,1,99,198,9,1,Otto stares sleepily at the closed music box for a moment and heads back to bed.,לרגע קט אוטו נועץ מבט בעיניים רדומות בתיבת הנגינה הסגורה וחוזר לישון.,
 321,15,0,10,1,99,236,9,1,Cracking safes looked a lot easier in the instruction book.,פריצת כספות נראתה הרבה יותר פשוטה בחוברת ההדרכה.,
 321,15,0,11,1,99,25,10,1,You see a bag of coins.,אתה רואה שקיק מטבעות.,
-321,15,1,0,1,99,123,10,1,The room is dark and still.  The candelabra looks like it is made of gold. The vase on the mantle might be worth taking.  There is also an odd little box on the table.,החדר חשוך ודומם. מנורת הקנים נראית כאילו היא עשויה זהב. האגרטל על המדף עושה רושם ששווה להסתכן למענו. תיבת נגינה משונה מונחת על השולחן.,
+321,15,1,0,1,99,123,10,1,The room is dark and still.  The candelabra looks like it is made of gold. The vase on the mantle might be worth taking.  There is also an odd little box on the table.,החדר חשוך ודומם. חנוכיה נראית כאילו היא עשויה זהב. האגרטל על המדף עושה רושם ששווה להסתכן למענו. תיבת נגינה משונה מונחת על השולחן.,
 321,15,4,0,1,99,205,10,1,"Naw, don't do that.","לא, אל תעשה את זה.",
 321,16,1,4,1,99,12,11,1,"It looks very sturdy, indeed.","היא נראית עמידה מאוד, ללא ספק.",
 321,16,1,5,1,99,132,11,1,There is an empty coin bag in the safe.,בתוך הכספת ישנו שקיק מטבעות ריק.,
@@ -4581,7 +4581,7 @@ What do you mean, ""Restore WHAT game?""","זה היה קרב קשה, ואתה הפסדת. אל חשש! כ
 815,1,0,30,1,99,47,32,47,Those guys look familiar.,החבר'ה האלה נראים מוכרים.,
 815,1,0,31,1,99,112,32,32,Done in by poisoned daggers and desperate desperadoes!  Try to avoid annoying that deadly duo next time.,בוצע על ידי פגיונות מורעלים ופושעים נואשים! בפעם הבאה תנסה לא לעצבן את הצמד הקטלני הזה.,
 815,1,0,32,1,99,32,32,32,Timing is everything.,עיתוי זה הכול בחיים.,
-815,1,0,33,1,99,127,32,127,Whoops!  Who'd have thought that guys that look that stupid could figure out to go around the table beFORE they ran all the way up to the fallen candelabra.,אופס! מי היה מאמין שהחבר'ה הפסיכים האלה מסוגלים להבין איך לעקוף את השולחן לפני שהם רצים ישירות אל זרועותיה של מנורת הקנים הקורסת.,
+815,1,0,33,1,99,127,32,127,Whoops!  Who'd have thought that guys that look that stupid could figure out to go around the table beFORE they ran all the way up to the fallen candelabra.,אופס! מי היה מאמין שהחבר'ה הפסיכים האלה מסוגלים להבין איך לעקוף את השולחן לפני שהם רצים ישירות אל זרועותיה של חנוכיה הקורסת.,
 815,1,0,34,1,99,32,110,32,Timing is everything.,עיתוי זה הכול בחיים.,
 815,1,0,35,1,99,32,220,112,Hmm...  Maybe letting the brigands see you block the door with the chair wasn't a good idea.,הממ... אולי זה לא היה רעיון טוב לתת לשודדים לראות איך אתה חוסם את הדלת עם הכסא.,
 815,1,0,36,1,99,127,32,127,One peek is worth two finesses.,הצצה אחת שווה שני קנסות.,הצצה אחת שווה שתי... ???
@@ -5151,8 +5151,8 @@ You wake up dead.",אתה מצטנף ותופס תנומה קלה. השודדים פורצים את הדלת. אתה מתעורר
 95,11,4,0,1,99,0,0,0,Leave the rope alone for now.  It's serving a very important function by holding up the chandelier.,הנח לחבל לעת עתה. הוא עושה את תפקידו נאמנה ומחזיק את הנברשת.,
 95,11,1,0,1,99,119,149,119,The rope holds up the chandelier.  It's used to lower the chandelier so that it can be lit.,החבל מחזיק את הנברשת. באמצעותו מנמיכים את הנברשת על מנת להדליק את נרותיה.,
 95,12,1,0,1,99,166,166,166,"Most of the tables are grimy with dried beer and such.  The head table, though, is clean. ","מרבית השולחנות דביקים מבירה יבשה וכדומה. השולחן המרכזי, לעומת זאת, נקי לחלוטין.",
-95,3,4,0,1,99,0,0,0,You begin toppling the candelabra.,אתה מתחיל להפיל את מנורת הקנים.,
-95,3,4,1,1,99,0,166,166,The candelabra has already fallen.,מנורת הקנים כבר נפלה מזמן.,
+95,3,4,0,1,99,0,0,0,You begin toppling the candelabra.,אתה מתחיל להפיל את חנוכיה.,
+95,3,4,1,1,99,0,166,166,The candelabra has already fallen.,חנוכיה כבר נפלה מזמן.,
 95,3,1,0,1,99,166,166,166,Sturdy-looking device for holding candles.,מעמד נרות חסון ויציב.,
 96,1,4,0,1,99,127,205,127,You can't get that from where you're standing.,אינך יכול לעשות זאת מהמקום שבו אתה עומד.,
 96,1,1,0,1,99,127,205,127,"In the ""upstairs"" doorway, there is a chain with a handle attached.","בדלת ""הקומה העליונה"", ישנה שרשרת עם ידית מחוברים להם יחדיו.",
@@ -5301,7 +5301,7 @@ You wake up dead.",אתה מצטנף ותופס תנומה קלה. השודדים פורצים את הדלת. אתה מתעורר
 97,14,0,7,3,27,0,0,0,"""Thank you so much for freeing me.""","""תודה רבה לך על ששחררת אותי.""",
 97,14,0,7,4,27,0,0,0,"""I've got to hurry home to father and get his guards to capture the rest of the brigands before they manage to escape with the treasure. It must be returned to the rightful owners.""","""אמהר הביתה אל אבא ואצא בראש שומריו ללכוד את השודדים בטרם יספיקו לברוח עם אוצרותיהם. חובה להחזירם לבעליהם החוקיים.""",
 97,14,0,7,5,27,0,0,0,"""Yorick!  Yorick!  I'm me again!""","""יוריק! יוריק! חזרתי לעצמי!""",
-97,14,0,7,6,31,0,0,0,"""Sorry I took so long.  I got lost.""","""מצטערת שזה לקח כל כך הרבה זמן. איבדתי את צלילות דעתי.""",
+97,14,0,7,6,31,0,0,0,"""Sorry I took so long.  I got lost.""","""מצטער שזה לקח כל כך הרבה זמן. איבדתי את צלילות דעתי.""",
 97,14,0,7,7,31,0,0,0,"""Will your Dad be glad that your spell's been repelled!  We need to go before the brigands know or they'll spoil our show.""","""אביך יהיה כל כך מאושר שקללתך נהדפה לאחור! עלינו למהר בטרם ישמעו השודדים ויהפכו לאבל מחולנו.""",
 97,14,0,7,8,31,0,0,0,"""C'mon!  We'd better make our getaway before they get in our way.""","""קדימה! כדאי שנימלט על נפשנו בטרם ינסו השודדים לחסום את דרכנו.""",
 97,14,0,7,9,27,0,0,0,"""Yorick and I can return to the castle with the amulet I wear, but I'm afraid you'll have to get there on your own.""","""אני ויוריק יכולים לחזור לטירה בעזרת הקמע שאני עונדת, אך אתה, חוששני, תיאלץ להגיע לשם בכוחות עצמך.""",
